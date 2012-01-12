@@ -4566,7 +4566,7 @@ msgstr "Глупец, или доведенная до отчаяния кучк
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:337
 msgid "Casting fire is the least of the Ruby's abilities. You are twice a fool, for having failed to plumb more than its most trivial use and for having given it away."
-msgstr "Бростаться огнём это самая малая из способностей Рубина. Вы дважды глупцы, что не дошли до более чем самое тривиальное его применение и за то что отдали его.Бростаться огнём это самая малая из способностей Рубина. Вы дважды глупцы, что не дошли до более чем самое тривиальное его применение и за то что отдали его."
+msgstr "Бростаться огнём это самая малая из способностей Рубина. Вы дважды глупцы, что не дошли до более чем самое тривиальное его применение и за то что отдали его."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:341

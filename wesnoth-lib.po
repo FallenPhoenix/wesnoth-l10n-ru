@@ -3208,7 +3208,7 @@ msgstr "Клавиша '$key' устарела и будет удалена в �
 
 #: src/wml_exception.cpp:130
 msgid "The key '$deprecated_key' has been renamed to '$key'. Support for '$deprecated_key' will be removed in version $removal_version."
-msgstr "Клавиша '$deprecated_key' переименована в '$key'. Она будет удалена в версии $removal_version.Клавиша '$deprecated_key' переименована в '$key'. Она будет удалена в версии $removal_version."
+msgstr "Клавиша '$deprecated_key' переименована в '$key'. Она будет удалена в версии $removal_version."
 
 #. [label]: id=lblTitle
 #: data/gui/default/window/data_manage.cfg:50

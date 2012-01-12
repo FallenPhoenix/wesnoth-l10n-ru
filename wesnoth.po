@@ -1757,7 +1757,7 @@ msgid ""
 "Behavior: $ai_controller.side_$ally_side|_current_settings.currently_doing_behavior_description"
 msgstr ""
 "Цель: $ai_controller.side_$ally_side|_current_settings.currently_doing_objective_description\n"
-"Поведение: $ai_controller.side_$ally_side|_current_settings.currently_doing_behaviour_description"
+"Поведение: $ai_controller.side_$ally_side|_current_settings.currently_doing_behavior_description"
 
 #: data/core/macros/ai_controller.cfg:981
 msgid "Special: $ai_controller.side_$ally_side|_current_settings.currently_doing_special_description"
@@ -2324,7 +2324,7 @@ msgstr "(D) — отладочная команда, (N) — сетевая ко
 
 #: src/menu_events.cpp:2154
 msgid "Type $help_command <command> for more info."
-msgstr "введите $held_command <команда>, чтобы получить больше информации"
+msgstr "введите $help_command <команда>, чтобы получить больше информации"
 
 
 # Добавляется в конец описания всех отладочных команд.
