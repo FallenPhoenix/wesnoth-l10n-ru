@@ -29,8 +29,8 @@ msgstr ""
 "X-Poedit-Language: Russian\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
 
 #. [brush]
 #: data/core/editor/brushes.cfg:5
@@ -126,47 +126,31 @@ msgstr "особое"
 #. [editor_tool_hint]: id=editor-tool-fill
 #. [menu]: id=draw_button_editor
 #. [menu]: id=flood_button_editor
-#: data/core/editor/tool-hints.cfg:7 data/core/editor/tool-hints.cfg:13
-#: data/themes/editor.cfg:181 data/themes/editor.cfg:194
-msgid ""
-"Use left/right mouse button to draw fore-/background terrain. Hold Shift to "
-"paint base layer only. Ctrl+click to sample terrain under cursor."
-msgstr ""
-"Используйте левую (правую) кнопку мышки, чтобы рисовать основной "
-"(дополнительный) ландшафт. Удерживайте Shift, чтобы рисовать только на "
-"базовом слое. Ctrl+клик включает выделенный курсором ландшафт."
+#: data/core/editor/tool-hints.cfg:7
+#: data/core/editor/tool-hints.cfg:13
+#: data/themes/editor.cfg:181
+#: data/themes/editor.cfg:194
+msgid "Use left/right mouse button to draw fore-/background terrain. Hold Shift to paint base layer only. Ctrl+click to sample terrain under cursor."
+msgstr "Используйте левую (правую) кнопку мышки, чтобы рисовать основной (дополнительный) ландшафт. Удерживайте Shift, чтобы рисовать только на базовом слое. Ctrl+клик включает выделенный курсором ландшафт."
 
 #. [editor_tool_hint]: id=editor-tool-select
 #. [menu]: id=select_button_editor
-#: data/core/editor/tool-hints.cfg:19 data/themes/editor.cfg:216
-msgid ""
-"Left mouse button selects, right deselects. Hold Shift for magic-wand "
-"selection of tiles with same terrain."
-msgstr ""
-"Выбирайте левой кнопкой мыши, отменяйте выбор правой. Shift — «волшебная "
-"палочка», она выбирает клетки с одинаковым ландшафтом."
+#: data/core/editor/tool-hints.cfg:19
+#: data/themes/editor.cfg:216
+msgid "Left mouse button selects, right deselects. Hold Shift for magic-wand selection of tiles with same terrain."
+msgstr "Выбирайте левой кнопкой мыши, отменяйте выбор правой. Shift — «волшебная палочка», она выбирает клетки с одинаковым ландшафтом."
 
 #. [editor_tool_hint]: id=editor-tool-starting-position
 #. [menu]: id=start_position_button_editor
-#: data/core/editor/tool-hints.cfg:25 data/themes/editor.cfg:205
-msgid ""
-"Left mouse button displays player selection, right clears. Number keys "
-"scroll to the starting position, alt+number sets respective starting "
-"position under cursor, delete clears."
-msgstr ""
-"Левая кнопка мышки выбирает игрока, права стирает. Цифровые клавиши "
-"перемещают к начальным позициям, Alt+цифровая клавиша устанавливает "
-"соответствующую начальную позицию под курсором, Delete стирает."
+#: data/core/editor/tool-hints.cfg:25
+#: data/themes/editor.cfg:205
+msgid "Left mouse button displays player selection, right clears. Number keys scroll to the starting position, alt+number sets respective starting position under cursor, delete clears."
+msgstr "Левая кнопка мышки выбирает игрока, права стирает. Цифровые клавиши перемещают к начальным позициям, Alt+цифровая клавиша устанавливает соответствующую начальную позицию под курсором, Delete стирает."
 
 #. [editor_tool_hint]: id=editor-paste
 #: data/core/editor/tool-hints.cfg:30
-msgid ""
-"Click to paste, zoom out for more accuracy when pasting large areas. Use the "
-"edit menu to transform the clipboard (rotate, mirror)."
-msgstr ""
-"Кликните мышкой для вставки. Когда вставляете большие области, увеличьте "
-"масштаб для большей точности. Используйте меню «Правка», чтобы изменить "
-"(повернуть, отразить) буфер обмена."
+msgid "Click to paste, zoom out for more accuracy when pasting large areas. Use the edit menu to transform the clipboard (rotate, mirror)."
+msgstr "Кликните мышкой для вставки. Когда вставляете большие области, увеличьте масштаб для большей точности. Используйте меню «Правка», чтобы изменить (повернуть, отразить) буфер обмена."
 
 #. [menu]: id=menu-editor-file
 #: data/themes/editor.cfg:122
@@ -201,7 +185,8 @@ msgstr "Выход из редактора"
 msgid "Fatal error"
 msgstr "Критическая ошибка"
 
-#: src/editor/editor_controller.cpp:311 src/editor/editor_controller.cpp:1096
+#: src/editor/editor_controller.cpp:311
+#: src/editor/editor_controller.cpp:1096
 msgid "(New Map)"
 msgstr "(Новая карта)"
 
@@ -210,20 +195,12 @@ msgid "Do you really want to quit?"
 msgstr "Действительно хотите выйти?"
 
 #: src/editor/editor_controller.cpp:319
-msgid ""
-"Do you really want to quit? Changes in the map since the last save will be "
-"lost."
-msgstr ""
-"Действительно хотите выйти? Вы потеряете все изменения, которые внесли с "
-"последнего сохранения."
+msgid "Do you really want to quit? Changes in the map since the last save will be lost."
+msgstr "Действительно хотите выйти? Вы потеряете все изменения, которые внесли с последнего сохранения."
 
 #: src/editor/editor_controller.cpp:321
-msgid ""
-"Do you really want to quit? The following maps were modified and all changes "
-"since the last save will be lost:"
-msgstr ""
-"Действительно хотите выйти? У вас есть несохранённые карты, все изменения в "
-"них будут утрачены:"
+msgid "Do you really want to quit? The following maps were modified and all changes since the last save will be lost:"
+msgstr "Действительно хотите выйти? У вас есть несохранённые карты, все изменения в них будут утрачены:"
 
 #: src/editor/editor_controller.cpp:326
 msgid "Quit"
@@ -234,11 +211,8 @@ msgid "No editor time-of-day found."
 msgstr "Редактор времени суток не найден."
 
 #: src/editor/editor_controller.cpp:412
-msgid ""
-"Do you want to discard all changes you made to the map since the last save?"
-msgstr ""
-"Вы правда хотите сбросить все изменения, которые внесли с последнего "
-"сохранения карты?"
+msgid "Do you want to discard all changes you made to the map since the last save?"
+msgstr "Вы правда хотите сбросить все изменения, которые внесли с последнего сохранения карты?"
 
 #: src/editor/editor_controller.cpp:412
 msgid "Unsaved Changes"
@@ -260,7 +234,8 @@ msgstr "Файл уже существует. Хотите перезаписа�
 msgid "No random map generators found."
 msgstr "Генераторы случайных карт не найдены."
 
-#: src/editor/editor_controller.cpp:501 src/editor/editor_controller.cpp:505
+#: src/editor/editor_controller.cpp:501
+#: src/editor/editor_controller.cpp:505
 msgid "Map creation failed."
 msgstr "Не удалось создать карту."
 
@@ -276,11 +251,13 @@ msgstr "Не удалось заглузить маску"
 msgid "Choose Target Map"
 msgstr "Выберите целевую карту"
 
-#: src/editor/editor_controller.cpp:549 src/editor/editor_controller.cpp:739
+#: src/editor/editor_controller.cpp:549
+#: src/editor/editor_controller.cpp:739
 msgid "Error loading map"
 msgstr "Не удалось загрузить карту"
 
-#: src/editor/editor_controller.cpp:653 src/editor/editor_controller.cpp:695
+#: src/editor/editor_controller.cpp:653
+#: src/editor/editor_controller.cpp:695
 msgid "This map is already open."
 msgstr "Вы уже открыли эту карту"
 
@@ -292,7 +269,8 @@ msgstr "Карта сохранена."
 msgid "Loaded embedded map data"
 msgstr "Загрузил встроенные в карту данные"
 
-#: src/editor/editor_controller.cpp:719 src/editor/editor_controller.cpp:733
+#: src/editor/editor_controller.cpp:719
+#: src/editor/editor_controller.cpp:733
 msgid "Map loaded from scenario"
 msgstr "Карта загружена из сценария"
 
@@ -361,12 +339,8 @@ msgid "File not found"
 msgstr "Файл не найден"
 
 #: src/editor/map_context.cpp:85
-msgid ""
-"The map file looks like a scenario, but the map_data value does not point to "
-"an existing file"
-msgstr ""
-"Файл карты похож на сценарий, но значение map_data не указывает на "
-"существующий файл."
+msgid "The map file looks like a scenario, but the map_data value does not point to an existing file"
+msgstr "Файл карты похож на сценарий, но значение map_data не указывает на существующий файл."
 
 #: src/editor/map_context.cpp:100
 msgid "Empty map file"
@@ -397,16 +371,8 @@ msgstr "Настройка произвольных параметров"
 #~ msgid "Choose player"
 #~ msgstr "Выберите игрока"
 
-#~ msgid ""
-#~ "Which player should start here? You can use alt and a number key to set "
-#~ "the starting position for a player, and del to clear the starting "
-#~ "position under the cursor. Pressing a number key by itself will scroll to "
-#~ "that player’s starting position."
-#~ msgstr ""
-#~ "Какому игроку начинать отсюда? Можете использовать Alt и клавиши с "
-#~ "цифрами, чтобы задать начальную позицию игрока, и Delete, чтобы очистить "
-#~ "начальную позицию под курсором. Если просто нажать клавишу с цифрой, вы "
-#~ "переместитесь к начальной позиции соответствующего игрока."
+#~ msgid "Which player should start here? You can use alt and a number key to set the starting position for a player, and del to clear the starting position under the cursor. Pressing a number key by itself will scroll to that player’s starting position."
+#~ msgstr "Какому игроку начинать отсюда? Можете использовать Alt и клавиши с цифрами, чтобы задать начальную позицию игрока, и Delete, чтобы очистить начальную позицию под курсором. Если просто нажать клавишу с цифрой, вы переместитесь к начальной позиции соответствующего игрока."
 
 #~ msgid "FG"
 #~ msgstr "ОСН"
@@ -471,12 +437,8 @@ msgstr "Настройка произвольных параметров"
 #~ msgid "Which player should start here?"
 #~ msgstr "Какой игрок должен начинать здесь?"
 
-#~ msgid ""
-#~ "Warning: Illegal characters found in the map name. Please save under a "
-#~ "different name."
-#~ msgstr ""
-#~ "Внимание: Недопустимые символы в названии карты. Вы должны сохранить под "
-#~ "другим именем."
+#~ msgid "Warning: Illegal characters found in the map name. Please save under a different name."
+#~ msgstr "Внимание: Недопустимые символы в названии карты. Вы должны сохранить под другим именем."
 
 #~ msgid "The file does not contain a valid map."
 #~ msgstr "Файл не содержит карту."
