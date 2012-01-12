@@ -19,6 +19,7 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:12
 msgid "A Tale of Two Brothers"
@@ -1139,6 +1140,9 @@ msgid ""
 msgstr ""
 "22 IX, 365 ГВ\n"
 "Отрывок из журнала Арне из Магрэ\n"
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "Arne"
 #~ msgstr "Арне"

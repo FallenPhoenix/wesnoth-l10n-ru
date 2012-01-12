@@ -20,6 +20,7 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:9
 msgid "The South Guard"
@@ -2807,6 +2808,9 @@ msgstr "Деоран многие дни посещал раненых и рук
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:173
 msgid "Sir Deoran, Knight of Wesnoth, was summoned to Weldyn for a council with King Haldric himself. Storm clouds were brewing throughout the realm, and every commander would be needed to weather the onslaught..."
 msgstr "Сэр Деоран, Рыцарь Веснота, был призван в Велдин на совет с самим Королём Хальдриком. Тревожные тучи начали сгущаться над королевством, и чтобы встретить этот новый удар, нужен был каждый командир..."
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "(Novice level, 8 or 9 scenarios depending on the branch you take.)"
 #~ msgstr "(Для начинающих, 8 или 9 сценариев, в зависимости от выбранной ветки)"

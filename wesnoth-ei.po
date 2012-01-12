@@ -30,6 +30,7 @@ msgstr ""
 "X-Generator: KBabel 1.11.2\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:11
 msgid "The Eastern Invasion"
@@ -2727,6 +2728,9 @@ msgstr "Усталые люди Гведдри не нашли приюта на
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:109
 msgid "With the staunchest defenders of Wesnoth bested on their home ground, the once-great kingdom was plunged into final darkness under the vengeful hand of Mal-Ravanal."
 msgstr "Даже самые стойкие защитники Веснота потерпели поражение на своей родной земле, и когда-то великое королевство окончательно погрузилось во тьму под мстительной рукой Мал-Раванала."
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "Turns run out"
 #~ msgstr "Ходы закончились"

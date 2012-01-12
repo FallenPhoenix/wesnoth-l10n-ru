@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+
 #. [campaign]: id=Delfadors_Memoirs
 #. [editor_group]: id=dm
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:24
@@ -3547,6 +3548,9 @@ msgstr "Дрони"
 #: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:292
 msgid "Artor"
 msgstr "Артор"
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "Defeat Zorlan"
 #~ msgstr "Убить Зорлана"

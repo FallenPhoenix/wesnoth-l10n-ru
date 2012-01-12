@@ -27,6 +27,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 1.0\n"
 
+
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:9
 msgid "Son of the Black-Eye"
@@ -3443,6 +3444,9 @@ msgstr "Флар'Тар"
 #: data/campaigns/Son_Of_The_Black_Eye/utils/utils.cfg:101
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
 msgstr "Великая Орда: стоимость содержания каждого бойца уменьшается на единицу."
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "Hank"
 #~ msgstr "Ханк"

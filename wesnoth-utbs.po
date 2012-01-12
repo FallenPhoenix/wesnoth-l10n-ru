@@ -23,6 +23,7 @@ msgstr ""
 "X-Poedit-Bookmarks: 1064,1026,301,357,360,361,362,369,-1,191\n"
 "X-Generator: Emacs 24.0.50.1, po-mode 2.2+0.4\n"
 
+
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:13
@@ -10579,6 +10580,9 @@ msgstr "Длинная ночь (3)"
 #: data/campaigns/Under_the_Burning_Suns/utils/time.cfg:164
 msgid "The Long Dark (4)"
 msgstr "Длинная ночь (4)"
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "Death of Kaleh, Nym or Zhul"
 #~ msgstr "Гибель Кале, Ним или Жул"

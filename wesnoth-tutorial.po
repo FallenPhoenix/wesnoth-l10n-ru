@@ -19,6 +19,7 @@ msgstr ""
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:40
 msgid "\n<big>Click a mouse button or press the spacebar to continue...</big>"
 msgstr "\n<big>Щёлкните мышкой или нажмите пробел для продолжения...</big>"

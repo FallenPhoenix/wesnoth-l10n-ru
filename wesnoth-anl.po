@@ -22,6 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+
 #. [multiplayer]: id=multiplayer_A_New_Land
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:4
 msgid "4p — A New Land"
@@ -681,6 +682,9 @@ msgstr "Основать университет"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
 msgid "Clear the Ground"
 msgstr "Clear the Ground"
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "User Map"
 #~ msgstr "Пользовательская карта"

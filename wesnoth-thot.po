@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 1.0\n"
 
+
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:10
 msgid "The Hammer of Thursagan"
@@ -29,18 +30,13 @@ msgstr "МТ"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:17
-msgid "(Easy)"
-msgstr "(Лёгкий)"
-
-#. [campaign]: id=The_Hammer_of_Thursagan
-#: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:17
 msgid "Fighter"
 msgstr "Ополченец"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
-#: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:18
-msgid "(Normal)"
-msgstr "(Средний)"
+#: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:17
+msgid "(Easy)"
+msgstr "(Лёгкий)"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:18
@@ -48,14 +44,19 @@ msgid "Steelclad"
 msgstr "Латник"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
-#: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:19
-msgid "(Challenging)"
-msgstr "(Сложный)"
+#: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:18
+msgid "(Normal)"
+msgstr "(Средний)"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:19
 msgid "Lord"
 msgstr "Богатырь"
+
+#. [campaign]: id=The_Hammer_of_Thursagan
+#: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:19
+msgid "(Challenging)"
+msgstr "(Сложный)"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:23
@@ -1854,10 +1855,7 @@ msgstr "Свидетели — глаза истории гномов, их та
 
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:4
 #, fuzzy
-#| msgid ""
-#| "The presence of this unit inspires own units next to it to deal more "
-#| "damage in combat, though this only applies to units of lower or equal "
-#| "level."
+#| msgid "The presence of this unit inspires own units next to it to deal more damage in combat, though this only applies to units of lower or equal level."
 msgid " The presence of this unit inspires own units next to it to deal more damage in combat, though this only applies to units of lower or equal level."
 msgstr " Присутствие этого бойца вдохновляет соседних. Они наносят больше урона в бою, правда, это относится только к бойцам такого же или низших уровней."
 
@@ -1939,6 +1937,9 @@ msgstr "Только маги могут владеть посохом."
 #: data/campaigns/The_Hammer_of_Thursagan/utils/macros.cfg:117
 msgid "Aaarrgh! Though I die, the flame of righteousness shall send you down to darkness!"
 msgstr "Арргх! Хотя я умру, пламя справедливости отправит вас в вечную тьму!"
+
+
+#1 ---------- Старые убранные строки ----------
 
 #~ msgid "Dwarvish Runemaster"
 #~ msgstr "Мастер Рун"

@@ -19,6 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: KBabel 1.11.4\n"
 
+
 # type: Attribute 'lang' of: <book>
 #. type: Attribute 'lang' of: <book>
 #: /src/wesnoth/doc/manual/manual.en.xml:6
@@ -3319,6 +3320,9 @@ msgstr "После \"кровавых\" сценариев (где вам при
 #: /src/wesnoth/doc/manual/manual.en.xml:2921
 msgid "Advanced units have higher upkeep than lower level units (1 gp per level), loyal units are an exception."
 msgstr "Продвинутые отряды требуют большего содержания (1 золотой за уровень), исключение составляют верные отряды."
+
+
+#1 ---------- Старые убранные строки ----------
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #~ msgid "Ctrl-s"

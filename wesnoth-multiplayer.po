@@ -26,15 +26,15 @@ msgstr ""
 "X-Poedit-Language: Russian\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
 
+
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
 msgid "User Map"
 msgstr "Пользовательская карта"
 
-#. [multiplayer_side]: id=Random
-#: data/multiplayer/eras.cfg:5
-msgid "Random"
-msgstr "Случайная"
+
+
+#1 ********** Эры и фракции **********
 
 #. [era]: id=era_default
 #: data/multiplayer/eras.cfg:159
@@ -45,6 +45,12 @@ msgstr "По умолчанию"
 #: data/multiplayer/eras.cfg:179
 msgid "Age of Heroes"
 msgstr "Эпоха героев"
+
+
+#. [multiplayer_side]: id=Random
+#: data/multiplayer/eras.cfg:5
+msgid "Random"
+msgstr "Случайная"
 
 #. [multiplayer_side]: id=Drakes, type=Drake Flare
 #. [multiplayer_side]: id=Drakes, type=random
@@ -88,17 +94,8 @@ msgstr "Мятежники"
 msgid "Undead"
 msgstr "Мертвецы"
 
-#. [multiplayer]: id=multiplayer_Aethermaw
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:4
-#, fuzzy
-#| msgid "2p — The Freelands"
-msgid "2p — Aethermaw"
-msgstr "2и - Aethermaw"
 
-#. [multiplayer]: id=multiplayer_Aethermaw
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:6
-msgid "Long ago, the Great Mage Sulla was imprisoned in the Aethermaw, a nexus of mystical energy whose chaotic nature was able to prevent her escape. Over the centuries, however, Sulla gradually attuned her powers to the maelstrom of disorder that is the Aethermaw, and has now begun to project its influence onto the material plane, drawing in entire regions of land from hundreds of different worlds, realities and time-periods. She experiments with these disparate pieces of the cosmos, manipulating them, merging them and sending them back and forth between the Aethermaw and their place of origin. Perhaps, as her mastery over the Aethermaw grows, Sulla will one day break free of its bonds. Until that time comes, she will continue to amuse herself by arranging battles between the mortal beings unlucky enough to be drawn into its depths. Designed by Doc Paterson."
-msgstr ""
+#1 ********** Стандартные команды **********
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:22
@@ -160,37 +157,36 @@ msgstr "Север"
 msgid "teamname^South"
 msgstr "Юг"
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:277
-#, fuzzy
-#| msgid "Designed by Doc Paterson."
-msgid "Aethermaw — Created by Doc Paterson"
-msgstr "Дизайн — Doc Paterson."
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:291
-msgid ""
-"The Great Mage Sulla has transported your armies to this bizarre nexus, and demands that you amuse her by doing battle.\n\n\n\n\n"
-"<span color='red'>Note:</span>\n\n"
-"<span color='green'>Units may not move into a hex with a rock cairn. They may, however, be recruited to, and move from, such hexes.</span>\n\n"
-"<span color='green'>Beginning on turn 4, the Great Mage Sulla will begin to unite the two halves of the battlefield. The process will be complete by the end of turn 6.</span>\n"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:304
-#: data/multiplayer/scenarios/2p_Aethermaw.cfg:321
-msgid "The Aethermaw growls."
-msgstr ""
-
-#. [multiplayer]: id=multiplayer_Arcanclave_Citadel
-#: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:6
-msgid "2p — Arcanclave Citadel"
-msgstr "2и - Цитадель Арханклава"
-
-#. [multiplayer]: id=multiplayer_Arcanclave_Citadel
-#: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:7
-msgid "Long ago, countless centuries before the time of Haldric, and far beyond the easternmost reaches of Lintanir Forest, great and terrible wars were fought. The records tell of a powerful battle-mage, a brilliant tactician and practitioner of the arcane arts, who had been given the title of Dauntless by his followers. At the battle of Arcanclave, Dauntless and his armies did battle with a savage race of sorcerer-demons known as the Kah Ruuk. Surrounded by tens of thousands of Kah Ruuk, Dauntless used his magic to summon a powerful earth elemental (who, for unknown reasons, owed Dauntless a debt of gratitude). The elemental raised great stones from deep within the earth, forming them, in mere moments, into the walls and battlements of a massive fortress. Thousands of Kah Ruuk perished in their attempt to overrun Arcanclave Citadel, and Dauntless and his men were victorious that day. More than one thousand years later, the Warrior-Queen Cynsaun the First drove a clan of necromancers from the ruins of Arcanclave Citadel, and, in the years that followed, converted the region into a military stronghold. It is rumored that several powerful artifacts, remnants from the reign of the Great Mage Dauntless, may yet remain hidden, lost somewhere within the granite and obsidian walls of Arcanclave Citadel. Designed by Doc Paterson."
-msgstr ""
+#. [side]
+#: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:35
+#: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:21
+#: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:27
+#: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:42
+#: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:42
+#: data/multiplayer/scenarios/3p_Morituri.cfg:42
+#: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:31
+#: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:42
+#: data/multiplayer/scenarios/4p_Clash.cfg:18
+#: data/multiplayer/scenarios/4p_Clash.cfg:40
+#: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:20
+#: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:53
+#: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:17
+#: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:56
+#: data/multiplayer/scenarios/4p_Underworld.cfg:20
+#: data/multiplayer/scenarios/4p_Underworld.cfg:53
+#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:31
+#: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:33
+#: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:45
+#: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:81
+#: data/multiplayer/scenarios/6p_Volcano.cfg:17
+#: data/multiplayer/scenarios/6p_Volcano.cfg:44
+#: data/multiplayer/scenarios/6p_Volcano.cfg:62
+#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:30
+#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:52
+#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:74
+#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:85
+msgid "teamname^West"
+msgstr "Запад"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:22
@@ -223,35 +219,139 @@ msgid "teamname^East"
 msgstr "Восток"
 
 #. [side]
-#: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:35
-#: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:21
-#: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:27
-#: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:42
-#: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:42
-#: data/multiplayer/scenarios/3p_Morituri.cfg:42
-#: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:31
-#: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:42
-#: data/multiplayer/scenarios/4p_Clash.cfg:18
-#: data/multiplayer/scenarios/4p_Clash.cfg:40
-#: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:20
-#: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:53
-#: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:17
-#: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:56
-#: data/multiplayer/scenarios/4p_Underworld.cfg:20
-#: data/multiplayer/scenarios/4p_Underworld.cfg:53
-#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:31
-#: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:33
-#: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:45
-#: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:81
-#: data/multiplayer/scenarios/6p_Volcano.cfg:17
-#: data/multiplayer/scenarios/6p_Volcano.cfg:44
-#: data/multiplayer/scenarios/6p_Volcano.cfg:62
-#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:30
-#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:52
-#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:74
-#: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:85
-msgid "teamname^West"
-msgstr "Запад"
+#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:56
+#: data/multiplayer/scenarios/4p_Loris_River.cfg:26
+#: data/multiplayer/scenarios/4p_Loris_River.cfg:59
+#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:22
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:57
+msgid "teamname^Northwest"
+msgstr "Северо-запад"
+
+#. [side]
+#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:32
+#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:44
+#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:44
+#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:34
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:21
+#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:53
+#: data/multiplayer/scenarios/6p_Hexcake.cfg:18
+#: data/multiplayer/scenarios/6p_Hexcake.cfg:51
+#: data/multiplayer/scenarios/6p_Hexcake.cfg:62
+msgid "teamname^Northeast"
+msgstr "Северо-восток"
+
+#. [side]
+#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:20
+#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:56
+#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:20
+#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:58
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:45
+#: data/multiplayer/scenarios/6p_Hexcake.cfg:29
+#: data/multiplayer/scenarios/6p_Hexcake.cfg:40
+#: data/multiplayer/scenarios/6p_Hexcake.cfg:73
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:50
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:62
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:110
+msgid "teamname^Southwest"
+msgstr "Юго-запад"
+
+#. [side]
+#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:32
+#: data/multiplayer/scenarios/4p_Loris_River.cfg:37
+#: data/multiplayer/scenarios/4p_Loris_River.cfg:48
+#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:46
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:33
+#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:42
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:38
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:86
+#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:98
+msgid "teamname^Southeast"
+msgstr "Юго-восток"
+
+#. [side]
+#: data/multiplayer/scenarios/5p_Auction-X.cfg:69
+msgid "teamname^Center"
+msgstr "Центр"
+
+#. [side]
+#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:21
+#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:54
+#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:18
+#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:42
+#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:66
+#: data/multiplayer/scenarios/8p_Morituri.cfg:18
+#: data/multiplayer/scenarios/8p_Morituri.cfg:62
+#: data/multiplayer/scenarios/8p_Morituri.cfg:73
+#: data/multiplayer/scenarios/8p_Morituri.cfg:84
+msgid "teamname^Team 1"
+msgstr "Команда 1"
+
+#. [side]
+#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:32
+#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:43
+#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:30
+#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:54
+#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:78
+#: data/multiplayer/scenarios/8p_Morituri.cfg:29
+#: data/multiplayer/scenarios/8p_Morituri.cfg:40
+#: data/multiplayer/scenarios/8p_Morituri.cfg:51
+#: data/multiplayer/scenarios/8p_Morituri.cfg:95
+msgid "teamname^Team 2"
+msgstr "Команда 2"
+
+
+#1 ********** Сценарии **********
+
+#2 ***** Эфирный пузырь *****
+
+#. [multiplayer]: id=multiplayer_Aethermaw
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:4
+#, fuzzy
+msgid "2p — Aethermaw"
+msgstr "2и - Aethermaw"
+
+#. [multiplayer]: id=multiplayer_Aethermaw
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:6
+msgid "Long ago, the Great Mage Sulla was imprisoned in the Aethermaw, a nexus of mystical energy whose chaotic nature was able to prevent her escape. Over the centuries, however, Sulla gradually attuned her powers to the maelstrom of disorder that is the Aethermaw, and has now begun to project its influence onto the material plane, drawing in entire regions of land from hundreds of different worlds, realities and time-periods. She experiments with these disparate pieces of the cosmos, manipulating them, merging them and sending them back and forth between the Aethermaw and their place of origin. Perhaps, as her mastery over the Aethermaw grows, Sulla will one day break free of its bonds. Until that time comes, she will continue to amuse herself by arranging battles between the mortal beings unlucky enough to be drawn into its depths. Designed by Doc Paterson."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:277
+#, fuzzy
+#| msgid "Designed by Doc Paterson."
+msgid "Aethermaw — Created by Doc Paterson"
+msgstr "Дизайн — Doc Paterson."
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:291
+msgid ""
+"The Great Mage Sulla has transported your armies to this bizarre nexus, and demands that you amuse her by doing battle.\n\n\n\n\n"
+"<span color='red'>Note:</span>\n\n"
+"<span color='green'>Units may not move into a hex with a rock cairn. They may, however, be recruited to, and move from, such hexes.</span>\n\n"
+"<span color='green'>Beginning on turn 4, the Great Mage Sulla will begin to unite the two halves of the battlefield. The process will be complete by the end of turn 6.</span>\n"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:304
+#: data/multiplayer/scenarios/2p_Aethermaw.cfg:321
+msgid "The Aethermaw growls."
+msgstr ""
+
+
+#2 ***** Цитадель Арханклава *****
+
+#. [multiplayer]: id=multiplayer_Arcanclave_Citadel
+#: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:6
+msgid "2p — Arcanclave Citadel"
+msgstr "2и - Цитадель Арханклава"
+
+#. [multiplayer]: id=multiplayer_Arcanclave_Citadel
+#: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:7
+msgid "Long ago, countless centuries before the time of Haldric, and far beyond the easternmost reaches of Lintanir Forest, great and terrible wars were fought. The records tell of a powerful battle-mage, a brilliant tactician and practitioner of the arcane arts, who had been given the title of Dauntless by his followers. At the battle of Arcanclave, Dauntless and his armies did battle with a savage race of sorcerer-demons known as the Kah Ruuk. Surrounded by tens of thousands of Kah Ruuk, Dauntless used his magic to summon a powerful earth elemental (who, for unknown reasons, owed Dauntless a debt of gratitude). The elemental raised great stones from deep within the earth, forming them, in mere moments, into the walls and battlements of a massive fortress. Thousands of Kah Ruuk perished in their attempt to overrun Arcanclave Citadel, and Dauntless and his men were victorious that day. More than one thousand years later, the Warrior-Queen Cynsaun the First drove a clan of necromancers from the ruins of Arcanclave Citadel, and, in the years that followed, converted the region into a military stronghold. It is rumored that several powerful artifacts, remnants from the reign of the Great Mage Dauntless, may yet remain hidden, lost somewhere within the granite and obsidian walls of Arcanclave Citadel. Designed by Doc Paterson."
+msgstr ""
+
+
+#2 ***** Пещеры василиска *****
 
 #. [multiplayer]: id=multiplayer_Basilisk
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:33
@@ -263,6 +363,9 @@ msgstr "2и - Пещеры Василиска"
 msgid "These caves were once the lair of Chak’kso Ney’yks, a legendary Elder Basilisk. The petrified forms of his victims remain as monuments to his savage power."
 msgstr "Однажды эти пещеры были логовом Чак'ксо Ней'йикса, легендарного Старшего Василиска. Окаменевшие фигуры его жертв стоят монументами его ужасающей силы."
 
+#3 * Статуи *
+
+#region Небесный дрейк
 # оставлено как есть, это стихотворение
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:101
@@ -302,7 +405,9 @@ msgstr ""
 "Here stands that drake, who dared forsake\n"
 "His home to steal the Basilisk’s gold.\n"
 "(написано Flametrooper)"
+#endregion
 
+#region Ящер-воин
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:104
 msgid "Xikkrisx"
@@ -312,7 +417,9 @@ msgstr "Ксиккрискс"
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:110
 msgid "Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders were preparing to make war on a human outpost, and were in great need of the powerful magics of Oxsrrsk, a Saurian Mystic who had last been seen heading in the direction of Ruaskkolin Lake. Xikkrisx found the petrified body of Oxsrrsk, along with a carefully bound scroll that had apparently been dropped into a small crevice in the cave floor. He opened the scroll and read a brief passage from the middle of the text: “After he was bound and cast from the Upper World, Chak’kso’s enraged spirit sought release, and was able to exert a corrupting influence on certain regions of the Upper World, channeled through ‘pathways of stone’ that extend from the surface into the depths of the Under Reaches. This rage altered the eggs of great lizards, shaping their bodies and spirits into implements of Chak’kso’s hatred.” Confused, Xikkrisx fixed his attention on the task at hand. Thinking that perhaps the Elders could find some way to restore Oxsrrsk, he began the long and strenuous task of hauling the statue back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having traveled far from the lake, Xikkrisx set the statue down inside of a small cave, and lay down to rest. He was awoken by a bone-chilling roar."
 msgstr "Ксиккрискс из Сирсшка  был могучил воином ящеров, отправленным в этот регион старейшинами клана Рисссрилосскк (что означает «Клан тех, кто охотится на врагов в кипящих реках»). Старейшины готовились напасть на форпост людей, и крайне нуждались в могущественной магии Окссрсска, мистика, которого видели направляющимся к озеру Руаскколин. Ксиккрискс обнаружил окаменевшее тело Окссрсска, а рядом с ним — аккуратно свёрнутый свиток, который, по-видимому, упал в небольшую трещину в полу пещеры. Он развернул свиток, и прочёл короткий отрывок из середины: «После того, как он был связан и изгнан из Верхнего Мира, разярённый дух Чак'ксо искал освобождения, и он смог распространить своё развращающее влияние на определённые регионы Верхнего Мира, используя для этого «каменные пути», шедшие с поверхности в глубины Недоступного. Эта ярость изменила яйца великих ящеров, и их форма и дух стали воплощением ненависты Чак'ксо». Смущённый, Ксиккрискс сосредоточил внимание на стоявшей перед ним задаче. Полагая, что старейшины, возможно, смогут найти способ восстановить Окссрсска, он начал долгую и нудную работу по доставке его статуи во владения клана. Истощённый, и не далеко отойдя от озера, он поместил статую внутрь небольшой пещеры, и прилёг отдохнуть. Разбудил его рёв, от которого кровь стыла в жилах."
+#endregion
 
+#region Ящер-оракул
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:113
 msgid "Oxsrrsk"
@@ -322,7 +429,9 @@ msgstr "Окхсррск"
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:116
 msgid "Oxsrrsk was a powerful Saurian Oracle, who had, in a raid against the rival Xraxss Clan, acquired (from the vaults of the now-dead Oracle Hesx-Rzzak) a most fascinating scroll. The scroll was entitled “Ney’yks of the Granite Gaze,” and told of a creature known as the “Chak’kso Ney’yks,” a name which, in an ancient saurian tongue, meant “Eldest Child of Chak’kso.” Chak’kso was believed to have been a powerful demigod of the Under Reaches, described as a ‘great demon of the earth’ in the Elvish Histories. According to these histories, Chak’kso had once sought to transform all life on the planet to stone; so great was his hatred for creatures of flesh. He was ultimately defeated and bound by powerful magics, but in the centuries following his banishment (to a realm far below the surface of the world) a new breed of creature began appearing in the Histories, a breed with the ability to turn any being of flesh into stone. There was a period when these Basilisks (as they came to be known) wreaked havoc on the world of the living, turning thousands to stone. One by one, and at great cost, the Basilisks were defeated. All, it would seem, but one; the Basilisk known as “The Ney’yks,” or “The Eldest Child,” in the modern tongue. Supremely convinced of his ability to locate and bind this powerful creature into his service, Oxsrrsk set out on his journey..."
 msgstr "Окхсррск был могущественным Оракулом ящеров, добывшим в набеге на соперничающий клан Ксракхсс древний свиток из сокровищницы ныне покойного оракула Хескс-Рззака. Свиток назывался «Ней'йикс гранитного взгляда», и рассказывал о существе по имени «Чак'ксо Ней'йикс», в переводе с древнего языка ящеров — «Старший сын Чак'ксо». Чак'ксо был могучим полубогом Подземного Мира, эльфийские хроники также именовали его «великий демон земли». Согласно этим записям, Чак'ксо однажды захотел превратить всё живое на земле в камень; так велика была его ненависть к существам из плоти и крови. Его пленили и сковали могучей магией; но в столетия, последовавшие за его изгнанием в подземный мир, в истории стали упоминаться новые, невиданные существа, сопсобные превращать плоть в камень. Было время, когда Василиски (так их назвали) разоряли мир живых, обращая в камень тысячи. Одного за другим, с великими потерями, их перебили. Похоже, всех, кроме одного; василиска по имени «Ней'йикс», или, на современном языке, «Старший сын». Совершенно уверенный в своей способности найти, сковать и подчинить это существо, Окхсррск отправился в путь..."
+#endregion
 
+#region Эльф
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:129
 msgid ""
@@ -343,7 +452,9 @@ msgstr ""
 "Пал меж статуй тех\n"
 "— Семь камней и этот эльф\n"
 "(написано Гаутимусом)"
+#endregion
 
+#region Гоблин
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:133
 msgid "Blum Duk"
@@ -361,7 +472,9 @@ msgstr ""
 "Однажды он услышал, что есть ужасное чудище, против которого не сможет устоять ни одно живое существо. Все гоблины просили убить чудище и приволочь его остов для праздника.\n"
 "Он быстро достиг места. Но как только Блам Дак увидел василиска, его обуял страх. Он пытался развернуть своего волка и пуститься наутек, однако тот даже не пошевелился. Когда чудовище вплотную подошло к нему, последними словами, которые он прокричал, были: «Славный Гог, пёсик, у тебя что, ноги окаменели?!?»\n"
 "(написано Эльфийским Мародером)"
+#endregion
 
+#region Дрейк-армагеддон
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:142
 msgid "Rah Ihn Mar"
@@ -371,7 +484,9 @@ msgstr "Ра Ин Мар"
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:144
 msgid "Rah Ihn Mar, Champion of the Burning Hills, made his way to the Ruaskkolin Lake region in pursuit of the Elvish Hero Terowydlithrol, known among Elves as ‘The Dragonbane’. It was said that Terowydlithrol had killed a Dragon of Fire that threatened an Elvish village, and initiated a ‘counterattack’ in which some 37 Drakes, camping in a nearby ravine and believed to be in allegiance with the Dragon, were slaughtered. Knowing that these Drakes were innocent, Rah Ihn Mar came to Ruaskkolin Lake to hunt down and slay Terowydlithrol, who had been seen entering the region but a day ago. Burning for vengeance, Rah Ihn Mar began the hunt....."
 msgstr "Рах Ин Мар, Витязь Горящих Холмов, поршёл путь к озеру Руаскколин в погоне за эльфийским героем Теровидлисолем, известным среди эльфов как «Драконья Погибель». Говорили, что Теровидлисоль убил Огненного дракона, напавшего на эльфийскую деревню, и организовал «контратаку», в которой были перебиты 37 Дрейков, остановившихся на близлежащей равнине, и которых считали союзниками дракона. Зная, что эти Дрейки были невиновны, Рах Ин Мар пришёл к озеру Руаскколин, чтобы выследить и убить Теровидлисоля. Того видели днём раньше, входящим в пределы озера. Горя желанием мести, Рах Ин Мар начал охоту..."
+#endregion
 
+#region Змей
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:152
 msgid ""
@@ -380,7 +495,9 @@ msgid ""
 msgstr ""
 "Она жила на протяжении веков, в водной глуби, охотясь на рыб, и лягушек, и водяных, посмевших заплыть в её владения. Это было её озеро, ничьё более, оно было невелико, но она была его хозяином. А затем появился Василиск, взглянувший ей в глаза. И Змея не умерла, хотя и перестала жить. Так появился новый повелитель озера\n"
 "(написано Турином)"
+#endregion
 
+#region Паук
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:160
 msgid ""
@@ -389,7 +506,9 @@ msgid ""
 msgstr ""
 "Кажется, никто не знает историю этого храброго паука.\n"
 "(написал WinnerA)"
+#endregion
 
+#region Грабитель
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:168
 msgid ""
@@ -398,7 +517,9 @@ msgid ""
 msgstr ""
 "Историю этого несчастного грабителя ещё предстоит рассказать.\n"
 "(написал WinnerB)"
+#endregion
 
+#region
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:176
 msgid ""
@@ -407,7 +528,9 @@ msgid ""
 msgstr ""
 "Смелый герой Золотого века Веснота, великий наездник и командир прибыл в это злое место, преследуя орков. Попав в западню и потеряв своих товарищей, он продолжал доблестно биться, убив множество врагов. Но увы! Подлый василиск превратил его в камень, как только он убил последнего орка. Он и поныне стоит здесь, напоминая о свей силе и доблести.\n"
 "(написано Файнмиром)"
+#endregion
 
+#region Леший
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:180
 msgid "Bramwythl"
@@ -425,7 +548,9 @@ msgstr ""
 "Однако, чуть позднее, сообщество леших услышало о приближении ужасного монстра, достаточно могущественного, чтобы запросто уничтожить нескольких леших, живших на этой земле. Они быстро покинули эти земли (быстро для леших, конечно же), но Брамвитл остался позади — в спешке никто не вспомнил найти его и предупредить об опасности.\n"
 "Он был застигнут врасплох василиском и превращен в камень, еще до того, как он понял, что за зверь стоит перед ним. Его обветренное тело до сих пор стоит здесь, обращенное к солнечным лучам под открытом небом. Его заветное желание было исполнено.\n"
 "(написано Эльфийским Мародером)"
+#endregion
 
+#region Генерал
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:189
 msgid "Talael Ryndoc"
@@ -435,7 +560,9 @@ msgstr "Талаель Риндок"
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:192
 msgid "General Talael Ryndoc came to this place to fight a duel with the Grand Marshal Aethec Corryn, but the two men never found one another. "
 msgstr "Генерал Талаель Риндок пришёл в это место, чтобы сразиться на дуэли с Великим Маршалом Этеком Коррином, но они так и не нашли один другого."
+#endregion
 
+#region Великий маршал
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:195
 msgid "Aethec Corryn"
@@ -449,7 +576,9 @@ msgid ""
 msgstr ""
 "Последние слова, сказанные Великим Маршалом Этеком Коррином: «Талаель Риндок! Я искал тебя повсюду! Сейчас я возвращаюсь в Зал Халдрика и объявлю при дворе, что ты был слишком труслив, чтобы придти на дуэль! Твой позор будет для тебя более мучительным, чем смерть, которую ты принял бы от моей руки!»\n\n"
 "Пожалуй, ему не стоило выкрикивать эти слова так громко..."
+#endregion
 
+#region Наг
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:204
 msgid "Rilhon"
@@ -463,7 +592,9 @@ msgid ""
 msgstr ""
 "Смелый воин, известный среди нагов как Рилхон, прослышал о легендарном сокровище, потерянном в этих водных пещерах, — копье, которое было клыком Чак'ксо Ней'икса, древнего василиска, убитого эльфийским героем Элоралдуэлем. Согласно легенде, оружие осталось где-то на дне этого озера (озеро Руаскколин, по имени известного морского чудища, когда-то поселившегося здесь). Хорошо подготовившись к схватке с чудищем, Рилхон встретился с двумя неожиданными сюрпризами. Первый — это окаменевший Руаскколин. Второй — очень даже живой Чак'со Ней'икс, у которого к тому же все клыки были на месте.\n"
 "(написано Патерсоном)"
+#endregion
 
+#region Русалка
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:228
 msgid ""
@@ -496,6 +627,10 @@ msgstr ""
 "на века\n"
 "она не может двинуться с места\n\n"
 "(написано MJQ)"
+#endregion
+
+
+#2 ***** Поле битвы Цинзауна *****
 
 #. [multiplayer]: id=multiplayer_Cynsaun_Battlefield
 #: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:6
@@ -506,6 +641,9 @@ msgstr "2и - Поле битвы Цинзауна"
 #: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:8
 msgid "Cynsaun Province was named for Warrior-Queen Cynsaun the First, who drove the necromancers from these lands in 961 YW."
 msgstr "Провинция Цинзаун была названа в честь Королевы-Воительницы Цинзаун Первой, которая изгнала некромантов из этих земель в 961 г. ЭВ."
+
+
+#2 ***** Мрачный прогноз *****
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:5
@@ -661,6 +799,9 @@ msgstr "2и - Долина Они-демонов"
 msgid "This most unusual of caves was once known as the Chamber of Laughing Devils, and was the inner citadel of the Kah Ruuk Oni. The Kah Ruuk were a wicked and cunning race of man-eating demons, who terrorized the people of the Eastern Lands for nearly four hundred years, before vanishing from Irdya without a trace. Since that time, many factions have vied for dominion over the Den of Onis, hoping to unlock the strange and mysterious magics of its creators."
 msgstr "Самая необычная пещера была ранее известна как «Палата смеющихся дьяволов», и была внутренней цитаделью Ках Руук Они. Ках Руук были злобной и хитрой расой демонов-людоедов, которые наводили страх на Восточные Земли почти четыреста лет, пока не исчезли из Ирдии без следа. С тех пор многие расы соперничали за владение Долиной Они, надеясь раскрыть странную и загадочную магию её создателей."
 
+
+#2 ***** Эленсефарский двор *****
+
 #. [multiplayer]: id=multiplayer_elensefar_courtyard
 #: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:5
 msgid "2p — Elensefar Courtyard"
@@ -676,6 +817,9 @@ msgstr "Пробейтесь через сады и коридоры и поко
 msgid "Underground"
 msgstr "Подземелье"
 
+
+#2 ***** Озеро павшей звезды *****
+
 #. [multiplayer]: id=multiplayer_Fallenstar_Lake
 #: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:5
 msgid "2p — Fallenstar Lake"
@@ -686,6 +830,9 @@ msgstr "2и - Озеро павшей звезды"
 msgid "Long ago, a great star fell from the heavens, leaving its mark on this coniferous region."
 msgstr "Давным-давно, огромная звезда упала с небес, оставив свою отметину на этой поросшей хвойными лесами земле."
 
+
+#2 ***** Деревушки *****
+
 #. [multiplayer]: id=multiplayer_Hamlets
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:6
 msgid "2p — Hamlets"
@@ -695,6 +842,9 @@ msgstr "2и - Деревушки"
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:7
 msgid "Warfare transforms the simple farms and villages of a peaceful region into a subtly parceled battlefield. Designed by Doc Paterson."
 msgstr "Война превратила простые фермы и посёлки мирной провинции в причудливо разделённое на части поле боя. Дизайн Doc Paterson."
+
+
+#2 ***** Остров рогатой акулы *****
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:24
@@ -715,6 +865,15 @@ msgstr "Чтобы выжить на самом необычном из остр
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:325
 msgid "Big Baby Bo"
 msgstr "Большой Малыш Бо"
+
+#. [unit]: type=Young Ogre, id=Baby Baby Dro
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:477
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:551
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:590
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:662
+#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:712
+msgid "Big Baby Dro"
+msgstr "Большой Малыш Дро"
 
 #. [unit]: type=Drake Fighter, id=Rawffus the Dim
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:103
@@ -759,15 +918,6 @@ msgstr ""
 msgid "Sorrek, Chosen of Death"
 msgstr "Соррек, Избранный Смертью"
 
-#. [unit]: type=Young Ogre, id=Baby Baby Dro
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:477
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:551
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:590
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:662
-#: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:712
-msgid "Big Baby Dro"
-msgstr "Большой Малыш Дро"
-
 #. [unit]: type=Drake Fighter, id=Gawffus the Dim
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:490
 msgid "Gawffus the Dim"
@@ -803,6 +953,9 @@ msgstr ""
 msgid "Rukhos, Chosen of Death"
 msgstr "Рухос, Избранный Смертью"
 
+
+#2 ***** Пустошь воющих призраков *****
+
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:5
 msgid "2p — Howling Ghost Badlands"
@@ -813,6 +966,9 @@ msgstr "2и - Пустошь воющих призраков"
 msgid "Little remains of this once wealthy mining colony, now a haven for raiders and thieves."
 msgstr "Мало что осталось от некогда богатой горняцкой колонии. Теперь здесь прибежище бандитов и воров."
 
+
+#2 ***** Дельта каменного меча *****
+
 #. [multiplayer]: id=multiplayer_Sablestone_Delta
 #: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:5
 msgid "2p — Sablestone Delta"
@@ -822,6 +978,9 @@ msgstr "2и - Дельта Каменного Меча"
 #: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:6
 msgid "Two armies collide on this disjointed coastal landscape of hidden caves and jagged rivers."
 msgstr "Две армии сталкиваются на разделённом побережье скрытых пещер и бурных рек."
+
+
+#2 ***** Седой перевал *****
 
 #. [multiplayer]: id=multiplayer_Silverhead_Crossing
 #: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:5
@@ -847,6 +1006,9 @@ msgstr "статуя"
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:24
 msgid "This is a sculpture made of stone."
 msgstr "Это каменная скульптура."
+
+
+#2 ***** Руины Суллы *****
 
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:39
@@ -908,6 +1070,9 @@ msgstr "Статуя Ло-бзанга"
 msgid "A stone-carved likeness of Lo-bsang, Servant of Sulla."
 msgstr "Каменное изваяние Ло-бзанга, слуги Суллы."
 
+
+#2 ***** Дикие земли ****
+
 #. [multiplayer]: id=multiplayer_The_Freelands
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:6
 msgid "2p — The Freelands"
@@ -917,6 +1082,9 @@ msgstr "2и - Дикие земли"
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:8
 msgid "The Freelands, also known to the people of the far east as The Land of No Kings, lie in between the Wilderlands and the Kingdom of Carorath, separating a land of absolute law from a land of absolute savagery. The people of the Freelands have been battling would-be conquerors of their land for hundreds of years, repelling great beasts from their western borders, and Carorathian Imperialists from their eastern borders."
 msgstr "Свободные Земли, также известные жителям дальнего востока как Земля-Без-Короля, лежат между Пустошью и королевством Карорат, отделяя страну закона от земли полной дикости. Люди Свободных Земель отбиваются от желающих завоевать их сотни лет, отгоняя чудовищ от западных границ, и Кароратских дворян — от восточных."
+
+
+#2 ***** Гарнизон тысячи жал *****
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:37
@@ -998,6 +1166,9 @@ msgstr "Странное место. Дизайн — Doc Paterson."
 msgid "Statue"
 msgstr "Статуя"
 
+
+#2 ***** Канал Велдина *****
+
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:5
 msgid "2p — Weldyn Channel"
@@ -1007,6 +1178,9 @@ msgstr "2и - Канал Велдина"
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:7
 msgid "This vital supply route has played a key role in many of Wesnoth’s greatest battles."
 msgstr "Жизнено важный путь снабжения сыграл ключевую роль во многих величайших битвах Веснота."
+
+
+#2 ***** Болота Алирок *****
 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:5
@@ -1047,6 +1221,9 @@ msgstr " Рекомендуемые настройки — 2 золота на �
 msgid "Three players come head to head on this water-cut battlefield."
 msgstr "Три игрока сходятся лицом к лицу на этом водяном боевом пространстве."
 
+
+#2 ***** Остров Хоратии *****
+
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
 #: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:5
 msgid "3p — Island of the Horatii"
@@ -1056,6 +1233,9 @@ msgstr "3и - Остров Хоратии"
 #: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:6
 msgid "Controlling the central island is often the key to victory in this 21x21hex 3 player free for all map."
 msgstr "Контроль над центральным островом часто является ключом к победе в этой карте для трёх игроков («каждый за себя») размером 21х21 ячеек."
+
+
+#2 ***** Идущие на смерть *****
 
 #. [multiplayer]: id=multiplayer_3p_Morituri
 #: data/multiplayer/scenarios/3p_Morituri.cfg:5
@@ -1067,6 +1247,9 @@ msgstr "3и - Идущие на смерть"
 msgid "Only one faction will emerge victorious from this tightly bordered three-player map."
 msgstr "Только одна сторона будет признана победительницей на этой карте для трёх игроков со сжатыми границами."
 
+
+#2 ***** Провинция Синих Вод *****
+
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:5
 msgid "4p — Blue Water Province"
@@ -1077,31 +1260,8 @@ msgstr "4и - Провинция Синих Вод"
 msgid "Historians write that Bluewater Province has been destroyed and rebuilt some twenty times. Now, as armies once again converge on the rocky streams and snowcapped mountains of this small province, its villagers hardly seem to take notice."
 msgstr "Говорят, что Провинция Голубой воды разрушалась и отстраивалась вновь около двадцати раз. Теперь, когда армии вновь сошлись на горных потоках и укрытых снегом горах этой небольшой провинции, её жителей практически не заметно."
 
-#. [side]
-#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:21
-#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:54
-#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:18
-#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:42
-#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:66
-#: data/multiplayer/scenarios/8p_Morituri.cfg:18
-#: data/multiplayer/scenarios/8p_Morituri.cfg:62
-#: data/multiplayer/scenarios/8p_Morituri.cfg:73
-#: data/multiplayer/scenarios/8p_Morituri.cfg:84
-msgid "teamname^Team 1"
-msgstr "Команда 1"
 
-#. [side]
-#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:32
-#: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:43
-#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:30
-#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:54
-#: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:78
-#: data/multiplayer/scenarios/8p_Morituri.cfg:29
-#: data/multiplayer/scenarios/8p_Morituri.cfg:40
-#: data/multiplayer/scenarios/8p_Morituri.cfg:51
-#: data/multiplayer/scenarios/8p_Morituri.cfg:95
-msgid "teamname^Team 2"
-msgstr "Команда 2"
+#2 ***** Замок Пляшущего острова *****
 
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:5
@@ -1113,6 +1273,9 @@ msgstr "4и - Замок Пляшущего острова"
 msgid "Hop from castle to castle while fighting over a central isle."
 msgstr "Перескакивайте от замка к замку, сражаясь  вокруг острова в центре."
 
+
+#2 ***** Столкновение *****
+
 #. [multiplayer]: id=multiplayer_Clash
 #: data/multiplayer/scenarios/4p_Clash.cfg:5
 msgid "4p — Clash"
@@ -1122,6 +1285,9 @@ msgstr "4и - Столкновение"
 #: data/multiplayer/scenarios/4p_Clash.cfg:7
 msgid "Small map for 2 vs. 2."
 msgstr "Маленькая карта для 2 против 2."
+
+
+#2 ***** Деревушки *****
 
 #. [multiplayer]: id=multiplayer_4p_Hamlets
 #: data/multiplayer/scenarios/4p_Hamlets.cfg:5
@@ -1133,6 +1299,9 @@ msgstr "4и - Деревушки"
 msgid "Warfare transforms the simple farms and villages of a peaceful region into a subtly parceled battlefield."
 msgstr "Война превратила простые фермы и деревни мирного региона в причудливо разделенное на части поле боя."
 
+
+#2 ***** Перекресток Исара *****
+
 #. [multiplayer]: id=multiplayer_Isars_Cross
 #: data/multiplayer/scenarios/4p_Isars_Cross.cfg:7
 msgid "4p — Isar’s Cross"
@@ -1143,33 +1312,8 @@ msgstr "4и - Перекресток Исара"
 msgid "A very small 2 vs. 2 map. Close quarters fighting means the successful rotation of units and planning of moves is important. Teams set for players 1&4 vs. 2&3 (northeast vs. southwest). Designed for 75 starting gold, 20 villages."
 msgstr "Очень маленькая карта 2 против 2. Близкорасположенные боевые позиции означают быструю смену отрядов, потому важно тщательное планирование ходов. Игроки расположены так: 1 и 4 против 2 и 3 (северо-восток против юго-запада). Разработана для 75 начального золота, 20 деревень."
 
-#. [side]
-#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:20
-#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:56
-#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:20
-#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:58
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:45
-#: data/multiplayer/scenarios/6p_Hexcake.cfg:29
-#: data/multiplayer/scenarios/6p_Hexcake.cfg:40
-#: data/multiplayer/scenarios/6p_Hexcake.cfg:73
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:50
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:62
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:110
-msgid "teamname^Southwest"
-msgstr "Юго-запад"
 
-#. [side]
-#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:32
-#: data/multiplayer/scenarios/4p_Isars_Cross.cfg:44
-#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:44
-#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:34
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:21
-#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:53
-#: data/multiplayer/scenarios/6p_Hexcake.cfg:18
-#: data/multiplayer/scenarios/6p_Hexcake.cfg:51
-#: data/multiplayer/scenarios/6p_Hexcake.cfg:62
-msgid "teamname^Northeast"
-msgstr "Северо-восток"
+#2 ***** Царь горы *****
 
 #. [multiplayer]: id=multiplayer_King_of_the_Hill
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:7
@@ -1188,27 +1332,8 @@ msgstr " Рекомендуемые настройки — 2 золота с д�
 msgid "Controlling the area around the central keep is very lucrative in this 36X36 4 player FFA map. Works fine 2 vs. 2 as well. There are 36 villages."
 msgstr "На этой карте размером 36х36 для четырех игроков (каждый за себя) весьма привлекателен контроль территории вокруг центрального укрытия. Подходит и для 2 против 2. Имеется 36 деревень."
 
-#. [side]
-#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:32
-#: data/multiplayer/scenarios/4p_Loris_River.cfg:37
-#: data/multiplayer/scenarios/4p_Loris_River.cfg:48
-#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:46
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:33
-#: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:42
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:38
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:86
-#: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:98
-msgid "teamname^Southeast"
-msgstr "Юго-восток"
 
-#. [side]
-#: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:56
-#: data/multiplayer/scenarios/4p_Loris_River.cfg:26
-#: data/multiplayer/scenarios/4p_Loris_River.cfg:59
-#: data/multiplayer/scenarios/4p_Siege_Castles.cfg:22
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:57
-msgid "teamname^Northwest"
-msgstr "Северо-запад"
+#2 ***** Лагуна *****
 
 #. [multiplayer]: id=multiplayer_Lagoon
 #: data/multiplayer/scenarios/4p_Lagoon.cfg:5
@@ -1229,6 +1354,9 @@ msgstr " Рекомендуемые настройки — 1 золото с д�
 msgid "Four factions contend for dominance over this watery settlement."
 msgstr "Четыре команды борятся за доминирование над этим болотистым поселением."
 
+
+#2 ***** Река Лориса *****
+
 #. [multiplayer]: id=multiplayer_Loris_River
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:7
 msgid "4p — Loris River"
@@ -1239,6 +1367,9 @@ msgstr "4и - Река Лориса"
 msgid "A 25x25 2 vs. 2 map centered around a river with keeps in opposite corners. Designed for players 1&4 vs. 2&3. There are 28 villages."
 msgstr "Карта 2 против 2 размером 25х25 с рекой посередине и укрытиях в противоположных углах. Создана для 1 и 4 против 2 и 3. Имеется 28 деревень."
 
+
+#2 ***** Идущие на смерть *****
+
 #. [multiplayer]: id=multiplayer_4p_Morituri
 #: data/multiplayer/scenarios/4p_Morituri.cfg:5
 msgid "4p — Morituri"
@@ -1248,6 +1379,9 @@ msgstr "4и - Идущие на смерть"
 #: data/multiplayer/scenarios/4p_Morituri.cfg:7
 msgid "Who will emerge from the confines of this perilous battlefield?"
 msgstr "Кто сможет вырваться за пределы этого опасного поля битвы?"
+
+
+#2 ***** Путь кинжалов *****
 
 #. [multiplayer]: id=multiplayer_Paths_of_Daggers
 #: data/multiplayer/scenarios/4p_Paths_of_Daggers.cfg:7
@@ -1264,6 +1398,9 @@ msgstr " Рекомендуемые настройки — 2 золота с д�
 msgid "A 35X27 2 vs. 2 map with 5 separate paths of engagement. Balanced to be played east vs. west (1&4 vs. 2&3), but works well with any teams or FFA."
 msgstr "Карта 2 против 2 размером 35х27 с пятью различными путями для наступления. Разработана для игры запада против востока (1 и 4 против 2 и 3), но также хороша и для других вариантов, или для игры «каждый за себя»."
 
+
+#2 ***** Руины Терра-Двелва *****
+
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:6
 msgid "4p — Ruins of Terra-Dwelve"
@@ -1273,6 +1410,9 @@ msgstr "4и - Руины Терра-Двелва"
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:7
 msgid "Battle over the legendary treasures of the ancient ruins of Terra-Dwelve. Large multi-fronted 2vs2 set in a vast underground complex."
 msgstr "Бой за легендарные сокровища древних руин Терра-Двелва. Большая, на несколько фронтов, 2x2, в обширном подземном городе.Бой за легендарные сокровища древних руин Терра-Двелва. Большая, на несколько фронтов, 2x2, в обширном подземном городе.Бой за легендарные сокровища древних руин Терра-Двелва. Большая, на несколько фронтов, 2x2, в обширном подземном городе.Бой за легендарные сокровища древних руин Терра-Двелва. Большая, на несколько фронтов, 2x2, в обширном подземном городе.Бой за легендарные сокровища древних руин Терра-Двелва. Большая, на несколько фронтов, 2x2, в обширном подземном городе.Бой за легендарные сокровища древних руин Терра-Двелва. Большая, на несколько фронтов, 2x2, в обширном подземном городе."
+
+
+#2 ***** Осаждаемые замки *****
 
 #. [multiplayer]: id=multiplayer_Siege_Castles
 #: data/multiplayer/scenarios/4p_Siege_Castles.cfg:7
@@ -1284,6 +1424,9 @@ msgstr "4и - Осаждаемые замки"
 msgid "36X36 4 player map where 4 mighty castles face off at the convergence of two rivers. Works well as 2 vs. 2 or FFA. There are approximately 45 villages."
 msgstr "Карта размером 36х30 для 4 игроков, на которой 4 могущественных замка стоят друг навпротив друга на слиянии двух рек. Подходит для 2 против 2 и «каждый за себя». Имеется примерно 45 деревень."
 
+
+#2 ***** Подземный мир *****
+
 #. [multiplayer]: id=multiplayer_4p_Underworld
 #: data/multiplayer/scenarios/4p_Underworld.cfg:5
 msgid "4p — Underworld"
@@ -1293,6 +1436,9 @@ msgstr "4и - Подземный мир"
 #: data/multiplayer/scenarios/4p_Underworld.cfg:6
 msgid "A fast-paced 2 vs. 2 map set deep below the surface."
 msgstr "Быстрая карта 2x2, глубоко под землёй."
+
+
+#2 ***** Хаос Ксанте *****
 
 #. [multiplayer]: id=multiplayer_Xanthe_Chaos
 #: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:7
@@ -1304,6 +1450,9 @@ msgstr "4и - Хаос Ксанте"
 msgid "A 24X28 2 vs. 2 map with auxiliary keeps, and a large messy battle in the center common."
 msgstr "Карта размером 24x28 для 2 против 2, со вспомогательными укрытиями и большой битвой в общем центре."
 
+
+#2 ***** Аукцион-X *****
+
 #. [multiplayer]: id=multiplayer_Auction-X
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:5
 msgid "5p — Auction-X"
@@ -1314,10 +1463,8 @@ msgstr "5и - Аукцион-X"
 msgid "4 players surround a central keep, play vs the AI survival style, or as a FFA or 4 vs. 1. The center player will need more gold in a 4 vs. 1 or FFA, and the best way to determine how much is an auction, LOWEST bid wins. It is a very small map so 75 gold is recommended for the other players."
 msgstr "4 игрока окружают центральный замок, игра либо в стиле выживания против компьютера, либо каждый за себя, либо 4 против 1. В двух последних случаях центральный игрок нуждается в большем количестве золота, и лучший способ определить, насколько большем — это аукцион. Побеждает МЕНЬШАЯ ставка. Это очень маленькая карта, так что для других игроков рекомендуется 75 монет начального золота."
 
-#. [side]
-#: data/multiplayer/scenarios/5p_Auction-X.cfg:69
-msgid "teamname^Center"
-msgstr "Центр"
+
+#2 ***** Лес страха *****
 
 #. [multiplayer]: id=multiplayer_Forest_of_Fear
 #: data/multiplayer/scenarios/5p_Forest_of_Fear.cfg:5
@@ -1329,6 +1476,9 @@ msgstr "5и - Лес страха"
 msgid "In this mixed landscape, five armies battle for supremacy."
 msgstr "На этом смешанном ландшафте пять армий борются за превосходство."
 
+
+#2 ***** Дичайшие земли *****
+
 #. [multiplayer]: id=multiplayer_The_Wilderlands
 #: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:37
 msgid "5p — The Wilderlands"
@@ -1338,6 +1488,9 @@ msgstr "5и - Дичайшие земли"
 #: data/multiplayer/scenarios/5p_The_Wilderlands.cfg:38
 msgid "A vast region of wild, untamed wilderness, its terrain dotted with forests, caves, rivers, and the ruins of ancient fortresses."
 msgstr "Незаселённый регион дикой, безграничной пустоши, чьи земли покрыты лесами, пещерами, реками и руинами древних крепостей."
+
+
+#2 ***** Поле крестоносцев *****
 
 #. [multiplayer]: id=multiplayer_Crusaders_Field
 #: data/multiplayer/scenarios/6p_Crusaders_Field.cfg:5
@@ -1349,6 +1502,9 @@ msgstr "6и - Поле крестоносцев"
 msgid "The rallying cries of battle can once again be heard on this time-worn field of war, where the ghosts of thousands of brave warriors float invisibly through the mountains, trees and rivers."
 msgstr "Сплоченный боевой клич снова слышен на поле битвы, на котором сотни призраков смелых воинов витают среди гор, деревьев и рек."
 
+
+#2 ***** Шестигранник *****
+
 #. [multiplayer]: id=multiplayer_Hexcake
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:5
 msgid "6p — Hexcake"
@@ -1358,6 +1514,9 @@ msgstr "6и - Шестигранник"
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:7
 msgid "2 vs. 2 or 3 vs. 3 team game."
 msgstr "Командная игра 2 на 2 или 3 на 3."
+
+
+#2 ***** Командное выживание *****
 
 #. [multiplayer]: id=multiplayer_6p_Team_Survival
 #: data/multiplayer/scenarios/6p_Team_Survival.cfg:317
@@ -1454,6 +1613,9 @@ msgstr "Смерть"
 msgid "You have lost this game, but fear not. You can always try again. And again. And again. *Muahahaha*"
 msgstr "Вы проиграли эту битву, но не отчаивайтесь. Вы всегда можете попробовать снова. И снова. И снова. *Хе-хе-хе*"
 
+
+#2 ***** Запутанные ловушки *****
+
 #. [multiplayer]: id=multiplayer_The_Manzivan_Traps
 #: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:7
 msgid "6p — The Manzivan Traps"
@@ -1463,6 +1625,9 @@ msgstr "6и - Запутанные ловушки"
 #: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:10
 msgid "A 40X20 3 vs. 3 map. The Manzivan Traps are widely known as a difficult and confusing area of terrain where it is easy to end up out of position or over extended. Teams set for players 145 vs. 236 (east vs west). Designed for 100 starting gold, has 33 villages."
 msgstr "Карта размером 40х20 для 3 против 3. Запутанные Ловушки широко известны, как сложная и трудная территория, где можно запросто потеряться и заблудиться. Команды разделены как 145 против 236 (восток против запада). Расчитана на 100 золотых в начале, имеется 33 деревени."
+
+
+#2 ***** Вулкан *****
 
 #. [multiplayer]: id=multiplayer_Volcano
 #: data/multiplayer/scenarios/6p_Volcano.cfg:7
@@ -1474,6 +1639,9 @@ msgstr "6и - Вулкан"
 msgid "A 3vs3 battle to control the ashes of a kingdom long ago collapsed from a volcanic eruption. It has 36 villages."
 msgstr "Битва 3x3 за прах великого древнего королевства, давным-давно павшего от извержения вулкана. 36 деревень.Битва 3x3 за прах великого древнего королевства, давным-давно павшего от извержения вулкана. 36 деревень.Битва 3x3 за прах великого древнего королевства, давным-давно павшего от извержения вулкана. 36 деревень."
 
+
+#2 ***** Рассвет Ватерлоо *****
+
 #. [multiplayer]: id=multiplayer_Waterloo_Sunset
 #: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:7
 msgid "6p — Waterloo Sunset"
@@ -1483,6 +1651,9 @@ msgstr "6и - Рассвет Ватерлоо"
 #: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:9
 msgid "A 40X30 3 vs. 3 map. Flexible coordination of your alliance is required to avoid being outnumbered. Teams set for players 145 vs. 236 (north vs. south), but having players 146 or 136 as a team is also interesting. Designed for 150 starting gold, has 44 villages."
 msgstr "Карта размером 40х30 для 3 против 3. Понадобится гибкая координация сил ваших союзников, чтобы вас не превзошли числом. Команды разделены как 145 против 236 (север против юга), но варианты 146 или 136 также интересны. Разработана для 150 золотых в начале, имеется 44 деревни."
+
+
+#2 ***** Прерии Мокена *****
 
 #. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:5
@@ -1494,6 +1665,9 @@ msgstr "8и - Прерии Мокена"
 msgid "Inspired from Morituri, this 8 player map creates an epic battle scene that requires two teams to coordinate on both offense and defense."
 msgstr "Эта карта на 8 игроков, вдохновлённая картой «Идущие на смерть», представляет эпическую баталию, требующую двух команд для координации как нападения, так и защиты."
 
+
+#2 ***** Идущие на смерть *****
+
 #. [multiplayer]: id=multiplayer_8p_Morituri
 #: data/multiplayer/scenarios/8p_Morituri.cfg:5
 msgid "8p — Morituri"
@@ -1503,6 +1677,9 @@ msgstr "8и - Идущие на смерть"
 #: data/multiplayer/scenarios/8p_Morituri.cfg:7
 msgid "Teamwork and tactics are key to victory in this unusual battlefield, where eight armies fight to the finish."
 msgstr "Только настоящий стратег сможет выжить на этом смертельном и ограниченном поле боя, где сошлись лицом к лицу восемь армий."
+
+
+#2 ***** Мерквуердиглиебе *****
 
 #. [multiplayer]: id=multiplayer_Merkwuerdigliebe
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:7
@@ -1514,6 +1691,10 @@ msgstr "9и — Мерквуердиглиебе"
 msgid "A very small 3 vs. 3 vs. 3 map. A 60sec timer is recommended due to the large number of players. The teams are players 159 vs. 267 vs. 348 (north vs. southeast vs. southwest). There are very few villages per player, so 3 gold per villages is recommended."
 msgstr "Очень маленькая карта для 3 против 3 против 3. Из-за большого числа игроков рекомендуется установить таймер в 60 секунд. Игроки разбиты на команды 159 против 267 против 348 (север против юго-востока против юго-запада). Здесь очень мало деревень на каждого игрока, поэтому рекомендуемые настройки — 3 золота на деревню."
 
+
+#1 ********** Случайные карты **********
+
+#region Простая
 #. [scenario]: id=multiplayer_Random_Map
 #. [multiplayer]: id=multiplayer_Random_Map
 #: data/multiplayer/scenarios/Random_Scenario.cfg:6
@@ -1525,7 +1706,9 @@ msgstr "Случайная карта"
 #: data/multiplayer/scenarios/Random_Scenario.cfg:7
 msgid "Randomly generated map. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
 msgstr "Случайно генерируемая карта. Внимание: случайные карты обычно не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите карту, устраивающую вас."
+#endregion
 
+#region Пустынная
 #. [scenario]: id=multiplayer_Random_Map_Desert
 #. [multiplayer]: id=multiplayer_Random_Map_Desert
 #: data/multiplayer/scenarios/Random_Scenario_Desert.cfg:5
@@ -1537,7 +1720,9 @@ msgstr "Случайная карта (пустыня)"
 #: data/multiplayer/scenarios/Random_Scenario_Desert.cfg:6
 msgid "A random map with sand as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
 msgstr "Случайная карта с песками. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+#endregion
 
+#region Болотная
 #. [scenario]: id=multiplayer_Random_Map_Marsh
 #. [multiplayer]: id=multiplayer_Random_Map_Marsh
 #: data/multiplayer/scenarios/Random_Scenario_Marsh.cfg:5
@@ -1549,7 +1734,9 @@ msgstr "Случайная карта (болото)"
 #: data/multiplayer/scenarios/Random_Scenario_Marsh.cfg:6
 msgid "A random map with swamp as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
 msgstr "Случайная карта с болотами. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+#endregion
 
+#region Снежная
 #. [scenario]: id=multiplayer_Random_Map_Winter
 #. [multiplayer]: id=multiplayer_Random_Map_Winter
 #: data/multiplayer/scenarios/Random_Scenario_Winter.cfg:5
@@ -1561,7 +1748,12 @@ msgstr "Случайная карта (зима)"
 #: data/multiplayer/scenarios/Random_Scenario_Winter.cfg:6
 msgid "A random map set in the break between spring and winter, mainly with snowy terrains. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
 msgstr "Случайная карта между осенью и зимой, преимущественно со снежным покровом. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+#endregion
 
+
+#1 ********** Тестовые карты **********
+
+#region Интеллект
 #. [multiplayer]: id=wesbench_ai
 #: data/multiplayer/scenarios/Wesbench_AI.cfg:9
 msgid "Wesnoth Benchmark: AI"
@@ -1571,7 +1763,9 @@ msgstr "Тест Веснота: AI"
 #: data/multiplayer/scenarios/Wesbench_AI.cfg:10
 msgid "A wesnoth benchmark, use --nogui --no-delay --multiplayer --scenario=wesbench_ai --exit-at-end."
 msgstr "Тестирование Веснота, использует --nogui --no-delay --multiplayer --scenario=wesbench_ai --exit-at-end."
+#endregion
 
+#region Прокрутка
 #. [multiplayer]: id=wesbench_scroll
 #: data/multiplayer/scenarios/Wesbench_Scroll.cfg:9
 msgid "Wesnoth Benchmark: Scrolling"
@@ -1581,7 +1775,9 @@ msgstr "Тест Веснота: скроллинг"
 #: data/multiplayer/scenarios/Wesbench_Scroll.cfg:10
 msgid "A wesnoth benchmark, use --no-delay --multiplayer --scenario=wesbench_scroll --exit-at-end."
 msgstr "Тестирование Веснота, использует --no-delay --multiplayer --scenario=wesbench_scroll --exit-at-end."
+#endregion
 
+#region Пелена
 #. [multiplayer]: id=wesbench_shroud_walk
 #: data/multiplayer/scenarios/Wesbench_Shroud_Walk.cfg:9
 msgid "Wesnoth Benchmark: Walking through Shroud"
@@ -1591,6 +1787,12 @@ msgstr "Тест Веснота: хождение сквозь пелену"
 #: data/multiplayer/scenarios/Wesbench_Shroud_Walk.cfg:10
 msgid "A wesnoth benchmark, use --no-delay --multiplayer --scenario=wesbench_shroud_walk --exit-at-end."
 msgstr "Тестирование Веснота, использует --no-delay --multiplayer --scenario=wesbench_shroud_walk --exit-at-end."
+#endregion
+
+
+#1 ---------- Старые убранные строки ----------
+
+#2 ----- Были в 1.9.9 -----
 
 #~ msgid "Default + Khalifate"
 #~ msgstr "По умолчанию + Халифат"
@@ -1598,26 +1800,12 @@ msgstr "Тестирование Веснота, использует --no-delay
 #~ msgid "Khalifate"
 #~ msgstr "Халифат"
 
-#~ msgid "Single player mode — uses the reduced strength spawns."
-#~ msgstr "Режим одного игрока — волны уменьшенной силы"
-
-#~ msgid "Two player mode — uses the full strength spawns."
-#~ msgstr "Режим одного игрока — волны полной силы"
-
-#~ msgid "Survive and defeat the waves of opposition."
-#~ msgstr "Выживите и отбейте волны врагов."
-
-#~ msgid "Defeat all waves"
-#~ msgstr "Отбейте все волны"
-
-#~ msgid "Lose all your team’s leaders"
-#~ msgstr "Гибель лидеров команд."
+#2 ----- Были в 1.9.8 -----
 
 #~ msgid "Arcanclave Citadel is the central stronghold of the Arcanclave region. It was finished in the year 968 YW, and served as the military headquarters of Cynsaun the First. Designed by Doc Paterson."
 #~ msgstr "Цитадель Арханклава — центральная крепость земель Арханклава. Она была окончена в 968 г. ЭВ, и была военным штабом Цинзауна Первого. Дизайн Doc Paterson."
 
-#~ msgid "Players must navigate the dispersive terrain of this small but topographically dense island."
-#~ msgstr "Игроки должны передвигаться по пересеченной местности этого маленького, но топографически насыщенного острова."
+#2 ----- Были в 1.8.6 -----
 
 #~ msgid "teamname^South-West"
 #~ msgstr "Юго-запад"
@@ -1631,111 +1819,27 @@ msgstr "Тестирование Веснота, использует --no-delay
 #~ msgid "teamname^North-West"
 #~ msgstr "Северо-Запад"
 
+#region Мрачный прогноз
+#~ msgid "Single player mode — uses the reduced strength spawns."
+#~ msgstr "Режим одного игрока — волны уменьшенной силы"
+
+#~ msgid "Two player mode — uses the full strength spawns."
+#~ msgstr "Режим двух игроков — волны полной силы"
+
+#~ msgid "Survive and defeat the waves of opposition."
+#~ msgstr "Выживите и отбейте волны врагов."
+
+#~ msgid "Defeat all waves"
+#~ msgstr "Отбейте все волны"
+
+#~ msgid "Lose all your team’s leaders"
+#~ msgstr "Гибель лидеров команд."
+#endregion
+
+# Остров Рогатой акулы
+#~ msgid "Players must navigate the dispersive terrain of this small but topographically dense island."
+#~ msgstr "Игроки должны передвигаться по пересеченной местности этого маленького, но топографически насыщенного острова."
+
+# Командное выживание
 #~ msgid "Survive for 32 turns."
 #~ msgstr "Продержитесь 32 хода."
-
-#, fuzzy
-#~ msgid "2p - Fast To Madness"
-#~ msgstr "2и - Озеро павшей звезды"
-
-#, fuzzy
-#~ msgid " Recommended setting of 3 gold per village."
-#~ msgstr " Рекомендуемые настройки — 2 золота на деревню."
-
-#, fuzzy
-#~ msgid "4p - Mines of Mallorod"
-#~ msgstr "4и - Царь горы"
-
-#~ msgid "Players must maneuver their units through the divisive terrain of this long-feared region, once the home of a legendary Elder Basilisk. The caves and the stark wilderness surrounding them are filled with the petrified forms of some of Wesnoth's greatest heroes."
-#~ msgstr "Игроки должны передвигать свои отряды сквозь разрозненные земли этого пустынного региона, некогда дома Древнего Василиска. Путь к победе отмечен окаменевшими телами великих героев Веснота."
-
-#~ msgid " Recommended settings of 150 gold and 2 gold per village."
-#~ msgstr "Рекомендуемые настройки — 150 золота при старте и 2 золота с деревни."
-
-#~ msgid "There is much to explore in this vast battlefront, designed for players who favor epic, large-scale duel matches."
-#~ msgstr "На этом обширном поле боя достаточно места для двоих игроков, желающих разыграть между собой эпическую битву."
-
-#~ msgid "Danger lurks around every corner in this underground battlefield, a duel map where players must find the balance between force and subterfuge."
-#~ msgstr "Опасность скрывается в каждом закоулке этого подземного поля битвы, дуэльной карты, где встречаются сила и хитрость."
-
-#~ msgid "A duel map for super fast play."
-#~ msgstr "Дуэльная карта для сверхбыстрой игры."
-
-#~ msgid "teamname^east"
-#~ msgstr "восток"
-
-#~ msgid "teamname^west"
-#~ msgstr "запад"
-
-#~ msgid "Great War"
-#~ msgstr "Великая война"
-
-#~ msgid "Alliance of Darkness"
-#~ msgstr "Альянс Тьмы"
-
-#~ msgid "Alliance of Light"
-#~ msgstr "Альянс Света"
-
-#~ msgid "6p - Amohsad Caldera"
-#~ msgstr "6и - Впадина Амосад"
-
-#~ msgid "Only a true tactician will survive in this deadly and confining battlefield, where six boxed-in armies come to a head."
-#~ msgstr "Только настоящий стратег сможет выжить на этом смертельном и ограниченном поле боя, где сошлись лицом к лицу шесть армий."
-
-#~ msgid "2p - Wesbowl"
-#~ msgstr "2и - Кубок Веснота"
-
-#~ msgid "In Wesbowl, a player has to get any of the balls to the other player's end zone as often as possible. However, the other player can attack your units. Wesbowl is played with blunt weapons, and healers are on hand, so when units are killed, they return to that player's end zone with an injury."
-#~ msgstr "В Кубке Веснота игрок должен как можно быстрее пронести мяч до конечной зоны другого игрока. Другой игрок может атаковать ваши отряды. Кубок Веснота играется с тупым оружием, и наготове есть бригада лекарей, так что \"убитые\" игроки возвращаются в свою начальную зону, получив лишь ранения."
-
-#~ msgid ""
-#~ "\nVictory:\n"
-#~ "@Move either ball to your opponent's end zone more times than they move a ball to yours.\n"
-#~ "Defeat:\n"
-#~ "#Opponent moves the balls to your end zone more times than you move them to the opponent's end zone"
-#~ msgstr ""
-#~ "\nПобеда:\n"
-#~ "@Пронесите мяч в конечную зону оппонента больше раз, чем он пронесет в вашу\n"
-#~ "Поражение:\n"
-#~ "#Оппонент пронес в вашу конечную зону больше мячей, чем вы в его"
-
-#~ msgid "Red scores! Current score is $redscore-$bluescore"
-#~ msgstr "Красные забили! Счет $redscore — $bluescore"
-
-#~ msgid "Blue scores! Current score is $redscore-$bluescore"
-#~ msgstr "Синие забили! Счет $redscore — $bluescore"
-
-#~ msgid "Should I pass the ball to $passto.type ($xloc,$yloc)?"
-#~ msgstr "Отдать пас $passto.type ($xloc,$yloc)?"
-
-#~ msgid "Yes!"
-#~ msgstr "Да!"
-
-#~ msgid "No"
-#~ msgstr "Нет"
-
-#~ msgid "Blue team wins! Final score: $redscore-$bluescore"
-#~ msgstr "Синяя команда выиграла! Финальный счет: $redscore — $bluescore"
-
-#~ msgid "Red team wins! Final score: $redscore-$bluescore"
-#~ msgstr "Красная команда выиграла! Финальный счет: $redscore — $bluescore"
-
-#~ msgid "Draw! Final score: $redscore-$bluescore"
-#~ msgstr "Ничья! Финальный счет: $redscore — $bluescore"
-
-#~ msgid "Monsters"
-#~ msgstr "Монстры"
-
-#~ msgid "2p - Blitz"
-#~ msgstr "2и — Блиц"
-
-#~ msgid "3p - Triple Blitz"
-#~ msgstr "3и — Тройной Блиц"
-
-#, fuzzy
-#~ msgid "Defeat enemy leader"
-#~ msgstr "Гибель лидеров команды."
-
-#, fuzzy
-#~ msgid "Defeat enemy leader(s)"
-#~ msgstr "Гибель лидеров команды."

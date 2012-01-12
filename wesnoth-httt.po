@@ -33,6 +33,7 @@ msgstr ""
 "X-Generator: Emacs 24.0.50.1, po-mode 2.2+0.4\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:11
 msgid "Heir to the Throne"
