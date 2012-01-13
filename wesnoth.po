@@ -1174,7 +1174,7 @@ msgstr "Пусто"
 
 #: src/multiplayer_connect.cpp:762
 msgid "--give--"
-msgstr "— выдать игроку —"
+msgstr "<100,100,100>— выдать игроку —"
 #endregion
 
 #region Тип ИИ
