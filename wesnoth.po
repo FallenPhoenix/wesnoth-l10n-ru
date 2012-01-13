@@ -4086,7 +4086,7 @@ msgstr "Программные сборки"
 #. [about]
 #: data/core/about.cfg:878
 msgid "Miscellaneous Contributors"
-msgstr "Прочие участники"
+msgstr "При участии"
 
 #. [about]
 #: data/core/about.cfg:1202
@@ -4096,7 +4096,7 @@ msgstr "Менеджеры по локализации"
 #. [about]
 #: data/core/about.cfg:1227
 msgid "English strings edition"
-msgstr "Редактирование английского перевода"
+msgstr "Редактирование английского текста"
 
 #. [about]
 #: data/core/about.cfg:1234
@@ -4131,7 +4131,7 @@ msgstr "Китайский перевод"
 #. [about]
 #: data/core/about.cfg:1396
 msgid "Chinese (Taiwan) Translation"
-msgstr "Китайский (Тайвань) перевод"
+msgstr "Китайский перевод (Тайвань)"
 
 #. [about]
 #: data/core/about.cfg:1406
@@ -4156,12 +4156,12 @@ msgstr "Голландский перевод"
 #. [about]
 #: data/core/about.cfg:1568
 msgid "English (GB) Translation"
-msgstr "Британский английский перевод"
+msgstr "Перевод на британский английский"
 
 #. [about]
 #: data/core/about.cfg:1590
 msgid "English (Shaw) Translation"
-msgstr "Английский перевод – «Шоу»"
+msgstr "Английский перевод – \"Шоу\""
 
 #. [about]
 #: data/core/about.cfg:1614
@@ -4296,7 +4296,7 @@ msgstr "Португальский перевод"
 #. [about]
 #: data/core/about.cfg:2393
 msgid "Portuguese (Brazil) Translation"
-msgstr "Португальский (бразильский) перевод"
+msgstr "Перевод на португальский бразильский"
 
 #. [about]
 #: data/core/about.cfg:2435
@@ -4341,7 +4341,7 @@ msgstr "Турецкий перевод"
 #. [about]
 #: data/core/about.cfg:2719
 msgid "Valencian (southern Catalan) Translation"
-msgstr "Валенсийский (Южнокаталанский) перевод"
+msgstr "Валенсийский (южнокаталанский) перевод"
 
 #. [about]
 #: data/core/about.cfg:2732
