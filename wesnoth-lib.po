@@ -162,7 +162,7 @@ msgstr "Версия"
 #. [label]
 #: data/gui/default/window/campaign_dialog.cfg:56
 msgid "Play a campaign"
-msgstr "Играть кампанию"
+msgstr "Новая кампания"
 
 #. [label]: id=title
 #: data/gui/default/window/campaign_difficulty.cfg:57
@@ -185,9 +185,9 @@ msgid ""
 "Note that registration is not required to join the server: you need to supply a password only if you wish to use a registered username.\n\n"
 "The Battle for Wesnoth forum can be found at http://forums.wesnoth.org/"
 msgstr ""
-"Вы можете зайти на официальный многопользовательский сервер под логином и паролем с форума.\n"
+"Вы можете зайти на официальный сервер игры под логином и паролем с форума.\n"
 "Заметьте, что регистрация не обязательна: пароль нужен только если вы хотите использовать зарегистрированное имя.\n\n"
-"Форум Битвы за Веснот находится по адресу: http://forums.wesnoth.org/"
+"Форум «Битвы за Веснот» находится по адресу: http://forums.wesnoth.org/"
 
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:146
@@ -197,12 +197,12 @@ msgstr "Подключиться к официальному серверу"
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:147
 msgid "Log on to the official Wesnoth multiplayer server"
-msgstr "Войти на официальный мультиплеерный сервер Веснота"
+msgstr "Войти на официальный мультиплеерный сервер «Веснота»."
 
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:157
 msgid "Join a different server"
-msgstr "Подключиться к другому серверу"
+msgstr "Подключиться к другому серверу."
 
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:166
@@ -212,7 +212,7 @@ msgstr "Захостить сетевую игру"
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:167
 msgid "Host a game using dedicated server ‘wesnothd’"
-msgstr "Захостить сетевую игру через специальный сервер «wesnothd»"
+msgstr "Захостить сетевую игру через специальный сервер «wesnothd»."
 
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:176
@@ -222,7 +222,7 @@ msgstr "Локальная игра"
 #. [column]
 #: data/gui/default/window/mp_method_selection.cfg:177
 msgid "Play a multiplayer game with the AI or humans sharing the same machine"
-msgstr "Играть в мультиплеер против компьютера или человека, на одной машине"
+msgstr "Играть сценарий против компьютера или человека, на одной машине."
 #endregion
 
 #region Выбор сервера
@@ -230,7 +230,7 @@ msgstr "Играть в мультиплеер против компьютера
 #: data/gui/default/window/mp_connect.cfg:60
 #: data/gui/default/window/mp_server_list.cfg:69
 msgid "You will now connect to the multiplayer server."
-msgstr "Сейчас подключимся к мультиплеерному серверу"
+msgstr "Сейчас подключимся к мультиплеерному серверу."
 
 #. [label]: id=address
 #: data/gui/default/window/mp_server_list.cfg:121
@@ -262,17 +262,18 @@ msgstr "Ваши списки друзей/игнора"
 #. [button]: id=add_friend
 #: data/gui/default/window/mp_cmd_wrapper.cfg:170
 msgid "Add as Friend"
-msgstr "добавить в качестве друга"
+msgstr "Добавить как друга"
 
 #. [button]: id=add_ignore
 #: data/gui/default/window/mp_cmd_wrapper.cfg:185
 msgid "Add as Ignore"
-msgstr "Добавить в качестве игнорируемого"
+msgstr "Добавить как игнорируемого"
 
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:241
 msgid "Moderating"
 msgstr "Модерируется"
+#* msgstr "Модерация"
 
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:271
@@ -303,12 +304,12 @@ msgstr "Забанить"
 #: data/gui/default/window/mp_create_game.cfg:226
 #: data/gui/default/window/mp_create_game_set_password.cfg:42
 msgid "Set Password"
-msgstr "Установить пароль"
+msgstr "Установка пароля"
 
 #. [scroll_label]: id=message
 #: data/gui/default/window/mp_create_game_set_password.cfg:61
 msgid "Set the password that people wanting to join your game as players must enter."
-msgstr "Устанавливает пароль, который должны ввести желающие присоединиться к игре.Устанавливает пароль, который должны ввести желающие присоединиться к игре."
+msgstr "Для присоединения к вашей игре остальным потребуется его ввести."
 
 
 #1 ********** Строки меню и горячие клавиши **********
@@ -844,7 +845,7 @@ msgstr "Показывать коды местности"
 #. [label]: id=title
 #: data/gui/default/window/edit_label.cfg:42
 msgid "Place Label"
-msgstr "Установить метку"
+msgstr "Установка метки"
 
 #. [label]
 #: data/gui/default/window/edit_label.cfg:72
@@ -854,7 +855,7 @@ msgstr "Метка:"
 #. [toggle_button]: id=team_only_toggle
 #: data/gui/default/window/edit_label.cfg:110
 msgid "Team only"
-msgstr "Только для команд"
+msgstr "Только для союзников"
 #endregion
 
 
@@ -1589,12 +1590,12 @@ msgstr "Нет"
 #. [label]
 #: data/gui/default/window/addon_uninstall_list.cfg:51
 msgid "Uninstall Add-ons"
-msgstr "Удалить аддоны"
+msgstr "Удаление аддонов"
 
 #. [scroll_label]
 #: data/gui/default/window/addon_uninstall_list.cfg:70
 msgid "Choose the add-ons you want to remove."
-msgstr "Какие аддоны удалить?"
+msgstr "Выберите аддоны, которые хотите удалить."
 
 
 
@@ -2910,6 +2911,7 @@ msgstr "Выйти"
 msgid "Close"
 msgstr "Закрыть"
 
+# Френдлист бы отделить да сделать отдельный перевод кнопки - "Удалить из списков".
 #. [button]: id=remove
 #. [button]: id=ok
 #: data/gui/default/window/addon_uninstall_list.cfg:162
@@ -2960,7 +2962,7 @@ msgstr "Подключиться"
 #: data/gui/default/window/mp_method_selection.cfg:156
 #: data/gui/default/window/mp_server_list.cfg:49
 msgid "Connect to Server"
-msgstr "Подключиться к серверу"
+msgstr "Подключение к серверу"
 
 #. [label]: id=lblTitle
 #: data/gui/default/window/game_load.cfg:50
@@ -2976,7 +2978,7 @@ msgstr "Загрузить игру"
 #. [toggle_button]: id=show_replay
 #: data/gui/default/window/game_load.cfg:379
 msgid "Show replay"
-msgstr "Играть повтор"
+msgstr "Показать повтор"
 
 #. [toggle_button]: id=cancel_orders
 #: data/gui/default/window/game_load.cfg:397
@@ -3024,17 +3026,17 @@ msgstr "Вы действительно хотите выйти?"
 #region Снимок
 #: src/hotkeys.cpp:1172
 msgid "Map-Screenshot"
-msgstr "Скриншот карты"
+msgstr "Снимок карты"
 
 #: src/hotkeys.cpp:1179
 #: src/hotkeys.cpp:1181
 msgid "Screenshot done"
-msgstr "Скриншот готов"
+msgstr "Снимок готов"
 #endregion
 
 #: src/gui/dialogs/lobby_main.cpp:230
 msgid "whisper to $receiver"
-msgstr "Послать шёпот $receiver-у"
+msgstr "Отправить ЛС $receiver-у"
 
 #: src/gui/dialogs/lobby_main.cpp:662
 msgid "Games: showing $num_shown out of $num_total"
@@ -3050,7 +3052,7 @@ msgstr "Наблюдение запрещено"
 
 #: src/gui/dialogs/lobby_main.cpp:1107
 msgid "Whisper session with $name started. If you don’t want to receive messages from this user, type /ignore $name\n"
-msgstr "Открылся приватный чат с $name. Если вы не хотите получать сообщения от этого пользователя, наберите /ignore $name\n"
+msgstr "Открылся приватный чат с $name. Если вы не хотите получать сообщения от этого игрока, наберите /ignore $name\n"
 
 #: src/gui/dialogs/lobby_main.cpp:1113
 msgid "Room $name joined"
@@ -3181,7 +3183,7 @@ msgstr "Максимальная ширина текста меньше 1"
 
 #: src/terrain_translation.cpp:715
 msgid "A terrain with a string with more than 4 characters has been found, the affected terrain is :"
-msgstr "Найдена  со строкой из более чем 4 символов, это: "
+msgstr "Найдена местность со строкой, содержащей более 4 символов: "
 
 #: src/text.cpp:719
 msgid "The text contains invalid markup: "
@@ -3238,13 +3240,13 @@ msgstr "Фильтр"
 #: data/gui/default/window/game_load.cfg:263
 #: data/gui/default/window/mp_server_list.cfg:104
 msgid "Name"
-msgstr "Имя"
+msgstr "Название"
 
 #. [label]: id=date
 #: data/gui/default/window/data_manage.cfg:177
 #: data/gui/default/window/game_load.cfg:277
 msgid "Date"
-msgstr "Дата"
+msgstr "Время"
 
 #. [button]: id=clear
 #: data/gui/default/window/data_manage.cfg:266
@@ -3267,7 +3269,7 @@ msgstr "Восстановить"
 #. [label]
 #: data/gui/default/window/editor_generate_map.cfg:35
 msgid "Generate Random Map"
-msgstr "Создать случайную карту"
+msgstr "Создание случайной карты"
 
 #. [button]: id=next_generator
 #: data/gui/default/window/editor_generate_map.cfg:64
@@ -3329,7 +3331,7 @@ msgstr "Копировать ландшафт по краю"
 #: data/gui/default/window/folder_create.cfg:43
 #: src/filechooser.cpp:82
 msgid "New Folder"
-msgstr "Новый каталог"
+msgstr "Новая папка"
 
 #. [label]
 #: data/gui/default/window/folder_create.cfg:72
@@ -3438,12 +3440,12 @@ msgstr "Игнорировать все"
 #. [label]: id=lblTitle
 #: data/gui/default/window/game_save_overwrite.cfg:40
 msgid "Overwrite?"
-msgstr "Переписать?"
+msgstr "Перезапись"
 
 #. [label]: id=lblMessage
 #: data/gui/default/window/game_save_overwrite.cfg:60
 msgid "Save already exists. Do you want to overwrite it?"
-msgstr "Сохранение уже существует, переписать его?"
+msgstr "Такое сохранение уже существует, переписать его?"
 
 #. [label]
 #: data/gui/default/window/gamestate_inspector.cfg:46
@@ -3586,7 +3588,7 @@ msgstr "Фильтр:"
 #. [toggle_button]: id=filter_with_friends
 #: data/gui/default/window/lobby_main.cfg:586
 msgid "Friends"
-msgstr "Друзья"
+msgstr "Есть друзья"
 
 #. [toggle_button]: id=filter_without_ignored
 #: data/gui/default/window/lobby_main.cfg:592
@@ -3596,7 +3598,7 @@ msgstr "Нет игнорируемых"
 #. [toggle_button]: id=filter_vacant_slots
 #: data/gui/default/window/lobby_main.cfg:598
 msgid "Vacant slots"
-msgstr "Свободных мест"
+msgstr "Свободно"
 
 #. [toggle_button]: id=filter_invert
 #: data/gui/default/window/lobby_main.cfg:604

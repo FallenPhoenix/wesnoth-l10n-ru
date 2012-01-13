@@ -498,7 +498,7 @@ msgstr "Чтение файлов и создание кэша"
 #: src/loadscreen.cpp:226
 #: src/loadscreen.cpp:233
 msgid "Reading unit files"
-msgstr "Чтение данных бойцов"
+msgstr "Считывание данных бойцов"
 
 #: src/loadscreen.cpp:227
 msgid "Reinitialize fonts for the current language"
@@ -510,7 +510,7 @@ msgstr "Поиск установленных аддонов"
 
 #: src/loadscreen.cpp:229
 msgid "Loading title screen"
-msgstr "Загрузка главного экрана"
+msgstr "Загрузка титульного экрана"
 
 #: src/loadscreen.cpp:230
 msgid "Loading data files"
@@ -518,7 +518,7 @@ msgstr "Чтение файлов данных"
 
 #: src/loadscreen.cpp:234
 msgid "Loading level"
-msgstr "Загружаю уровень"
+msgstr "Загрузка уровня"
 
 #: src/loadscreen.cpp:235
 msgid "Initializing teams"
@@ -526,7 +526,7 @@ msgstr "Инициализация команд"
 
 #: src/loadscreen.cpp:236
 msgid "Loading units"
-msgstr "Читаю файлы бойцов"
+msgstr "Загрузка бойцов"
 
 #: src/loadscreen.cpp:237
 #: src/loadscreen.cpp:239
@@ -573,7 +573,7 @@ msgstr "Превышен лимит времени подключения"
 
 #: src/multiplayer.cpp:239
 msgid "The nickname ‘$nick’ is inactive. You cannot claim ownership of this nickname until you activate your account via email or ask an administrator to do it for you."
-msgstr "Ник '$nick' неактивен. Вы не можете запрашивать этот ник, пока не активируете свой аккаунт по email или не попросите администратора активировать вас."
+msgstr "Ник ‘$nick’ неактивен. Вы не можете запрашивать этот ник, пока не активируете свой аккаунт по email или не попросите администратора активировать вас."
 
 #: src/multiplayer.cpp:248
 msgid "Do you want to continue?"
@@ -593,36 +593,36 @@ msgstr "Сначала надо залогиниться"
 
 #: src/multiplayer.cpp:337
 msgid "The nickname ‘$nick’ is already taken."
-msgstr "The nickname ‘$nick’ is already taken."
+msgstr "Ник ‘$nick’ уже занят."
 
 #: src/multiplayer.cpp:339
 msgid "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric characters, underscores and hyphens are allowed."
-msgstr "The nickname ‘$nick’ contains invalid characters. Only alpha-numeric characters, underscores and hyphens are allowed."
+msgstr "Ник ‘$nick’ содержит недопустимые символы. Можно использовать только латинские буквы, цифры, прочерк и дефис."
 
 #: src/multiplayer.cpp:343
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
-msgstr "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
+msgstr "Ник ‘$nick’ слишком длинный. Должно быть не более 18 символов."
 
 #: src/multiplayer.cpp:346
 msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
-msgstr "The nickname ‘$nick’ is reserved and cannot be used by players."
+msgstr "Ник ‘$nick’ зарезервирован и запрещён для игроков."
 
 #: src/multiplayer.cpp:348
 msgid "The nickname ‘$nick’ is not registered on this server."
-msgstr "The nickname ‘$nick’ is not registered on this server."
+msgstr "Ник ‘$nick’ не зарегистрирован на этом сервере."
 
 #: src/multiplayer.cpp:349
 msgid " This server disallows unregistered nicknames."
-msgstr " This server disallows unregistered nicknames."
+msgstr " На этом сервере не разрешены незарегистрированные ники."
 
 #: src/multiplayer.cpp:351
 #: src/multiplayer.cpp:353
 msgid "The nickname ‘$nick’ is registered on this server."
-msgstr "The nickname ‘$nick’ is registered on this server."
+msgstr "Ник ‘$nick’ уже есть на этом сервере."
 
 #: src/multiplayer.cpp:354
 msgid "WARNING: There is already a client using this nickname, logging in will cause that client to be kicked!"
-msgstr "WARNING: There is already a client using this nickname, logging in will cause that client to be kicked!"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: Игрок с таким ником уже есть на сервере. Если вы войдёте, то его выкинет!"
 
 #: src/multiplayer.cpp:357
 msgid "Error in the login procedure (the server had no seed for your connection)."
@@ -659,7 +659,7 @@ msgstr "Быстрый повтор"
 
 #: src/multiplayer_lobby.cpp:758
 msgid "Skip quickly to the active turn when observing"
-msgstr "Быстро перейти к активному ходу при наблюдении"
+msgstr "Быстро переходить к активному ходу при наблюдении."
 
 #: src/multiplayer_lobby.cpp:744
 msgid "Preferences"
@@ -674,10 +674,11 @@ msgstr "Выйти"
 #: src/multiplayer_lobby.cpp:746
 msgid "Apply filter"
 msgstr "Фильтровать"
+#* msgstr "Фильтр"
 
 #: src/multiplayer_lobby.cpp:761
 msgid "Enable the games filter. If unchecked all games are shown, regardless of any filter."
-msgstr ""
+msgstr "Включить фильтрацию игр. При отключенном фильтре отображаются все игры, независимо от его настроек."
 
 #: src/multiplayer_lobby.cpp:747
 msgid "Invert"
@@ -685,41 +686,44 @@ msgstr "Инвертировать"
 
 #: src/multiplayer_lobby.cpp:764
 msgid "Show all games that do *not* match your filter. Useful for hiding games you are not interested in."
-msgstr "Показывать только игры, которые *не* соответствуют Вашему фильтру. Помогает убрать игры, которые вам неинтересны."
+msgstr "Показывать только игры, которые *не* соответствуют вашему фильтру. Помогает скрыть игры, которые вам не интересны."
 
 #: src/multiplayer_lobby.cpp:750
 msgid "Search:"
-msgstr "Поиск:"
+msgstr "Фильтр:"
+#* msgstr "Поиск:"
 
 #: src/multiplayer_lobby.cpp:778
 msgid "Only show games whose title or description contain the entered text"
-msgstr "Показывать только игры с указанным текстом в названии или описании"
+msgstr "Показывать только игры с указанным текстом в названии или описании."
 
 #: src/multiplayer_lobby.cpp:749
 msgid "Friends in game"
 msgstr "Друзья в игре"
+#* msgstr "Друзья"
 
 #: src/multiplayer_lobby.cpp:772
 msgid "Only show games that are played or observed by at least one of your friends"
-msgstr "Показывать только игры, в которых участвует или наблюдает кто-то из друзей"
+msgstr "Показывать только игры, в которых присутствует (как участник или наблюдатель) кто-либо из списка друзей."
 
 #: src/multiplayer_lobby.cpp:748
 msgid "Vacant slots"
-msgstr "Свободных мест"
+msgstr "Есть место"
+#* msgstr "Свободно"
 
 #: src/multiplayer_lobby.cpp:768
 msgid "Only show games that have at least one vacant slot"
-msgstr "Показывать только игры со свободными местами"
+msgstr "Показывать только игры со свободными местами."
 #endregion
 
 #: src/multiplayer_lobby.cpp:125
 msgid "--no games open--"
-msgstr "--нет открытых игр--"
+msgstr "-- нет открытых игр --"
 
 # После названия игры.
 #: src/multiplayer_lobby.cpp:159
 msgid " (Unknown Era)"
-msgstr "(Неизвестная эра)"
+msgstr " (Неизвестная эра)"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:205
 #: src/multiplayer_lobby.cpp:447
@@ -751,23 +755,26 @@ msgstr "Удалённый сценарий"
 msgid "Reloaded game"
 msgstr "Игра перезагружена"
 
+# м.б. просто "Места:"
 #: src/gui/dialogs/lobby/lobby_data.cpp:300
 #: src/multiplayer_lobby.cpp:549
 msgid "Vacant Slot:"
 msgid_plural "Vacant Slots:"
-msgstr[0] "Свободный слот:"
-msgstr[1] "Свободных слота:"
-msgstr[2] "Свободных слотов:"
+msgstr[0] "Свободное место:"
+msgstr[1] "Свободные места:"
+msgstr[2] "Свободные места:"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:296
 #: src/multiplayer_lobby.cpp:545
 msgid "Turn "
-msgstr "Ход"
+msgstr "Ход "
 
+# М.б. лучше "Открытая". А вообще если бы здесь не шарились строки с другими местами в игре,
+# я бы лучше всю инфу о настройках сделал в нижнем регистре.
 #: src/gui/dialogs/lobby/lobby_data.cpp:314
 #: src/multiplayer_lobby.cpp:574
 msgid "none"
-msgstr "нет"
+msgstr "Ничего"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:306
 #: src/multiplayer_lobby.cpp:560
@@ -791,7 +798,7 @@ msgstr "Требуется пароль"
 
 #: src/multiplayer_lobby.cpp:892
 msgid "Joining this game requires a password."
-msgstr "Эта игра под паролем."
+msgstr "Эта игра защищена паролем."
 
 #: src/multiplayer_lobby.cpp:893
 msgid "Password: "
@@ -823,7 +830,7 @@ msgstr "В списке игнора"
 
 #: src/gui/dialogs/lobby_player_info.cpp:139
 msgid "Neither a friend nor ignored"
-msgstr "Не друг и не из игнора"
+msgstr "Не друг и не игнорируемый"
 
 #: src/gui/dialogs/lobby_player_info.cpp:144
 msgid "You"
@@ -842,11 +849,11 @@ msgstr "Ошибка"
 #: src/multiplayer_create.cpp:56
 #: src/multiplayer_lobby.cpp:742
 msgid "Create Game"
-msgstr "Начать игру"
+msgstr "Новая игра"
 
 #: src/multiplayer_create.cpp:82
 msgid "Name of game:"
-msgstr "Название игры:"
+msgstr "Название:"
 
 # Название игры по умолчанию
 #: src/multiplayer_create.cpp:238
@@ -856,7 +863,7 @@ msgstr "Игра $login"
 
 #: src/multiplayer_create.cpp:86
 msgid "Map to play:"
-msgstr "Карта для игры:"
+msgstr "Карта:"
 
 #: src/multiplayer_create.cpp:116
 msgid "Load Game..."
@@ -879,7 +886,7 @@ msgstr "Перегенерировать"
 # Для случайных карт
 #: src/multiplayer_create.cpp:96
 msgid "Settings..."
-msgstr "Настройки..."
+msgstr "Параметры..."
 
 #: src/multiplayer_create.cpp:85
 msgid "Era:"
@@ -887,7 +894,7 @@ msgstr "Эра:"
 
 #: src/multiplayer_create.cpp:97
 msgid "Set Password..."
-msgstr "Установить пароль..."
+msgstr "Задать пароль..."
 
 #: src/multiplayer_create.cpp:372
 msgid "Turns: "
@@ -899,7 +906,7 @@ msgstr "Неограниченные ходы"
 
 #: src/multiplayer_create.cpp:152
 msgid "The maximum number of turns the game can last"
-msgstr "Максимальное количество ходов в игре"
+msgstr "Максимальное количество ходов в игре."
 
 #: src/multiplayer_create.cpp:423
 msgid "Village gold: "
@@ -907,7 +914,7 @@ msgstr "Золота с деревень: "
 
 #: src/multiplayer_create.cpp:184
 msgid "The amount of income each village yields per turn"
-msgstr "Доход, получаемый от каждой деревни за один ход"
+msgstr "Доход, получаемый от каждой деревни за один ход."
 
 #: src/multiplayer_create.cpp:429
 msgid "Experience modifier: "
@@ -915,7 +922,7 @@ msgstr "Модификатор опыта: "
 
 #: src/multiplayer_create.cpp:190
 msgid "The amount of experience a unit needs to advance"
-msgstr "Количество опыта, необходимого для продвижения бойца"
+msgstr "Количество опыта, необходимого для продвижения бойцов."
 
 #: src/multiplayer_create.cpp:89
 msgid "Fog of war"
@@ -923,12 +930,12 @@ msgstr "Туман войны"
 
 #: src/multiplayer_create.cpp:199
 msgid "Enemy units cannot be seen unless they are in range of your units"
-msgstr "Вы не можете видеть бойцов противника, пока они не окажутся в поле зрения ваших бойцов"
+msgstr "Вы не можете видеть бойцов противника, пока они не окажутся в поле зрения ваших бойцов."
 
 # Пелена. Саму надпись искать выше.
 #: src/multiplayer_create.cpp:202
 msgid "The map is unknown until your units explore it"
-msgstr "Карта неизвестна, пока ваши бойцы не исследуют её"
+msgstr "Карта неизвестна, пока ваши бойцы её не исследуют."
 
 #: src/multiplayer_create.cpp:88
 msgid "Random start time"
@@ -936,7 +943,7 @@ msgstr "Случайное время при старте"
 
 #: src/multiplayer_create.cpp:196
 msgid "Randomize time of day in begin"
-msgstr "Случайное время суток при старте"
+msgstr "Случайное время суток при старте."
 
 #: src/multiplayer_create.cpp:87
 #: src/multiplayer_lobby.cpp:288
@@ -945,7 +952,7 @@ msgstr "Настройки карты"
 
 #: src/multiplayer_create.cpp:193
 msgid "Use scenario specific settings"
-msgstr "Использовать специфичные настройки сценария"
+msgstr "Использовать специфичные настройки сценария."
 
 #: src/multiplayer_create.cpp:91
 msgid "Observers"
@@ -953,7 +960,7 @@ msgstr "Наблюдатели"
 
 #: src/multiplayer_create.cpp:205
 msgid "Allow users who are not playing to watch the game"
-msgstr "Разрешить наблюдать за игрой"
+msgstr "Разрешить другим наблюдать за игрой."
 
 #: src/multiplayer_create.cpp:92
 msgid "Shuffle sides"
@@ -961,7 +968,7 @@ msgstr "Перетасовать стороны"
 
 #: src/multiplayer_create.cpp:208
 msgid "Assign sides to players at random"
-msgstr "Назначить стороны случайным образом"
+msgstr "Назначить стороны случайным образом."
 
 #: src/multiplayer_create.cpp:69
 msgid "Time limit"
@@ -969,7 +976,7 @@ msgstr "Лимит времени"
 
 #: src/multiplayer_create.cpp:155
 msgid "Enables user time limit"
-msgstr "Включить ограничение времени для пользователей"
+msgstr "Включить ограничение времени на ходы игроков."
 
 #: src/multiplayer_create.cpp:402
 msgid "Init. limit: "
@@ -1001,7 +1008,7 @@ msgstr "Бонус действия: "
 
 #: src/multiplayer_create.cpp:179
 msgid "Time for each attack, recruit, and capture"
-msgstr "Время для атаки, найма и захвата"
+msgstr "Время для атаки, найма и захвата."
 
 #: src/multiplayer_create.cpp:212
 msgid "Share View"
@@ -1048,22 +1055,22 @@ msgid ""
 "(Games are saved automatically when you complete a scenario)"
 msgstr ""
 "Нет сохраненных игр, которые можно загрузить.\n"
-"(Когда вы завершаете сценарий, игра автоматически сохраняется)"
+"(Когда вы завершаете сценарий, игра сохраняется автоматически)"
 
 # Заголовок диалога
 #: src/dialogs.cpp:626
 #: src/multiplayer_create.cpp:115
 msgid "Load Game"
-msgstr "Загрузить игру"
+msgstr "Загрузка игры"
 
 #: src/dialogs.cpp:627
 msgid "Choose the game to load"
-msgstr "Которую игру загрузить?"
+msgstr "Выберите файл сохранения."
 
 
 #: src/dialogs.cpp:609
 msgid "Date"
-msgstr "Дата"
+msgstr "Время"
 
 #region Информация
 #: src/dialogs.cpp:470
@@ -1102,7 +1109,7 @@ msgstr "Сложность: "
 
 #: src/dialogs.cpp:516
 msgid "Version: "
-msgstr "Версия: "
+msgstr "Версия игры: "
 #endregion
 
 
@@ -1112,7 +1119,7 @@ msgstr "Показать повтор"
 
 #: src/dialogs.cpp:647
 msgid "Cancel orders"
-msgstr "Отмена"
+msgstr "Отменить приказы"
 
 #: src/dialogs.cpp:656
 msgid "Delete Save"
@@ -1132,7 +1139,7 @@ msgstr "Я готов"
 #region Заголовки столбцов
 #: src/multiplayer_connect.cpp:1026
 msgid "Player/Type"
-msgstr "Игрок/Тип"
+msgstr "Игрок"
 
 #: src/multiplayer_connect.cpp:1027
 msgid "Faction"
@@ -1140,7 +1147,7 @@ msgstr "Фракция"
 
 #: src/multiplayer_connect.cpp:1028
 msgid "Team/Gender"
-msgstr "Команда/пол"
+msgstr "Команда"
 
 #: src/multiplayer_connect.cpp:1029
 msgid "Color"
@@ -1167,21 +1174,21 @@ msgstr "Пусто"
 
 #: src/multiplayer_connect.cpp:762
 msgid "--give--"
-msgstr "--дать--"
+msgstr "— выдать игроку —"
 #endregion
 
 #region Тип ИИ
 #. [ai]: id=testing_ai_default
 #: data/ai/ais/testing_ai_default.cfg:5
 msgid "Multiplayer_AI^RCA AI"
-msgstr "ИИ мультиплеера"
+msgstr "RCA"
 #endregion
 
 #region Лидер
 #: src/leader_list.cpp:163
 #: src/leader_list.cpp:188
 msgid "Random"
-msgstr "Случайная"
+msgstr "Случайный"
 
 #: src/leader_list.cpp:236
 #: src/leader_list.cpp:242
@@ -1241,19 +1248,20 @@ msgstr "+"
 
 #: src/multiplayer_connect.cpp:943
 msgid "Only random sides in the current era."
-msgstr "Только случайные стороны могут быть в текущей эре"
+msgstr "В текущей эре разрешены только случайные стороны."
 
+# Скорей всего "доступных лидеров", но я эту ошибку не встречал.
 #: src/multiplayer_connect.cpp:967
 msgid "Unable to find a leader type for faction $faction"
-msgstr "Не могу найти тип лидера для фракции $faction"
+msgstr "Не удаётся найти тип лидера для фракции $faction."
 
 #: src/multiplayer_connect.cpp:1045
 msgid "The scenario is invalid because it has no id."
-msgstr "Этот сценарий неправильный, потому что в нём нет id"
+msgstr "Это некорректный сценарий: в нём не задан идентификатор."
 
 #: src/multiplayer_connect.cpp:1049
 msgid "The scenario is invalid because it has no sides."
-msgstr "Этот сценарий неправильный, потому что в нем нет сторон."
+msgstr "Это некорректный сценарий: в нём не заданы стороны."
 
 
 #2 ***** Сама игра *****
@@ -1302,7 +1310,7 @@ msgstr "доход"
 #: src/play_controller.cpp:241
 #: src/replay_controller.cpp:133
 msgid "current local time"
-msgstr "осталось времени"
+msgstr "текущее время"
 
 #: src/play_controller.cpp:239
 msgid "time left for current turn"
@@ -1390,7 +1398,7 @@ msgstr "Теневые бойцы: "
 
 #: src/reports.cpp:175
 msgid "Type: "
-msgstr "Тип:"
+msgstr "Тип: "
 
 #: src/reports.cpp:195
 msgid "Race: "
@@ -1469,28 +1477,28 @@ msgstr "Продвинулись"
 #: src/statistics_dialog.cpp:82
 #: src/statistics_dialog.cpp:155
 msgid "Losses"
-msgstr "Потеряли"
+msgstr "Потери"
 
 #: src/statistics_dialog.cpp:87
 #: src/statistics_dialog.cpp:166
 msgid "Kills"
-msgstr "Убили"
+msgstr "Убийства"
 
 #: src/statistics_dialog.cpp:175
 msgid "Damage"
-msgstr "Ущерб"
+msgstr "Урон"
 
 #: src/statistics_dialog.cpp:182
 msgid "Inflicted"
-msgstr "Нанесли ущерба"
+msgstr "Нанесённый"
 
 #: src/statistics_dialog.cpp:187
 msgid "Taken"
-msgstr "Получили ущерба"
+msgstr "Полученный"
 
 #: src/statistics_dialog.cpp:176
 msgid "Overall"
-msgstr "Всего"
+msgstr "За весь бой"
 
 #: src/statistics_dialog.cpp:178
 msgid "This Turn"
@@ -1518,7 +1526,7 @@ msgstr "Отправить только наблюдателям"
 #region Завершение хода
 #: src/menu_events.cpp:1371
 msgid "You cannot end your turn yet!"
-msgstr "Вам пока не можете закончить ход!"
+msgstr "Вы пока не можете закончить ход!"
 
 #: src/menu_events.cpp:1398
 msgid "You have not started your turn yet. Do you really want to end your turn?"
@@ -1527,14 +1535,14 @@ msgstr "Вы еще не начинали свой ход. Вы действит
 #: src/menu_events.cpp:1406
 #: src/menu_events.cpp:1411
 msgid "Some units have movement left. Do you really want to end your turn?"
-msgstr "Некоторые бойцы еще не сделали ход. Вы действительно хотите завершить свой ход?"
+msgstr "Некоторые бойцы ещё не ходили. Вы действительно хотите завершить свой ход?"
 #endregion
 
 #region Вербовка бойцов
 # Заголовок диалога
 #: src/menu_events.cpp:737
 msgid "Recruit"
-msgstr "Завербовать"
+msgstr "Вербовка бойцов"
 
 #: src/menu_events.cpp:738
 #: src/menu_events.cpp:943
@@ -1566,21 +1574,21 @@ msgstr "В замке нет свободных полей для нового �
 
 #: src/menu_events.cpp:786
 msgid "You don’t have enough gold to recruit that unit"
-msgstr "У вас недостаточно золота для вербовки данного бойца"
+msgstr "У вас недостаточно золота для вербовки данного бойца."
 #endregion
 
 #region Призыв бойцов
 # Заголовок диалога
 #: src/menu_events.cpp:942
 msgid "Recall"
-msgstr "Призвать"
+msgstr "Призыв бойцов"
 
 #: src/menu_events.cpp:867
 msgid ""
 "There are no troops available to recall\n"
 "(You must have veteran survivors from a previous scenario)"
 msgstr ""
-"Нет войск для призыва\n"
+"Нет войск для призыва.\n"
 "(У вас должны быть уцелевшие с прошлого сценария бойцы)"
 
 #: src/actions.cpp:501
@@ -1601,7 +1609,7 @@ msgstr "В замке нет свободных полей для этого б�
 
 #: src/menu_events.cpp:840
 msgid "You are separated from your soldiers and may not recall them"
-msgstr "Вы отделены от ваших солдат и не можете призывать их"
+msgstr "Вы отделены от своих солдат и не можете их призывать."
 
 #: src/menu_events.cpp:873
 msgid "You currently can't recall at the highlighted location"
@@ -1610,9 +1618,9 @@ msgstr "Вы сейчас не можете призывать на этом п�
 #: src/menu_events.cpp:988
 msgid "You must have at least 1 gold piece to recall a unit"
 msgid_plural "You must have at least $cost gold pieces to recall a unit"
-msgstr[0] "У вас должна быть хотя бы $cost золотая монета для призыва бойца"
-msgstr[1] "У вас должны быть хотя бы $cost золотые монеты для призыва бойца"
-msgstr[2] "У вас должно быть хотя бы $cost золотых монет для призыва бойца"
+msgstr[0] "У вас должна быть хотя бы $cost золотая монета для призыва бойца."
+msgstr[1] "У вас должны быть хотя бы $cost золотые монеты для призыва бойца."
+msgstr[2] "У вас должно быть хотя бы $cost золотых монет для призыва бойца."
 #endregion
 
 #: src/menu_events.cpp:1452
@@ -1626,7 +1634,7 @@ msgstr "Уволить бойца"
 
 #: src/menu_events.cpp:99
 msgid "My lord, this unit is loyal and requires no upkeep! "
-msgstr "Милорд, этот боец Верный и не требует содержания!"
+msgstr "Милорд, этот боец вам предан и не требует содержания!"
 
 #: src/menu_events.cpp:102
 msgid "My lord, this unit is an experienced one, having advanced levels! "
@@ -1640,13 +1648,13 @@ msgstr "Милорд, этот боец скоро может получить �
 #: src/menu_events.cpp:102
 #: src/menu_events.cpp:106
 msgid "Do you really want to dismiss him?"
-msgstr "Вы действительно хотите распустить его?"
+msgstr "Вы действительно хотите от него избавиться?"
 
 #: src/menu_events.cpp:100
 #: src/menu_events.cpp:103
 #: src/menu_events.cpp:107
 msgid "Do you really want to dismiss her?"
-msgstr "Вы действительно хотите распустить её?"
+msgstr "Вы действительно хотите от неё избавиться?"
 #endregion
 
 #region Диалог битвы
@@ -1665,7 +1673,7 @@ msgstr "Выберите оружие:"
 #: src/attack_prediction_display.cpp:545
 #: src/mouse_events.cpp:878
 msgid "Damage Calculations"
-msgstr "Подсчёт ущерба"
+msgstr "Подсчёт урона"
 
 #: src/attack_prediction_display.cpp:105
 #: src/attack_prediction_display.cpp:237
@@ -1679,7 +1687,7 @@ msgstr "Защищающийся"
 
 #: src/attack_prediction_display.cpp:238
 msgid " resistance vs "
-msgstr " стойкий против "
+msgstr " стоек против "
 
 #: src/attack_prediction_display.cpp:239
 msgid " vulnerability vs "
@@ -1927,7 +1935,7 @@ msgstr "Выйти"
 #region Отладка
 #: src/menu_events.cpp:1556
 msgid "Create Unit (Debug!)"
-msgstr "Создать бойца (Отладка!)"
+msgstr "Создать бойца (отладка!)"
 #endregion
 
 
@@ -1941,7 +1949,7 @@ msgstr "Ваша деревня"
 
 #: src/terrain.cpp:159
 msgid "Allied village"
-msgstr "Союзническая деревня"
+msgstr "Деревня союзника"
 
 #: src/terrain.cpp:164
 msgid "Enemy village"
@@ -1952,7 +1960,7 @@ msgstr "Деревня врага"
 
 #: src/playsingle_controller.cpp:691
 msgid "It is now $name|’s turn"
-msgstr "Сейчас ход $name|"
+msgstr "Ходит $name|."
 
 #region Обнаружение войск
 # ignore-interpolations: $friends
@@ -1978,14 +1986,14 @@ msgstr "Вижу войска! ($friendphrase, $enemyphrase)"
 #: src/actions.cpp:2775
 msgid "Part of 'Units sighted! (...)' sentence^1 friendly"
 msgid_plural "$friends friendly"
-msgstr[0] "$friends дружественный, "
-msgstr[1] "$friends дружественных, "
-msgstr[2] "$friends дружественных, "
+msgstr[0] "$friends дружественного"
+msgstr[1] "$friends дружественных"
+msgstr[2] "$friends дружественных"
 
 #: src/actions.cpp:2776
 msgid "Part of 'Units sighted! (...)' sentence^1 enemy"
 msgid_plural "$enemies enemy"
-msgstr[0] "$enemies вражеский"
+msgstr[0] "$enemies вражеского"
 msgstr[1] "$enemies вражеских"
 msgstr[2] "$enemies вражеских"
 
@@ -2208,7 +2216,7 @@ msgstr "Процент, сохраняющийся в следующем сце�
 
 #: src/playsingle_controller.cpp:276
 msgid "Bonus Gold: "
-msgstr "Бонус: "
+msgstr "Итого: "
 
 #: src/playsingle_controller.cpp:278
 msgid "Retained Gold: "
@@ -3688,7 +3696,7 @@ msgstr ""
 
 #: src/addon/manager.cpp:423
 msgid "unit_byte^B"
-msgstr "б"
+msgstr "B"
 
 #: src/addon/manager.cpp:440
 msgid "addon_type^Campaign"
@@ -3724,11 +3732,11 @@ msgstr "Ресурсы"
 
 #: src/addon/manager.cpp:456
 msgid "addon_type^Other"
-msgstr "Другой"
+msgstr "Другое"
 
 #: src/addon/manager.cpp:458
 msgid "addon_type^(unknown)"
-msgstr "(неизвестен)"
+msgstr "(неизвестно)"
 
 #: src/addon/manager.cpp:481
 msgid "Requesting terms"
@@ -3819,9 +3827,9 @@ msgstr "Установить зависимости"
 #: src/addon/manager.cpp:799
 msgid "The selected add-on has the following dependency. Do you want to install it?"
 msgid_plural "The selected add-on has the following dependencies. Do you want to install them?"
-msgstr[0] "Выбранный аддон имеет следующую зависимость. Вы хотите установить её?"
-msgstr[1] "Выбранный аддон имеет следующие зависимости. Вы хотите устаносить их?"
-msgstr[2] "Выбранный аддон имеет следующие зависимости. Вы хотите устаносить их?"
+msgstr[0] "Выбранный аддон имеет следующую зависимость. Вы хотите её установить?"
+msgstr[1] "Выбранный аддон имеет следующие зависимости. Вы хотите их устаносить?"
+msgstr[2] "Выбранный аддон имеет следующие зависимости. Вы хотите их устаносить?"
 
 #: src/addon/manager.cpp:828
 msgid "Installation of a dependency failed"
@@ -3848,7 +3856,7 @@ msgstr[2] "Эти аддоны не удалось скачать или обн�
 
 #: src/addon/manager.cpp:907
 msgid "Outdated add-ons"
-msgstr "Устаревший аддоны"
+msgstr "Устаревшие аддоны"
 
 #: src/addon/manager.cpp:909
 msgid "An outdated local add-on has publishing information attached. It will not be offered for updating."
@@ -3895,15 +3903,15 @@ msgstr "Обновление не удалось"
 
 #: src/addon/manager.cpp:1082
 msgid "Update succeeded"
-msgstr "Обновление завершено успешно"
+msgstr "Обновлено"
 
 #: src/addon/manager.cpp:1083
 msgid "Add-on updated successfully."
-msgstr "Аддон успешно обновлён"
+msgstr "Аддон успешно обновлён."
 
 #: src/addon/manager.cpp:1084
 msgid "All add-ons updated successfully."
-msgstr "Все аддоны обновлены успешно"
+msgstr "Все ваши аддоны успешно обновлены."
 
 #: src/addon/manager.cpp:1098
 msgid "You seem to be the author of '$addon|'. Downloading '$addon|' may overwrite any changes you have made since the last upload and may delete your pbl file. Do you really wish to continue?"
@@ -3922,7 +3930,7 @@ msgstr "Подключение..."
 
 #: src/addon/manager.cpp:1128
 msgid "Requesting list of add-ons"
-msgstr "Запрашиваю список аддонов"
+msgstr "Получение списка аддонов"
 
 #: src/addon/manager.cpp:1147
 msgid "An error occurred while communicating with the server."
@@ -3946,7 +3954,7 @@ msgstr "На этом сервере нет доступных для загру
 
 #: src/addon/manager.cpp:1284
 msgid "Get add-ons"
-msgstr "Получить аддоны"
+msgstr "Установка аддонов"
 
 #: src/addon/manager.cpp:1285
 msgid "Choose the add-on to download."
@@ -3973,7 +3981,7 @@ msgstr "Описание"
 
 #: src/addon/manager.cpp:1326
 msgid "Deleting '$addon|' will permanently erase its download and upload counts on the add-ons server. Do you really wish to continue?"
-msgstr "Если вы удалите '$addon|', то тем самым навсегда удалите с сервера статистиику закачиваний и скачиваний. Вы точно хотите продолжить?"
+msgstr "Если вы удалите '$addon|', вся статистика его закачиваний и скачиваний так же будет навсегда удалена с сервера. Вы точно хотите это сделать?"
 
 #: src/addon/manager.cpp:1361
 msgid "Network communication error."
@@ -3997,9 +4005,9 @@ msgstr "У вас нет установленных аддонов."
 #: src/addon/manager.cpp:1418
 msgid "Are you sure you want to remove the following installed add-on?"
 msgid_plural "Are you sure you want to remove the following installed add-ons?"
-msgstr[0] "Вы уверены, что хотите удалить следующий аддон?"
-msgstr[1] "Вы уверены, что хотите удалить следующие аддоны?"
-msgstr[2] "Вы уверены, что хотите удалить следующие аддоны?"
+msgstr[0] "Вы действительно хотите удалить следующий аддон?"
+msgstr[1] "Вы действительно хотите удалить следующие аддоны?"
+msgstr[2] "Вы действительно хотите удалить следующие аддоны?"
 
 #: src/addon/manager.cpp:554
 msgid "Requesting the addon to be deleted"
@@ -4008,16 +4016,16 @@ msgstr "Запрашиваю удаление аддона"
 #: src/addon/manager.cpp:1444
 msgid "The following add-on appears to have publishing or version control information stored locally, and will not be removed:"
 msgid_plural "The following add-ons appear to have publishing or version control information stored locally, and will not be removed:"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Следующий аддон, похоже, хранит историю версий локально, и не будет удалён:"
+msgstr[1] "Следующие аддоны, похоже, хранят историю версий локально, и не будут удалены:"
+msgstr[2] "Следующие аддоны, похоже, хранят историю версий локально, и не будут удалены:"
 
 #: src/addon/manager.cpp:1454
 msgid "The following add-on could not be deleted properly:"
 msgid_plural "The following add-ons could not be deleted properly:"
-msgstr[0] "Не удалось правильно удалить аддон:"
-msgstr[1] "Не удалось правильно удалить аддоны:"
-msgstr[2] "Не удалось правильно удалить аддоны:"
+msgstr[0] "Не удалось корректно удалить аддон:"
+msgstr[1] "Не удалось корректно удалить аддоны:"
+msgstr[2] "Не удалось корректно удалить аддоны:"
 
 #: src/addon/manager.cpp:1461
 msgid "Add-on Deleted"
@@ -4503,7 +4511,7 @@ msgstr "нет"
 #: src/reports.cpp:155
 #: src/savegame.cpp:722
 msgid "Name: "
-msgstr "Название: "
+msgstr "Имя: "
 
 #: src/addon/manager.cpp:749
 #: src/addon/manager.cpp:1164
@@ -4740,7 +4748,7 @@ msgstr "точка зрения"
 #. [menu]: id=skip-animation, type=checkbox
 #: data/themes/macros.cfg:147
 msgid "Skip animation"
-msgstr "Пропустить анимацию"
+msgstr "пропускать анимацию"
 #endregion
 
 #: src/dialogs.cpp:264
@@ -4769,7 +4777,7 @@ msgstr "Ходов: "
 
 #: src/dialogs.cpp:1124
 msgid "KB"
-msgstr "кб"
+msgstr "КБ"
 
 #: src/game_config.cpp:328
 msgid "Invalid color range: "
@@ -4804,7 +4812,7 @@ msgstr "Вы действительно хотите запустить серв
 
 #: src/game_controller.cpp:963
 msgid "The server will run in a background process until all users have disconnected."
-msgstr "Сервер будет работать фоновым процессом, пока все пользователи не отсоединятся."
+msgstr "Сервер будет работать фоновым процессом, пока не отсоединятся все игроки."
 
 #: src/game_controller.cpp:967
 msgid "Don’t show again"
@@ -4835,9 +4843,9 @@ msgstr "Игровая карта не может быть загружена: "
 #: src/game_controller.cpp:1195
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
-msgstr[0] "Следующий аддон имеет ошибки и не может быть загружен:"
-msgstr[1] "Следующие аддоны имеют ошибки и не могут быть загружены:"
-msgstr[2] "Следующие аддоны имеют ошибки и не могут быть загружены:"
+msgstr[0] "Следующий аддон содержит ошибки и не может быть загружен:"
+msgstr[1] "Следующие аддоны содержат ошибки и не могут быть загружены:"
+msgstr[2] "Следующие аддоны содержат ошибки и не могут быть загружены:"
 
 #: src/game_controller.cpp:1202
 msgid "ERROR DETAILS:"
@@ -4881,7 +4889,7 @@ msgstr "Язык по умолчанию"
 
 #: src/map.cpp:194
 msgid "A map without a header is not supported"
-msgstr "Карты без заголовка не поддерживаются"
+msgstr "Карты без заголовка не поддерживаются."
 
 #: src/mapgen.cpp:743
 msgid "Random maps with an odd width aren't supported."
@@ -4889,7 +4897,7 @@ msgstr "Случайные карты с нечётной шириной не п
 
 #: src/mapgen.cpp:1007
 msgid "No valid castle location found. Too many or too few mountain hexes? (please check the 'max hill size' parameter)"
-msgstr "Не найдено допустимое расположение замка. Слишком много, или слишком мало гор? (проверьте параметр «максимальный размер холма»)"
+msgstr "Не найдено допустимое расположение замка. Слишком много или слишком мало гор? (проверьте параметр «максимальный размер холма»)"
 
 #: src/menu_events.cpp:202
 msgid "Statistics"
@@ -5149,23 +5157,23 @@ msgstr "запрашиваю информацию о пользователе $n
 
 #: src/menu_events.cpp:3108
 msgid "Couldn't find label or unit containing the string '$search'."
-msgstr "Не могу найти метку или бойца с текстом «$search»."
+msgstr "Не удается найти метку или бойца по тексту \"$search\"."
 
 #: src/menu_events.cpp:3142
 msgid "Can't droid invalid side: '$side'."
-msgstr "Нельзя переключить на ИИ неверную сторону: '$side'."
+msgstr "Нельзя переключить на ИИ неверную сторону:  '$side'."
 
 #: src/menu_events.cpp:3147
 msgid "Can't droid networked side: '$side'."
-msgstr "Нельзя переключить на ИИ сетевую сторону: '$side'."
+msgstr "Нельзя переключить на ИИ сетевую сторону:  '$side'."
 
 #: src/menu_events.cpp:3185
 msgid "Can't change control of invalid side: '$side'."
-msgstr "Не могу изменить управление неверной стороной: '$side'."
+msgstr "Нельзя изменить управление неверной стороной:  '$side'."
 
 #: src/menu_events.cpp:3191
 msgid "Can't change control of out-of-bounds side: '$side'."
-msgstr "Не могу изменить управление вышедшей из пределов стороны: '$side'. "
+msgstr "Не могу изменить управление вышедшей из пределов стороны:  '$side'. "
 
 #: src/menu_events.cpp:3275
 msgid "Layers"
@@ -5173,7 +5181,7 @@ msgstr "Слои"
 
 #: src/menu_events.cpp:3348
 msgid "Choose Scenario (Debug!)"
-msgstr "Выберите сценарий (Отладка!)"
+msgstr "Выбрать сценарий (отладка!)"
 
 #: src/menu_events.cpp:3394
 msgid "Debug mode activated!"
@@ -5193,7 +5201,7 @@ msgstr "Небезопасные скрипты на Lua"
 
 #: src/menu_events.cpp:3414
 msgid "You are about to open a security breach in Wesnoth. Are you sure you want to continue? If you have downloaded add-ons, do not click 'ok'! They would instantly take over your computer. You have been warned."
-msgstr "Вы собираетесь открыть «дыру в безопасности» в «Весноте». Вы уверены, что хотите это сделать? Если вы скачиваете адд-он, не нажимайте «OK»! Он моментально захватит ваш компьютер. Мы вас предупредили."
+msgstr "Вы собираетесь открыть «дыру в безопасности» в «Весноте». Вы уверены, что хотите это сделать? Если вы скачиваете аддон, не нажимайте \"OK\"! Он моментально захватит ваш компьютер. Мы вас предупредили."
 
 #: src/menu_events.cpp:3417
 msgid "Unsafe mode enabled!"
@@ -5307,7 +5315,7 @@ msgstr "Неверный цвет"
 
 #: src/multiplayer_ui.cpp:425
 msgid "Selected user: "
-msgstr "Выберите пользователя: "
+msgstr "Выбранный игрок: "
 
 #: src/multiplayer_wait.cpp:129
 msgid "Leader: "
@@ -5356,26 +5364,26 @@ msgstr "неверный сетевой оператор"
 #: src/network_manager_ana.cpp:780
 #: src/network_manager_ana.cpp:787
 msgid "Client disconnected"
-msgstr "Клиент отключен"
+msgstr "Клиент отключился"
 
 #: src/network.cpp:398
 #: src/network.cpp:406
 msgid "Could not connect to host."
-msgstr "Не могу подключиться к серверу."
+msgstr "Не удается подключиться к серверу."
 
 #: src/network.cpp:565
 msgid "Could not add socket to socket set"
-msgstr "Невозможно добавить сокет к набору сокетов"
+msgstr "Не удается добавить сокет к набору сокетов"
 
 #: src/network.cpp:577
 msgid "Could not send initial handshake"
-msgstr "Невозможно отправить данные для инициализации"
+msgstr "Не удается отправить данные для инициализации"
 
 #: src/network_manager_ana.cpp:650
 #: src/network_manager_ana.cpp:667
 #: src/network_manager_ana.cpp:689
 msgid "Could not connect to host"
-msgstr "Невозможно подключиться к серверу"
+msgstr "Не удается подключиться к серверу"
 
 #: src/pathfind/pathfind.cpp:455
 msgid "Terrain with a movement cost less than 1 encountered."
@@ -5415,7 +5423,7 @@ msgstr "(Атака / Защ)"
 
 #: src/reports.cpp:443
 msgid "Experience Modifier: "
-msgstr "Experience Modifier: "
+msgstr "Модификатор опыта: "
 
 #region Защита
 #: src/reports.cpp:494
@@ -5432,7 +5440,7 @@ msgstr "мин."
 
 #: src/reports.cpp:517
 msgid "Defense: "
-msgstr "Защита:"
+msgstr "Защита: "
 #endregion
 
 #region Атака
@@ -5440,16 +5448,16 @@ msgstr "Защита:"
 #: src/reports.cpp:790
 #: src/reports.cpp:802
 msgid "Weapon: "
-msgstr "Оружие: "
+msgstr "Атака: "
 
 #: src/reports.cpp:601
 #: src/reports.cpp:791
 msgid "Damage: "
-msgstr "Ущерб:"
+msgstr "Урон: "
 
 #: src/reports.cpp:605
 msgid "Base damage: "
-msgstr "Базовый урон: "
+msgstr "Базовый: "
 
 #: src/reports.cpp:607
 msgid "Time of day: "
@@ -5469,17 +5477,17 @@ msgstr "Рой: "
 
 #: src/reports.cpp:619
 msgid "Attacks: "
-msgstr "Виды атак:"
+msgstr "Удары: "
 
 #: src/reports.cpp:621
 msgid "Base attacks: "
-msgstr "Базовые атаки: "
+msgstr "Базовые: "
 #endregion
 
 #region Тип атаки
 #: src/reports.cpp:635
 msgid "Weapon range: "
-msgstr "Дальность оружия: "
+msgstr "Дальность боя: "
 
 #: src/reports.cpp:636
 msgid "Damage type: "
@@ -5487,12 +5495,12 @@ msgstr "Тип повреждений: "
 
 #: src/reports.cpp:637
 msgid "Damage versus: "
-msgstr "Тип повреждений: "
+msgstr "Урон врагам: "
 #endregion
 
 #: src/reports.cpp:703
 msgid "Weapon special: "
-msgstr "Особенность оружия: "
+msgstr "Особенность атаки: "
 
 
 #: src/reports.cpp:681
@@ -5561,7 +5569,7 @@ msgstr "Игра успешно сохранена"
 #: src/savegame.cpp:833
 #: src/savegame.cpp:858
 msgid "Could not write to file"
-msgstr "Не могу записать в файл"
+msgstr "Не удается записать файл"
 
 #: src/savegame.cpp:971
 msgid "Save Replay"
@@ -5595,7 +5603,7 @@ msgstr "Незавершенный тэг [element]"
 #: src/serialization/parser.cpp:170
 #: src/serialization/parser.cpp:218
 msgid "Invalid tag name"
-msgstr "Неправильное название тэга"
+msgstr "Неверное имя тэга"
 
 #: src/serialization/parser.cpp:173
 msgid "Unterminated [+element] tag"
@@ -5603,7 +5611,7 @@ msgstr "Незавершенный тэг [+element]"
 
 #: src/serialization/parser.cpp:195
 msgid "Invalid closing tag name"
-msgstr "Неверное название закрывающего тэга"
+msgstr "Неверное имя закрывающего тэга"
 
 #: src/serialization/parser.cpp:198
 msgid "Unterminated closing tag"
@@ -5620,11 +5628,11 @@ msgstr "Найден неверный закрывающий тэг $tag2 для
 #: src/serialization/parser.cpp:237
 #: src/serialization/parser.cpp:249
 msgid "Empty variable name"
-msgstr "Пустое название переменной"
+msgstr "Не указано имя переменной"
 
 #: src/serialization/parser.cpp:243
 msgid "Unexpected characters after variable name (expected , or =)"
-msgstr "Неожиданные символы после переменной имени (ожидается , или =)"
+msgstr "Неожиданные символы после имени переменной (ожидается , или =)"
 
 #: src/serialization/parser.cpp:282
 #: src/serialization/parser.cpp:310
