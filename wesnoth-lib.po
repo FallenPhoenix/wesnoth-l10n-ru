@@ -349,16 +349,16 @@ msgstr "Масштаб по умолчанию"
 
 #: src/hotkeys.cpp:66
 msgid "Toggle Full Screen"
-msgstr "Переключить полный экран"
+msgstr "Полноэкранный режим"
 
 #: src/hotkeys.cpp:67
 #: src/hotkeys.cpp:1172
 msgid "Screenshot"
-msgstr "Сделать скриншот"
+msgstr "Снимок экрана"
 
 #: src/hotkeys.cpp:68
 msgid "Map Screenshot"
-msgstr "Сделать скриншот карты"
+msgstr "Снимок всей карты"
 
 #: src/hotkeys.cpp:80
 msgid "Toggle Ellipses"
@@ -372,6 +372,7 @@ msgstr "Показать подсказку"
 msgid "Toggle Grid"
 msgstr "Показать сетку"
 
+# Не понятно, для чего хоткей
 #: src/hotkeys.cpp:82
 msgid "Mouse Scrolling"
 msgstr "Прокрутка мышью"
@@ -382,7 +383,7 @@ msgstr "Выключить звук"
 
 #: src/hotkeys.cpp:206
 msgid "Enter User Command"
-msgstr "Ввести команду пользователя"
+msgstr "Ввести консольную команду"
 
 
 #2 ***** Титульный экран *****
@@ -486,17 +487,17 @@ msgstr "Панель состояния"
 
 #: src/hotkeys.cpp:85
 msgid "Speak"
-msgstr "Говорить"
+msgstr "Написать в чат"
 
 #. [label]
 #: data/gui/default/window/unit_create.cfg:45
 #: src/hotkeys.cpp:86
 msgid "Create Unit (Debug!)"
-msgstr "Создать бойца (Отладка!)"
+msgstr "Создать бойца (отладка!)"
 
 #: src/hotkeys.cpp:87
 msgid "Change Side (Debug!)"
-msgstr "Сменить сторону бойца (Отладка!)"
+msgstr "Сменить сторону бойца (отладка!)"
 
 #: src/hotkeys.cpp:89
 msgid "Scenario Objectives"
@@ -512,7 +513,7 @@ msgstr "Статистика"
 
 #: src/hotkeys.cpp:92
 msgid "Pause Network Game"
-msgstr "Пауза в сетевой игре"
+msgstr "Приостановить сетевую игру"
 
 #: src/hotkeys.cpp:93
 msgid "Continue Network Game"
@@ -582,7 +583,7 @@ msgstr "Пропустить анимацию"
 
 #: src/hotkeys.cpp:113
 msgid "Toggle Planning Mode"
-msgstr "Переключить режим планирования"
+msgstr "Режим планирования"
 
 #: src/hotkeys.cpp:114
 msgid "Execute Planned Action"
@@ -626,11 +627,11 @@ msgstr "Найти метку или бойца"
 
 #: src/hotkeys.cpp:200
 msgid "Speak to Ally"
-msgstr "Сказать союзникам"
+msgstr "Написать союзникам"
 
 #: src/hotkeys.cpp:201
 msgid "Speak to All"
-msgstr "Сказать всем"
+msgstr "Написать всем"
 
 #: src/hotkeys.cpp:209
 msgid "Clear Messages"
@@ -647,7 +648,7 @@ msgstr "Пользовательская команда"
 #: src/hotkeys.cpp:208
 #| msgid "Run AI formula"
 msgid "Run Formula"
-msgstr "Запустить формулу"
+msgstr "Запустить формулу ИИ"
 
 
 #2 ***** Редактор *****
@@ -659,7 +660,7 @@ msgstr "Загрузить карту"
 
 #: src/hotkeys.cpp:129
 msgid "Save Map As"
-msgstr "Сохранить карту как"
+msgstr "Сохранить карту как..."
 
 #: src/hotkeys.cpp:130
 msgid "Save All Maps"
@@ -697,11 +698,11 @@ msgstr "Инструмент «Заливка»"
 
 #: src/hotkeys.cpp:138
 msgid "Selection Tool"
-msgstr "Инструмент выбора"
+msgstr "Инструмент «Выделение»"
 
 #: src/hotkeys.cpp:140
 msgid "Set Starting Positions Tool"
-msgstr "Инструмент «Начальная позиция»"
+msgstr "Инструмент «Стартовая позиция»"
 
 #: src/hotkeys.cpp:135
 msgid "Next Tool"
@@ -717,7 +718,7 @@ msgstr "Кисть по умолчанию"
 
 #: src/hotkeys.cpp:134
 msgid "Swap Foreground/Background Terrains"
-msgstr "Поменять местами основной и фоновой ландшафты"
+msgstr "Обменять основной и фоновый ландшафты"
 #endregion
 
 #region Правка
@@ -739,19 +740,19 @@ msgstr "Вставить"
 
 #: src/hotkeys.cpp:146
 msgid "Export Selected Coordinates to System Clipboard"
-msgstr "Экспортировать координаты выбора в буфер обмена"
+msgstr "Копировать координаты выделения"
 
 #: src/hotkeys.cpp:148
 msgid "Select All"
-msgstr "Выбрать всё"
+msgstr "Выделить всё"
 
 #: src/hotkeys.cpp:150
 msgid "Select Inverse"
-msgstr "Выбрать инверсно"
+msgstr "Обратить выделение"
 
 #: src/hotkeys.cpp:152
 msgid "Select None"
-msgstr "Сбросить выбор"
+msgstr "Снять выделение"
 
 #: src/hotkeys.cpp:154
 msgid "Rotate Clipboard Clockwise"
@@ -763,31 +764,31 @@ msgstr "Повернуть буфер обмена против часовой"
 
 #: src/hotkeys.cpp:158
 msgid "Flip Clipboard Horizontally"
-msgstr "Перевернуть буфер обмена по горизонтали"
+msgstr "Отразить буфер обмена по горизонтали"
 
 #: src/hotkeys.cpp:160
 msgid "Flip Clipboard Vertically"
-msgstr "Перевернуть буфер обмена по вертикали"
+msgstr "Отразить буфер обмена по вертикали"
 
 #: src/hotkeys.cpp:162
 msgid "Rotate Selection"
-msgstr "Повернуть выделение"
+msgstr "Повернуть выделенную область"
 
 #: src/hotkeys.cpp:164
 msgid "Flip Selection"
-msgstr "Отразить выбранное"
+msgstr "Отразить выделенную область"
 
 #: src/hotkeys.cpp:166
 msgid "Fill Selection"
-msgstr "Заполнить выделение"
+msgstr "Залить выделенную область"
 
 #: src/hotkeys.cpp:168
 msgid "Generate Tiles In Selection"
-msgstr "Сгенерировать тайлы в выбранном"
+msgstr "Сгенерировать тайлы в выделенной области"
 
 #: src/hotkeys.cpp:170
 msgid "Randomize Tiles In Selection"
-msgstr "Случайные тайлы в выбранном"
+msgstr "Перемешать тайлы в выделенной области"
 #endregion
 
 #region Карта
@@ -797,7 +798,7 @@ msgstr "Повернуть карту"
 
 #: src/hotkeys.cpp:176
 msgid "Generate Map"
-msgstr "Создать карту"
+msgstr "Сгенерировать карту"
 
 #: src/hotkeys.cpp:178
 msgid "Apply a Mask"
@@ -833,7 +834,7 @@ msgstr "Показывать координаты полей"
 
 #: src/hotkeys.cpp:192
 msgid "Draw Terrain Codes"
-msgstr "Рисовать коды местностей"
+msgstr "Показывать коды местности"
 #endregion
 
 
