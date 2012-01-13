@@ -55,7 +55,7 @@ msgstr "Обучение"
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:223
 msgid "Start a tutorial to familiarize yourself with the game"
-msgstr "Начать обучающий сценарий, чтобы ознакомиться с игрой"
+msgstr "Сыграть обучающий сценарий для ознакомления с игрой."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:224
@@ -65,12 +65,12 @@ msgstr "Кампания"
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:224
 msgid "Start a new single player campaign"
-msgstr "Начать новую однопользовательскую кампанию"
+msgstr "Начать новую одиночную кампанию."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:225
 msgid "Play multiplayer (hotseat, LAN, or Internet), or a single scenario against the AI"
-msgstr "Играть многопользовательскую партию (хотсит, локальная сеть, или интернет), или одиночный сценарий против ИИ"
+msgstr "Начать многопользовательскую игру либо одиночный сценарий против компьютера."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:226
@@ -80,7 +80,7 @@ msgstr "Загрузить"
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:226
 msgid "Load a saved game"
-msgstr "Загрузить сохраненную игру"
+msgstr "Загрузить локальную сохранённую игру."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:227
@@ -90,7 +90,7 @@ msgstr "Аддоны"
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:227
 msgid "Download usermade campaigns, eras, or map packs"
-msgstr "Загрузить пользовательские кампании, эры или карты"
+msgstr "Скачать пользовательские сценарии, кампании и эры."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:228
@@ -100,17 +100,17 @@ msgstr "Редактор карт"
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:228
 msgid "Start the map editor"
-msgstr "Запустить редактор карт"
+msgstr "Открыть редактор карт."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:229
 msgid "Change the language"
-msgstr "Изменить язык игры"
+msgstr "Изменить язык игры."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:230
 msgid "Configure the game’s settings"
-msgstr "Изменить настройки игры"
+msgstr "Изменить настройки игры."
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:231
@@ -120,12 +120,12 @@ msgstr "Титры"
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:231
 msgid "View the credits"
-msgstr "Показать авторов"
+msgstr "Показать список разработчиков игры. "
 
 #. [grid]
 #: data/gui/default/window/title_screen.cfg:232
 msgid "Quit the game"
-msgstr "Выйти из игры"
+msgstr "Выйти из игры."
 
 #. [button]: id=help
 #: data/gui/default/window/title_screen.cfg:146
@@ -136,17 +136,17 @@ msgstr "Помощь"
 #. [button]: id=help
 #: data/gui/default/window/title_screen.cfg:147
 msgid "Show Battle for Wesnoth help"
-msgstr "Показать помощь"
+msgstr "Открыть справочник по «Битве за Веснот»."
 
 #. [button]: id=previous_tip
 #: data/gui/default/window/title_screen.cfg:163
 msgid "Show previous tip of the day"
-msgstr "Предыдущий совет"
+msgstr "Показать предыдущий совет."
 
 #. [button]: id=next_tip
 #: data/gui/default/window/title_screen.cfg:178
 msgid "Show next tip of the day"
-msgstr "Следующий совет"
+msgstr "Показать следующий совет."
 
 #: src/gui/dialogs/title_screen.cpp:296
 msgid "Version "
