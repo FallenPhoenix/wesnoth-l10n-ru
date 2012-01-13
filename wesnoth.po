@@ -2311,27 +2311,27 @@ msgstr "Пропущен аргумент $arg_id"
 #: src/menu_events.cpp:2154
 #: src/menu_events.cpp:2177
 msgid "help"
-msgstr "помощь"
+msgstr "справка"
 
 #: src/menu_events.cpp:2153
 msgid ""
 "Available commands $flags_description:\n"
 "$list_of_commands"
 msgstr ""
-"Доступные команды $flags_description:\n"
+"Доступные команды ($flags_description):\n"
 "$list_of_commands"
 
 #: src/menu_events.cpp:2296
 msgid "(A) — admin command"
-msgstr "(A) — админская команда"
+msgstr "A — админские"
 
 #: src/menu_events.cpp:2502
 msgid "(D) — debug only, (N) — network only, (A) — admin only"
-msgstr "(D) — отладочная команда, (N) — сетевая команда, (A) — админская команда"
+msgstr "D — отладочные, N — сетевые, A — админские"
 
 #: src/menu_events.cpp:2154
 msgid "Type $help_command <command> for more info."
-msgstr "введите $help_command <команда>, чтобы получить больше информации"
+msgstr "Для получение подробной информации по интересующей команде, введите $help_command <команда>."
 
 
 # Добавляется в конец описания всех отладочных команд.
@@ -2363,7 +2363,7 @@ msgstr "алиасы:"
 # /help ...
 #: src/menu_events.cpp:2165
 msgid " No help available."
-msgstr " Здесь нет подсказок."
+msgstr " — Описание недоступно."
 
 # /help query (q)
 #: src/menu_events.cpp:2323
@@ -2400,7 +2400,7 @@ msgstr "Кикнуть игрока или зрителя."
 # /help mute
 #: src/menu_events.cpp:2335
 msgid "Mute an observer. Without an argument displays the mute status."
-msgstr "Отключить реплики наблюдателей. Без параметра — отключает всех наблюдателей."
+msgstr "Отключить реплики наблюдателя. Без параметра — отключает всех наблюдателей."
 
 # /help unmute
 #: src/menu_events.cpp:2337
@@ -2410,11 +2410,11 @@ msgstr "Разрешить наблюдателю говорить. Без па�
 # /help muteall
 #: src/menu_events.cpp:2339
 msgid "Mute/Unmute all observers. (toggles)"
-msgstr "Запретить/разрешить всем зрителям говорить. (переключить)"
+msgstr "Запретить/разрешить говорить всем наблюдателям."
 
 #: src/menu_events.cpp:2349
 msgid "Report abuse, rule violations, etc. to the server moderators. Make sure to mention relevant nicknames, etc."
-msgstr "Сообщить о некорректном поведении, нарушении правил и т.п. модераторам сервера. Пожалуйста, правильно называйте ники и т.п."
+msgstr "Сообщить о некорректном поведении, нарушении правил и т.п. модераторам сервера. Ники и т.п. называйте, пожалуйста, точно."
 
 #: src/menu_events.cpp:2353
 msgid "<message>"
@@ -2428,7 +2428,7 @@ msgstr "Отправить эмоцию или действие в чате."
 # /help whisper
 #: src/menu_events.cpp:2356
 msgid "Sends a private message. You cannot send private messages to players in a running game you observe or play in."
-msgstr "Отправить приватное сообщение. Вы не можете отправлять сообщения игрокам, играющим в или наблюдающим за вашей партией."
+msgstr "Отправить личное сообщение. Вы не можете отправлять сообщения игрокам, играющим или наблюдающим за вашей партией."
 
 #: src/menu_events.cpp:2358
 msgid "<nickname> <message>"
@@ -2465,12 +2465,12 @@ msgstr "Показать списки друзей и игнора."
 # /help version
 #: src/menu_events.cpp:2373
 msgid "Display version information."
-msgstr "Позакать версию"
+msgstr "Показать версию игры."
 
 # /help register
 #: src/menu_events.cpp:2375
 msgid "Register your nickname"
-msgstr "Зарегистрировать свой ник"
+msgstr "Зарегистрировать свой ник."
 
 #: src/menu_events.cpp:2375
 msgid "<password> <email (optional)>"
@@ -2490,15 +2490,15 @@ msgstr "<параметр> <значение>"
 
 #: src/menu_events.cpp:2382
 msgid "Request information about a nickname."
-msgstr "Запросить данные о нике."
+msgstr "Запросить информацию о нике."
 
 #: src/menu_events.cpp:2384
 msgid "Request a list of details you can set for your registered nickname."
-msgstr "Запросить, какие данные можно менять для своего ника."
+msgstr "Запросить, какие данные можно менять в своём нике."
 
 #: src/menu_events.cpp:2386
 msgid "Join a room."
-msgstr "Зайти в комнату"
+msgstr "Зайти в комнату."
 
 #: src/menu_events.cpp:2386
 #: src/menu_events.cpp:2389
@@ -2512,7 +2512,7 @@ msgstr "Разделить комнату."
 
 #: src/menu_events.cpp:2391
 msgid "List room members."
-msgstr "Список игроков в комнате"
+msgstr "Список игроков в комнате."
 
 #: src/menu_events.cpp:2393
 msgid "List available rooms."
@@ -2548,7 +2548,7 @@ msgstr "[<сторона> [on/off]]"
 
 #: src/menu_events.cpp:2539
 msgid "Assign control of a side to a different player or observer."
-msgstr "Отдать контроль над стороной другому игроку или зрителю."
+msgstr "Передать управление стороной другому игроку или зрителю."
 
 #: src/menu_events.cpp:2539
 msgid "<side> <nickname>"
@@ -2574,17 +2574,17 @@ msgstr "Отладка слоёв местности под курсором."
 # /help fps
 #: src/menu_events.cpp:2548
 msgid "Show fps."
-msgstr "Показать fps."
+msgstr "Показать FPS."
 
 # /help save (w)
 #: src/menu_events.cpp:2550
 msgid "Save game."
-msgstr "Сохранить игру"
+msgstr "Сохранить игру."
 
 # /help quit (q!)
 #: src/menu_events.cpp:2552
 msgid "Quit game."
-msgstr "Выйти из игры"
+msgstr "Выйти из игры."
 
 #: src/menu_events.cpp:2556
 msgid "Save and quit."
@@ -2600,7 +2600,7 @@ msgstr "Отключить автосохранение."
 
 #: src/menu_events.cpp:2563
 msgid "Advance to the next scenario, or scenario identified by 'id'"
-msgstr "Перейти к следующему сценарию, или сценарию 'id'"
+msgstr "Перейти к следующему сценарию или сценарию 'id'."
 
 #: src/menu_events.cpp:2563
 msgid "<id>"
@@ -2613,7 +2613,7 @@ msgstr "Выберите следующий сценарий"
 # /help turn
 #: src/menu_events.cpp:2569
 msgid "Change turn number (and time of day), or increase by one if no number is specified."
-msgstr "Изменить номер хода (и время дня), или увеличить его на один, если значение не указано."
+msgstr "Изменить номер хода (и время суток), или увеличить его на один, если значение не указано."
 
 #: src/menu_events.cpp:2569
 msgid "[turn]"
@@ -2631,7 +2631,7 @@ msgstr "[лимит]"
 # /help debug
 #: src/menu_events.cpp:2573
 msgid "Turn debug mode on."
-msgstr "Включить режим отладки"
+msgstr "Включить режим отладки."
 
 # /help nodebug
 #: src/menu_events.cpp:2575
@@ -2651,12 +2651,12 @@ msgstr "<команда>[;<команда>...]"
 # /help unsafe_lua
 #: src/menu_events.cpp:2579
 msgid "Grant higher privileges to Lua scripts."
-msgstr "Дать скриптам на Lua высокий приоритет"
+msgstr "Дать скриптам на Lua высокий приоритет."
 
 # /help custom
 #: src/menu_events.cpp:2581
 msgid "Set the command used by the custom command hotkey"
-msgstr "Сменить команду на горячей клавише."
+msgstr "Сменить команду, вызываемую с помощью горячей клавиши."
 
 #: src/menu_events.cpp:2584
 msgid "Invoke a dialog allowing changing control of MP sides."
@@ -2664,17 +2664,17 @@ msgstr "Вызвать диалог смены сторон в мультипл�
 
 #: src/menu_events.cpp:2588
 msgid "Launch the gamestate inspector"
-msgstr "Запустить Инспектор состояния игры"
+msgstr "Запустить инспектор состояния игры."
 
 # /help manage
 #: src/menu_events.cpp:2590
 msgid "Manage persistence data"
-msgstr "Управление сохранёнными данными"
+msgstr "Управление сохранёнными данными."
 
 # /help alias
 #: src/menu_events.cpp:2592
 msgid "Set or show alias to a command"
-msgstr "Установить/показать алиас команды"
+msgstr "Установить/показать алиас команды."
 
 #: src/menu_events.cpp:2592
 msgid "<name>[=<command>]"
@@ -2706,12 +2706,12 @@ msgstr "Поменять переменную бойца (поддерживаю
 # /help discover
 #: src/menu_events.cpp:2605
 msgid "Discover all units in help."
-msgstr "Раскрыть всех бойцов в справке."
+msgstr "Раскрыть всех бойцов в справочнике."
 
 # /help undiscover
 #: src/menu_events.cpp:2607
 msgid "'Undiscover' all units in help."
-msgstr "Скрыть всех бойцов в справке."
+msgstr "Скрыть всех бойцов в справочнике."
 
 # /help create
 #: src/menu_events.cpp:2609
@@ -2751,12 +2751,12 @@ msgstr "Переключить отрисовку кодов местности 
 # /help whiteboard (wb)
 #: src/menu_events.cpp:2626
 msgid "Toggle planning mode."
-msgstr "Переключить режим планирования"
+msgstr "Переключить режим планирования."
 
 # /help whiteboard_options (wbo)
 #: src/menu_events.cpp:2629
 msgid "Access whiteboard options dialog."
-msgstr "Открыть настройки планировщика"
+msgstr "Открыть настройки планировщика."
 
 
 #1 ********** Данные игры **********

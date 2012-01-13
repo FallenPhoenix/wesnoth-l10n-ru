@@ -2922,18 +2922,17 @@ msgstr "Команды многопользовательской игры"
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:835
 msgid "\nBan a user in a multiplayer game by the IP address used by that username and kick him. Can be used on users not in the game but on the server. (Of course they won’t be kicked then.)\n\n"
-msgstr "\nВыбросить и забанить игрока по IP-адресу в многопользовательской игре. Применимо и к игрокам, которые находятся на сервере, но не играют. (конечно, тогда их не выбросит).\n\n"
+msgstr "\nВыгнать и забанить игрока по IP-адресу в сетевой игре. Применимо и к игрокам, которые находятся на сервере, но не играют. (конечно, тогда их не выбросит).\n\n"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:838
-#, fuzzy
 msgid "\nChange the controller for side (write here the number of the side) to username (write here the nickname of the player or observer). You can check what side belongs to which player in the <bold>text='Scenario Settings'</bold> dialog (Press the <bold>text='More'</bold> button in the <bold>text='Status Table'</bold> (alt+s by default) to get there.). The host can change control of any side.\n\n"
-msgstr "\nСменить игрока фракции (напишите здесь номер фракции) на пользователя (впишите здесь ник игрока или наблюдателя). Вы можете узнать, какой фракции какой игрок принадлежит, в диалоге «Настройки сценария» (чтобы попасть туда, нажмите кнопку «больше» в «Панели состояния» (по умолчанию Alt+s). Хост может менять игроков любой стороны.\n\n"
+msgstr "\nСменить управляющего игрока (впишите здесь номер фракции) на пользователя (впишите здесь ник игрока или наблюдателя). Вы можете узнать, какой фракции какой игрок принадлежит, в диалоге  <bold>text='Настройки сценария'</bold> (чтобы попасть туда, нажмите кнопку <bold>text='More'</bold> в «Панели состояния» (по умолчанию Alt+S). Хост может менять игроков любой стороны.\n\n"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:841
 msgid "\nKick a user in multiplayer. They will be able to rejoin the game. If you just want to change control of their side(s) use the :control command instead.\n\n"
-msgstr "\nВыбросить игрока из игры. Он сможет вернуться назад. Если вы просто хотите сменить управляющего фракцией (фракциями), лучше используйте команду :control\n\n"
+msgstr "\nВыгнать игрока из игры. Он сможет вернуться назад. Если вы просто хотите сменить управляющего фракцией (фракциями), лучше используйте команду :control\n\n"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:844
@@ -2990,7 +2989,7 @@ msgstr "\nДобавляет текущей стороне заданной ко
 #. [topic]: id=debug_commands
 #: data/core/help.cfg:877
 msgid "\nImmediately advances to the next scenario in a campaign.\n\n"
-msgstr "\nНемедленно переводит вас на следующий сценарий кампании.\n\n"
+msgstr "\nНемедленно переводит вас на следующий эпизод кампании.\n\n"
 
 #. [topic]: id=debug_commands
 #: data/core/help.cfg:880
