@@ -425,7 +425,7 @@ msgid ""
 "Iron Maulers are given their name for reasons which are all too obvious to their foes. The men within these suits of armor can match ogres in contests of strength, and are marked as the champions of the castle guards in which they serve. They are, however, expensive to maintain, and cannot be sent to distant battles without a full convoy of servants to support them.\n\n"
 "Though staggering in melee combat, there are many drawbacks to being outfitted in this way; Iron Maulers tire easily, and know all too well that they cannot run on the battlefield. Too often have they seen a distant comrade fall, yet were powerless to reach the scene in time to help."
 msgstr ""
-"Железные кулаки получили свое прозвище по очевидным причинам. Это люди, закованные в свои тяжелые доспехи и способные померяться силой с великанами, считаются лучшими защитниками замков. Однако, содержать их дорого, и вам не удастся отправить в отдаленную битву без целого обоза слуг.\n\n"
+"Железные кулаки получили своё прозвище по очевидным причинам. Это люди, закованные в свои тяжелые доспехи и способные померяться силой с великанами, считаются лучшими защитниками замков. Однако, содержать их дорого, и вам не удастся отправить в отдаленную битву без целого обоза слуг.\n\n"
 "Хотя их рукопашная атака ошеломительна, у таких доспехов много недостатков. Железные кулаки быстро устают. Всем хорошо известно, что они не могут бегать на поле битвы. Слишком часто они видели гибель своих товарищей вдалеке, но не были способны вовремя прийти им на помощь."
 #endregion
 
@@ -820,12 +820,12 @@ msgstr "Иногда опытнейшие из воров должны отня�
 #. [unit_type]: id=Dark Adept, race=human
 #: data/core/units/undead/Necro_Dark_Adept.cfg:4
 msgid "Dark Adept"
-msgstr "Темный адепт"
+msgstr "Тёмный адепт"
 
 #. [female]
 #: data/core/units/undead/Necro_Dark_Adept.cfg:295
 msgid "female^Dark Adept"
-msgstr "Темная адептка"
+msgstr "Тёмная адептка"
 
 #. [unit_type]: id=Dark Adept, race=human
 #: data/core/units/undead/Necro_Dark_Adept.cfg:26
@@ -1524,7 +1524,7 @@ msgstr "Латник"
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
 #: data/core/units/dwarves/Steelclad.cfg:19
 msgid "The more experienced Dwarvish Steelclad fighters wear heavy chain mail and plate armor, for which they are rightly famous."
-msgstr "Более опытные воины, латники одеты в тяжелую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу."
+msgstr "Более опытные воины, латники одеты в тяжёлую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу."
 #endregion
 
 #region Богатырь
@@ -3173,7 +3173,7 @@ msgstr "нож мясника"
 #: data/core/units/saurians/Skirmisher.cfg:140
 #: data/core/units/undead/Skele_Chocobone.cfg:29
 msgid "spear"
-msgstr "копье"
+msgstr "копьё"
 
 #. [attack]: type=pierce
 #: data/core/units/humans/Loyalist_Pikeman.cfg:65

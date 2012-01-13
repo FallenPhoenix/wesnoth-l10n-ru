@@ -1765,7 +1765,7 @@ msgstr "Заросшие камни"
 #. [terrain_type]: id=ice
 #: data/core/terrain.cfg:260
 msgid "Ice"
-msgstr "Лед"
+msgstr "Лёд"
 
 #. [terrain_type]: id=snow
 #: data/core/terrain.cfg:269

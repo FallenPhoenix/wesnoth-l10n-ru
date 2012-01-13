@@ -86,7 +86,7 @@ msgstr "Обзор"
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:120
 msgid "\n\n<italic>text='Battle for Wesnoth'</italic> is a turn-based fantasy strategy game somewhat unusual among modern strategy games. While other games strive for complexity, <italic>text='Battle for Wesnoth'</italic> strives for simplicity of both rules and gameplay. This does not make the game simple, however — from these simple rules arise a wealth of strategy, making the game easy to learn but a challenge to master."
-msgstr "\n\n<italic>text='Битва за Веснот'</italic> — это пошаговая стратегическая игра в стиле фэнтези, немного непохожая на современные стратегические игры. В то время, как другие игры усложняют правила и игровой процесс, <italic>text='Битва за Веснот'</italic>, наоборот, делает их проще. Но от этого игра не становится легче, а напротив — позволяет новичкам быстро освоиться и обеспечивает огромный выбор стратегий матерым игрокам."
+msgstr "\n\n<italic>text='Битва за Веснот'</italic> — это пошаговая стратегическая игра в стиле фэнтези, немного непохожая на современные стратегические игры. В то время, как другие игры усложняют правила и игровой процесс, <italic>text='Битва за Веснот'</italic>, наоборот, делает их проще. Но от этого игра не становится легче, а напротив — позволяет новичкам быстро освоиться и обеспечивает огромный выбор стратегий матёрым игрокам."
 #endregion
 
 #region Об игре
@@ -2711,7 +2711,7 @@ msgstr ""
 #. [topic]: id=terrain_illuminated_cave
 #: data/core/help.cfg:669
 msgid "Illuminated Cave"
-msgstr "Освещенная пещера"
+msgstr "Освещённая пещера"
 
 #. [topic]: id=terrain_illuminated_cave
 #: data/core/help.cfg:672

@@ -745,7 +745,7 @@ msgstr "Неизвестный сценарий"
 #: src/gui/dialogs/lobby/lobby_data.cpp:266
 #: src/multiplayer_lobby.cpp:513
 msgid "Remote scenario"
-msgstr "Удаленный сценарий"
+msgstr "Удалённый сценарий"
 
 #: src/gui/dialogs/lobby/lobby_data.cpp:285
 #: src/multiplayer_lobby.cpp:529
@@ -1884,7 +1884,7 @@ msgstr "Обороняй  это место"
 #. [print]
 #: data/core/macros/ai_controller.cfg:434
 msgid "Location selection canceled"
-msgstr "Выбор места отменен"
+msgstr "Выбор места отменён"
 
 #: data/core/macros/ai_controller.cfg:975
 msgid "Set special orders..."
@@ -2822,7 +2822,7 @@ msgstr "Фиолетовый"
 #: data/core/team-colors.cfg:50
 #: data/core/team-colors.cfg:113
 msgid "Black"
-msgstr "Черный"
+msgstr "Чёрный"
 
 #. [color_range]: id=brown
 #. [color_range]: id=6
@@ -2866,7 +2866,7 @@ msgstr "нейтральная"
 #. [language]
 #: data/english.cfg:12
 msgid "Neutral units are unaffected by day and night, fighting equally well under both conditions."
-msgstr "Нейтральные бойцы сражаются как днем, так и ночью с одинаковой силой."
+msgstr "Нейтральные бойцы сражаются как днём, так и ночью с одинаковой силой."
 
 
 #: src/unit_types.cpp:976
@@ -5737,7 +5737,7 @@ msgstr "Настройки планировщика"
 #1 ---------- Старые убранные строки ----------
 
 #~ msgid "Some units have planned actions left. Do you really want to end your turn?"
-#~ msgstr "Некоторые бойцы еще не сделали ход. Вы действительно хотите завершить свой ход?"
+#~ msgstr "Некоторые бойцы ещё не сделали ход. Вы действительно хотите завершить свой ход?"
 
 #~ msgid "Reload and execute lua code"
 #~ msgstr "Перезагрузить и выполнить код Lua"
