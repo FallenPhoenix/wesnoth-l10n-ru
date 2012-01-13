@@ -38,7 +38,7 @@ msgstr ""
 
 #: src/help.cpp:3160
 msgid "The Battle for Wesnoth Help"
-msgstr "Помощь по игре Битва за Веснот"
+msgstr "Помощь по игре «Битва за Веснот»"
 
 #: src/help.cpp:2701
 msgid " < Back"
@@ -86,7 +86,7 @@ msgstr "Обзор"
 #. [topic]: id=introduction_topic
 #: data/core/help.cfg:120
 msgid "\n\n<italic>text='Battle for Wesnoth'</italic> is a turn-based fantasy strategy game somewhat unusual among modern strategy games. While other games strive for complexity, <italic>text='Battle for Wesnoth'</italic> strives for simplicity of both rules and gameplay. This does not make the game simple, however — from these simple rules arise a wealth of strategy, making the game easy to learn but a challenge to master."
-msgstr "\n\n<italic>text='Битва за Веснот'</italic> — это пошаговая стратегическая игра в стиле фэнтези, немного непохожая на современные стратегические игры. В то время, как другие игры усложняют правила и игровой процесс, <italic>text='Битва за Веснот'</italic>, наоборот, делает их проще. Но от этого игра не становится легче, а напротив — позволяет новичкам быстро освоиться и обеспечивает огромный выбор стратегий матёрым игрокам."
+msgstr "\n\n<italic>text='Битва за Веснот'</italic> — это пошаговая стратегическая игра в стиле фэнтези, несколько непохожая на прочие современные стратегии. В то время, как в большинстве усложняют правила и игровой процесс, <italic>text='Битва за Веснот'</italic>, наоборот, стремится к простоте. Но от этого игра не становится легче, а напротив — позволяет новичкам быстро освоиться и обеспечивает огромный выбор стратегий матёрым игрокам."
 #endregion
 
 #region Об игре
@@ -777,7 +777,7 @@ msgstr "Досягаемость"
 
 #: src/help.cpp:1476
 msgid "Special"
-msgstr "Специальное"
+msgstr "Особое"
 
 #: src/help.cpp:1526
 msgid "Resistances"
@@ -902,9 +902,8 @@ msgid " This unit’s marksmanship gives it a high chance of hitting targeted en
 msgstr " Высокая точность стрельбы этого бойца дает высокие шансы поразить мишень, но лишь при атаке. "
 
 #: data/core/macros/special-notes.cfg:77
-#, fuzzy
 msgid " This unit has magical attacks, which always have a high chance of hitting an opponent."
-msgstr " Этот боец имеет магическую атаку, что всегда даёт высокий шанс поразить противника."
+msgstr " Этот боец атакует магией, которая всегда с высокой вероятностью поражает противника."
 
 #: data/core/macros/special-notes.cfg:80
 msgid " The swarming attacks of this unit become less deadly whenever its members are wounded."
@@ -1371,7 +1370,7 @@ msgstr "Движимые ни естественным путем, ни некр
 #: data/core/help.cfg:40
 #: data/core/help.cfg:90
 msgid "Abilities"
-msgstr "Способности"
+msgstr "Способности бойцов"
 
 #. [topic]: id=..abilities_section
 #: data/core/help.cfg:93
@@ -1741,7 +1740,7 @@ msgstr ""
 #: data/core/help.cfg:22
 #: data/core/help.cfg:348
 msgid "Traits"
-msgstr "Особенности"
+msgstr "Особенности бойцов"
 
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:350
@@ -2214,7 +2213,7 @@ msgstr "<italic>text='Старые'</italic> бойцы имеют на 8 ЗД �
 #: data/core/help.cfg:48
 #: data/core/help.cfg:99
 msgid "Weapon Specials"
-msgstr "Особенности оружия"
+msgstr "Особенности атаки"
 
 #. [topic]: id=..weapon_specials
 #: data/core/help.cfg:102
@@ -2448,7 +2447,7 @@ msgstr "Фракции"
 
 #: src/help.cpp:1301
 msgid "Factions are only used in multiplayer"
-msgstr "Фракции есть только в мультиплеере"
+msgstr "Фракции есть только в мультиплеере."
 
 #: src/help.cpp:1283
 msgid "Era:"
@@ -2474,7 +2473,7 @@ msgstr "Новобранцы:"
 #: data/core/help.cfg:63
 #: data/core/help.cfg:482
 msgid "Terrains"
-msgstr "Местности"
+msgstr "Местность"
 
 #. [topic]: id=..terrains
 #: data/core/help.cfg:485
@@ -2915,7 +2914,7 @@ msgstr "\nСохранить игру и выйти из сценария (бе�
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:829
 msgid "Multiplayer commands"
-msgstr "Команды многопользовательской игры"
+msgstr "Команды сетевой игры"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:835
@@ -3086,9 +3085,8 @@ msgstr "Зелёный остров"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
-#, fuzzy
 msgid "A bigger island lying in the <ref>dst='great_ocean' text='Great Ocean'</ref>."
-msgstr "Река, берущая исток в <ref>dst='heart_mountains' text='Горах Сердца'</ref> и текущая на восток, к Листре."
+msgstr "Большой остров, лежащий в <ref>dst='great_ocean' text='Великом океане'</ref>."
 #endregion
 
 #region Old Continent
@@ -3241,7 +3239,7 @@ msgstr ""
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:152
 msgid "Far North"
-msgstr ""
+msgstr "Крайний Север"
 
 #. [topic]: id=far_north
 #: data/core/encyclopedia/geography.cfg:176
@@ -3332,7 +3330,7 @@ msgstr "Новый континент"
 #. [topic]: id=new_continent
 #: data/core/encyclopedia/drakes.cfg:38
 msgid "New Continent -- The great continent to the east of <ref>dst='morogor' text='Morogor'</ref>. Its existence is unknown to the drakes until the flight of Galun."
-msgstr "Новый континент — великий континент к востоку от <ref>dst='morogor' text='Морогора'</ref>. О его существовании не знали дрейки вплоть до битвы за Галун."
+msgstr "Новый континент — большой континент к востоку от <ref>dst='morogor' text='Морогора'</ref>. О его существовании дрейки не знали вплоть до битвы за Галун."
 
 #. [topic]: id=abyss
 #: data/core/encyclopedia/drakes.cfg:43
@@ -3587,7 +3585,7 @@ msgstr ""
 #. [topic]: id=about
 #: data/core/help.cfg:335
 msgid "ingame_help_item^Contributors"
-msgstr "Участники"
+msgstr "Участники проекта"
 
 #. [topic]: id=license
 #: data/core/help.cfg:341
