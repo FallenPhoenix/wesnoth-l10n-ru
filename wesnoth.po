@@ -31,7 +31,7 @@ msgstr ""
 #: src/game_controller.cpp:1077
 #: src/game_controller_abstract.cpp:99
 msgid "The Battle for Wesnoth"
-msgstr "Битва за Веснот"
+msgstr "Battle for Wesnoth"
 
 #region Используемые шрифты
 #. [fonts]
