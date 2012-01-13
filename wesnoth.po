@@ -4369,7 +4369,7 @@ msgstr "ТестоваяКампания"
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:45
 msgid "Test campaign used to check if new campaign syntax is working."
-msgstr "Тестовая кампания нужна для проверки работоспособности."
+msgstr "Тестовая кампания нужна для проверки работоспособности нововведений."
 
 #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
 #: data/campaigns/test_campaign/_main.cfg:46
@@ -4406,6 +4406,9 @@ msgstr "Тяжело"
 msgid "Test campaign test [about] entry"
 msgstr "Тестовый сценарий, тестовое описание [about]"
 
+# Надо попробовать перевести, но предварительно пометив как локализуемую.
+# msgid "If you see this, [about] tag is working correctly."
+# msgstr ""
 #. [scenario]: id=01_Grass
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:4
 msgid "Test campaign - first scenario (grass)"
@@ -4451,7 +4454,7 @@ msgstr "Цвет проваленного теста"
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:100
 msgid "Main campaign define"
-msgstr "Определение из главной кампании"
+msgstr "Определение из основной кампании"
 
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:111
@@ -4461,12 +4464,12 @@ msgstr "Определение из дополнительной кампани�
 #. [label]
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:122
 msgid "Multiplayer define"
-msgstr "Определение из мультиплеера"
+msgstr "Определение из сценария"
 
 #. [objective]: condition=win
 #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:132
 msgid "Defeat enemy leader"
-msgstr "Убейте лидера противника"
+msgstr "Убейте вражеского лидера"
 
 
 #1 ********** Общие строки **********
