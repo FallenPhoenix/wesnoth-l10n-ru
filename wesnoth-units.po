@@ -809,7 +809,7 @@ msgstr "Убийца"
 #. [unit_type]: id=Assassin, race=human
 #: data/core/units/humans/Outlaw_Assassin.cfg:20
 msgid "The greatest of thieves are sometimes tasked to take far more than their victim’s belongings. Masters of knife-fighting and uncannily light on their feet, these menacing figures will employ any means to dispatch their victims, be it poisoned knives thrown from afar, or a dagger planted in the back. Deadly at night, assassins are less able fighting under the sun."
-msgstr "Иногда опытнейшие из воров должны отнять у жертвы нечто гораздо более ценное, нежели собственность. Мастерски владея приемами боя на ножах и будучи невообразимо ловкими, эти зловещие личности готовы расправиться со жертвой любым способом — с помощью отравленного метательного ножа, либо кинжала, всаженного в спину. Смертельно опасные ночью, убийцы испытывают некоторые трудности, сражаясь при свете дня."
+msgstr "Иногда опытнейшие из воров должны отнять у жертвы нечто гораздо более ценное, нежели собственность. Мастерски владея приемами боя на ножах и будучи невообразимо ловкими, эти зловещие личности готовы расправиться с жертвой любым способом — с помощью отравленного метательного ножа, либо кинжала, всаженного в спину. Смертельно опасные ночью, убийцы испытывают некоторые трудности, сражаясь при свете дня."
 #endregion
 
 
@@ -982,7 +982,7 @@ msgstr "Получив мнимую жизнь ради битвы еще раз
 #. [unit_type]: id=Draug, race=undead
 #: data/core/units/undead/Skele_Draug.cfg:4
 msgid "Draug"
-msgstr "Драуг"
+msgstr "Драугр"
 
 #. [unit_type]: id=Draug, race=undead
 #: data/core/units/undead/Skele_Draug.cfg:19
@@ -1107,7 +1107,7 @@ msgid ""
 "Sometimes called the ‘hollow men’, spectres form the right arm of their masters’ powers. They are an unholy terror to the living, for they are quite as deadly as their appearance suggests.\n\n"
 "The creation of these is itself no mean feat, but the real danger in encountering one is that it is likely only the harbinger of a much more dangerous force that will follow in its wake."
 msgstr ""
-"Также именуемые «пустой человек», фантомы служат правой рукой своего мастера. Это ужас всех живущих, смертельный настолько же, насколько отвратителен его вид.\n\n"
+"Фантомы, также именуемые «пустыми людьми», служат правой рукой своего мастера. Это ужас всех живущих, настолько же смертельный, насколько и внешне отвратительный.\n\n"
 "Фантом — ещё не целое войско; настоящая опасность встречи с ним — в том, что он, скорее всего, идёт впереди более опасных сил тьмы."
 #endregion
 
@@ -1136,7 +1136,7 @@ msgstr "Ночной ужас"
 #. [unit_type]: id=Nightgaunt, race=undead
 #: data/core/units/undead/Spirit_Nightgaunt.cfg:19
 msgid "The purpose of the masks that these creatures wear is unknown, as is the countenance that they obscure. These terrible forms are rarely seen by the living, and those who live to speak of them had no leisure to study their foe."
-msgstr "Назначение масок этих созданий, неизвестно, равно как и лица, скрываемые ими. Этих ужасных созданий редко видели живые, а тем, кто выжил, было не до того, чтобы разглядывать своих врагов."
+msgstr "Назначение масок этих созданий неизвестно, равно как и лица, ими скрываемые. Этих ужасных созданий редко видели живые, а выжившим было явно не до того, чтобы разглядывать своих врагов."
 #endregion
 
 
@@ -1168,12 +1168,12 @@ msgstr "Легенды гласят о могущественных воинах
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr "Дракон-скелет"
+msgstr "Костяной дракон"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:26
 msgid "Long ago one of the mightiest living creatures, the feared Dragon has become only bones and dark sinew. Long after its death, it was raised through the dark powers of necromancy, which it now serves. The Skeletal Dragon may look like nothing more than a pile of bones, but few people who thought that way lived long enough to change their minds."
-msgstr "Когда-то он был могущественнейшим из живущих существ, а сейчас от дракона остались только кости и почерневшие жилы. После смерти он был поднят и подчинён темной силой некромантии. Дракон-скелет может выглядеть не более чем грудой костей, но лишь немногие из тех, кто так считал, прожили достаточно для того, чтобы изменить своё мнение."
+msgstr "Когда-то он был могущественнейшим из живущих существ, а сейчас от дракона остались только кости и почерневшие жилы. После смерти он был поднят и подчинён темной силой некромантии. Костяной дракон может казаться не более чем грудой костей, но лишь немногие из тех, кто так считал, прожили достаточно для того, чтобы изменить своё мнение."
 #endregion
 
 
@@ -1228,7 +1228,7 @@ msgstr "Снайперша"
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 #: data/core/units/elves/Sharpshooter.cfg:20
 msgid "There was a legend of an elf who stopped an arrow by shooting it out of the air with one of his own. It is a testament to the skill of the elves that such a story could be taken seriously. The sharpshooters of the elves have, quite simply, mastered the art of archery."
-msgstr "Легенды рассказывают об эльфе, который остановил стрелу в полёте, попав в неё своей стрелой. Мастерство эльфов свидетельствует: к подобным легендам стоит относиться серьёзно. Проще говоря, снайперы эльфов владеют стрельбой из лука в совершенстве."
+msgstr "Легенды рассказывают об эльфе, который остановил стрелу в полёте, попав в неё своей стрелой. Мастерство эльфов свидетельствует: к подобным легендам стоит относиться серьёзно. Проще говоря, эльфийские снайперы владеют стрельбой из лука в совершенстве."
 #endregion
 
 #region Егерь
@@ -1524,7 +1524,7 @@ msgstr "Латник"
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
 #: data/core/units/dwarves/Steelclad.cfg:19
 msgid "The more experienced Dwarvish Steelclad fighters wear heavy chain mail and plate armor, for which they are rightly famous."
-msgstr "Более опытные воины, латники одеты в тяжёлую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу."
+msgstr "Латники это опытные войны, одетые в тяжёлую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу."
 #endregion
 
 #region Богатырь
@@ -1626,7 +1626,7 @@ msgstr "Драконий страж"
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:18
 #: data/core/units/dwarves/Dragonguard.cfg:20
 msgid "It is not clear why the Dragonguards are called what they are, a name given by their dwarven brethren. Some speculate that the name comes from their weapon of choice, these strange staves that belch fire and death. Others have surmised that it is because such weapons would be a threat against even a true Dragon, should such a thing be seen again in the known world. Whatever the case, it is for these weapons that the guardians of the great Dwarven citadels are both renowned and feared; weapons that have broken the mightiest of warriors with a single blow."
-msgstr "Почему собратья-гномы зовут их «драконьими стражами» — до конца не ясно. Одни болтают, что название происходит от их оружия — странного жезла, изрыгающего огонь и смерть. Другие считают, что оно намекает на то, что такое оружие поразило бы даже истинного дракона, если бы таковой вдруг вновь объявился в известном мире. В любом случае, защитников великих гномьих крепостей уважают и боятся именно за это оружие, ибо оно одним ударом сражает сильнейших бойцов."
+msgstr "Почему собратья-гномы зовут их «драконьими стражами» — до конца не ясно. Одни болтают, что название происходит от их оружия — странного жезла, изрыгающего огонь и смерть. Другие считают его намёком на то, что такое оружие поразило бы даже истинного дракона, если бы таковой вдруг вновь объявился в известном мире. В любом случае, именно за это оружие уважают и боятся защитников великих гномьих крепостей, ибо оно способно одним ударом сразить сильнейших бойцов."
 #endregion
 
 
@@ -1733,7 +1733,7 @@ msgstr "Арканист"
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: data/core/units/dwarves/Arcanister.cfg:31
 msgid "The most powerful of all the runecrafters, the Dwarvish Arcanister destroys wounded enemies almost instantly, and rarely fails to cause a wound when that is his intent. His skill in runecrafting is unrivaled, and the glyphs he carves into his weapons and armor deflect the blows of his enemies."
-msgstr "Сильнейшие из мастеров рун, арканисты способны мгновенно уничтожить ослабевшего врага, и очень редко промахиваются. Их рунное мастерство никем не превзойдено, а нанесённые на оружие и доспех руны способны отражать удары врагов."
+msgstr "Сильнейшие из рунных мастеров, арканисты способны мгновенно уничтожить ослабевшего врага, и очень редко промахиваются. Их рунное мастерство никем не превзойдено, а нанесённые на оружие и доспех руны способны отражать удары врагов."
 #endregion
 
 
@@ -1790,7 +1790,7 @@ msgstr "Рубака"
 #. [unit_type]: id=Drake Thrasher, race=drake
 #: data/core/units/drakes/Thrasher.cfg:19
 msgid "Instead of letting themselves be bound by their armor, Thrashers have learned to redirect its weight to supplement their bodies’ momentum, adding power to the blows of their short spears and hand-mounted claws. Equipment and body are one; even their thick helms and the thick skulls beneath them are weapons. A Thrasher will gladly fulfill his caste duties, as long as it can be done on the battlefield."
-msgstr "Доспех ограничивает рубак менее прочих; рубаки научились перенаправлять тяжесть доспехов в движущий импульс, что добавляя силы к ударам их коротких копий и железных когтей. Оружие и тело едины; даже их толстые шлемы и толстые кости черепа – оружие. Рубака всегда счастлив выполнить свой долг перед кастой, особенно на поле боя."
+msgstr "Доспех ограничивает рубак менее прочих; они научились перенаправлять тяжесть доспехов в движущий импульс, что добавляя силы к ударам их коротких копий и железных когтей. Оружие и тело едины; даже их толстые шлемы и толстые кости черепа – оружие. Рубака всегда счастлив выполнить свой долг перед кастой, особенно на поле боя."
 #endregion
 
 #region Броненосец
@@ -1965,7 +1965,7 @@ msgstr "Инферно"
 #. [unit_type]: id=Inferno Drake, race=drake
 #: data/core/units/drakes/Inferno.cfg:20
 msgid "Inferno Drakes are masters of the fire they breathe, respected and feared in their tribes nearly as much as the draconic ancestors themselves. They can prowl unharmed through a firestorm of their own creation, scales tinged red from extensive use of their inner flame, their sculpted red-gold armor enhancing the illusion that they are, in fact, dragons."
-msgstr "Инферно — мастера огненного дыхания, внушают страх и уважение сородичам почти так же, как их предки-драконы. Они могут безболезненно проходить сквозь потоки собственного пламени. Так как их чешуя красна от внутреннего огня, они носят красно-золотые доспехи, что усиливает сходство с настоящими драконами."
+msgstr "Инферно — мастера огненного дыхания, внушающие страх и уважение сородичам почти так же, как их предки-драконы. Они могут безболезненно проходить сквозь потоки собственного пламени. Так как их чешуя красна от внутреннего огня, они носят красно-золотые доспехи, что усиливает сходство с настоящими драконами."
 #endregion
 
 #region Армагеддон
@@ -1977,7 +1977,7 @@ msgstr "Армагеддон"
 #. [unit_type]: id=Armageddon Drake, race=drake
 #: data/core/units/drakes/Armageddon.cfg:27
 msgid "Were it not for the armor they wear, certain drakes might be indistinguishable from true dragons, at least to the lesser races for whom dragons are but legend. The creatures known as ‘Armageddon Drakes’ are towering things, both immune to and possessed of a tremendous fire."
-msgstr "Не носи эти дрейки доспехи — никто, по крайней мере ни один обычный человек, не смог бы отличить их от истинных драконов. Существа, носящие имя «Армагеддон» — это великаны, которые  владеют сокрушительным огнём, а сами к нему не чувствительны."
+msgstr "Не носи эти дрейки доспехи — никто, по крайней мере ни один обычный человек, не смог бы отличить их от истинных драконов. Существа, прозванные «армагеддонами» — это великаны, которые  владеют сокрушительным огнём, а сами к нему абсолютно не чувствительны."
 #endregion
 
 
@@ -2442,7 +2442,7 @@ msgstr ""
 #. [unit_type]: id=Elder Wose, race=wose
 #: data/core/units/wose/Elder.cfg:4
 msgid "Elder Wose"
-msgstr "Старший леший"
+msgstr "Старый леший"
 
 #. [unit_type]: id=Elder Wose, race=wose
 #: data/core/units/wose/Elder.cfg:19
@@ -2925,7 +2925,7 @@ msgstr "Огненный страж"
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:28
 msgid "Fire Guardians are spirits of smoke and flame. No one is exactly sure where they come from, but they are occasionally summoned by powerful mages to do their bidding. When not being controlled they like to frolic in pools of lava and take great delight in burning anything they can reach."
-msgstr "Огненный страж — это духи дыма и пламени. Никто не знает точно, откуда они приходят, но время от времени могущественные маги призывают их для служения. Когда не скованы властью мага, они предпочитают резвиться в бассейнах лавы, и развлекаться, сжигая всё, до чего могут дотянуться."
+msgstr "Огненные стражи — это духи дыма и пламени. Никто не знает точно, откуда они приходят, но время от времени могущественные маги призывают их для служения. Когда не скованы властью мага, они предпочитают резвиться в бассейнах лавы, и развлекаться, сжигая всё, до чего могут дотянуться."
 #endregion
 
 #region Огненный дракон

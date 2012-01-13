@@ -377,7 +377,6 @@ msgstr "Время суток"
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:269
-#, fuzzy
 msgid ""
 "The time of day affects the damage of certain units as follows:\n"
 " Lawful units get +25% damage in daytime, and −25% damage at night.\n"
@@ -388,8 +387,8 @@ msgstr ""
 "Время суток влияет на урон, наносимый некоторыми бойцами:\n"
 " Порядочные бойцы наносят +25% урона днем и −25% ночью.\n"
 " Хаотичные бойцы наносят +25% урона ночью и −25% днем.\n"
-" Теневые бойцы наносят +25% урона в сумерках.\n"
-" Нейтральные бойцы не получают бонусов от времени суток."
+" На нейтральных бойцов время суток не влияет.\n"
+" Лиминальные бойцы наносят -25% урона днём и ночью."
 
 #. [topic]: id=time_of_day
 #: data/core/help.cfg:272
@@ -1204,12 +1203,12 @@ msgstr "Мертвецы"
 #. [race]: id=undead
 #: data/core/units.cfg:294
 msgid "race^Undead"
-msgstr "Мертвецы"
+msgstr "Мертвец"
 
 #. [race]: id=undead
 #: data/core/units.cfg:295
 msgid "race+female^Undead"
-msgstr "Мертвецы"
+msgstr "Мертвец"
 
 #. [race]: id=undead
 #: data/core/units.cfg:302
@@ -1356,7 +1355,7 @@ msgstr "Механизмы"
 #. [race]: id=mechanical
 #: data/core/units.cfg:197
 msgid "race^Mechanical"
-msgstr "Механизмы"
+msgstr "Механизм"
 
 #. [race]: id=mechanical
 #: data/core/units.cfg:199
@@ -1939,7 +1938,7 @@ msgstr "Глупый"
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:455
 msgid "Units with trait <italic>text='dim'</italic> suffer a 20% increase in experience required to advance."
-msgstr "Бойцы с особенностью <italic>text='глупый'</italic> — для продвижение им нужно на 20% больше опыта."
+msgstr "Бойцам с особенностью <italic>text='глупый'</italic> нужно на 20% больше опыта для продвижения на следующие уровни."
 
 #. [topic]: id=traits_dim
 #: data/core/help.cfg:457
@@ -2181,9 +2180,8 @@ msgstr "Дикий"
 
 #. [topic]: id=traits_feral
 #: data/core/help.cfg:401
-#, fuzzy
 msgid "Dwellings of sentient beings are not easily used for cover by feral creatures of low intelligence. As a result, <italic>text='feral'</italic> units receive a maximum of 50% defense in any land-based village regardless of base terrain."
-msgstr "Диким существам со слабым интеллектом сложно прятаться среди жилых построек, поэтому в деревнях они получают рейтинг защиты лишь 40%, независимо от типа местности."
+msgstr "Диким существам со слабым интеллектом сложно прятаться среди жилых построек. Поэтому в любых деревнях <italic>text='дикие'</italic> существа получают рейтинг защиты не более 50%, независимо от типа местности."
 #endregion
 
 #region Старый

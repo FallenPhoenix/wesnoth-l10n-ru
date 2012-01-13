@@ -1393,7 +1393,7 @@ msgstr "Хаотичные бойцы: "
 
 #: src/reports.cpp:968
 msgid "Liminal units: "
-msgstr "Теневые бойцы: "
+msgstr "Лиминальные бойцы: "
 #endregion
 
 #: src/reports.cpp:175
@@ -1703,7 +1703,7 @@ msgstr "Лидерство"
 
 #: src/attack_prediction_display.cpp:249
 msgid "Slowed"
-msgstr "Замедлен"
+msgstr "Замедление"
 
 #: src/attack_prediction_display.cpp:254
 #: src/reports.cpp:803
@@ -2892,8 +2892,8 @@ msgid ""
 "Night: +25% Damage"
 msgstr ""
 "Хаотичные бойцы лучше сражаются ночью, а в течение дня хуже.\n\n"
-"День: −25% ущерба\n"
-"Ночь: +25% ущерба"
+"День: -25% урона\n"
+"Ночь: +25% урона"
 
 
 #: src/unit_types.cpp:976
@@ -2912,29 +2912,29 @@ msgid ""
 "Night: −25% Damage"
 msgstr ""
 "Порядочные бойцы лучше сражаются днем и хуже ночью.\n\n"
-"День: +25% ущерба\n"
-"Ночь: −25% ущерба"
+"День: +25% урона\n"
+"Ночь: -25% урона"
 
 
 #: src/unit_types.cpp:976
 msgid "liminal"
-msgstr "теневой"
+msgstr "лиминальный"
 
 #: src/unit_types.cpp:977
 msgid "female^liminal"
-msgstr "теневая"
+msgstr "лиминальная"
 
+# либо "набирают полную силу" / "обретают полную силу"
 #. [language]
 #: data/english.cfg:20
-#, fuzzy
 msgid ""
 "Liminal units only reach their full strength during twilight.\n\n"
 "Day: −25% Damage\n"
 "Night: −25% Damage"
 msgstr ""
-"Порядочные бойцы лучше сражаются днем и хуже ночью.\n\n"
-"День: +25% ущерба\n"
-"Ночь: −25% ущерба"
+"Лиминальные бойцы способны полноценно драться только в сумерках.\n\n"
+"День: -25% урона\n"
+"Ночь: -25% урона"
 
 
 #2 ***** Типы атак и повреждений *****
@@ -5214,7 +5214,7 @@ msgstr "Переменная не найдена"
 
 #: src/menu_events.cpp:3511
 msgid "Invalid alignment: '$alignment', needs to be one of lawful, neutral, chaotic, or liminal."
-msgstr "Неизвестный характер: «$alignment», должен быть: «порядочный», либо «хаотичный», либо «нейтральный»."
+msgstr "Неизвестный тип: «$alignment», должен быть: «порядочный», «хаотичный», «нейтральный» или «лиминальный»."
 
 #: src/menu_events.cpp:3567
 msgid "Do you wish to clear all of your discovered units from help?"
@@ -5470,7 +5470,7 @@ msgstr "Лидерство: "
 
 #: src/reports.cpp:615
 msgid "Slowed: "
-msgstr "замедлен: "
+msgstr "Замедлен: "
 
 #: src/reports.cpp:623
 msgid "Swarm: "
