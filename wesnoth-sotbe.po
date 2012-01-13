@@ -76,7 +76,7 @@ msgstr "(Для опытных игроков, 18 сценариев)"
 #. [campaign]: id=Son_of_the_Black-Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:22
 msgid "Your father Karun Black-Eye was the greatest orcish leader that ever lived. Now, as his son, it’s up to you to thwart the selfish designs of the humans who have broken the old agreements with the orcs and are bent upon taking your lands. Unite the warring orcish tribes, bring together the Orcish Council and call up the Great Horde to send the human-worms and their wose-born allies to the land of the dead!\n\n"
-msgstr "Ваш отец, Карун Чёрный Глаз, был величайшим вождём орков из когда-либо живших. Теперь только Вы как его сын, можете помешать себялюбивым планам людей, посмевших нарушить старый договор с орками и вознамерившихся захватить ваши земли. Объедините разобщённые племена орков, соберите Орочий Совет и созовите Великую Орду, чтобы отправить людишек и их лесных союзников в страну мёртвых!\n\n"
+msgstr "Ваш отец, Карун Чёрный Глаз, был величайшим вождём орков из когда-либо живших. Теперь только вы как его сын, можете помешать себялюбивым планам людей, посмевших нарушить старый договор с орками и вознамерившихся захватить ваши земли. Объедините разобщённые племена орков, соберите Орочий Совет и созовите Великую Орду, чтобы отправить людишек и их лесных союзников в страну мёртвых!\n\n"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:27

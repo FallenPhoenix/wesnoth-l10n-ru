@@ -709,22 +709,22 @@ msgstr "Люди"
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1386
 msgid "Death of your leader"
-msgstr "Гибель Вашего лидера"
+msgstr "Гибель вашего лидера"
 
 #. [then]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1387
 msgid "Since your team has only one leader, the enemy waves will not be at full strength."
-msgstr "Поскольку у Вашей команды только один лидер, волны пойдут в неполную силу."
+msgstr "Поскольку у вашей команды только один лидер, волны пойдут в неполную силу."
 
 #. [else]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1390
 msgid "Death of both of your team’s leaders"
-msgstr "Гибель обоих лидеров Вашей команды"
+msgstr "Гибель обоих лидеров вашей команды"
 
 #. [else]
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1391
 msgid "Since your team has two leaders, the enemy waves will be at full strength."
-msgstr "Поскольку у Вашей команды два лидера, волны будут в полную силу."
+msgstr "Поскольку у вашей команды два лидера, волны будут в полную силу."
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:1412
@@ -1705,7 +1705,7 @@ msgstr "Случайная карта"
 #. [multiplayer]: id=multiplayer_Random_Map
 #: data/multiplayer/scenarios/Random_Scenario.cfg:7
 msgid "Randomly generated map. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-msgstr "Случайно генерируемая карта. Внимание: случайные карты обычно не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите карту, устраивающую вас."
+msgstr "Случайно генерируемая карта. Внимание: случайные карты обычно не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите карту, устраивающую вас."
 #endregion
 
 #region Пустынная
@@ -1719,7 +1719,7 @@ msgstr "Случайная карта (пустыня)"
 #. [multiplayer]: id=multiplayer_Random_Map_Desert
 #: data/multiplayer/scenarios/Random_Scenario_Desert.cfg:6
 msgid "A random map with sand as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-msgstr "Случайная карта с песками. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+msgstr "Случайная карта с песками. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
 #endregion
 
 #region Болотная
@@ -1733,7 +1733,7 @@ msgstr "Случайная карта (болото)"
 #. [multiplayer]: id=multiplayer_Random_Map_Marsh
 #: data/multiplayer/scenarios/Random_Scenario_Marsh.cfg:6
 msgid "A random map with swamp as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-msgstr "Случайная карта с болотами. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+msgstr "Случайная карта с болотами. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
 #endregion
 
 #region Снежная
@@ -1747,7 +1747,7 @@ msgstr "Случайная карта (зима)"
 #. [multiplayer]: id=multiplayer_Random_Map_Winter
 #: data/multiplayer/scenarios/Random_Scenario_Winter.cfg:6
 msgid "A random map set in the break between spring and winter, mainly with snowy terrains. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-msgstr "Случайная карта между осенью и зимой, преимущественно со снежным покровом. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+msgstr "Случайная карта между осенью и зимой, преимущественно со снежным покровом. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
 #endregion
 
 

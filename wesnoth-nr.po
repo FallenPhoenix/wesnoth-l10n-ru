@@ -602,7 +602,7 @@ msgstr "Человек! Ха, да я не видел человеческого
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:284
 msgid "How have you managed to survive all this time?"
-msgstr "Как же Вы всё это время выживали?"
+msgstr "Как же вы всё это время выживали?"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:288
@@ -826,7 +826,7 @@ msgstr "Рад встречи, Таллин. Мои парни сказали, �
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:641
 msgid "Thank you and well-met indeed, Lord Hamel."
-msgstr "Благодарю Вас, лорд Хамель — я тоже рад нашей встрече."
+msgstr "Благодарю вас, лорд Хамель — я тоже рад нашей встрече."
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:645
@@ -922,7 +922,7 @@ msgstr "Добро пожаловать в Южные Тоннели, друзь
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:20
 msgid "Thank you, Lord Hamel. Though Knalga lies in chaos, it is a great relief to see that at least some dwarves have survived."
-msgstr "Благодарю Вас, лорд Хамель. В Кналга воцарился хаос, и всё же отрадно видеть, что есть ещё выжившие гномы."
+msgstr "Благодарю вас, лорд Хамель. В Кналга воцарился хаос, и всё же отрадно видеть, что есть ещё выжившие гномы."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:25
@@ -1347,7 +1347,7 @@ msgstr "Итак, решено. Даю вам своё позволение и �
 #. [message]: role=follower
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:749
 msgid "Thank you, Lord Hamel."
-msgstr "Благодарю Вас, лорд Хамель."
+msgstr "Благодарю вас, лорд Хамель."
 
 #. [scenario]: id=05a_The_Pursuit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:9
@@ -1472,7 +1472,7 @@ msgstr "Отец Морвин"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:567
 msgid "Finally! I am free. Lord Tallin, I am forever in your debt! We will follow you to the end of the world if need be."
-msgstr "Наконец-то я свободен! Лорд Таллин, я Ваш вечный должник! Только скажите — мы пойдём за Вами хоть на край света."
+msgstr "Наконец-то я свободен! Лорд Таллин, я ваш вечный должник! Только скажите — мы пойдём за вами хоть на край света."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:571
@@ -1533,7 +1533,7 @@ msgstr "Ну что ж, это хорошая новость. Теперь, од
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:621
 msgid "As I have said, Tallin, I am eternally in your debt, and I take my debts seriously. If you have no objection, I will serve you until one of us departs this life."
-msgstr "Как я уже сказал, Таллин, я Ваш вечный должник, а я всегда возвращаю свои долги. Если не возражаете, я буду служить Вам, пока один из нас не распрощается с жизнью."
+msgstr "Как я уже сказал, Таллин, я ваш вечный должник, а я всегда возвращаю свои долги. Если не возражаете, я буду служить вам, пока один из нас не распрощается с жизнью."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:625
@@ -1547,7 +1547,7 @@ msgstr "О, забудьте об этом. Не будем говорить о 
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:742
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:269
 msgid "Thank you, Tallin."
-msgstr "Благодарю Вас, Таллин."
+msgstr "Благодарю вас, Таллин."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:642
@@ -1597,7 +1597,7 @@ msgstr "Он сохранил нам жизнь не из милосердия �
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:734
 msgid "If you have no objection, Tallin, we would like to join you. These northlands are hardly safe these days for anyone to be traveling on their own, and we could lend valuable help to your cause."
-msgstr "Если не возражаете, Таллин, мы к Вам присоединимся. Эти северные земли небезопасны для одиноких путников, по нынешним-то временам; к тому же мы сможем помочь Вам в Вашей миссии."
+msgstr "Если не возражаете, Таллин, мы к вам присоединимся. Эти северные земли небезопасны для одиноких путников, по нынешним-то временам; к тому же мы сможем помочь вам в вашей миссии."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:738
@@ -1643,7 +1643,7 @@ msgstr "А... где... я...?"
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:821
 msgid "You are in the dungeons of Malifor. These brave people have just released you."
-msgstr "Вы в темнице у Малифора. Эти отважные воины только что Вас освободили."
+msgstr "Вы в темнице у Малифора. Эти отважные воины только что вас освободили."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:825
@@ -1665,7 +1665,7 @@ msgstr "Да, я..... пойду с..... Вами, лорд Таллин."
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:837
 msgid "Just Tallin; I am no lord. But gee, that sure is some powerful spell you used on her, Sister. She is looking better already."
-msgstr "Просто Таллин, я никакой не лорд. Ух ты — Вы явно наложили на неё какое-то сильное заклятье, Сестра. Ей явно лучше."
+msgstr "Просто Таллин, я никакой не лорд. Ух ты — вы явно наложили на неё какое-то сильное заклятье, Сестра. Ей явно лучше."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:841
@@ -1685,17 +1685,17 @@ msgstr "Хорошо. Надеюсь, это поможет."
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:859
 msgid "You are in the dungeons of Malifor. We have just released you."
-msgstr "Вы в подземельях Малифора. Мы только что Вас освободили."
+msgstr "Вы в подземельях Малифора. Мы только что вас освободили."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:867
 msgid "No problem. Just take it easy. If you would like to join us your help could mean life or death for a lot of us."
-msgstr "Как скажете. Только не переусердствуйте. Если решите присоединиться к нам, Ваша помощь многим из нас может спасти жизни."
+msgstr "Как скажете. Только не переусердствуйте. Если решите присоединиться к нам, ваша помощь многим из нас может спасти жизни."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:875
 msgid "Just Tallin, I am no lord. And you are looking better already."
-msgstr "Просто Таллин, я никакой не лорд. А Вам, похоже, уже лучше."
+msgstr "Просто Таллин, я никакой не лорд. А вам, похоже, уже лучше."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:882
@@ -1705,7 +1705,7 @@ msgstr "Ну, я знаю некоторые секреты — иначе бы 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:888
 msgid "Why did the bag of bones capture you in the first place?"
-msgstr "А зачем этому мешку с костями вообще понадобилось Вас захватывать?"
+msgstr "А зачем этому мешку с костями вообще понадобилось вас захватывать?"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:892
@@ -2925,7 +2925,7 @@ msgstr "Таллин, Кналга была невероятно богатой 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:91
 msgid "Thank you, Hamel."
-msgstr "Благодарю Вас, Хамель."
+msgstr "Благодарю вас, Хамель."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:96
@@ -3492,7 +3492,7 @@ msgstr "Ро-Арфьян, как же! Не произноси больше э�
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:115
 msgid "Why not, Hamel, have you a grievance with him?"
-msgstr "Но почему, Хамель, он Вас чем-то обидел?"
+msgstr "Но почему, Хамель, он вас чем-то обидел?"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:119
@@ -3507,7 +3507,7 @@ msgstr "Эти мерзкие маги давно терроризируют С�
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:127
 msgid "Remember, Hamel, there are often two sides to a story like this. Perhaps the mages see your dwarves as invaders. How would you feel if say... the elves decided to come in and level Knalga so they can grow another big forest on top?"
-msgstr "Не забывайте, Хамель, у каждой такой истории есть своя оборотная сторона. Возможно, маги видят в ваших гномах захватчиков. Что бы Вы почувствовали, если б, скажем... эльфы заявились и принялись выравнивать Кналга, чтобы вырастить на её поверхности ещё один большой лес?"
+msgstr "Не забывайте, Хамель, у каждой такой истории есть своя оборотная сторона. Возможно, маги видят в ваших гномах захватчиков. Что бы вы почувствовали, если б, скажем... эльфы заявились и принялись выравнивать Кналга, чтобы вырастить на её поверхности ещё один большой лес?"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:131
@@ -3541,7 +3541,7 @@ msgstr "(<i>Закатывает глаза</i>)"
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:151
 msgid "Father Morvin, what are you trying to say?"
-msgstr "И всё же, отец Морвин, что Вы предлагаете?"
+msgstr "И всё же, отец Морвин, что вы предлагаете?"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:155
@@ -3785,7 +3785,7 @@ msgstr "Бросьте, святой отец, он не ответит. Бою�
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:589
 msgid "(<i>Sigh</i>) Yes, you are right."
-msgstr "(<i>Вздыхает</i>) Да, Вы правы."
+msgstr "(<i>Вздыхает</i>) Да, вы правы."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:593
@@ -3845,7 +3845,7 @@ msgstr "Смерть Сталрага."
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:712
 msgid "Ro’Arthian, are you ready to talk yet?"
-msgstr "Ро-Арфьян, теперь Вы будете говорить?"
+msgstr "Ро-Арфьян, теперь вы будете говорить?"
 
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:716
@@ -3855,7 +3855,7 @@ msgstr "Что ж, пришельцы. Что вы хотите."
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:720
 msgid "Well... First, why don’t you tell us what <i>you</i> want?"
-msgstr "Ну... для начала, почему бы Вам не сказать, чего <i>Вы</i> хотите?"
+msgstr "Ну... для начала, почему бы вам не сказать, чего <i>вы</i> хотите?"
 
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:724
@@ -3865,7 +3865,7 @@ msgstr "Что <i>я</i> хочу? Я скажу тебе, чего я хочу!
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:728
 msgid "So basically, you want to be left alone in peace. Right?"
-msgstr "Стало быть, Вы, в общем-то, хотите, чтоб Вас оставили в покое. Так?"
+msgstr "Стало быть, вы, в общем-то, хотите, чтоб вас оставили в покое. Так?"
 
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:732
@@ -3875,7 +3875,7 @@ msgstr "У-е! Хоть кто-то <i>наконец</i> догадался!"
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:736
 msgid "All right! Listen, then. Right now we have very little power to grant your request. We are simply a band of peasants fighting for the freedom of our homeland."
-msgstr "Отлично! Тогда слушайте. Сейчас у нас нет власти, чтобы выполнить Ваше пожелание. Мы лишь горстка крестьян, что бьются за свободу родной земли."
+msgstr "Отлично! Тогда слушайте. Сейчас у нас нет власти, чтобы выполнить ваше пожелание. Мы лишь горстка крестьян, что бьются за свободу родной земли."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:740
@@ -3951,7 +3951,7 @@ msgstr "Вождь Сталраг, говорят, чтобы спасти се�
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:805
 msgid "Now, Stalrag, it is up to you. Do you want to save Knalga or not?"
-msgstr "Теперь, Сталраг, выбор за Вами. Вы хотите спасти Кналга или нет?"
+msgstr "Теперь, Сталраг, выбор за вами. Вы хотите спасти Кналга или нет?"
 
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:809
@@ -3961,7 +3961,7 @@ msgstr "Что ж, Таллин, если ты так решил... Нам эт�
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:813
 msgid "Thank you, Stalrag. I am sure that the sacrifice of you and your people will always be remembered."
-msgstr "Благодарю Вас, Сталраг. Уверен: жертва, что принесли Вы и Ваш народ, никогда не забудется."
+msgstr "Благодарю вас, Сталраг. Уверен: жертва, что принесли вы и ваш народ, никогда не забудется."
 
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:817
@@ -3976,12 +3976,12 @@ msgstr "В моей власти повелевать многими созда�
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:825
 msgid "The Shinsplitters will be at your service, Tallin."
-msgstr "Голенорубы в Вашем распоряжении, Таллин."
+msgstr "Голенорубы в вашем распоряжении, Таллин."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:829
 msgid "My thanks, Stalrag and Ro’Arthian. However, I have sufficient forces under my control presently and I think that merging our forces will just create confusion. Your gryphons will be of use, but I think you should retain command of your trolls and ogres, until they are needed."
-msgstr "Примите мою благодарность, Сталраг и Ро-Арфьян. Однако же, сейчас под моим началом достаточно войск, и, думаю, смешивать их — лишь создавать путаницу. Ваши грифоны будут нам полезны, но, думаю, Вам стоит сохранить командование Вашими троллями и ограми, пока они не понадобятся."
+msgstr "Примите мою благодарность, Сталраг и Ро-Арфьян. Однако же, сейчас под моим началом достаточно войск, и, думаю, смешивать их — лишь создавать путаницу. Ваши грифоны будут нам полезны, но, думаю, вам стоит сохранить командование вашими троллями и ограми, пока они не понадобятся."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:837
@@ -4234,7 +4234,7 @@ msgstr "Мы можем приобрести союзников...."
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:58
 msgid "Allies? I take it we’re to go to them and ask them to join us in return for our help in rescuing their Princess? You heard their message — those elves have got their noses so high in the air they canna’ see over them. They wouldna’ ally themselves with the likes o’ us."
-msgstr "Союзников? Я так понимаю, что мы должны пойти к ним и предложить присоединиться к нам в обмен на помощь в освобождении их принцессы? Но Вы ведь слышали их ответ — эти эльфы задрали свои носы так высоко, что не видят дальше своего носа. Они не станут вступать в союз с кем-то вроде нас."
+msgstr "Союзников? Я так понимаю, что мы должны пойти к ним и предложить присоединиться к нам в обмен на помощь в освобождении их принцессы? Но вы ведь слышали их ответ — эти эльфы задрали свои носы так высоко, что не видят дальше своего носа. Они не станут вступать в союз с кем-то вроде нас."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:62
@@ -4948,7 +4948,7 @@ msgstr "Нет-нет, это совсем не мелочи, Таллин. Се
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:194
 msgid "Princess, as Elenia has said, we are currently locked in a death-struggle with the orcs led by a warlord named Rakshas. You could help us most by joining us in our quest to crush this menace once and for all."
-msgstr "Принцесса, как Вам сказала Эления, мы сейчас завязли в смертельной схватке с орками, которыми предводительствует полководец по имени Ракшас. Если вы присоединитесь к нашей борьбе, поможете нам уничтожить эту угрозу раз и навсегда — Вы окажете нам неоценимую помощь."
+msgstr "Принцесса, как вам сказала Эления, мы сейчас завязли в смертельной схватке с орками, которыми предводительствует полководец по имени Ракшас. Если вы присоединитесь к нашей борьбе, поможете нам уничтожить эту угрозу раз и навсегда — вы окажете нам неоценимую помощь."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:198
@@ -5003,7 +5003,7 @@ msgstr "А я тут причём?"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:242
 msgid "There is a large elvish force not far from here who — we believe anyway — has been sent to free you. We were hoping if we could secure your release you guys would help us crush the orcish host."
-msgstr "Отсюда недалеко большое эльфийское войско; его — по крайней мере, мы так думаем, — послали, чтобы освободить Вас. Мы надеялись, что если мы сможем освободить Вас, ваши солдаты помогут нам сокрушить орочьи силы."
+msgstr "Отсюда недалеко большое эльфийское войско; его — по крайней мере, мы так думаем, — послали, чтобы освободить вас. Мы надеялись, что если мы сможем освободить вас, ваши солдаты помогут нам сокрушить орочьи силы."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:247
@@ -5033,7 +5033,7 @@ msgstr "Мир! Мир!"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:267
 msgid "Well, what about the orcs then, princess? Don’t you wish to be rid of them?"
-msgstr "Ну, так как тогда насчёт орков, принцесса? Неужто Вы не хотите от них избавиться?"
+msgstr "Ну, так как тогда насчёт орков, принцесса? Неужто вы не хотите от них избавиться?"
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:271
@@ -5855,7 +5855,7 @@ msgstr "Хидель, позволь представить тебе моего 
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1090
 msgid "It is an honor to meet you, Tallin."
-msgstr "Для меня честь встретить Вас, Таллин."
+msgstr "Для меня честь встретить вас, Таллин."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1094
@@ -5903,7 +5903,7 @@ msgstr "Сизаль"
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1179
 msgid "Princess! We have finally found you! Thank the Bright Gods you are free! Your father had originally sent us to rescue you."
-msgstr "Принцесса! Наконец-то мы Вас нашли! Спасибо всем богам — Вы свободны! Ваш отец послал нас Вас спасти."
+msgstr "Принцесса! Наконец-то мы вас нашли! Спасибо всем богам — вы свободны! Ваш отец послал нас вас спасти."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1183
@@ -5918,7 +5918,7 @@ msgstr "Вы, должно быть, легендарный Таллин."
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1191
 msgid "At your service."
-msgstr "К Вашим услугам."
+msgstr "К вашим услугам."
 
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1195
@@ -5933,7 +5933,7 @@ msgstr "Я в этом уверен, Таллин. Эльфы редко дов�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1207
 msgid "Thank you, sir."
-msgstr "Благодарю Вас, сэр."
+msgstr "Благодарю вас, сэр."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1211
@@ -6243,7 +6243,7 @@ msgstr "Таллин, по призыву Хиделя, подошёл к нем
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:70
 msgid "At your service, sir."
-msgstr "К Вашим услгуам."
+msgstr "К вашим услгуам."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:74
@@ -6511,7 +6511,7 @@ msgstr "Ну попробуй, негодяй. Ты окружён и отрез
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:655
 msgid "Hahahahah! You fools, do you not see that you are right in the heart of orcish territory, surrounded yourselves! Why, at this very moment my entire western army is marching this way. They will soon be here and will scatter your forces like straw!"
-msgstr "Ха-ха-ха-ха! Глупцы, вы что, не видите, что вы прямо в сердце орочьей земли... да это вы окружены! Кстати, прямо сейчас сюда идёт вся моя западная армия. Скоро она придёт — Вас раскидают как солому!"
+msgstr "Ха-ха-ха-ха! Глупцы, вы что, не видите, что вы прямо в сердце орочьей земли... да это вы окружены! Кстати, прямо сейчас сюда идёт вся моя западная армия. Скоро она придёт — вас раскидают как солому!"
 
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:661
@@ -6808,7 +6808,7 @@ msgstr "Одного лидера недостаточно для успеха �
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:187
 msgid "Father Morvin, this whole plan is your idea. Would you and your wife be willing to stand by my side and support me?"
-msgstr "Отец Морвин, всё это Ваша мысль. Вы согласны, вместе со своей супругой остаться со мной и поддержать меня?"
+msgstr "Отец Морвин, всё это ваша мысль. Вы согласны, вместе со своей супругой остаться со мной и поддержать меня?"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:191
@@ -6823,7 +6823,7 @@ msgstr "Сталраг?"
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:204
 msgid "I am yours to command, my lord Tallin."
-msgstr "Я в Вашем распоряжении, Ваша светлость."
+msgstr "Я в вашем распоряжении, ваша светлость."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:208
@@ -6933,7 +6933,7 @@ msgstr "Думаю, мы с Терой сможем тебе помочь, Аб�
 #. [message]: id=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:333
 msgid "Thank you father, and thank you again, Tallin for all that you have done, both for the world of the living and the dead."
-msgstr "Благодарю Вас, отец, и спасибо тебе, Таллин, за всё, что ты сделал, для мира живых и мёртвых."
+msgstr "Благодарю вас, отец, и спасибо тебе, Таллин, за всё, что ты сделал, для мира живых и мёртвых."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:337

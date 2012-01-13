@@ -425,7 +425,7 @@ msgid ""
 "Iron Maulers are given their name for reasons which are all too obvious to their foes. The men within these suits of armor can match ogres in contests of strength, and are marked as the champions of the castle guards in which they serve. They are, however, expensive to maintain, and cannot be sent to distant battles without a full convoy of servants to support them.\n\n"
 "Though staggering in melee combat, there are many drawbacks to being outfitted in this way; Iron Maulers tire easily, and know all too well that they cannot run on the battlefield. Too often have they seen a distant comrade fall, yet were powerless to reach the scene in time to help."
 msgstr ""
-"Железные кулаки получили свое прозвище по очевидным причинам. Это люди, закованные в свои тяжелые доспехи и способные померяться силой с великанами, считаются лучшими защитниками замков. Однако, содержать их дорого, и Вам не удастся отправить в отдаленную битву без целого обоза слуг.\n\n"
+"Железные кулаки получили свое прозвище по очевидным причинам. Это люди, закованные в свои тяжелые доспехи и способные померяться силой с великанами, считаются лучшими защитниками замков. Однако, содержать их дорого, и вам не удастся отправить в отдаленную битву без целого обоза слуг.\n\n"
 "Хотя их рукопашная атака ошеломительна, у таких доспехов много недостатков. Железные кулаки быстро устают. Всем хорошо известно, что они не могут бегать на поле битвы. Слишком часто они видели гибель своих товарищей вдалеке, но не были способны вовремя прийти им на помощь."
 #endregion
 

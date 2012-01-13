@@ -3045,7 +3045,7 @@ msgstr "Наблюдение запрещено"
 
 #: src/gui/dialogs/lobby_main.cpp:1107
 msgid "Whisper session with $name started. If you don’t want to receive messages from this user, type /ignore $name\n"
-msgstr "Открылся приватный чат с $name. Если Вы не хотите получать сообщения от этого пользователя, наберите /ignore $name\n"
+msgstr "Открылся приватный чат с $name. Если вы не хотите получать сообщения от этого пользователя, наберите /ignore $name\n"
 
 #: src/gui/dialogs/lobby_main.cpp:1113
 msgid "Room $name joined"

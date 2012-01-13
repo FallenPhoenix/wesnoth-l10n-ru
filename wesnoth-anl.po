@@ -1319,25 +1319,25 @@ msgstr "Clear the Ground"
 #~ msgstr "Случайная карта"
 
 #~ msgid "Randomly generated map. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайно генерируемая карта. Внимание: случайные карты обычно не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите карту, устраивающую вас."
+#~ msgstr "Случайно генерируемая карта. Внимание: случайные карты обычно не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите карту, устраивающую вас."
 
 #~ msgid "Random map (Desert)"
 #~ msgstr "Случайная карта (пустыня)"
 
 #~ msgid "A random map with sand as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайная карта с песками. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+#~ msgstr "Случайная карта с песками. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
 
 #~ msgid "Random map (Marsh)"
 #~ msgstr "Случайная карта (болото)"
 
 #~ msgid "A random map with swamp as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайная карта с болотами. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+#~ msgstr "Случайная карта с болотами. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
 
 #~ msgid "Random map (Winter)"
 #~ msgstr "Случайная карта (зима)"
 
 #~ msgid "A random map set in the break between spring and winter, mainly with snowy terrains. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайная карта между осенью и зимой, преимущественно со снежным покровом. Внимание: случайные карты не сбалансированы, но если у Вас есть время, Вы можете регенерировать её, пока не получите хорошую."
+#~ msgstr "Случайная карта между осенью и зимой, преимущественно со снежным покровом. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
 
 #~ msgid "Wesnoth Benchmark: AI"
 #~ msgstr "Тест Веснота: AI"

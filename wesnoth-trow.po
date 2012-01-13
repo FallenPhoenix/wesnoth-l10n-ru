@@ -906,7 +906,7 @@ msgstr "Служитель Эдрен"
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:402
 msgid "Back you vile— Oh, sorry I thought you were undead. When are those goofs in Clearwater Port going to clear the swamp again?"
-msgstr "А ну назад, мерзкие— О, простите, я принял Вас за нежить. Когда уже эти чистоводские недотёпы наконец явятся зачистить болота, а?"
+msgstr "А ну назад, мерзкие— О, простите, я принял вас за нежить. Когда уже эти чистоводские недотёпы наконец явятся зачистить болота, а?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:406
@@ -992,7 +992,7 @@ msgstr "Ааатлична, теперь ещё и лес... Лучше б до�
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:620
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:414
 msgid "Sir, if you don’t mind, I’ll go with you."
-msgstr "Сэр, если Вы не против, я пойду с Вами."
+msgstr "Сэр, если вы не против, я пойду с вами."
 
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:625
@@ -1819,7 +1819,7 @@ msgstr "Лейтенант, кто здесь главный? И где кора
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:295
 msgid "I am, my Lord, I command the local garrison. Our whole fishing fleet is evacuating people to Southbay as we speak. The ships should be back in a few days. Our forces engaged the orcs as they exited the Swamp of Esten. At first, we prevailed, and pushed them back into the swamp!"
-msgstr "Я, повелитель, это я командую местной стражей. Пока мы говорим с Вами, наш рыбацкий флот эвакуирует людей в Южную Бухту. Корабли будут со дня на день. Наши силы сразились с орками, когда те вышли из Эстенского болота. Всё шло здорово, мы даже загнали их обратно в болота!"
+msgstr "Я, повелитель, это я командую местной стражей. Пока мы говорим с вами, наш рыбацкий флот эвакуирует людей в Южную Бухту. Корабли будут со дня на день. Наши силы сразились с орками, когда те вышли из Эстенского болота. Всё шло здорово, мы даже загнали их обратно в болота!"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:300
@@ -1849,7 +1849,7 @@ msgstr "Ну, судя по тому, что орки прямо за нами, 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:326
 msgid "I thank you, my lord. But we are to bring these Wesfolk too? It would be... highly irregular. Are you sure, my lord?"
-msgstr "Благодарю Вас, повелитель. Но весфольки? Есть в этом что-то... неправильное. Вы уверены, повелитель?"
+msgstr "Благодарю вас, повелитель. Но весфольки? Есть в этом что-то... неправильное. Вы уверены, повелитель?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:331
@@ -1909,7 +1909,7 @@ msgstr "Речной путь — к Эстенским болотам."
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:562
 msgid "My lord, the first ship has arrived! Prince Haldric, if you and your men must leave for Southbay just go to the pier to board the ship."
-msgstr "Повелитель, прибыл первый корабль! Принц Хальдрик, если Вам и Вашим людям надо уходить к Южной Бухте, идите к пристани и поднимайтесь на корабль."
+msgstr "Повелитель, прибыл первый корабль! Принц Хальдрик, если вам и вашим людям надо уходить к Южной Бухте, идите к пристани и поднимайтесь на корабль."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:580
@@ -1919,17 +1919,17 @@ msgstr "Повелитель, первый корабль отчалил. Но �
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:621
 msgid "My lord, the second ship has arrived! Prince Haldric, if you and your men want to leave for Southbay just go to the pier to board the ship."
-msgstr "Повелитель, прибыл второй корабль! Принц Хальдрик, если Вам и Вашим людям надо уходить к Южной Бухте, идите к пристани и поднимайтесь на корабль."
+msgstr "Повелитель, прибыл второй корабль! Принц Хальдрик, если вам и вашим людям надо уходить к Южной Бухте, идите к пристани и поднимайтесь на корабль."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:639
 msgid "My lord, the second ship is departing. But the last ship will be here before long. With your help we can hold on just a while longer."
-msgstr "Повелитель, второй корабль отплывает. Но третий, последний, корабль, не заставит себя долго ждать. С Вашей помощью мы сможем ещё продержаться."
+msgstr "Повелитель, второй корабль отплывает. Но третий, последний, корабль, не заставит себя долго ждать. С вашей помощью мы сможем ещё продержаться."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:680
 msgid "My lord, the last ship has arrived! Finally the last of our people can flee to safety. Prince Haldric, you and your men must go now! Go to the pier to board the ship for Southbay."
-msgstr "Повелитель, это последний корабль! Наконец, все наши люди уйдут в безопасное место. Принц Хальдрик, Вы и Ваши люди должны уходить немедленно! Идите к пристани и поднимайтесь на корабль до Южной Бухты."
+msgstr "Повелитель, это последний корабль! Наконец, все наши люди уйдут в безопасное место. Принц Хальдрик, вы и ваши люди должны уходить немедленно! Идите к пристани и поднимайтесь на корабль до Южной Бухты."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:698
@@ -2019,7 +2019,7 @@ msgstr "Нет. Эти твари убили мою семью. Мою жену,
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:971
 msgid "The peasant farmers seem to like you. Who knows, maybe they’ll be of some help."
-msgstr "Фермеры, кажется, уважают Вас. Кто знает, может быть, они будут Вам полезны."
+msgstr "Фермеры, кажется, уважают вас. Кто знает, может быть, они будут вам полезны."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:976
@@ -2459,7 +2459,7 @@ msgstr "Впустите всех! Во имя остатков человечн
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:144
 msgid "And because I can sweeten the deal. I can save the lives of all of the people left on this isle. I will reveal all, if you swear on the soul of your eldest son that you will let all of the Wesfolk who may come into the city, and to allow them to participate in what must happen next."
-msgstr "А ещё потому, что я могу помочь нам всем. Я могу спасти жизни всех людей, что остались на острове. Я всё расскажу, если Вы поклянётесь душой своего старшего сына, что впустите в город столько весфольков, сколько сможете, и что Вы позволите им участвовать во всём, что будет происходить дальше."
+msgstr "А ещё потому, что я могу помочь нам всем. Я могу спасти жизни всех людей, что остались на острове. Я всё расскажу, если вы поклянётесь душой своего старшего сына, что впустите в город столько весфольков, сколько сможете, и что вы позволите им участвовать во всём, что будет происходить дальше."
 
 #. [message]: speaker=King Addroran IX
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:148
@@ -2474,7 +2474,7 @@ msgstr "Во-первых, я <i>могу</i> перевести книгу, к�
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:156
 msgid "Second, I know the way to the mysterious lands of the east. Addroran, I was your son’s navigator and companion. Believe me, you must go east."
-msgstr "Во-вторых, я знаю дорогу к неизвестным землям на востоке. Аддроран, я была штурманом и спутником Вашего сына. Поверьте, надо идти на восток."
+msgstr "Во-вторых, я знаю дорогу к неизвестным землям на востоке. Аддроран, я была штурманом и спутником вашего сына. Поверьте, надо идти на восток."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:160
@@ -2524,7 +2524,7 @@ msgstr "Нет. Бегите, бегите на восток. Мой долг �
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:197
 msgid "King, there will be a new kingdom in the east, and the bulk of the fleet will bear the flag of Southbay. A new throne and new lands await you in the east."
-msgstr "Король, на востоке будет новое королевство, а большая часть флота будет нести флаг Южной Бухты. На востоке Вас ждёт новый трон и новые земли."
+msgstr "Король, на востоке будет новое королевство, а большая часть флота будет нести флаг Южной Бухты. На востоке вас ждёт новый трон и новые земли."
 
 #. [message]: speaker=King Addroran IX
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:201
@@ -2650,7 +2650,7 @@ msgstr "Кто этот рыбочеловек?"
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:380
 msgid "He’s a large part of the reason your son made it to the lands of the east. Lord Typhon provided us with pearls and an escort for our voyages in exchange for steel trident points and fishhooks. It’s difficult to be a blacksmith when you live underwater."
-msgstr "Во многом благодаря ему Ваш сын добрался до земель на востоке. Лорд Тайфон обеспечивал нас жемчугом и охраной, пока мы путешествовали. В обмен мы поставляли стальные наконечники для трезубцев и рыболовные крючки. Трудно заниматься кузнечным делом, живя под водой."
+msgstr "Во многом благодаря ему ваш сын добрался до земель на востоке. Лорд Тайфон обеспечивал нас жемчугом и охраной, пока мы путешествовали. В обмен мы поставляли стальные наконечники для трезубцев и рыболовные крючки. Трудно заниматься кузнечным делом, живя под водой."
 
 #. [message]: speaker=Lord Typhon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:384
@@ -2660,7 +2660,7 @@ msgstr "Всё так. Но где же принц?"
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:388
 msgid "The Crown Prince is dead. But we have need of your services again—"
-msgstr "Наследный принц мёртв. Но нам снова нужны Ваши услуги..."
+msgstr "Наследный принц мёртв. Но нам снова нужны ваши услуги..."
 
 #. [message]: speaker=Lord Typhon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:392
@@ -3518,7 +3518,7 @@ msgstr "Кто это?"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:541
 msgid "It’s Commander Aethyr, of Clearwater Port. I was sure you perished in the fighting there."
-msgstr "Это наместник Эйфир, из порта Чистоводье. Я думал, что Вы погибли в бою за город."
+msgstr "Это наместник Эйфир, из порта Чистоводье. Я думал, что вы погибли в бою за город."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:546
@@ -4413,7 +4413,7 @@ msgstr "Хальдрик, это нелепо! Я—"
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:188
 msgid "There is no way I’m letting you go through with this, sir! Over our dead bodies, right Jessene?"
-msgstr "Я ни в коем случае не дам Вам поступить так, сэр! Только через наши трупы, верно, Джессен?"
+msgstr "Я ни в коем случае не дам вам поступить так, сэр! Только через наши трупы, верно, Джессен?"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:192
@@ -4428,12 +4428,12 @@ msgstr "Я сделаю это, сэр. Я пожертвую собой и по
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:200
 msgid "No. I can’t ask you to do this."
-msgstr "Нет! Я не могу просить Вас об этом."
+msgstr "Нет! Я не могу просить вас об этом."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:204
 msgid "You’ve denied me honorable death twice already. Once when you arrived at Clearwater Port, and once again when your ships rescued me. I’ll not be denied in this a third time!"
-msgstr "Вы уже дважды отказали мне в благородной гибели. Когда прибыли в Чистоводье, и когда Ваши корабли забрали меня. Вы не откажете мне в третий раз!"
+msgstr "Вы уже дважды отказали мне в благородной гибели. Когда прибыли в Чистоводье, и когда ваши корабли забрали меня. Вы не откажете мне в третий раз!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:208
@@ -4443,7 +4443,7 @@ msgstr "Нет, эту жертву должен принести я!"
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:214
 msgid "Sir, my family has been slaughtered, and my home lost. All I long for is to join them. Give me this honorable death... Please, Sir! I beg you!"
-msgstr "Повелитель, мою семью перебили, я потерял свой дом. Все, что мне нужно — это встретиться с ними. Позвольте мне умереть благородно... Пожалуйста, повелитель! Я умоляю Вас!"
+msgstr "Повелитель, мою семью перебили, я потерял свой дом. Все, что мне нужно — это встретиться с ними. Позвольте мне умереть благородно... Пожалуйста, повелитель! Я умоляю вас!"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:218
@@ -4453,7 +4453,7 @@ msgstr "Когда эта война закончится, мне придетс
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:222
 msgid "Very well, if you can’t be deterred. Remember, you <i>must</i> be slain by the hand of Jevyan himself. We can’t have an illiterate orc or mindless skeleton getting the treaty. We will honor your sacrifice."
-msgstr "Хорошо, если тебя невозможно отговорить. Запомните, Вы <i>должны</i> пасть от рук самого Жевьяна. Нельзя, чтобы договор достался неграмотному орку или безмозглому скелету. Мы почтим Вашу жертву."
+msgstr "Хорошо, если тебя невозможно отговорить. Запомните, вы <i>должны</i> пасть от рук самого Жевьяна. Нельзя, чтобы договор достался неграмотному орку или безмозглому скелету. Мы почтим вашу жертву."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:226
@@ -4616,7 +4616,7 @@ msgstr "Скоро мы узнаем, у тебя ли огненный руби
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:383
 msgid "Commander, you remember the plan right?"
-msgstr "Наместник, Вы помните план, не так ли?"
+msgstr "Наместник, вы помните план, не так ли?"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:387
@@ -4881,7 +4881,7 @@ msgstr "До сих пор я следовал за тобой, я сдержу 
 #. [message]: speaker=Sir Ruddry
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:172
 msgid "Lord, I shall guard your secret until the day of my death."
-msgstr "Повелитель, я буду хранить Вашу тайну до тех пор, пока не придёт моя смерть."
+msgstr "Повелитель, я буду хранить вашу тайну до тех пор, пока не придёт моя смерть."
 
 #. [message]: speaker=Sir Ladoc
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:176
@@ -4963,7 +4963,7 @@ msgstr "Мы многое потеряли в последние месяцы, �
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:254
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:258
 msgid "I am but a humble servant of the Crown. I will establish a new order of knights for a new land. For a new King, if you will allow me to serve under your banner."
-msgstr "Я всего лишь скромный слуга короны. Я установлю рыцарский орден в новых землях. Ради нового короля, если Вы позволите мне служить под Вашим флагом."
+msgstr "Я всего лишь скромный слуга короны. Я установлю рыцарский орден в новых землях. Ради нового короля, если вы позволите мне служить под вашим флагом."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:262

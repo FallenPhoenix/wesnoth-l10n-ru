@@ -219,7 +219,7 @@ msgstr "Моим дружкам? Я солдат Веснота, посланн�
 #. [message]: speaker=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:189
 msgid "Sorry, sir! I thought you were one of the bandits who have been ransacking the towns and killing the villagers. What are you doing here? Sir Gerrick and I were the last of the South Guard..."
-msgstr "Простите, сэр! Я думал, что Вы один из бандитов, что грабили города и убивали крестьян. Но что Вы здесь делаете? Я да сэр Геррик — вот и всё, что осталось от Южной Стражи..."
+msgstr "Простите, сэр! Я думал, что вы один из бандитов, что грабили города и убивали крестьян. Но что вы здесь делаете? Я да сэр Геррик — вот и всё, что осталось от Южной Стражи..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:194
@@ -234,7 +234,7 @@ msgstr "Идите к прибрежной крепости! Сэр Геррик
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:208
 msgid "Whenever you see a target that looks like this, you should move your leader (or whatever unit the dialog just suggested) onto the hex that contains it."
-msgstr "Если Вы видите указатель вроде этого, это значит, что Вы должны привести своего лидера (или другого бойца, указанного в сценарии) на поле с этим указателем."
+msgstr "Если вы видите указатель вроде этого, это значит, что вы должны привести своего лидера (или другого бойца, указанного в сценарии) на поле с этим указателем."
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:214
@@ -269,7 +269,7 @@ msgstr "Сэр Геррик — командир пехоты. Он и сам п
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:271
 msgid "Units that have a <i>hero</i> marker are vital to your campaign. If any of them die, you will lose the scenario, so guard them carefully!"
-msgstr "Бойцы, имеющие значок <i>героя</i>, жизненно важны для Вашей кампании. Если кто-нибудь из них погибнет, сценарий будет проигран, так что охраняйте их очень тщательно!"
+msgstr "Бойцы, имеющие значок <i>героя</i>, жизненно важны для вашей кампании. Если кто-нибудь из них погибнет, сценарий будет проигран, так что охраняйте их очень тщательно!"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:286
@@ -442,7 +442,7 @@ msgstr "Мои дни мародёрства и грабежа закончен�
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:654
 msgid "He is dead! Congratulations, commander. We thought we would never see reinforcements — Did Sir Loris send you from Westin?"
-msgstr "Он мёртв! Поздравляю, командир! Мы уж думали, что никогда не увидим подкрепления — ведь это сэр Лорис прислал Вас из Вестина?"
+msgstr "Он мёртв! Поздравляю, командир! Мы уж думали, что никогда не увидим подкрепления — ведь это сэр Лорис прислал вас из Вестина?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:659
@@ -573,7 +573,7 @@ msgstr "Тиборг"
 #. [message]: speaker=Ufes
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:331
 msgid "We will do our best to hold the city — you lead your men across the river and kill the bandit leader!"
-msgstr "Мы сделаем всё возможное, чтобы удержать город — Вы же ведите своих людей через реку и убейте вожака бандитов!"
+msgstr "Мы сделаем всё возможное, чтобы удержать город — вы же ведите своих людей через реку и убейте вожака бандитов!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:337
@@ -755,7 +755,7 @@ msgstr "Джарек"
 #. [message]: speaker=Jarek
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:221
 msgid "Commander, I received your request for reinforcements, and I have brought my riders with me!"
-msgstr "Командир, я получил Ваше требование о подкрепление и привёл с собой моих всадников!"
+msgstr "Командир, я получил ваше требование о подкрепление и привёл с собой моих всадников!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:228
@@ -865,7 +865,7 @@ msgstr "Ты по-настоящему смел, если решился выс�
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:361
 msgid "My thanks, lady."
-msgstr "Благодарю Вас, леди."
+msgstr "Благодарю вас, леди."
 
 #. [scenario]: id=04_Vale_of_Tears
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:5
@@ -906,7 +906,7 @@ msgstr "Джера Илрас"
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:168
 msgid "We have followed you away from our homes and left them unguarded. Now, where can we find this sage who knows the southern forest well?"
-msgstr "Мы пошли за Вами прочь от наших домов и оставили их без защиты. Так где же мы можем найти этого мудреца, который хорошо знает южный лес?"
+msgstr "Мы пошли за вами прочь от наших домов и оставили их без защиты. Так где же мы можем найти этого мудреца, который хорошо знает южный лес?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:173
@@ -1010,7 +1010,7 @@ msgstr "Ты не умрёшь напрасно! Моя охрана отомс�
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:326
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:331
 msgid "You have a bodyguard?!"
-msgstr "У Вас есть охрана?!"
+msgstr "У вас есть охрана?!"
 
 #. [unit]: role=Elvish Bodyguard, type=Elvish Ranger
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:386
@@ -1020,7 +1020,7 @@ msgstr "Эльф-охранник"
 #. [message]: role=Elvish Bodyguard
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:405
 msgid "We stand ready, my lady, to protect you! We shall lead these men of Wesnoth into the fray!"
-msgstr "Мы готовы защищать Вас, миледи! Мы поведём этих людей Веснота на битву!"
+msgstr "Мы готовы защищать вас, миледи! Мы поведём этих людей Веснота на битву!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:417
@@ -1518,7 +1518,7 @@ msgstr "Элиомир"
 #. [message]: speaker=Eliomir
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:194
 msgid "Sir Gerrick, you must make it back to Kerlath Province and warn your people of the danger from the south. We will lead you through the forest and clear any foes from your path. You may choose some of your veterans to go with you as well, and any ones you leave behind will still have time to join Ethiliel and Deoran."
-msgstr "Сэр Геррик, поспешите в Керлат и предупредите свой народ об опасности с юга. Мы проведём Вас через лес и расчистим перед Вами путь. Можете также взять с собой некоторых наших опытных воинов, остальные же ещё успеют догнать Этилиель и Деорана."
+msgstr "Сэр Геррик, поспешите в Керлат и предупредите свой народ об опасности с юга. Мы проведём вас через лес и расчистим перед вами путь. Можете также взять с собой некоторых наших опытных воинов, остальные же ещё успеют догнать Этилиель и Деорана."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_and_Ill.cfg:207
@@ -1795,7 +1795,7 @@ msgstr "Хвала небесам, мы покинули этот ужасный
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:1151
 msgid "Indeed, Afalas, you’ve earned my trust today."
-msgstr "В самом деле, Афалас, Вы заслужили теперь моё доверие."
+msgstr "В самом деле, Афалас, вы заслужили теперь моё доверие."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:1155
@@ -1976,7 +1976,7 @@ msgstr "Я пробил проход!"
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:679
 msgid "Mebrin! My teacher of old! Can that truly be you?"
-msgstr "Мебрин! Мой старый учитель! Неужто это и правда Вы?"
+msgstr "Мебрин! Мой старый учитель! Неужто это и правда вы?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:685
@@ -1986,7 +1986,7 @@ msgstr "Эт...Этилиель? Ты здесь?"
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:690
 msgid "How did you come to be here, you of all people, shut away from the trees and the light of the sun?"
-msgstr "Как случилось, что Вы здесь, вдалеке от своего народа, от деревьев, от света солнца?"
+msgstr "Как случилось, что вы здесь, вдалеке от своего народа, от деревьев, от света солнца?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_the_Depths.cfg:695
@@ -2142,7 +2142,7 @@ msgstr "Я тоже останусь здесь — я обязан вам св�
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:184
 msgid "Minister Hylas, ride with me to Westin — you must summon the Council of Westin while I prepare the city’s defenses. We shall return as soon as we can in force and relieve you."
-msgstr "Служитель Хилас, скачите со мной в Вестин — Вы должны созвать Совет Вестина, пока я буду готовить оборону города. Мы вернёмся, как только сможем, и вызволим Вас, сэр Геррик."
+msgstr "Служитель Хилас, скачите со мной в Вестин — вы должны созвать Совет Вестина, пока я буду готовить оборону города. Мы вернёмся, как только сможем, и вызволим вас, сэр Геррик."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:188
@@ -2152,12 +2152,12 @@ msgstr "Не давайте обещаний, которые не сможете
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:195
 msgid "Your name will be sounded in the roll of heroes, and you will be avenged. Thank you, my friend."
-msgstr "Ваше имя будет записано в свитки героев, и мы отомстим за Вас. Благодарю Вас, друг мой."
+msgstr "Ваше имя будет записано в свитки героев, и мы отомстим за вас. Благодарю вас, друг мой."
 
 #. [message]: speaker=Lt. Illan
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:213
 msgid "We are yours to command, Sir Gerrick. Our men are not the great warriors that you and Deoran are, but we will hold our lines staunchly, until the bitter end."
-msgstr "Мы в Вашем распоряжении, сэр Геррик. Наши люди не такие великие воины, как Вы и Деоран, но мы будем до последнего держать наши ряды."
+msgstr "Мы в вашем распоряжении, сэр Геррик. Наши люди не такие великие воины, как вы и Деоран, но мы будем до последнего держать наши ряды."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:219
@@ -2349,7 +2349,7 @@ msgstr "Хилас, мы услышали твои призывы. Отправ�
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:392
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:466
 msgid "Council of Westin, we are cheered by your presence. Your aid will be most welcome."
-msgstr "Совет Вестина, мы приветствуем Ваше присутствие здесь. Ваша помощь нам очень пригодится."
+msgstr "Совет Вестина, мы приветствуем ваше присутствие здесь. Ваша помощь нам очень пригодится."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:399
@@ -2415,7 +2415,7 @@ msgstr "Разгневанные эльфы"
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/09a_Vengeance.cfg:123
 msgid "Commander! I took your message to the council, and your deeds have pleased them. Are the undead finally gone from our lands?"
-msgstr "Командир! Я доставил Ваше сообщение совету, и они довольны Вашими действиями. Мертвецы наконец-то ушли с наших земель?"
+msgstr "Командир! Я доставил ваше сообщение совету, и они довольны вашими действиями. Мертвецы наконец-то ушли с наших земель?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/09a_Vengeance.cfg:127
@@ -2496,7 +2496,7 @@ msgstr "Мы не сможем сдерживать их долго. Я долж
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/09a_Vengeance.cfg:242
 msgid "Are you sure that the elves will greet you any more kindly than they have met us? After all, you did lead us into the forests..."
-msgstr "Вы уверены, что эльфы будут с Вами более приветливы, чем с нами? В конце концов, это Вы вели нас в лес."
+msgstr "Вы уверены, что эльфы будут с вами более приветливы, чем с нами? В конце концов, это вы вели нас в лес."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/09a_Vengeance.cfg:246
@@ -2819,7 +2819,7 @@ msgstr "Сэр Деоран, Рыцарь Веснота, был призван 
 #~ msgstr "Закончились ходы"
 
 #~ msgid "You have a bodyguard?!!"
-#~ msgstr "У Вас есть охрана?!!"
+#~ msgstr "У вас есть охрана?!!"
 
 #~ msgid "My mount will not help me in these rocky paths - I will leave him here at the entrance and proceed on foot."
 #~ msgstr "От моего коня будет мало пользы на этих каменных тропах — оставлю его здесь, у входа, и пойду пешком. "

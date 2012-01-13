@@ -103,8 +103,8 @@ msgid ""
 "For this tutorial, you are playing Konrad.\n"
 "You are standing in the keep, and your mentor Delfador is on the east side of the river."
 msgstr ""
-"В этом введении Вы играете за Конрада.\n"
-"Вы находитесь в цитадели, а Ваш наставник Делфадор — на восточном берегу реки."
+"В этом введении вы играете за Конрада.\n"
+"Вы находитесь в цитадели, а ваш наставник Делфадор — на восточном берегу реки."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:218
@@ -112,8 +112,8 @@ msgid ""
 "For this tutorial, you are playing Li’sar.\n"
 "You are standing in the keep, and your mentor Delfador is on the east side of the river."
 msgstr ""
-"В этом введении Вы играете за Лисар.\n"
-"Вы находитесь в цитадели, а Ваш наставник Делфадор — на восточном берегу реки."
+"В этом введении вы играете за Лисар.\n"
+"Вы находитесь в цитадели, а ваш наставник Делфадор — на восточном берегу реки."
 
 #. [event]
 #. [event]: id=student moves 0}
@@ -139,7 +139,7 @@ msgid ""
 "<big>You have selected Konrad.</big>\n"
 "The places he can move to are highlighted."
 msgstr ""
-"<big>Вы выбрали Конрада.</big>\n"
+"<big>вы выбрали Конрада.</big>\n"
 "На карте подсвечены места, до которых он может дойти"
 
 #. [message]: speaker=narrator
@@ -148,7 +148,7 @@ msgid ""
 "<big>You have selected Li’sar.</big>\n"
 "The places she can move to are highlighted."
 msgstr ""
-"<big>Вы выбрали Лисар.</big>\n"
+"<big>вы выбрали Лисар.</big>\n"
 "На карте подсвечены места, до которых она может дойти"
 
 #. [event]
@@ -226,7 +226,7 @@ msgstr "Мальчик мой, у тебя 32 единицы здоровья и
 #. [message]: id=Delfador
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:378
 msgid "female^Young lady, you have 32 hitpoints and a sword. I’m fairly sure you’ll win."
-msgstr "Юная леди, у Вас 32 единицы здоровья и меч в придачу. Уверен: ты победишь."
+msgstr "Юная леди, у вас 32 единицы здоровья и меч в придачу. Уверен: ты победишь."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:386
@@ -437,7 +437,7 @@ msgid ""
 "New units cannot act in the turn they appear; you will gain control of them next turn.\n"
 "After this dialog, you can move the mouse over a unit to see a summary of its abilities on the right of the screen."
 msgstr ""
-"Бойцы, которых Вы только что завербовали, на этом ходу ничего сделать не смогут; Вы сможете управлять ими на следующем ходу.\n"
+"Бойцы, которых вы только что завербовали, на этом ходу ничего сделать не смогут; вы сможете управлять ими на следующем ходу.\n"
 "Закрыв этот диалог, вы можете навести мышь на бойца и увидеть его описание на панели справа."
 
 #. [else]
@@ -595,7 +595,7 @@ msgstr "Защита"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1047
 msgid "Whenever one of your units is selected, you’ll see varying percentages as you move the mouse over the map. The higher the percentage, the more <i>defense</i> that unit has in that kind of terrain. For example, most units have good defenses in castles and villages but poor defenses in rivers. However, these quintains use a <i>magical</i> attack, which always has a 70% chance of hitting no matter what terrain its target occupies."
-msgstr "Когда вы выбираете бойца, на клетках разных местностей появляются цифры процентов. Чем больше цифра, тем выше <i>защита</i> бойца. Защита высока, например, в замках и деревнях, и очень мала в реках. Однако, атаки кукол <i>магические</i>, у них 70% вероятности поразить Вас вне зависимости от того, где вы находитесь."
+msgstr "Когда вы выбираете бойца, на клетках разных местностей появляются цифры процентов. Чем больше цифра, тем выше <i>защита</i> бойца. Защита высока, например, в замках и деревнях, и очень мала в реках. Однако, атаки кукол <i>магические</i>, у них 70% вероятности поразить вас вне зависимости от того, где вы находитесь."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1072

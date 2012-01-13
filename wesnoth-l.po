@@ -1071,7 +1071,7 @@ msgstr "Балдрас, ваше путешествие сюда не было �
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:194
 msgid "— Are dispatched on the spot. I know the price of dissent. But what of you?"
-msgstr "... были казнены на месте. Я знаю цену инакомыслия. Но что Вы?"
+msgstr "... были казнены на месте. Я знаю цену инакомыслия. Но что вы?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:198
@@ -1081,7 +1081,7 @@ msgstr "Ну, они не вошли в пределы моего города. 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:202
 msgid "Will you?"
-msgstr "А Вы откажетесь?"
+msgstr "А вы откажетесь?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:206
@@ -1106,7 +1106,7 @@ msgstr "Я не желаю начинать гражданскую войну. �
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:222
 msgid "A foolish miscalculation, Lord Maddock. These men with which you consort are outlaws and fugitives. They are a well-organized gang of criminals and murderers. We will kill them and then expect your oath of allegiance to Queen Asheviere."
-msgstr "Глупый просчёт, лорд Маддок. Люди, с которыми Вы связались — изгнанники и беглецы. Они — хорошо организованная банда преступников и убийц. Мы убьём их, а после этого мы ожидаем, что Вы принесёте свою клятву верности королеве Ашевир."
+msgstr "Глупый просчёт, лорд Маддок. Люди, с которыми вы связались — изгнанники и беглецы. Они — хорошо организованная банда преступников и убийц. Мы убьём их, а после этого мы ожидаем, что вы принесёте свою клятву верности королеве Ашевир."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:226
@@ -1147,7 +1147,7 @@ msgstr "Мы прокляты. Мы некогда состояли под ко�
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:597
 msgid "Lord Maddock, now that we are victorious, will you help us?"
-msgstr "Лорд Маддок, теперь, когда мы победили, Вы поможете нам?"
+msgstr "Лорд Маддок, теперь, когда мы победили, вы поможете нам?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:601
@@ -1459,7 +1459,7 @@ msgstr "Её выжившие члены были очень благодарн�
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:341
 msgid "With the undead driven out, we may live here in relative peace and pursue our studies. For this, Baldras, I am grateful."
-msgstr "Мертвецы изгнаны, мы можем жить здесь в относительном мире и продолжать наши исследования. Я благодарен Вам за это, Балдрас."
+msgstr "Мертвецы изгнаны, мы можем жить здесь в относительном мире и продолжать наши исследования. Я благодарен вам за это, Балдрас."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Grey_Woods.cfg:345

@@ -1155,7 +1155,7 @@ msgstr "Некоторое время назад я случайно рассе�
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1284
 msgid "We are, we’re the Quenoth Elves and we are traveling north. You look like you’re a mage, but I thought your kind were all gone."
-msgstr "Так и есть: мы эльфы Квенота, и мы держим путь на север. А Вы на вид совсем как маг, но я думал, что их уже не осталось."
+msgstr "Так и есть: мы эльфы Квенота, и мы держим путь на север. А вы на вид совсем как маг, но я думал, что их уже не осталось."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1289
@@ -1334,7 +1334,7 @@ msgstr "Мы победили разбойников и прошли эти пр
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1845
 msgid "Now that we have a moment of peace, I have to ask you, Elyssa, what were you really doing out in the middle of the desert? It’s a rather barren place to be traveling."
-msgstr "Сейчас у нас есть время отдохнуть, и я хочу спросить Вас, Элисса, что же Вы всё-таки делали посреди пустыни? Здешние места довольно унылы для путешественников."
+msgstr "Сейчас у нас есть время отдохнуть, и я хочу спросить вас, Элисса, что же вы всё-таки делали посреди пустыни? Здешние места довольно унылы для путешественников."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1850
@@ -3977,7 +3977,7 @@ msgstr "Я убивал троллей, когда вы ещё гадили в �
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:800
 msgid "But sir, behind you...!"
-msgstr "Но сэр, позади Вас—"
+msgstr "Но сэр, позади вас—"
 
 #. [message]: speaker=Dwarf Sergeant
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:805
@@ -3997,7 +3997,7 @@ msgstr "Ну что за нюни... Э? Эй, а салага-то не врё�
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:835
 msgid "I love you, Sarge..."
-msgstr "Я люблю Вас, сержант..."
+msgstr "Я люблю вас, сержант..."
 
 #. [unit]: type=Troll, id=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:862
@@ -4524,7 +4524,7 @@ msgstr "Я, Великий Вождь Дармог, приветствую те�
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:372
 msgid "I Kaleh, leader of the Quenoth Elves, thank you for meeting with me."
-msgstr "Я, Кале, предводитель эльфов Квенота, благодарю Вас за то, что удостоили меня этой встречи."
+msgstr "Я, Кале, предводитель эльфов Квенота, благодарю вас за то, что удостоили меня этой встречи."
 
 #. [message]: speaker=Great Leader Darmog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:377
@@ -7181,7 +7181,7 @@ msgstr "Спасибо, что выручили меня. Как вам удал
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1690
 msgid "Esanoo found the elves that we were searching for. He brought them back and they helped free us. I can’t believe the humans imprisoned you in such a horrible place. To be stuck in the darkness with those undead. We will make them pay for what they have done!"
-msgstr "Эсану нашёл эльфов, что мы искали. Он привёл их сюда и они помогли освободить нас. Не могу поверить, что люди заперли Вас в таком ужасном месте. Это ужасно: быть запертой во тьме с этой нежитью. Они заплатят за это!"
+msgstr "Эсану нашёл эльфов, что мы искали. Он привёл их сюда и они помогли освободить нас. Не могу поверить, что люди заперли вас в таком ужасном месте. Это ужасно: быть запертой во тьме с этой нежитью. Они заплатят за это!"
 
 #. [message]: speaker=We-jial
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1694
@@ -7191,7 +7191,7 @@ msgstr "Не беспокойся; теперь, когда я свободна,
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1698
 msgid "Yes, you are right, of course. Pardon me."
-msgstr "Да, Вы, конечно правы. Извините меня."
+msgstr "Да, вы, конечно правы. Извините меня."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1759
@@ -7726,7 +7726,7 @@ msgstr "Приветствую тебя, Кале. Долго же я ждала
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:172
 msgid "Greetings. I’m afraid I am at a disadvantage, for you know my name and I do not know yours."
-msgstr "Моё почтение. Боюсь, я в неловком положении, ведь Вы знаете моё имя, а я не знаю Вашего."
+msgstr "Моё почтение. Боюсь, я в неловком положении, ведь вы знаете моё имя, а я не знаю вашего."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:177
@@ -7746,7 +7746,7 @@ msgstr "Вам нет нужды представляться. Я уже зна�
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:200
 msgid "Grog says thank you."
-msgstr "Грог благодарит Вас."
+msgstr "Грог благодарит вас."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:206
@@ -7756,7 +7756,7 @@ msgstr "Вам нет нужды представляться. Я уже зна�
 #. [message]: speaker=Nog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:211
 msgid "Nog says thank you."
-msgstr "Ног благодарит Вас."
+msgstr "Ног благодарит вас."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:217

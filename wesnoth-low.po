@@ -957,7 +957,7 @@ msgstr "К оружию, эльфы! Их много, но скоро вернё
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:1142
 msgid "You will have a different recall list and amount of starting gold than you may be expecting at the beginning of this scenario, as you will not start with Kalenz’s army."
-msgstr "Вы начинаете этот сценарий не с армией Каленза, поэтому Вы не сможете для призвать его бойцов; кроме того, у вас будет другое количество золота."
+msgstr "Вы начинаете этот сценарий не с армией Каленза, поэтому вы не сможете для призвать его бойцов; кроме того, у вас будет другое количество золота."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:1151
@@ -1087,7 +1087,7 @@ msgstr "Мы должны их освободить и заставить эти
 #. [message]: role=liberator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:337
 msgid "I will do as you say, sneak in and free them. Wish me good fortune and no discovery!"
-msgstr "Я сделаю, как Вы сказали, прокрадусь и освобожу их. Пожелайте мне удачи, пусть меня не обнаружат!"
+msgstr "Я сделаю, как вы сказали, прокрадусь и освобожу их. Пожелайте мне удачи, пусть меня не обнаружат!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:341
@@ -1122,7 +1122,7 @@ msgstr "Ларил"
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:452
 msgid "We are free! My lord Kalenz, from this day forward I and my men are your sworn followers. And there is that which you should know about the treasure the orcs seek..."
-msgstr "Мы свободны! Мой господин Каленз, мы клянемся с этого дня следовать за Вами. И ещё: Вы должны кое-что узнать о сокровище, что ищут орки..."
+msgstr "Мы свободны! Мой господин Каленз, мы клянемся с этого дня следовать за вами. И ещё: вы должны кое-что узнать о сокровище, что ищут орки..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:456
@@ -1503,7 +1503,7 @@ msgstr "Это закалённые орки и тролли ветераны. �
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:576
 msgid "In this scenario, you may change the behavior of an allied side’s AI using a context menu brought up by clicking on the allied side’s leader."
-msgstr "В этом сценарии Вы можете изменять поведения компьютерного союзника с помощью контекстного меню. Его можно вызвать, выбрав мышью лидера союзников."
+msgstr "В этом сценарии вы можете изменять поведения компьютерного союзника с помощью контекстного меню. Его можно вызвать, выбрав мышью лидера союзников."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:656
@@ -3041,7 +3041,7 @@ msgstr "Мудрость говорит устами короля. Мы не м�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:50
 msgid "Your father had a certain stone, the Ruby of Fire. Do you still have it?"
-msgstr "У Вашего отца был некий камень, рубин огня. Он у Вас?"
+msgstr "У вашего отца был некий камень, рубин огня. Он у вас?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:56
@@ -3051,7 +3051,7 @@ msgstr "Как вы узнали о рубине огня?"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:61
 msgid "We have learned, oh King, that the energy suffusing the Ruby can have evil effects on its wielders. It may well be this was the reason your father grew closed in upon himself. For your own sake and that of your kingdom, we advise you to enclose it in a net or filigree of pure gold charged with the magic of light."
-msgstr "Мы узнали, о король, что энергия, наполняющая рубин, может дурно влиять на его владельцев. Похоже, именно это привело к тому, что Ваш отец стал так замкнут. Ради Вашего же блага и блага Вашего королевства, мы советуем заключить его в оправу из чистого золота, заряженного магией света."
+msgstr "Мы узнали, о король, что энергия, наполняющая рубин, может дурно влиять на его владельцев. Похоже, именно это привело к тому, что ваш отец стал так замкнут. Ради вашего же блага и блага вашего королевства, мы советуем заключить его в оправу из чистого золота, заряженного магией света."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:66
@@ -3892,7 +3892,7 @@ msgstr "Галенор"
 #. [message]: id=Galenor
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:423
 msgid "My lord Kalenz, you are in great danger! You must leave here immediately."
-msgstr "Господин Каленз, Вы в большой опасности! Уходите немедленно!"
+msgstr "Господин Каленз, вы в большой опасности! Уходите немедленно!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:427
@@ -3902,7 +3902,7 @@ msgstr "Что?!"
 #. [message]: id=Galenor
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:431
 msgid "Landar has seized control of the army. He has eliminated the council and proclaimed himself High Warlord of the Elves. What is worse, there is word out that he has already ordered your assassination."
-msgstr "Ландар захватил власть над армией. Он уничтожил Совет и провозгласил себя верховным военачальником эльфов. Хуже того, ходит слух, что он уже приказал убить Вас."
+msgstr "Ландар захватил власть над армией. Он уничтожил Совет и провозгласил себя верховным военачальником эльфов. Хуже того, ходит слух, что он уже приказал убить вас."
 
 #. [message]: id=Crintil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:435
@@ -3922,7 +3922,7 @@ msgstr "Не слушайте этого изменника! Вы все слы�
 #. [message]: id=Galenor
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:449
 msgid "You should try to reach Uradredia and the North Elves. He too, has refused to join Landar. Word is that some troops still loyal to you are heading there."
-msgstr "Уходите к Урадредии и северным эльфам. Он тоже отказался присоединиться к Ландару. Говорят, туда идут войска, всё ещё верные Вам."
+msgstr "Уходите к Урадредии и северным эльфам. Он тоже отказался присоединиться к Ландару. Говорят, туда идут войска, всё ещё верные вам."
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:468

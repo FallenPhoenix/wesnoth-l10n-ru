@@ -561,12 +561,12 @@ msgstr "Убить их всех! За наших друзей!"
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:229
 msgid "Well now, you arrived just in the nick of time. A fellow mage, too, I see. Now what did you say your name was?"
-msgstr "Спасибо, вы еле успели. Вы тоже маг, как я вижу. Так как Вас зовут?"
+msgstr "Спасибо, вы еле успели. Вы тоже маг, как я вижу. Так как вас зовут?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:239
 msgid "Delfador, sir. Actually, I came seeking you — you see, I was a student of Methor’s. He said that you might find me employment in Weldyn."
-msgstr "Делфадор, сэр. Я искал Вас; видите ли, я — ученик Метора. Он сказал, что Вы можете помочь мне найти работу в Велдине."
+msgstr "Делфадор, сэр. Я искал вас; видите ли, я — ученик Метора. Он сказал, что вы можете помочь мне найти работу в Велдине."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:243
@@ -576,7 +576,7 @@ msgstr "Ах, ученик Метора? Хорошо, хорошо... Юный 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:249
 msgid "Delfador, sir. But I bring you ill news... Methor, my teacher, is dead."
-msgstr "Делфадор, сэр. Но я принес Вам худые вести... Метор, мой учитель, мёртв."
+msgstr "Делфадор, сэр. Но я принес вам худые вести... Метор, мой учитель, мёртв."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:253
@@ -729,7 +729,7 @@ msgstr "Спасибо. Вот золото..."
 #. [message]: speaker=Garrath
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:153
 msgid "It’s been a pleasure doing business with you... Bye!"
-msgstr "Торговать с Вами — одно удовольствие... Пока!"
+msgstr "Торговать с вами — одно удовольствие... Пока!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:170
@@ -851,7 +851,7 @@ msgstr "Я полагаю, что это — лешие, защитники де
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:97
 msgid "I am Ur-Thorodor, eldest of the forest. Who are you human-creatures? You may not trespass on our island."
-msgstr "Я — Ур-Фородор, старейший в лесу. Кто Вы? Вы не можете пройти на наш остров."
+msgstr "Я — Ур-Фородор, старейший в лесу. Кто вы? Вы не можете пройти на наш остров."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:101
@@ -891,7 +891,7 @@ msgstr "Хруууаррг! Мерзкие люди меня рубят..."
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:161
 msgid "Ur-Thorodor, you must listen to us! A great evil power threatens all living things in Wesnoth — we must fight against it together, or all life here will perish."
-msgstr "Ур-Фородор, Вы должны выслушать нас! Великое зло угрожает всем живым существам в Весноте — мы должны бороться против него вместе, или все живое здесь погибнет."
+msgstr "Ур-Фородор, вы должны выслушать нас! Великое зло угрожает всем живым существам в Весноте — мы должны бороться против него вместе, или все живое здесь погибнет."
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:165
@@ -911,7 +911,7 @@ msgstr "Это безнадежно! Если выполнить мою мисс
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:197
 msgid "Ur-Thorodor, listen to me! We are not here to take your island. If you will let just me remain here, then I promise you, on behalf of King Garard, that no Wesnothian will set foot on your island without your permission again. As a token of good faith, I command my army to return to the mainland."
-msgstr "Ур-Фородор, выслушайте меня! Мы здесь не для того, чтобы захватить ваш остров. Если Вы позволите мне остаются здесь, то я обещаю Вам именем короля Гарарда, что больше ни один человек Веснота не ступит на ваш остров без вашего разрешения. Как жест доброй воли, я прикажу своей армии вернуться на материк."
+msgstr "Ур-Фородор, выслушайте меня! Мы здесь не для того, чтобы захватить ваш остров. Если вы позволите мне остаются здесь, то я обещаю вам именем короля Гарарда, что больше ни один человек Веснота не ступит на ваш остров без вашего разрешения. Как жест доброй воли, я прикажу своей армии вернуться на материк."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:201
@@ -1117,7 +1117,7 @@ msgstr "Остерегайтесь скелетов! Они — не духи м
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:386
 msgid "What else do you know of the skeletons?"
-msgstr "Что ещё Вы знаете о скелетах?"
+msgstr "Что ещё вы знаете о скелетах?"
 
 #. [message]: speaker=Hereld
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:390
@@ -1152,7 +1152,7 @@ msgstr "Я хотел бы встретиться с Илиа-Малалом. Г
 #. [message]: speaker=Rorthin
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:470
 msgid "Follow the dry river, then the road to the signpost in the north. I will guide you. Enter the houses of the dead as you pass, for others here may help you."
-msgstr "Идите по сухой реке, потом по дорогу к указателю на севере. Я проведу Вас. Заходите в дома мёртвых по пути, так как другие могут помочь Вам."
+msgstr "Идите по сухой реке, потом по дорогу к указателю на севере. Я проведу вас. Заходите в дома мёртвых по пути, так как другие могут помочь вам."
 
 #. [message]: speaker=narrator
 #. The Tomb Guardian's dialogue should sound especially archaic
@@ -1375,7 +1375,7 @@ msgstr "Добро пожаловать, Делфадор!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:180
 msgid "Er, hello... you know my name, then...?"
-msgstr "Эээ, здравствуйте... Значит, Вы знаете моё имя...?"
+msgstr "Эээ, здравствуйте... Значит, вы знаете моё имя...?"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:184
@@ -1425,7 +1425,7 @@ msgstr "Это будет нелегко. Армия орков располож
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:220
 msgid "Attacked by orcs? Then I might perhaps help you to defeat them, and repay your assistance and kindness!"
-msgstr "На вас нападают? Тогда я мог бы помочь Вам победить их, и воздать за вашу помощь и доброту!"
+msgstr "На вас нападают? Тогда я мог бы помочь вам победить их, и воздать за вашу помощь и доброту!"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:237
