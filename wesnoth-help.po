@@ -421,27 +421,27 @@ msgstr "Утро"
 #. [time]: id=morning_hour1
 #: data/core/macros/schedules.cfg:257
 msgid "Morning — First Hour"
-msgstr ""
+msgstr "Утро - первый час"
 
 #. [time]: id=morning_hour2
 #: data/core/macros/schedules.cfg:266
 msgid "Morning — Second Hour"
-msgstr ""
+msgstr "Утро - второй час"
 
 #. [time]: id=morning_hour3
 #: data/core/macros/schedules.cfg:275
 msgid "Morning — Third Hour"
-msgstr ""
+msgstr "Утро - третий час"
 
 #. [time]: id=morning_hour4
 #: data/core/macros/schedules.cfg:284
 msgid "Morning — Fourth Hour"
-msgstr ""
+msgstr "Утро - четвёртый час"
 
 #. [time]: id=midday_hour
 #: data/core/macros/schedules.cfg:293
 msgid "Midday"
-msgstr ""
+msgstr "Полдень"
 
 #. [time]: id=afternoon
 #. [topic]: id=time_of_day
@@ -453,32 +453,32 @@ msgstr "День"
 #. [time]: id=afternoon_hour1
 #: data/core/macros/schedules.cfg:302
 msgid "Afternoon — First Hour"
-msgstr ""
+msgstr "День - первый час"
 
 #. [time]: id=afternoon_hour2
 #: data/core/macros/schedules.cfg:311
 msgid "Afternoon — Second Hour"
-msgstr ""
+msgstr "День - второй час"
 
 #. [time]: id=afternoon_hour3
 #: data/core/macros/schedules.cfg:320
 msgid "Afternoon — Third Hour"
-msgstr ""
+msgstr "День - третий час"
 
 #. [time]: id=afternoon_hour4
 #: data/core/macros/schedules.cfg:329
 msgid "Afternoon — Fourth Hour"
-msgstr ""
+msgstr "День - четвёртый час"
 
 #. [time]: id=afternoon_hour5
 #: data/core/macros/schedules.cfg:338
 msgid "Afternoon — Fifth Hour"
-msgstr ""
+msgstr "День - пятый час"
 
 #. [time]: id=afternoon_hour6
 #: data/core/macros/schedules.cfg:347
 msgid "Afternoon — Sixth Hour"
-msgstr ""
+msgstr "День - шестой час"
 
 #. [time]: id=dusk
 #. [time]: id=dusk_hour
@@ -499,27 +499,27 @@ msgstr "Первая стража"
 #. [time]: id=first_watch_hour1
 #: data/core/macros/schedules.cfg:369
 msgid "First Watch — First Hour"
-msgstr ""
+msgstr "Первая стража - первый час"
 
 #. [time]: id=first_watch_hour2
 #: data/core/macros/schedules.cfg:381
 msgid "First Watch — Second Hour"
-msgstr ""
+msgstr "Первая стража - второй час"
 
 #. [time]: id=first_watch_hour3
 #: data/core/macros/schedules.cfg:393
 msgid "First Watch — Third Hour"
-msgstr ""
+msgstr "Первая стража - третий час"
 
 #. [time]: id=first_watch_hour4
 #: data/core/macros/schedules.cfg:405
 msgid "First Watch — Fourth Hour"
-msgstr ""
+msgstr "Первая стража - четвёртый час"
 
 #. [time]: id=midnight_hour
 #: data/core/macros/schedules.cfg:162
 msgid "Midnight"
-msgstr ""
+msgstr "Полночь"
 
 #. [time]: id=second_watch
 #. [topic]: id=time_of_day
@@ -530,39 +530,33 @@ msgstr "Вторая стража"
 
 #. [time]: id=second_watch_hour1
 #: data/core/macros/schedules.cfg:174
-#, fuzzy
 msgid "Second Watch — First Hour"
-msgstr "Вторая стража"
+msgstr "Вторая стража - первый час"
 
 #. [time]: id=second_watch_hour2
 #: data/core/macros/schedules.cfg:186
-#, fuzzy
 msgid "Second Watch — Second Hour"
-msgstr "Вторая стража"
+msgstr "Вторая стража - второй час"
 
 #. [time]: id=second_watch_hour3
 #: data/core/macros/schedules.cfg:198
-#, fuzzy
 msgid "Second Watch — Third Hour"
-msgstr "Вторая стража"
+msgstr "Вторая стража - третий час"
 
 #. [time]: id=second_watch_hour4
 #: data/core/macros/schedules.cfg:210
-#, fuzzy
 msgid "Second Watch — Fourth Hour"
-msgstr "Вторая стража"
+msgstr "Вторая стража - четвёртый час"
 
 #. [time]: id=second_watch_hour5
 #: data/core/macros/schedules.cfg:222
-#, fuzzy
 msgid "Second Watch — Fifth Hour"
-msgstr "Вторая стража"
+msgstr "Вторая стража - пятый час"
 
 #. [time]: id=second_watch_hour6
 #: data/core/macros/schedules.cfg:234
-#, fuzzy
 msgid "Second Watch — Sixth Hour"
-msgstr "Вторая стража"
+msgstr "Вторая стража - шестой час"
 
 #. [time]: id=indoors
 #: data/core/macros/schedules.cfg:70
