@@ -356,17 +356,16 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Basilisk
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:33
 msgid "2p — Caves of the Basilisk"
-msgstr "2и - Пещеры Василиска"
+msgstr "2и - Пещеры василиска"
 
 #. [multiplayer]: id=multiplayer_Basilisk
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:35
 msgid "These caves were once the lair of Chak’kso Ney’yks, a legendary Elder Basilisk. The petrified forms of his victims remain as monuments to his savage power."
-msgstr "Однажды эти пещеры были логовом Чак'ксо Ней'йикса, легендарного старшего василиска. Окаменевшие фигуры его жертв стоят монументами его ужасающей силы."
+msgstr "Когда-то эти пещеры были логовом легендарного древнего василиска Чак'ксо Ней'йикса. Окаменевшие фигуры жертв стоят монументами его ужасающей силы."
 
 #3 * Статуи *
 
 #region Небесный дрейк
-# оставлено как есть, это стихотворение
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:101
 msgid ""
@@ -388,23 +387,26 @@ msgid ""
 "His home to steal the Basilisk’s gold.\n"
 "(inscribed by Flametrooper)"
 msgstr ""
-"The winds of the dark sky blew so cold,\n"
-"The moon was high, the night was old,\n"
-"Brave was the drake that dared forsake\n"
-"His home to steal the Basilisk’s gold.\n\n"
-"On that dark night, the skies so churned,\n"
-"He disregarded what he had learned,\n"
-"Foolish but brave, to the Basilisk’s cave,\n"
-"He flew, and the fire within him burned.\n\n"
-"Alas, that fire burns no more,\n"
-"For the Basilisk, with one mighty roar,\n"
-"Chilled him to the bone, and he turned to stone,\n"
-"And so he stays forevermore.\n\n"
-"The winds of the sky blow so cold,\n"
-"The years pass by, the days are old,\n"
-"Here stands that drake, who dared forsake\n"
-"His home to steal the Basilisk’s gold.\n"
-"(написано Flametrooper)"
+" \n"
+"Ветры тёмного неба были холодны,\n"
+"Луна высока, а ночь так стара...\n"
+"И как смел был тот дрейк, что покинув свой дом,\n"
+"Двинул в путь за василисковым золотом.\n"
+" \n"
+"Лишь в ночи его крылья гремели,\n"
+"Позабыв обо всём кроме цели,\n"
+"Безрассудный юнец, всё к заветным пещерам\n"
+"Он летел, и огонь в нём горел.\n"
+" \n"
+"Но увы, тот огонь уж не жжёт:\n"
+"Василиск лишь взглянул вполглазка —\n"
+"До костей охладил и в гранит превратил,\n"
+"И оставил с собой навека.\n"
+" \n"
+"Поднебесные ветры бьют так холодно;\n"
+"Проходят года, стареют года...\n"
+"Здесь стоит храбрый дрейк, что покинул свой дом,\n"
+"Утащить василисково золото."
 #endregion
 
 #region Ящер-воин
@@ -416,7 +418,7 @@ msgstr "Ксиккрискс"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:110
 msgid "Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders were preparing to make war on a human outpost, and were in great need of the powerful magics of Oxsrrsk, a Saurian Mystic who had last been seen heading in the direction of Ruaskkolin Lake. Xikkrisx found the petrified body of Oxsrrsk, along with a carefully bound scroll that had apparently been dropped into a small crevice in the cave floor. He opened the scroll and read a brief passage from the middle of the text: “After he was bound and cast from the Upper World, Chak’kso’s enraged spirit sought release, and was able to exert a corrupting influence on certain regions of the Upper World, channeled through ‘pathways of stone’ that extend from the surface into the depths of the Under Reaches. This rage altered the eggs of great lizards, shaping their bodies and spirits into implements of Chak’kso’s hatred.” Confused, Xikkrisx fixed his attention on the task at hand. Thinking that perhaps the Elders could find some way to restore Oxsrrsk, he began the long and strenuous task of hauling the statue back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having traveled far from the lake, Xikkrisx set the statue down inside of a small cave, and lay down to rest. He was awoken by a bone-chilling roar."
-msgstr "Ксиккрискс из Сирсшка  был могучил воином ящеров, отправленным в этот регион старейшинами клана Рисссрилосскк (что означает «Клан тех, кто охотится на врагов в кипящих реках»). Старейшины готовились напасть на форпост людей, и крайне нуждались в могущественной магии Окссрсска, мистика, которого видели направляющимся к озеру Руаскколин. Ксиккрискс обнаружил окаменевшее тело Окссрсска, а рядом с ним — аккуратно свёрнутый свиток, который, по-видимому, упал в небольшую трещину в полу пещеры. Он развернул свиток, и прочёл короткий отрывок из середины: «После того, как он был связан и изгнан из Верхнего Мира, разярённый дух Чак'ксо искал освобождения, и он смог распространить своё развращающее влияние на определённые регионы Верхнего Мира, используя для этого «каменные пути», шедшие с поверхности в глубины Недоступного. Эта ярость изменила яйца великих ящеров, и их форма и дух стали воплощением ненависты Чак'ксо». Смущённый, Ксиккрискс сосредоточил внимание на стоявшей перед ним задаче. Полагая, что старейшины, возможно, смогут найти способ восстановить Окссрсска, он начал долгую и нудную работу по доставке его статуи во владения клана. Истощённый, и не далеко отойдя от озера, он поместил статую внутрь небольшой пещеры, и прилёг отдохнуть. Разбудил его рёв, от которого кровь стыла в жилах."
+msgstr "Ксиккрискс из Сирсшка был могучил воином ящеров, отправленным в этот регион старейшинами клана Рисссрилосскк (что означает «Клан тех, кто охотится на врагов в кипящих реках»). Старейшины готовились напасть на форпост людей, и крайне нуждались в могущественной магии Окссрсска, мистика, которого видели направляющимся к озеру Руаскколин. Ксиккрискс обнаружил окаменевшее тело Окссрсска, а рядом с ним — аккуратно свёрнутый свиток, который, по-видимому, упал в небольшую трещину в полу пещеры. Он развернул свиток, и прочёл короткий отрывок из середины: «После того, как он был связан и изгнан из Верхнего Мира, разярённый дух Чак'ксо искал освобождения, и он смог распространить своё развращающее влияние на определённые регионы Верхнего Мира, используя для этого «каменные пути», шедшие с поверхности в глубины Недоступного. Эта ярость изменила яйца великих ящеров, и их форма и дух стали воплощением ненависты Чак'ксо». Смущённый, Ксиккрискс сосредоточил внимание на стоявшей перед ним задаче. Полагая, что старейшины, возможно, смогут найти способ восстановить Окссрсска, он начал долгую и нудную работу по доставке его статуи во владения клана. Истощённый, и не далеко отойдя от озера, он поместил статую внутрь небольшой пещеры, и прилёг отдохнуть. Разбудил его рёв, от которого кровь стыла в жилах."
 #endregion
 
 #region Ящер-оракул
@@ -428,7 +430,7 @@ msgstr "Окхсррск"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:116
 msgid "Oxsrrsk was a powerful Saurian Oracle, who had, in a raid against the rival Xraxss Clan, acquired (from the vaults of the now-dead Oracle Hesx-Rzzak) a most fascinating scroll. The scroll was entitled “Ney’yks of the Granite Gaze,” and told of a creature known as the “Chak’kso Ney’yks,” a name which, in an ancient saurian tongue, meant “Eldest Child of Chak’kso.” Chak’kso was believed to have been a powerful demigod of the Under Reaches, described as a ‘great demon of the earth’ in the Elvish Histories. According to these histories, Chak’kso had once sought to transform all life on the planet to stone; so great was his hatred for creatures of flesh. He was ultimately defeated and bound by powerful magics, but in the centuries following his banishment (to a realm far below the surface of the world) a new breed of creature began appearing in the Histories, a breed with the ability to turn any being of flesh into stone. There was a period when these Basilisks (as they came to be known) wreaked havoc on the world of the living, turning thousands to stone. One by one, and at great cost, the Basilisks were defeated. All, it would seem, but one; the Basilisk known as “The Ney’yks,” or “The Eldest Child,” in the modern tongue. Supremely convinced of his ability to locate and bind this powerful creature into his service, Oxsrrsk set out on his journey..."
-msgstr "Окхсррск был могущественным оракулом ящеров, добывшим в набеге на соперничающий клан Ксракхсс древний свиток из сокровищницы ныне покойного оракула Хескс-Рззака. Свиток назывался «Ней'йикс гранитного взгляда», и рассказывал о существе по имени «Чак'ксо Ней'йикс», в переводе с древнего языка ящеров — «Старший сын Чак'ксо». Чак'ксо был могучим полубогом Подземного мира, эльфийские хроники также именовали его «великий демон земли». Согласно этим записям, Чак'ксо однажды захотел превратить всё живое на земле в камень; так велика была его ненависть к существам из плоти и крови. Его пленили и сковали могучей магией; но в столетия, последовавшие за его изгнанием в подземный мир, в истории стали упоминаться новые, невиданные существа, сопсобные превращать плоть в камень. Было время, когда Василиски (так их назвали) разоряли мир живых, обращая в камень тысячи. Одного за другим, с великими потерями, их перебили. Похоже, всех, кроме одного; василиска по имени «Ней'йикс», или, на современном языке, «Старший сын». Совершенно уверенный в своей способности найти, сковать и подчинить это существо, Окхсррск отправился в путь..."
+msgstr "Окхсррск был могущественным оракулом ящеров, добывшим в набеге на соперничающий клан Ксракхсс древний свиток из сокровищницы ныне покойного оракула Хескс-Рззака. Свиток назывался «Ней'йикс гранитного взгляда», и рассказывал о существе, известном как «Чак'ксо Ней'йикс», что в переводе с древнего языка ящеров означало «старший сын Чак'ксо». Чак'ксо был могучим полубогом подземного мира, эльфийские хроники также именовали его «великий демон земли». Согласно этим записям, Чак'ксо однажды захотел превратить всё живое на земле в камень; так велика была его ненависть к существам из плоти и крови. Его пленили и сковали могучей магией; но в столетия, последовавшие за его изгнанием в подземный мир, в истории стали упоминаться новые, невиданные существа, сопсобные превращать плоть в камень. Было время, когда василиски (так их назвали) разоряли мир живых, обращая в камень тысячи. Одного за другим, с великими потерями, их перебили. Похоже, всех, кроме одного; василиска по имени «Ней'йикс», или, на современном языке, «Старший сын». Совершенно уверенный в своей способности найти, сковать и подчинить себе это существо, Окхсррск отправился в путь..."
 #endregion
 
 #region Эльф
@@ -448,10 +450,9 @@ msgstr ""
 "— Семь камней и этот восьмой\n"
 "Убив врагов своих грациозно\n"
 "— Семь камней и этот восьмой\n"
-"Стрелок, Победитель Дракона\n"
+"Отважный стрелок, победитель дракона\n"
 "Пал меж статуй тех\n"
-"— Семь камней и этот эльф\n"
-"(написано Гаутимусом)"
+"— Семь камней и этот вот эльф"
 #endregion
 
 #region Гоблин
@@ -470,8 +471,7 @@ msgid ""
 msgstr ""
 "Блам Дак был знаменит в своем гоблинском клане благодаря прирученному в горах ужасному волку и невероятной храбрости. Его лидерство и навыки позволили гоблинам жить посреди людей и эльфов. Легенды гласят, что его волк перегрыз пятьдесят людей и сотню эльфов.\n"
 "Однажды он услышал, что есть ужасное чудище, против которого не сможет устоять ни одно живое существо. Все гоблины просили убить чудище и приволочь его остов для праздника.\n"
-"Он быстро достиг места. Но как только Блам Дак увидел василиска, его обуял страх. Он пытался развернуть своего волка и пуститься наутек, однако тот даже не пошевелился. Когда чудовище вплотную подошло к нему, последними словами, которые он прокричал, были: «Славный Гог, пёсик, у тебя что, ноги окаменели?!?»\n"
-"(написано Эльфийским Мародером)"
+"Он быстро достиг места. Но как только Блам Дак увидел василиска, его обуял страх. Он пытался развернуть своего волка и пуститься наутек, однако тот даже не пошевелился. Когда чудовище вплотную подошло к нему, последними словами, которые он прокричал, были: «Славный Гог, пёсик, у тебя что, ноги окаменели?!?»"
 #endregion
 
 #region Дрейк-армагеддон
@@ -483,7 +483,7 @@ msgstr "Ра Ин Мар"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:144
 msgid "Rah Ihn Mar, Champion of the Burning Hills, made his way to the Ruaskkolin Lake region in pursuit of the Elvish Hero Terowydlithrol, known among Elves as ‘The Dragonbane’. It was said that Terowydlithrol had killed a Dragon of Fire that threatened an Elvish village, and initiated a ‘counterattack’ in which some 37 Drakes, camping in a nearby ravine and believed to be in allegiance with the Dragon, were slaughtered. Knowing that these Drakes were innocent, Rah Ihn Mar came to Ruaskkolin Lake to hunt down and slay Terowydlithrol, who had been seen entering the region but a day ago. Burning for vengeance, Rah Ihn Mar began the hunt....."
-msgstr "Рах Ин Мар, Витязь Горящих Холмов, поршёл путь к озеру Руаскколин в погоне за эльфийским героем Теровидлисолем, известным среди эльфов как «Драконья Погибель». Говорили, что Теровидлисоль убил огненного дракона, напавшего на эльфийскую деревню, и организовал «контратаку», в которой были перебиты 37 дрейков, остановившихся на близлежащей равнине, и которых считали союзниками дракона. Зная, что эти дрейки были невиновны, Рах Ин Мар пришёл к озеру Руаскколин, чтобы выследить и убить Теровидлисоля. Того видели днём раньше, входящим в пределы озера. Горя желанием мести, Рах Ин Мар начал охоту..."
+msgstr "Рах Ин Мар, Витязь Горящих Холмов, прошёл путь к озеру Руаскколин в погоне за эльфийским героем Теровидлисолем, известным среди эльфов как «Драконья Погибель». Говорили, что Теровидлисоль убил огненного дракона, напавшего на эльфийскую деревню, и организовал «контратаку», в которой были перебиты 37 дрейков, остановившихся на близлежащей равнине, и которых считали союзниками дракона. Зная, что эти дрейки были невиновны, Рах Ин Мар пришёл к озеру Руаскколин, чтобы выследить и убить Теровидлисоля. Того видели днём раньше, входящим в пределы озера. Горя желанием мести, Рах Ин Мар начал охоту..."
 #endregion
 
 #region Змей
@@ -492,9 +492,7 @@ msgstr "Рах Ин Мар, Витязь Горящих Холмов, поршё
 msgid ""
 "He had lived there for ages upon ages, in the depths of the water, preying upon the various fish and frogs and merfolk that entered his domain. It was his lake, no other’s, and though it was not large, he was its master. Then, the Basilisk came, and looked into the Serpent’s eyes. And the Serpent had not died, but it was no longer alive. Thus the new lord of the lake had arrived.\n"
 "(inscribed by Turin)"
-msgstr ""
-"Она жила на протяжении веков, в водной глуби, охотясь на рыб, и лягушек, и водяных, посмевших заплыть в её владения. Это было её озеро, ничьё более, оно было невелико, но она была его хозяином. А затем появился василиск, взглянувший ей в глаза. И змея не умерла, хотя и перестала жить. Так появился новый повелитель озера\n"
-"(написано Турином)"
+msgstr "Он жил здесь на протяжении веков, в водной глуби, охотясь на рыб, лягушек, и водяных, посмевших заплыть в его владения. Это было его озеро, ничьё более, оно было невелико, но он был его хозяином. А затем появился василиск и посмотрел ему в глаза. И змей не умер, хотя больше уже никогда и не жил. Так появился новый повелитель этого озера."
 #endregion
 
 #region Паук
@@ -503,9 +501,7 @@ msgstr ""
 msgid ""
 "It would seem that no one knows the tale of this brave spider.\n"
 "(inscribed by WinnerA)"
-msgstr ""
-"Кажется, никто не знает историю этого храброго паука.\n"
-"(написал WinnerA)"
+msgstr "Кажется, никто не знает историю этого храброго паука."
 #endregion
 
 #region Грабитель
@@ -514,9 +510,7 @@ msgstr ""
 msgid ""
 "The tale of this unlucky highwayman is yet to be told.\n"
 "(inscribed by WinnerB)"
-msgstr ""
-"Историю этого несчастного грабителя ещё предстоит рассказать.\n"
-"(написал WinnerB)"
+msgstr "Историю этого несчастного грабителя ещё предстоит рассказать."
 #endregion
 
 #region
@@ -525,16 +519,14 @@ msgstr ""
 msgid ""
 "A brave hero of Wesnoth’s Golden Age, this great rider and commander of men came to this evil place while on a raid against the orcs. Caught unaware by the foul creatures, many of his fellows were killed, but he fought valiantly, slaying many a foe. But alas! The foul Basilisk turned him to stone even as he slew the last orc. Now all that is left is a stark reminder of his once great bearing and strength.\n"
 "(inscribed by Fynmiir)"
-msgstr ""
-"Смелый герой Золотого века Веснота, великий наездник и командир прибыл в это злое место, преследуя орков. Попав в западню и потеряв своих товарищей, он продолжал доблестно биться, убив множество врагов. Но увы! Подлый василиск превратил его в камень, как только он убил последнего орка. Он и поныне стоит здесь, напоминая о свей силе и доблести.\n"
-"(написано Файнмиром)"
+msgstr "Отважный герой золотого века Веснота, великий наездник и командир прибыл в это злое место, преследуя орков. Попав в западню и потеряв своих товарищей, он продолжал доблестно биться и убил множество врагов. Но увы! Как только умер последний орк, подлый василиск превратил его в камень. Отныне он стоит здесь, напоминая о своей былой силе и доблести."
 #endregion
 
 #region Леший
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:180
 msgid "Bramwythl"
-msgstr "Брамвицл"
+msgstr "Брамвитл"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:185
@@ -544,10 +536,9 @@ msgid ""
 "He was taken quite unawares by the Basilisk, and turned to stone before he even recognized the beast. His petrified form still stands there today, warmed by the sun’s rays, under an open sky. His greatest wish has been granted.\n"
 "(inscribed by Elvish Pillager)"
 msgstr ""
-"Леший Брамвитл всегда был медлительным и молчаливым, даже для лешего. Больше других леших он любил просто стоять одиноко под солнцем, вскинув к верху руки и наслаждаясь красотой пустынного неба. Один раз, правда, он поведал своему другу, что хотел бы вечно греться под лучами солнца.\n"
-"Однако, чуть позднее, сообщество леших услышало о приближении ужасного монстра, достаточно могущественного, чтобы запросто уничтожить нескольких леших, живших на этой земле. Они быстро покинули эти земли (быстро для леших, конечно же), но Брамвитл остался позади — в спешке никто не вспомнил найти его и предупредить об опасности.\n"
-"Он был застигнут врасплох василиском и превращен в камень, еще до того, как он понял, что за зверь стоит перед ним. Его обветренное тело до сих пор стоит здесь, обращенное к солнечным лучам под открытом небом. Его заветное желание было исполнено.\n"
-"(написано Эльфийским Мародером)"
+"Леший Брамвитл всегда был очень медлительным и молчаливым, даже для лешего. Больше других леших он любил просто стоять одиноко под солнцем, вскинув к верху руки и наслаждаясь красотой пустынного неба. Однажды он поделился со своим другом, что хотел бы вечно греться под лучами солнца.\n"
+"Немного спустя сообщество леших услышало о приближении ужасного монстра, достаточно могущественного, чтобы запросто уничтожить нескольких леших, живших на этой земле. Они быстро покинули эти земли (быстро для леших, конечно же), но Брамвитл остался позади — в спешке никто не вспомнил найти его и предупредить об опасности.\n"
+"Он был застигнут врасплох василиском и превращен в камень, еще до того, как он понял, что за зверь стоит перед ним. Его обветренное тело до сих пор стоит здесь, обращенное к солнечным лучам под открытом небом. Его заветное желание было исполнено."
 #endregion
 
 #region Генерал
@@ -559,7 +550,7 @@ msgstr "Талаель Риндок"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:192
 msgid "General Talael Ryndoc came to this place to fight a duel with the Grand Marshal Aethec Corryn, but the two men never found one another. "
-msgstr "Генерал Талаель Риндок пришёл в это место, чтобы сразиться на дуэли с великим маршалом Этеком Коррином, но они так и не нашли один другого."
+msgstr "Генерал Талаель Риндок пришёл в это место, чтобы сразиться на дуэли с великим маршалом Этеком Коррином, но они так и не встретились."
 #endregion
 
 #region Великий маршал
@@ -574,7 +565,7 @@ msgid ""
 "The last words spoken by Grand Marshal Aethec Corryn: “Talael Ryndoc! I am through searching for you! I shall make my way back to Haldric’s Hall, and inform the court that you were too much of a coward to attend our duel! Your disgrace shall be more agonizing than the death I’d have given you!”\n\n"
 "Perhaps he should not have shouted quite so loudly.... "
 msgstr ""
-"Последние слова, сказанные великим маршалом Этеком Коррином: «Талаель Риндок! Я искал тебя повсюду! Сейчас я возвращаюсь в Зал Халдрика и объявлю при дворе, что ты был слишком труслив, чтобы придти на дуэль! Твой позор будет для тебя более мучительным, чем смерть, которую ты принял бы от моей руки!»\n\n"
+"Последние слова, сказанные великим маршалом Этеком Коррином: «Талаель Риндок! Я искал тебя повсюду! Сейчас я возвращаюсь в Зал Халдрика и объявлю при дворе, что ты был слишком труслив, чтобы придти на дуэль! Твой позор будет для тебя мучительней смерти, которую ты принял бы от моей руки!»\n\n"
 "Пожалуй, ему не стоило выкрикивать эти слова так громко..."
 #endregion
 
@@ -589,9 +580,7 @@ msgstr "Рилхон"
 msgid ""
 "This brave warrior, known as Rilhon among the Naga, heard tell of a fabulous treasure that had been lost in these watery caves— a spear whose head was said to have been fashioned from the tooth of Chak’kso Ney’yks, an Elder Basilisk slain long ago by the Elvish hero, Eloralduil. According to the legend, the weapon rested somewhere on the bottom of this very lake (Ruaskkolin Lake, named for a well-known Sea Serpent who made it his home). Having prepared himself for battle with the Serpent, Rilhon met with two rather large surprises. The first was the petrified form of Ruaskkolin the Serpent. The second was the very-much-alive Chak’kso Ney’yks, who was, oddly enough, in possession of all of his teeth.\n"
 "(inscribed by Paterson)"
-msgstr ""
-"Смелый воин, известный среди нагов как Рилхон, прослышал о легендарном сокровище, потерянном в этих водных пещерах, — копье, которое было клыком Чак'ксо Ней'икса, древнего василиска, убитого эльфийским героем Элоралдуэлем. Согласно легенде, оружие осталось где-то на дне этого озера (озеро Руаскколин, по имени известного морского чудища, когда-то поселившегося здесь). Хорошо подготовившись к схватке с чудищем, Рилхон встретился с двумя неожиданными сюрпризами. Первый — это окаменевший Руаскколин. Второй — очень даже живой Чак'со Ней'икс, у которого к тому же все клыки были на месте.\n"
-"(написано Патерсоном)"
+msgstr "Смелый воин, известный среди нагов как Рилхон, прослышал о легендарном сокровище, потерянном в этих водных пещерах, — копье, которое было клыком Чак'ксо Ней'икса, древнего василиска, убитого эльфийским героем Элоралдуэлем. Согласно легенде, оружие осталось где-то на дне этого озера (озеро Руаскколин, по имени известного морского чудища, когда-то поселившегося здесь). Хорошо подготовившись к схватке с чудищем, Рилхон встретился с двумя неожиданностями. Первая — это окаменевший Руаскколин. Вторая — очень даже живой Чак'со Ней'икс, у которого к тому же все клыки были на месте."
 #endregion
 
 #region Русалка
@@ -625,8 +614,7 @@ msgstr ""
 "но вдруг\n"
 "но вдруг странная пауза\n"
 "на века\n"
-"она не может двинуться с места\n\n"
-"(написано MJQ)"
+"она не может двинуться с места"
 #endregion
 
 
