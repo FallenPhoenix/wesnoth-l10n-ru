@@ -91,12 +91,12 @@ msgstr "Мозговой штурм, проверка игры и супруже
 #. [scenario]: id=01_At_the_East_Gate
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:3
 msgid "At the East Gate"
-msgstr "У Восточных Врат"
+msgstr "У восточных врат"
 
 #. [label]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:22
 msgid "East Gate"
-msgstr "Восточные Врата"
+msgstr "Восточные врата"
 
 #. [side]: type=Dwarvish Fighter, id=Aiglondur
 #. [side]: type=Great Mage, id=Master Perrin
@@ -216,7 +216,7 @@ msgstr "Что это? На плаще их побежденного вожак�
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:157
 msgid "The maker’s mark is strange to me. We had best consult the lord Hamel."
-msgstr "Знак создателя выглядит довольно странным. Самое лучшее, что мы можем сделать, это посоветоваться с Лордом Хамелем."
+msgstr "Знак создателя выглядит довольно странным. Самое лучшее, что мы можем сделать, это посоветоваться с лордом Хамелем."
 
 #. [scenario]: id=02_Reclaiming_the_Past
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:3
@@ -233,7 +233,7 @@ msgstr "Хамель"
 #. [part]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:58
 msgid "Following the victory against the orcs, Aiglondur was summoned to the audience hall of Hamel, lord of Knalga and Lord Companion of the Northern Alliance. Beside the dais stood a stranger in the robes of the Order of Loremasters..."
-msgstr "После победы над орками Айглондур предстал перед Хамелем, повелителем Кналга и Лордом-Компаньоном Северного Альянса. За помостом стоял незнакомец в одежде Ордена Хранителей Знания."
+msgstr "После победы над орками Айглондур предстал перед Хамелем, повелителем Кналга и лордом-компаньоном Северного Альянса. За помостом стоял незнакомец в одежде Ордена Хранителей Знания."
 
 #. [unit]: type=Dwarvish Witness, id=Angarthing_dummy
 #. [unit]: type=Dwarvish Witness, id=Angarthing
@@ -270,7 +270,7 @@ msgstr "Молот Турсагана?"
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:128
 msgid "Aye. The very tool with which our greatest runesmith made the Sceptre of Fire. But it is ancient, far older than Thursagan; he was but the last to wield it, and our oldest histories hint that this very hammer was used to forge the dwarves themselves in the heart of the earth."
-msgstr "Ага. Это тот самый инструмент, с помощью которого наш великий мастер рун сделал Скипетр Огня. Он очень древний, намного старше Турсагана; он последний, кто работал с помощью него и наши старые легенды намекают на то, что этот самый молот использовался для ковки самих гномов в сердце земли."
+msgstr "Ага. Это тот самый инструмент, с помощью которого наш великий мастер рун сделал скипетр огня. Он очень древний, намного старше Турсагана; он последний, кто работал с помощью него и наши старые легенды намекают на то, что этот самый молот использовался для ковки самих гномов в сердце земли."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:132
@@ -335,7 +335,7 @@ msgstr "Это очевидно. Орден Хранителей Знаний х
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:180
 msgid "Indeed, Lord Hamel, that is what we came to ask."
-msgstr "В самом деле, Лорд Хамель, это то, о чём мы пришли просить."
+msgstr "В самом деле, лорд Хамель, это то, о чём мы пришли просить."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:184
@@ -360,7 +360,7 @@ msgstr "Да, милорд Хамель."
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:200
 msgid "The Order thanks you, Lord Hamel"
-msgstr "Орден благодарит вас, Лорд Хамель"
+msgstr "Орден благодарит вас, лорд Хамель"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:204
@@ -1176,12 +1176,12 @@ msgstr "Тан-Вагран"
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:227
 msgid "Death of West Gate commander"
-msgstr "Смерть командира Западных Врат"
+msgstr "Смерть командира западных врат"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:246
 msgid "Behold! The West Gate of Kal Kartha!"
-msgstr "Смотри! Западные Врата Кал Картха!"
+msgstr "Смотри! Западные врата Кал Картха!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Siege_of_Kal_Kartha.cfg:250
@@ -1712,7 +1712,7 @@ msgstr "Пелиас"
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:137
 msgid "I was told I’d find Aiglondur of Knalga here. I bear a message from Tallin, the Lord Protector of the Alliance."
-msgstr "Мне сказали, что я найду здесь Айглондура Кналганского. Я несу послание от Таллина, Лорда-Протектора Альянса."
+msgstr "Мне сказали, что я найду здесь Айглондура Кналганского. Я несу послание от Таллина, лорда-протектора Альянса."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:142
@@ -1727,17 +1727,17 @@ msgstr "Я шёл по вашим следам несколько недель. 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:153
 msgid "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids you return to Knalga as soon as convenient, for your investiture."
-msgstr "Айглондур, Лорд-Протектор дарует тебе звание Лорда-Компаньона Альянса. Он надеется, что ты вернёшься в Кналга, как только сможешь, чтобы быть введён в должность."
+msgstr "Айглондур, лорд-Протектор дарует тебе звание лорда-компаньона Альянса. Он надеется, что ты вернёшься в Кналга, как только сможешь, чтобы быть введён в должность."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:158
 msgid "(<i>Wonderingly</i>) A Lord Companion? And kin of ours..."
-msgstr "(<i>Удивлённо</i>) Лорд-Компаньон? И наш собрат..."
+msgstr "(<i>Удивлённо</i>) лорд-компаньон? И наш собрат..."
 
 #. [message]: speaker=Narithil
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:163
 msgid "It would be no shame for a Lord Companion to rule this holding, as Hamel does at Knalga."
-msgstr "Нет ничего постыдного в том, чтобы Лорд-Компаньон управлял этими землями, как Хамель правит Кналга."
+msgstr "Нет ничего постыдного в том, чтобы лорд-компаньон управлял этими землями, как Хамель правит Кналга."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:168
@@ -1747,12 +1747,12 @@ msgstr "Гномы Кал Картха смотрели друг на друга
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:174
 msgid "It would be fitting. The Loremasters will approve."
-msgstr "Это будет мудрым решением. Хранители Знаний согласятся."
+msgstr "Это будет мудрым решением. Хранители знаний согласятся."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:179
 msgid "Pelias, my thanks to the Lord Protector; I will attend him in the spring. But it seems that I have some work to do here first."
-msgstr "Пелиас, передай мою благодарность Лорду-Протектору. Я посещу его весной. Но мне кажется, здесь есть, чем заняться."
+msgstr "Пелиас, передай мою благодарность лорду-протектору. Я посещу его весной. Но мне кажется, здесь есть, чем заняться."
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:4
@@ -1781,7 +1781,7 @@ msgstr "бола"
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:4
 msgid "Dwarvish Loremaster"
-msgstr "Хранитель Знаний"
+msgstr "Хранитель знаний"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:23

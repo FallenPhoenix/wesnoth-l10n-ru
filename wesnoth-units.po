@@ -129,7 +129,7 @@ msgstr "Королевский гвардеец"
 #. [unit_type]: id=Royal Guard, race=human
 #: data/core/units/humans/Loyalist_Royal_Guard.cfg:19
 msgid "Royal Guards are picked from the best swordsmen in Wesnoth. Serving under any of the higher nobility, they function as bodyguards, and partly as a badge of office for their employers. A special force of Royal Guards is stationed at the capitol, guarding the palace grounds and the royal family. Because of their trusted relationship to their superiors, they, rather than mercenaries, are often deployed on missions of crucial import. Their reliability and mastery of close combat are their best assets, for which they are well-renowned."
-msgstr "В Королевскую гвардию набирают лучших мечников Веснота. Служа людям благородного происхождения, они выполняют функции телохранителей и отчасти олицетворяют статус их нанимателей. Специальные силы Королевской гвардии, охраняющие дворец и королевскую семью, расположены в столице. Так как им доверяют их хозяева, они лучше, чем наёмники, и используются в миссиях критической важности. Они широко известны своей верностью и мастерством в рукопашной."
+msgstr "В королевскую гвардию набирают лучших мечников Веснота. Служа людям благородного происхождения, они выполняют функции телохранителей и отчасти олицетворяют статус их нанимателей. Специальные силы Королевской гвардии, охраняющие дворец и королевскую семью, расположены в столице. Так как им доверяют их хозяева, они лучше, чем наёмники, и используются в миссиях критической важности. Они широко известны своей верностью и мастерством в рукопашной."
 #endregion
 
 #region Лучник
@@ -242,7 +242,7 @@ msgstr "Всадник"
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:21
 msgid "Often hailing from the wilder and untamed regions of Wesnoth, Horsemen are trained from childhood to ride and to follow a strict code of honor. A charge made by a horseman is a powerful though risky tactic, the worth of which has been proven time and time again on the battlefield. Horsemen excel against most infantry, especially those who have fallen out of line, but must take care against both spearmen and archers for whom their large size provide inviting targets."
-msgstr "Часто родом из диких областей Веснота, всадники обучались в школах езде на лошадях и строгому кодексу чести. Наскок Всадника — тактика мощная, но опрометчивая; её ценность снова и снова доказывают на поле битвы. Всадники великолепно справляются с почти любым видом пехоты, особенно если та сломала строй, но они должны избегать копьеносцев и лучников, для которых большие размеры и инерция всадников являются привлекательной целью."
+msgstr "Часто родом из диких областей Веснота, всадники обучались в школах езде на лошадях и строгому кодексу чести. Наскок всадника — тактика мощная, но опрометчивая; её ценность снова и снова доказывают на поле битвы. Всадники великолепно справляются с почти любым видом пехоты, особенно если та сломала строй, но они должны избегать копьеносцев и лучников, для которых большие размеры и инерция всадников являются привлекательной целью."
 #endregion
 
 #region Улан
@@ -294,8 +294,8 @@ msgid ""
 "    \n"
 "Full paladins are generally not quite as fearsome as the ‘Grand Knights’ that champion most armies, but they are first-class fighters nonetheless. Additionally, their wisdom and piety grants these warrior monks certain curious abilities; a paladin is very powerful in fighting magical or unnatural things, and most have some skill at medicine and healing."
 msgstr ""
-"Наиболее добродетельные рыцари, Паладины посвящают свою силу служению не королю и короне, но самим идеалам рыцарства, чести и доброте. Они могут состоять в чьей-либо армии, но в первую очередь они привержены группам своих единомышленников: секретным орденам монашеского типа, которых не сдерживают политические или культурные границы. Пользуясь этим, недоброжелатели пытаются очернить и распустить их орден, или идут на обман, чтобы заставить этих честных воинов служить себе.\n\n"
-"Хотя паладины обычно не столь устрашающи в бою, как Великие рыцари, они, тем не менее — первоклассные воины. Кроме того, их мудрость и вера дают этим монахам-воинам любопытные способности: паладин весьма силён против магических и внеприродных вещей, а также способен лечить соратников."
+"Наиболее добродетельные рыцари, паладины посвящают свою силу служению не королю и короне, но самим идеалам рыцарства, чести и доброте. Они могут состоять в чьей-либо армии, но в первую очередь они привержены группам своих единомышленников: секретным орденам монашеского типа, которых не сдерживают политические или культурные границы. Пользуясь этим, недоброжелатели пытаются очернить и распустить их орден, или идут на обман, чтобы заставить этих честных воинов служить себе.\n\n"
+"Хотя паладины обычно не столь устрашающи в бою, как великие рыцари, они, тем не менее — первоклассные воины. Кроме того, их мудрость и вера дают этим монахам-воинам любопытные способности: паладин весьма силён против магических и внеприродных вещей, а также способен лечить соратников."
 #endregion
 
 
@@ -417,7 +417,7 @@ msgstr "Ударные пехотинцы — элита тяжёлой пехо
 #. [unit_type]: id=Iron Mauler, race=human
 #: data/core/units/humans/Loyalist_Iron_Mauler.cfg:4
 msgid "Iron Mauler"
-msgstr "Железный Кулак"
+msgstr "Железный кулак"
 
 #. [unit_type]: id=Iron Mauler, race=human
 #: data/core/units/humans/Loyalist_Iron_Mauler.cfg:22
@@ -425,8 +425,8 @@ msgid ""
 "Iron Maulers are given their name for reasons which are all too obvious to their foes. The men within these suits of armor can match ogres in contests of strength, and are marked as the champions of the castle guards in which they serve. They are, however, expensive to maintain, and cannot be sent to distant battles without a full convoy of servants to support them.\n\n"
 "Though staggering in melee combat, there are many drawbacks to being outfitted in this way; Iron Maulers tire easily, and know all too well that they cannot run on the battlefield. Too often have they seen a distant comrade fall, yet were powerless to reach the scene in time to help."
 msgstr ""
-"Железные Кулаки получили свое прозвище по очевидным причинам. Это люди, закованные в свои тяжелые доспехи и способные померяться силой с великанами, считаются лучшими защитниками замков. Однако, содержать их дорого, и Вам не удастся отправить в отдаленную битву без целого обоза слуг.\n\n"
-"Хотя их рукопашная атака ошеломительна, у таких доспехов много недостатков. Железные Кулаки быстро устают. Всем хорошо известно, что они не могут бегать на поле битвы. Слишком часто они видели гибель своих товарищей вдалеке, но не были способны вовремя прийти им на помощь."
+"Железные кулаки получили свое прозвище по очевидным причинам. Это люди, закованные в свои тяжелые доспехи и способные померяться силой с великанами, считаются лучшими защитниками замков. Однако, содержать их дорого, и Вам не удастся отправить в отдаленную битву без целого обоза слуг.\n\n"
+"Хотя их рукопашная атака ошеломительна, у таких доспехов много недостатков. Железные кулаки быстро устают. Всем хорошо известно, что они не могут бегать на поле битвы. Слишком часто они видели гибель своих товарищей вдалеке, но не были способны вовремя прийти им на помощь."
 #endregion
 
 
@@ -533,8 +533,8 @@ msgid ""
 "The title of Arch Mage is traditionally conferred only after a lifetime of study and achievement to match. Arch Magi are often employed in positions of education, or as advisors to those sensible enough to seek the fruits of their wisdom. Many tend to wealthy patrons, a profitable enterprise for both as, outside of the occasional thaumaturgy or word of advice, it gives the mage leave to pursue their research undisturbed. From this flows the greater body of human knowledge; the sciences, the philosophies, and the arts which give beauty to the world at large.\n\n"
 "Though not trained for any sort of combat, if need arises an Arch Mage can unleash the full power of their art, something which is not to be taken lightly."
 msgstr ""
-"Титул Архимага даруется только после долгих лет учебы и достойных свершений. Архимаги часто служат учителями или советниками у тех, кто достаточно умён, чтобы пожинать плоды их мудрости. Служение властительному правителю — взаимовыгодное сотрудничество для обеих сторон, так как все время, когда не требуется выполнить случайное задание или дать совет, маг может заниматься проведением своих исследований. Благодаря этому была получена огромная часть человеческих знаний в науках, философии, искусствах, подарившая красоту всему миру.\n\n"
-"Хоть и не будучи тренированными ни для какого вида боя, в случае необходимости Архимаги могут высвободить всю мощь своего искусства так, что никому мало не покажется."
+"Титул архимага даруется только после долгих лет учебы и достойных свершений. Архимаги часто служат учителями или советниками у тех, кто достаточно умён, чтобы пожинать плоды их мудрости. Служение властительному правителю — взаимовыгодное сотрудничество для обеих сторон, так как все время, когда не требуется выполнить случайное задание или дать совет, маг может заниматься проведением своих исследований. Благодаря этому была получена огромная часть человеческих знаний в науках, философии, искусствах, подарившая красоту всему миру.\n\n"
+"Хоть и не будучи тренированными ни для какого вида боя, в случае необходимости архимаги могут высвободить всю мощь своего искусства так, что никому мало не покажется."
 #endregion
 
 #region Великий маг
@@ -554,7 +554,7 @@ msgid ""
 "Any person who is even considered for the title of Great Mage is quite nearly a legend in their own time, and town criers have forcibly learnt discretion in applying the title. Merit for the title is carefully considered by a council of the leading magi of the age, and the conferment of the title is given only by a majority vote. Regardless, anyone who is seriously nominated for the honor of being called a Great Mage is, without question, a master of their art, and has surpassed almost any of their peers in skill.\n\n"
 "Though they are not warriors, by any means, the application of their art to combat is something that often causes other soldiers to stand aside in awe."
 msgstr ""
-"Любой удостоившийся титула Великого мага очень скоро станет легендой своего времени, и городские глашатаи весьма осмотрительны в произношении титула. Этот титул назначается после долгого рассмотрения советом величайших магов эпохи, и это решение будет принято только при большинстве поданных голосов. Несмотря на то, кто выдвинут на титул Великого мага, он, вне сомнения, является мастером своего искусства и превосходит каждого в своем мастерстве.\n\n"
+"Любой удостоившийся титула великого мага очень скоро станет легендой своего времени, и городские глашатаи весьма осмотрительны в произношении титула. Этот титул назначается после долгого рассмотрения советом величайших магов эпохи, и это решение будет принято только при большинстве поданных голосов. Несмотря на то, кто выдвинут на титул великого мага, он, вне сомнения, является мастером своего искусства и превосходит каждого в своем мастерстве.\n\n"
 "Хотя они и не являются воинами, но применение их искусства в битве заставляет солдат столбенеть от ужаса."
 #endregion
 
@@ -583,7 +583,7 @@ msgstr ""
 #. [unit_type]: id=Silver Mage, race=human
 #: data/core/units/humans/Mage_Silver.cfg:24
 msgid "SPECIAL_NOTE^ Silver Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
-msgstr " Серебряные Маги хорошо приспособились к магической природе и потому имеют высокую сопротивляемость к нефизическим атакам."
+msgstr " Серебряные маги хорошо приспособились к магической природе и потому имеют высокую сопротивляемость к нефизическим атакам."
 #endregion
 
 #region Старый маг
@@ -644,7 +644,7 @@ msgstr "Великий маршал"
 #. [unit_type]: id=Grand Marshal, race=human
 #: data/core/units/humans/Loyalist_Grand_Marshal.cfg:26
 msgid "The rank of Grand Marshal is one of the most esteemed in the armies of humanity, and those who bear its title have survived many trials by fire, proving both their tactical wit and their considerable mettle at personal combat."
-msgstr "Званием Великого маршала удостаиваются лишь закалённые огнём и мечом воины, которые доказали, что обладают боевой выучкой и выдержкой в индивидуальном бою. Они по праву являются одними из самых уважаемых в армии людей."
+msgstr "Званием великого маршала удостаиваются лишь закалённые огнём и мечом воины, которые доказали, что обладают боевой выучкой и выдержкой в индивидуальном бою. Они по праву являются одними из самых уважаемых в армии людей."
 #endregion
 
 
@@ -975,7 +975,7 @@ msgstr "Возрожденный"
 #. [unit_type]: id=Revenant, race=undead
 #: data/core/units/undead/Skele_Revenant.cfg:19
 msgid "Given false life to do battle once more, the creatures known as Revenants were clearly great warriors in their time, though the memory of that time is almost wholly lost to their undead selves. Even the sorcerers who raised them can only speculate on their past. Such questions aside, a Revenant is a powerful tool in combat: a fearless warrior that feels no pain and will fight to the bitter end."
-msgstr "Получив мнимую жизнь ради битвы еще раз, Возрождённый, бывший в свое время великим воином, теперь не помнит ничего из своего прошлого. Даже поднявший его колдун может только догадываться, кем тот был. Без сомнения, Возрождённый — полезный инструмент в битве: не чувствующий боли бесстрашный воин, сражающийся до печального конца."
+msgstr "Получив мнимую жизнь ради битвы еще раз, возрождённый, бывший в свое время великим воином, теперь не помнит ничего из своего прошлого. Даже поднявший его колдун может только догадываться, кем тот был. Без сомнения, возрождённый — полезный инструмент в битве: не чувствующий боли бесстрашный воин, сражающийся до печального конца."
 #endregion
 
 #region Драугр
@@ -1168,12 +1168,12 @@ msgstr "Легенды гласят о могущественных воинах
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr "Дракон-Скелет"
+msgstr "Дракон-скелет"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:26
 msgid "Long ago one of the mightiest living creatures, the feared Dragon has become only bones and dark sinew. Long after its death, it was raised through the dark powers of necromancy, which it now serves. The Skeletal Dragon may look like nothing more than a pile of bones, but few people who thought that way lived long enough to change their minds."
-msgstr "Когда-то он был могущественнейшим из живущих существ, а сейчас от дракона остались только кости и почерневшие жилы. После смерти он был поднят и подчинён темной силой некромантии. Дракон-Скелет может выглядеть не более чем грудой костей, но лишь немногие из тех, кто так считал, прожили достаточно для того, чтобы изменить своё мнение."
+msgstr "Когда-то он был могущественнейшим из живущих существ, а сейчас от дракона остались только кости и почерневшие жилы. После смерти он был поднят и подчинён темной силой некромантии. Дракон-скелет может выглядеть не более чем грудой костей, но лишь немногие из тех, кто так считал, прожили достаточно для того, чтобы изменить своё мнение."
 #endregion
 
 
@@ -1228,7 +1228,7 @@ msgstr "Снайперша"
 #. [unit_type]: id=Elvish Sharpshooter, race=elf
 #: data/core/units/elves/Sharpshooter.cfg:20
 msgid "There was a legend of an elf who stopped an arrow by shooting it out of the air with one of his own. It is a testament to the skill of the elves that such a story could be taken seriously. The sharpshooters of the elves have, quite simply, mastered the art of archery."
-msgstr "Легенды рассказывают об эльфе, который остановил стрелу в полёте, попав в неё своей стрелой. Мастерство эльфов свидетельствует: к подобным легендам стоит относиться серьёзно. Проще говоря, Снайперы эльфов владеют стрельбой из лука в совершенстве."
+msgstr "Легенды рассказывают об эльфе, который остановил стрелу в полёте, попав в неё своей стрелой. Мастерство эльфов свидетельствует: к подобным легендам стоит относиться серьёзно. Проще говоря, снайперы эльфов владеют стрельбой из лука в совершенстве."
 #endregion
 
 #region Егерь
@@ -1291,7 +1291,7 @@ msgstr "Герой"
 #. [unit_type]: id=Elvish Hero, race=elf
 #: data/core/units/elves/Hero.cfg:19
 msgid "Elves, though not warlike by nature, are swift to learn; a relatively small amount of experience will turn an elf from a competent fighter into a master of combat. Those who are honored as heroes are strong with both sword and bow, and their skill once acquired does not fade for lack of practice."
-msgstr "Эльфы миролюбивы, но быстро учатся. Эльфийскому воину требуется не так много опыта, чтобы превратиться в мастера боя. Те, кого почитают Героями, сильны в обращении как с мечом, так и с луком, и это мастерство не страдает от недостатка практики."
+msgstr "Эльфы миролюбивы, но быстро учатся. Эльфийскому воину требуется не так много опыта, чтобы превратиться в мастера боя. Те, кого почитают героями, сильны в обращении как с мечом, так и с луком, и это мастерство не страдает от недостатка практики."
 #endregion
 
 #region Витязь
@@ -1470,26 +1470,26 @@ msgstr "Лорд эльфов"
 #. [unit_type]: id=Elvish Lord, race=elf
 #: data/core/units/elves/Lord.cfg:19
 msgid "The nobility of the elves are possessed of merit to match their standing in society. Elvish Lords are the wisest and strongest of their people, and are fearsome in their command of magic."
-msgstr "Благородство эльфийской знати — достоинство, определяющее их положение в обществе. Эльфийские Лорды — мудрейшие и сильнейшие среди своего народа, и повелевают грозной магией."
+msgstr "Благородство эльфийской знати — достоинство, определяющее их положение в обществе. Эльфийские лорды — мудрейшие и сильнейшие среди своего народа, и повелевают грозной магией."
 #endregion
 
 #region Верховный лорд
 #. [unit_type]: id=Elvish High Lord, race=elf
 #: data/core/units/elves/High_Lord.cfg:4
 msgid "Elvish High Lord"
-msgstr "Верховный Лорд"
+msgstr "Верховный лорд"
 
 #. [unit_type]: id=Elvish High Lord, race=elf
 #: data/core/units/elves/High_Lord.cfg:19
 msgid "The leaders of elvenkind command an instinctive loyalty from their people that rulers of other races can only envy, and earn it with great mindfulness and wisdom. Quiet and contemplative in times of peace, a High Lord in the full of his wrath is an awesome sight indeed."
-msgstr "Предводители эльфов располагают таким авторитетом и верностью своих подданных, каким правители других рас могут только завидовать; и пользуются своим влиянием мудро и разумно. Спокойный и рассудительный в мирное время, в гневе Верховный Лорд внушает ужас."
+msgstr "Предводители эльфов располагают таким авторитетом и верностью своих подданных, каким правители других рас могут только завидовать; и пользуются своим влиянием мудро и разумно. Спокойный и рассудительный в мирное время, в гневе верховный лорд внушает ужас."
 #endregion
 
 #region Эльфийская леди
 #. [unit_type]: id=Elvish Lady, race=elf
 #: data/core/units/elves/Lady.cfg:5
 msgid "female^Elvish Lady"
-msgstr "Эльфийская Леди"
+msgstr "Эльфийская леди"
 
 #. [unit_type]: id=Elvish Lady, race=elf
 #: data/core/units/elves/Lady.cfg:21
@@ -1524,7 +1524,7 @@ msgstr "Латник"
 #. [unit_type]: id=Dwarvish Steelclad, race=dwarf
 #: data/core/units/dwarves/Steelclad.cfg:19
 msgid "The more experienced Dwarvish Steelclad fighters wear heavy chain mail and plate armor, for which they are rightly famous."
-msgstr "Более опытные воины, Латники одеты в тяжелую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу."
+msgstr "Более опытные воины, латники одеты в тяжелую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу."
 #endregion
 
 #region Богатырь
@@ -1721,7 +1721,7 @@ msgstr "Мастер рун"
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Rune_Lord.cfg:241
 #: data/core/units/dwarves/Runemaster.cfg:25
 msgid "Except for those with almost supernatural skill, the highest rank a runecrafter can rise to is that of the Dwarvish Runemaster. Striking blows nearly as powerful as those of the best warriors, they would be fearsome without their craft, but with it they are also nigh on invincible, since their runes cause the physical blows of their enemies to deal less damage than would be expected."
-msgstr "Высший ранг, которого может достичь творец рун, не обладающий сверхъестественным талантом — Рунный мастер. Его удары так же сильны, как удары лучших воинов, но страшнее всего — его мастерство, делающее его почти неуязвимым; ведь руны сдерживают значительную часть ударов его протвиника."
+msgstr "Высший ранг, которого может достичь творец рун, не обладающий сверхъестественным талантом — рунный мастер. Его удары так же сильны, как удары лучших воинов, но страшнее всего — его мастерство, делающее его почти неуязвимым; ведь руны сдерживают значительную часть ударов его протвиника."
 #endregion
 
 #region Арканист
@@ -1733,7 +1733,7 @@ msgstr "Арканист"
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: data/core/units/dwarves/Arcanister.cfg:31
 msgid "The most powerful of all the runecrafters, the Dwarvish Arcanister destroys wounded enemies almost instantly, and rarely fails to cause a wound when that is his intent. His skill in runecrafting is unrivaled, and the glyphs he carves into his weapons and armor deflect the blows of his enemies."
-msgstr "Сильнейшие из мастеров рун, Арканисты способны мгновенно уничтожить ослабевшего врага, и очень редко промахиваются. Их рунное мастерство никем не превзойдено, а нанесённые на оружие и доспех руны способны отражать удары врагов."
+msgstr "Сильнейшие из мастеров рун, арканисты способны мгновенно уничтожить ослабевшего врага, и очень редко промахиваются. Их рунное мастерство никем не превзойдено, а нанесённые на оружие и доспех руны способны отражать удары врагов."
 #endregion
 
 
@@ -1746,7 +1746,7 @@ msgstr "Наездник грифона"
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:20
 msgid "Only a few are able to bond with the mighty Gryphons. Those who do may become Gryphon Riders, and discover the world of the skies upon the backs of these flying beasts."
-msgstr "Только избранные могут приручить могучего Грифона. Тот, кто сумеет, станет наездником грифона и откроет для себя небесный мир на спине этих летающих созданий."
+msgstr "Только избранные могут приручить могучего грифона. Тот, кто сумеет, станет наездником грифона и откроет для себя небесный мир на спине этих летающих созданий."
 #endregion
 
 #region Хозяин грифона
@@ -1777,7 +1777,7 @@ msgid ""
 "The Clashers are members of a unique caste among the drakes. Their thick armor, while compensating for the drakes’ natural weakness against spears and arrows, is so heavy and restricting that they are not able to fly or muster enough breath to use their inner fire. They have embraced this handicap, completely encasing their wings to emphasize that they do not need flight to triumph in battle.\n\n"
 "This is also the only caste that is allowed to break taboo and fight with spears in addition to the drake’s traditional metal claws, which makes them particularly good at \"resolving\" territorial disputes with other drakes and enforcing the laws of their tribe."
 msgstr ""
-"Каста Бойцов отличается от прочих дрейков. Их толстые доспехи, хотя и компенсируют природную уязвимость дрейков к копьям и стрелам, настолько тяжелы и неудобны, что не дают ни летать, ни дышать достаточно глубоко для использования внутреннего огня. Бойцы принимают это как должное и полностью закрывают свои крылья чтобы подчеркнуть, что им не нужен полёт для победы в бою.\n\n"
+"Каста бойцов отличается от прочих дрейков. Их толстые доспехи, хотя и компенсируют природную уязвимость дрейков к копьям и стрелам, настолько тяжелы и неудобны, что не дают ни летать, ни дышать достаточно глубоко для использования внутреннего огня. Бойцы принимают это как должное и полностью закрывают свои крылья чтобы подчеркнуть, что им не нужен полёт для победы в бою.\n\n"
 "К тому же, это единственная каста, которой позволено нарушать табу и сражаться копьями в дополнение к обычным для дрейков металлическим когтям. Благодаря этому Бойцы успешно «решают» территориальные споры и наводят порядок среди своих сородичей."
 #endregion
 
@@ -1790,7 +1790,7 @@ msgstr "Рубака"
 #. [unit_type]: id=Drake Thrasher, race=drake
 #: data/core/units/drakes/Thrasher.cfg:19
 msgid "Instead of letting themselves be bound by their armor, Thrashers have learned to redirect its weight to supplement their bodies’ momentum, adding power to the blows of their short spears and hand-mounted claws. Equipment and body are one; even their thick helms and the thick skulls beneath them are weapons. A Thrasher will gladly fulfill his caste duties, as long as it can be done on the battlefield."
-msgstr "Доспех ограничивает Рубак менее прочих; Рубаки научились перенаправлять тяжесть доспехов в движущий импульс, что добавляя силы к ударам их коротких копий и железных когтей. Оружие и тело едины; даже их толстые шлемы и толстые кости черепа – оружие. Рубака всегда счастлив выполнить свой долг перед кастой, особенно на поле боя."
+msgstr "Доспех ограничивает рубак менее прочих; рубаки научились перенаправлять тяжесть доспехов в движущий импульс, что добавляя силы к ударам их коротких копий и железных когтей. Оружие и тело едины; даже их толстые шлемы и толстые кости черепа – оружие. Рубака всегда счастлив выполнить свой долг перед кастой, особенно на поле боя."
 #endregion
 
 #region Броненосец
@@ -1802,7 +1802,7 @@ msgstr "Броненосец"
 #. [unit_type]: id=Drake Enforcer, race=drake
 #: data/core/units/drakes/Enforcer.cfg:20
 msgid "Not for Enforcers are the tactics of maneuver and deception; rather, they charge in wherever the melee is the fiercest. At close range, it matters little that their armor prevents them from spouting flame; all that matters is the power they’ve learned to focus in each strike. Drake leaders are careful not to besmirch the honor of the Enforcers, and generally call upon them to combat only the most pernicious of enemies."
-msgstr "Броненосцы – не мастера тактики, манёвра или обмана; вместо этого, они рвутся в самую гущу рукопашной. На ближней дистанции неважно, что их доспехи препятствуют огненному дыханию: важна только мощь, вкладываемая ими в каждый удар. Вожди дрейков стараются не запятнать честь Броненосцев и обычно зовут их на битву только против самых смертельных врагов."
+msgstr "Броненосцы – не мастера тактики, манёвра или обмана; вместо этого, они рвутся в самую гущу рукопашной. На ближней дистанции неважно, что их доспехи препятствуют огненному дыханию: важна только мощь, вкладываемая ими в каждый удар. Вожди дрейков стараются не запятнать честь броненосцев и обычно зовут их на битву только против самых смертельных врагов."
 #endregion
 
 #region Арбитр
@@ -1814,7 +1814,7 @@ msgstr "Арбитр"
 #. [unit_type]: id=Drake Arbiter, race=drake
 #: data/core/units/drakes/Arbiter.cfg:18
 msgid "Arbiters take their caste duty of enforcing order very seriously. In order to better execute their duties, they have abandoned the drakes’ traditional hand-mounted claws and traded their spears for the spike and blade of the halberd. In their minds, the loss of maneuverability is a fair price for the raw heft the massive metal head provides. The thick plate these drakes wear protects them well against weapons that could slip between their scales."
-msgstr "Каста Арбитров имеет строгие порядки. Чтобы лучше исполнять свой долг, они отказались от обычных для дрейков боевых когтей, и сменили копья на колюще-режущие алебарды. По их мнению, потеря маневренности вполне окупается преимуществами тяжёлого наконечника. Тонкие доспехи этих дрейков хорошо защищают от оружия, способного проскользнуть в промежутки их чешуи."
+msgstr "Каста арбитров имеет строгие порядки. Чтобы лучше исполнять свой долг, они отказались от обычных для дрейков боевых когтей, и сменили копья на колюще-режущие алебарды. По их мнению, потеря маневренности вполне окупается преимуществами тяжёлого наконечника. Тонкие доспехи этих дрейков хорошо защищают от оружия, способного проскользнуть в промежутки их чешуи."
 #endregion
 
 #region Страж
@@ -1826,7 +1826,7 @@ msgstr "Страж"
 #. [unit_type]: id=Drake Warden, race=drake
 #: data/core/units/drakes/Warden.cfg:19
 msgid "Wardens are set apart from the rest of the Clasher caste by two things: their ornate helms, modeled after their dragon ancestors, and the care with which they drape their armored wings in brightly colored cloth before reporting for duty. Though this mode of dress stems from the pride they feel for their role in drake society, it is far from ceremonial. Their cumbersome bronze plate is the strongest work from the Drake forges, and their halberds can cleave a human in half."
-msgstr "Две вещи отличают Стражей от остальных Бойцов: причудливые шлемы, изображающие предков-драконов, и тщание, с которым они драпируют свои бронированные крылья яркими тканями, отправляясь на службу. Это отнюдь не придворная мода, хотя так же происходит от гордости своим положением в иерархии дрейков. Громоздкие бронзовые доспехи Стражей — наилучшая продукция дрейковских кузниц, а их алебарды способны рассечь человека надвое."
+msgstr "Две вещи отличают стражей от остальных бойцов: причудливые шлемы, изображающие предков-драконов, и тщание, с которым они драпируют свои бронированные крылья яркими тканями, отправляясь на службу. Это отнюдь не придворная мода, хотя так же происходит от гордости своим положением в иерархии дрейков. Громоздкие бронзовые доспехи стражей — наилучшая продукция дрейковских кузниц, а их алебарды способны рассечь человека надвое."
 #endregion
 
 
@@ -1851,7 +1851,7 @@ msgstr "Воитель"
 #. [unit_type]: id=Drake Warrior, race=drake
 #: data/core/units/drakes/Warrior.cfg:18
 msgid "Drakes of the Fighter caste, like the Warrior, are the foundation of any tribe’s army. No special abilities or skills set them apart; only their natural brute strength and military training help them carve their way through enemy forces. They fight as they have for centuries, clad in ceramic-plated leather with the traditional war blade mounted on the back of each hand."
-msgstr "Дрейки из касты воинов, такие, как Воители, составляют основу армии любого племени. Они не обладают какими-либо особыми возможностями или умениями; лишь природная грубая сила и военное обучение помогают им пробивать себе путь через вражеские войска. Они дерутся так же, как и века назад, закованные в покрытые керамическими пластинами кожаные доспехи, с традиционными клинками в каждой руке"
+msgstr "Дрейки из касты воинов, такие, как воители, составляют основу армии любого племени. Они не обладают какими-либо особыми возможностями или умениями; лишь природная грубая сила и военное обучение помогают им пробивать себе путь через вражеские войска. Они дерутся так же, как и века назад, закованные в покрытые керамическими пластинами кожаные доспехи, с традиционными клинками в каждой руке"
 #endregion
 
 #region Мастер клинка
@@ -1863,7 +1863,7 @@ msgstr "Мастер клинка"
 #. [unit_type]: id=Drake Blademaster, race=drake
 #: data/core/units/drakes/Blademaster.cfg:20
 msgid "Black armor marks the elite order of the Fighter caste: the Blademasters. Only a few manage to gain the skill and power necessary to be admitted to this highest rank without perishing in battle. Though other drakes may disparage the Fighter caste, they always check twice to be sure none are around; Blademasters fiercely protect their fellows’ honor, and no-one would dispute their right to do so."
-msgstr "Чёрные доспехи означают элиту касты солдат — Мастеров Клинка. Лишь немногие достигают умения и силы, такого ранга, не погибнувши до того в бою. Хотя дрейки могут пренебрежительно отзываться о касте Содат, но перед этим всегда оглядываются – нет ли рядом кого-то из тех. Мастера Клинка яростно защищают честь своих собратьев, и никто не рискнёт оспаривать это их право."
+msgstr "Чёрные доспехи означают элиту касты солдат — мастеров клинка. Лишь немногие достигают умения и силы, такого ранга, не погибнувши до того в бою. Хотя дрейки могут пренебрежительно отзываться о касте Содат, но перед этим всегда оглядываются – нет ли рядом кого-то из тех. Мастера клинка яростно защищают честь своих собратьев, и никто не рискнёт оспаривать это их право."
 #endregion
 
 
@@ -1879,8 +1879,8 @@ msgid ""
 "Many drakes enjoy the flow of air over scales, leading them to don the light robes of the Glider caste. The long forays to the far reaches of the tribal territory are their passion, though other drakes often wonder what could lead someone to take on the drudgery of hunting when more glory could be found on the battlefield.\n\n"
 "Most often, Gliders hunt larger game like deer, swine, or dolphins; the drakes’ ancestral ability to aim fire, hampered in other castes by armor, is invaluable for flushing and herding the quarry without harming it. If a Glider is called to the battlefield, he prefers to harass the enemy from a distance – and if all else fails, he will fight with his feet, keeping his precious wings as far from the enemy as possible."
 msgstr ""
-"Многие дрейки более всего любят бьющий по чешуе ветер, и поэтому носят лёгкие одежды касты Планёров. Их страсть – долгие полёты к дальним границам владений племени, хотя прочие дрейки удивляются – как кто-то может наслаждаться рутиной охоты, когда можно завоевать боьшую славу на поле боя.\n\n"
-"Чаще всего Планёры охотятся на крупную дичь – оленей, кабанов, дельфинов; их огненное дыхание, не стеснённое доспехами, очень помогает отбивать добычу от стада, не вредя остальным. Если Планёра призывают на поле боя, он предпочитает тревожить врага издалека, – и только если все остальные средства исчерпаны, он бьётся ногами, стараясь удержать врага как можно дальше от своих драгоценных крыльев."
+"Многие дрейки более всего любят бьющий по чешуе ветер, и поэтому носят лёгкие одежды касты планёров. Их страсть – долгие полёты к дальним границам владений племени, хотя прочие дрейки удивляются – как кто-то может наслаждаться рутиной охоты, когда можно завоевать боьшую славу на поле боя.\n\n"
+"Чаще всего планёры охотятся на крупную дичь – оленей, кабанов, дельфинов; их огненное дыхание, не стеснённое доспехами, очень помогает отбивать добычу от стада, не вредя остальным. Если планёра призывают на поле боя, он предпочитает тревожить врага издалека, — и только если все остальные средства исчерпаны, он бьётся ногами, стараясь удержать врага как можно дальше от своих драгоценных крыльев."
 #endregion
 
 #region Небесный
@@ -1892,7 +1892,7 @@ msgstr "Небесный"
 #. [unit_type]: id=Sky Drake, race=drake
 #: data/core/units/drakes/Sky.cfg:18
 msgid "The lightweight ceramic armor that the Sky Drakes wear is a symbol of their rank, glazed silver to honor their connection to the air. As leaders of the hunt, they are often away from their homes for long periods of time. Each tries to bring as much game home as possible, competing to gain the respect of their tribe and, just possibly, time with one of the closely-guarded drake females."
-msgstr "Лёгкие керамические доспехи, которые носят Небесные Дрейки — символ их касты; их серебрянные украшения символизируют власть над воздухом. Как управляющие охотой, они часто и надолго отлучаются из дома. Каждый из них стремится принести как можно больше добычи, тем самым завоевать уважение племени, и, возможно, право встретиться с одной из тщательно охраняемых самок."
+msgstr "Лёгкие керамические доспехи, которые носят небесные дрейки — символ их касты; их серебрянные украшения символизируют власть над воздухом. Как управляющие охотой, они часто и надолго отлучаются из дома. Каждый из них стремится принести как можно больше добычи, завоевывая тем самым уважение племени, и, возможно, право встретиться с одной из тщательно охраняемых самок."
 #endregion
 
 #region Ураган
@@ -1904,7 +1904,7 @@ msgstr "Ураган"
 #. [unit_type]: id=Hurricane Drake, race=drake
 #: data/core/units/drakes/Hurricane.cfg:19
 msgid "Hurricane Drakes have moved above the menial hunting and gathering to which the lower members of their caste are relegated. They are an integral part of the drakes’ military, scouting ahead of the main forces, carrying messages across the battlefield, and falling upon the enemy where it’s least expected. Being allowed—grudgingly—to train with the newcomers from other castes has increased their skill in combat, but their greatest strength still lies in their speed and flight."
-msgstr "Ураганные Дрейки поднялись выше охоты и собирательства, которыми занимаются младшие члены касты. Они — неотъемлемая часть армии дрейков: разведчики, которых посылают перед основными силами, гонцы на поле боя, но с тем же успехом они могут обрушиться с неба на врага там, где он этого меньше всего ожидает. Им неохотно позволяют тренироваться с новобранцами других каст, что повышает их искусство рукопашного боя, однако главная их сила – полёт и скорость."
+msgstr "Ураганные дрейки поднялись выше охоты и собирательства, которыми занимаются младшие члены касты. Они — неотъемлемая часть армии дрейков: разведчики, которых посылают перед основными силами, гонцы на поле боя, но с тем же успехом они могут обрушиться с неба на врага там, где он этого меньше всего ожидает. Им неохотно позволяют тренироваться с новобранцами других каст, что повышает их искусство рукопашного боя, однако главная их сила – полёт и скорость."
 #endregion
 
 
@@ -1941,7 +1941,7 @@ msgstr "Пламенное сердце"
 #. [unit_type]: id=Drake Flameheart, race=drake
 #: data/core/units/drakes/Flameheart.cfg:26
 msgid "Flamehearts lack the strength to defeat other high-ranking drakes in single combat, but prefer in any case to avoid confrontation within the tribe. Experience has taught any drake of this stature the extent of his authority: where he can push those he leads and when it is best to leave them to their own devices. Only occasionally will a Flameheart challenge his tribe’s leader for supremacy, and only if he is sure of the support of his fellow drakes."
-msgstr "Пламенным Сердцам недостаёт силы, чтобы побеждать других дрейков высших классов в поединках, и поэтому они предпочитают обходиться без противоборств внутри племени. Высокое положение научило каждого их этих дрейков определять рамки своей власти: когда следует направлять свой народ, а когда лучше дать им действовать самостоятельно. Лишь изредка Пламенное Сердце может сразиться с лидером своего племени за главенство, и только в том случае, когда он уверен в поддержки своих соплеменников."
+msgstr "Пламенным сердцам недостаёт силы, чтобы побеждать других дрейков высших классов в поединках, и поэтому они предпочитают обходиться без противоборств внутри племени. Высокое положение научило каждого их них определять рамки своей власти: когда следует направлять свой народ, а когда лучше дать им действовать самостоятельно. Лишь изредка пламенное сердце может сразиться с лидером своего племени за главенство, и только в том случае, когда он уверен в поддержки своих соплеменников."
 #endregion
 
 #region Огненный
@@ -2783,7 +2783,7 @@ msgstr "Ужасный волк"
 #. [unit_type]: id=Great Wolf, race=wolf
 #: data/core/units/monsters/Wolf_Great.cfg:4
 msgid "Great Wolf"
-msgstr "Волк-Исполин"
+msgstr "Волк-исполин"
 
 #. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Direwolf, race=wolf
@@ -2889,7 +2889,7 @@ msgstr "Водяной змей"
 #. [unit_type]: id=Water Serpent, race=monster
 #: data/core/units/monsters/Water_Serpent.cfg:39
 msgid "Scholars differ as to the ancestry of the Water Serpent. Some hold that they are the immature young, or mature cousins, of Sea Serpents. Others hold them up as a primitive offshoot of the Nagas. What is certain is that it is wise to avoid waters where they are known to congregate."
-msgstr "Учёные расходятся во мнении относительно Водяных Змей. Некоторые считают их молодняком или родственным видом Морских Змей. Другие убеждены, что это побочная ветвь первобытных Наг. Точно можно сказать лишь одно: лучше не лезть в те воды, где они собираются."
+msgstr "Учёные расходятся во мнении относительно водяных змеев. Некоторые считают их молодняком или родственным видом морских змеев. Другие убеждены, что это побочная ветвь первобытных наг. Точно можно сказать лишь одно: лучше не лезть в те воды, где они собираются."
 #endregion
 
 #region Морской змей
@@ -2920,12 +2920,12 @@ msgstr "О йети известно совсем немного — это ог
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:4
 msgid "Fire Guardian"
-msgstr "Огненный Страж"
+msgstr "Огненный страж"
 
 #. [unit_type]: id=Fire Guardian, race=monster
 #: data/core/units/monsters/Fire_Guardian.cfg:28
 msgid "Fire Guardians are spirits of smoke and flame. No one is exactly sure where they come from, but they are occasionally summoned by powerful mages to do their bidding. When not being controlled they like to frolic in pools of lava and take great delight in burning anything they can reach."
-msgstr "Огненный Страж — это духи дыма и пламени. Никто не знает точно, откуда они приходят, но время от времени могущественные маги призывают их для служения. Когда не скованы властью мага, они предпочитают резвиться в бассейнах лавы, и развлекаться, сжигая всё, до чего могут дотянуться."
+msgstr "Огненный страж — это духи дыма и пламени. Никто не знает точно, откуда они приходят, но время от времени могущественные маги призывают их для служения. Когда не скованы властью мага, они предпочитают резвиться в бассейнах лавы, и развлекаться, сжигая всё, до чего могут дотянуться."
 #endregion
 
 #region Огненный дракон

@@ -23,7 +23,7 @@ msgstr ""
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:12
 msgid "A Tale of Two Brothers"
-msgstr "Сказание о Двух Братьях"
+msgstr "Сказание о двух братьях"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:13
@@ -108,7 +108,7 @@ msgstr "Скелеты и зомби убивали скот и выжигали
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:63
 msgid "There was a man named Baran who had shown talent as a mage when he was young, gone to the great Academy on the Isle of Alduin, and returned to work his magic in the land where he was born. The people looked to him for help and leadership. He found weapons half-forgotten from the times of their sires and grandsires hanging in many houses, and bade the villagers to take them down and clean and oil them. He set the smiths of Maghre to making spearheads and ax-blades for the rest."
-msgstr "Был среди тамошних жителей человек по имени Бьярн, который в молодости проявлял способности к волшебству, отправился в великую Академию на Острове Алдуин, а затем вернулся, чтобы служить своим волшебством родной земле. Люди ждали от него помощи и руководства. На чердаках во многих домах он нашёл оружие, пылившееся там ещё со времён их дедов и прадедов, и велел поселенцам его достать, почистить и смазать. Кузнецам Магрэ он велел изготовить для остальных наконечники копий и лезвия топоров."
+msgstr "Был среди тамошних жителей человек по имени Бьярн, который в молодости проявлял способности к волшебству, отправился в великую Академию на острове Алдуин, а затем вернулся, чтобы служить своим волшебством родной земле. Люди ждали от него помощи и руководства. На чердаках во многих домах он нашёл оружие, пылившееся там ещё со времён их дедов и прадедов, и велел поселенцам его достать, почистить и смазать. Кузнецам Магрэ он велел изготовить для остальных наконечники копий и лезвия топоров."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:67

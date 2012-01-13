@@ -160,7 +160,7 @@ msgstr "\n\nПосле победы в сценарии карта станет 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:162
 msgid "Recruiting and Recalling"
-msgstr "Вербовка и Призыв"
+msgstr "Вербовка и призыв"
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:163
@@ -185,14 +185,14 @@ msgstr "\n\nВ следующих сценариях вы можете такж�
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:171
 msgid "\n\nUnits not only cost gold to Recruit or Recall, they also require money to support. See <ref>dst='income_and_upkeep' text='income and upkeep'</ref> for more information."
-msgstr "\n\nПомните, что бойцы требуют золота не только при вербовке или призыве: им также нужны деньги на содержание. Подробности смотрите в секции «<ref>dst='income_and_upkeep' text='Доход и Содержание'</ref>»"
+msgstr "\n\nПомните, что бойцы требуют золота не только при вербовке или призыве: им также нужны деньги на содержание. Подробности смотрите в секции «<ref>dst='income_and_upkeep' text='Доход и содержание'</ref>»"
 #endregion
 
 #region Здоровье и опыт
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:191
 msgid "Hitpoints and Experience"
-msgstr "Здоровье и Опыт"
+msgstr "Здоровье и опыт"
 
 #. [topic]: id=hitpoints
 #: data/core/help.cfg:192
@@ -854,7 +854,7 @@ msgstr " Лидерство этого бойца позволяет рядом 
 
 #: data/core/macros/special-notes.cfg:35
 msgid " This unit’s skill at skirmishing allows it to ignore enemies’ zones of control and thus move unhindered around them."
-msgstr " Способности Неуловимого позволяют этому бойцу игнорировать зоны контроля врагов и беспрепятственно проходить мимо них."
+msgstr " Способности неуловимого позволяют этому бойцу игнорировать зоны контроля врагов и беспрепятственно проходить мимо них."
 
 #: data/core/macros/special-notes.cfg:38
 msgid " Illumination increases the lighting level in adjacent areas."
@@ -2934,7 +2934,7 @@ msgstr "\nВыбросить и забанить игрока по IP-адрес
 #: data/core/help.cfg:838
 #, fuzzy
 msgid "\nChange the controller for side (write here the number of the side) to username (write here the nickname of the player or observer). You can check what side belongs to which player in the <bold>text='Scenario Settings'</bold> dialog (Press the <bold>text='More'</bold> button in the <bold>text='Status Table'</bold> (alt+s by default) to get there.). The host can change control of any side.\n\n"
-msgstr "\nСменить игрока фракции (напишите здесь номер фракции) на пользователя (впишите здесь ник игрока или наблюдателя). Вы можете узнать, какой фракции какой игрок принадлежит, в диалоге «Настройки сценария» (чтобы попасть туда, нажмите кнопку «больше» в «Панели Состояния» (по умолчанию Alt+s). Хост может менять игроков любой стороны.\n\n"
+msgstr "\nСменить игрока фракции (напишите здесь номер фракции) на пользователя (впишите здесь ник игрока или наблюдателя). Вы можете узнать, какой фракции какой игрок принадлежит, в диалоге «Настройки сценария» (чтобы попасть туда, нажмите кнопку «больше» в «Панели состояния» (по умолчанию Alt+s). Хост может менять игроков любой стороны.\n\n"
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:841
@@ -3064,7 +3064,7 @@ msgstr "Река, берущая исток в <ref>dst='heart_mountains' text='
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:31
 msgid "Great Ocean"
-msgstr "Великий Океан"
+msgstr "Великий океан"
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:32
@@ -3091,7 +3091,7 @@ msgstr ""
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:45
 msgid "Green Isle"
-msgstr "Зелёный Остров"
+msgstr "Зелёный остров"
 
 #. [topic]: id=green_isle
 #: data/core/encyclopedia/geography.cfg:46
@@ -3326,7 +3326,7 @@ msgstr ""
 #. [topic]: id=world_ocean
 #: data/core/encyclopedia/drakes.cfg:31
 msgid "World Ocean"
-msgstr "Мировой Океан"
+msgstr "Мировой океан"
 
 #. [topic]: id=world_ocean
 #: data/core/encyclopedia/drakes.cfg:32

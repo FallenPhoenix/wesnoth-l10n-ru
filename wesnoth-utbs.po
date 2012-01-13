@@ -867,7 +867,7 @@ msgstr "Кале должен дойти до северного края пус
 #. [label]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:243
 msgid "Pinnacle Rock"
-msgstr "Каменный Шпиль"
+msgstr "Каменный шпиль"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:267
@@ -888,7 +888,7 @@ msgstr "Гарак"
 #. [message]: speaker=narrator
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:284
 msgid "Do you see that brown spot sticking up on the northern horizon? That’s Pinnacle Rock. It’s the highest land for miles around, and has a spring at its base, or did the last time I camped there. If we make it to Pinnacle Rock we will be just a few miles from the edge of the mountains."
-msgstr "Видишь вон то бурое пятно на севере, у самого горизонта? Это Каменный Шпиль. Самая высокая точка на многие мили вокруг. У его подножия есть источник; по крайней мере был, когда я последний раз там останавливался. Если доберёмся до Каменного Шпиля, нам останется совсем немного до подножия северных гор."
+msgstr "Видишь вон то бурое пятно на севере, у самого горизонта? Это Каменный шпиль. Самая высокая точка на многие мили вокруг. У его подножия есть источник; по крайней мере был, когда я последний раз там останавливался. Если доберёмся до Каменного шпиля, нам останется совсем немного до подножия северных гор."
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:289
@@ -923,7 +923,7 @@ msgstr "Кстати, Кале, прибереги воинов, и не нан�
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:332
 msgid "Well, the sooner we reach Pinnacle Rock, the better. Onwards!"
-msgstr "Ну что ж. Чем скорее мы дойдём до Каменного Шпиля, тем лучше. Вперёд!"
+msgstr "Ну что ж. Чем скорее мы дойдём до Каменного шпиля, тем лучше. Вперёд!"
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre, role=Hunting Ogre
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:407
@@ -1278,7 +1278,7 @@ msgstr "Проклятье. Мне казалось, здесь был оази�
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1677
 msgid "So, the outlaws have made a base around Pinnacle Rock. It’s a good location, but we will drive them from it all the same."
-msgstr "Значит, разбойники поставили лагерь вокруг Каменного Шпиля. Позиция хорошая, но мы всё равно их достанем."
+msgstr "Значит, разбойники поставили лагерь вокруг Каменного шпиля. Позиция хорошая, но мы всё равно их достанем."
 
 #. [object]: id=PureWater
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1701
@@ -1354,7 +1354,7 @@ msgstr "Я видел величественные руины, разброса�
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1865
 msgid "Before the Great Fall, there were huge cities, with great schools of magery, libraries of books, vast repositories of knowledge. Most of it was destroyed in the ensuing chaos and years of decay, but I’m searching for the little fragments that are left. For example, have you ever heard of the Sceptre of Fire?"
-msgstr "До Великого Падения здесь были огромные города с могущественными школами магии, библиотеками, полными книг, неисчерпаемыми кладезями мудрости. Большинство их было уничтожено пришедшим хаосом и годами упадка, но я пытаюсь найти то немногое, что осталось. Слышали ли вы когда-нибудь, к примеру, о Скипетре Огня?"
+msgstr "До Великого Падения здесь были огромные города с могущественными школами магии, библиотеками, полными книг, неисчерпаемыми кладезями мудрости. Большинство их было уничтожено пришедшим хаосом и годами упадка, но я пытаюсь найти то немногое, что осталось. Слышали ли вы когда-нибудь, к примеру, о скипетре огня?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1870
@@ -1364,7 +1364,7 @@ msgstr "Нет, никогда. А что это?"
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1875
 msgid "I’m not sure. I’ve read various references to it, but nothing specific. I’ve been searching for it for a long time. All I know is that it was a very powerful magical wand and that it was some sort of symbol of royalty in the old empire, but I have no idea where it might be. So I scour the land, learning all I can about the olden days. I’m sure it must be somewhere."
-msgstr "Точно не знаю. Я встречала различные упоминания о нём, но ничего определённого. Я уже давно ищу этот артефакт. Известно, что это был могущественный магический жезл, который был символом королевской власти в старой империи, но я понятия не имею, где он может находиться. Я прочёсывала земли и изучала всё, что могла о былых временах. Я уверена, что Скипетр где-то существует."
+msgstr "Точно не знаю. Я встречала различные упоминания о нём, но ничего определённого. Я уже давно ищу этот артефакт. Известно, что это был могущественный магический жезл, который был символом королевской власти в старой империи, но я понятия не имею, где он может находиться. Я прочёсывала земли и изучала всё, что могла о былых временах. Я уверена, что скипетр где-то существует."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1880
@@ -2408,7 +2408,7 @@ msgstr "Похоже, он стаскивал в эту пещеру всё на
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1060
 msgid "How odd. Someone has carved a crude fountain out of the stone at the end of the passage. The freezing water pours out into a large pool. At the bottom of the pool I can see a skeleton still gripping a sword. The blade seems to glow faintly blue. The pool isn’t very deep, I could easily wade in and pick it up. But someone else has carved a crude message in the wall. <i>“If you dare to take this blade here, your greatest fear will surely appear.”</i> It looks like a nice sword, but do I dare chance it?"
-msgstr "Странно. Кто-то высек в камнях в конце прохода грубый фонтан. Ледяная вода льётся в большой пруд. На дне виднеется скелет, он всё ещё сжимает меч. Клинок, по-моему, слегка светится голубым. Пруд вроде не очень глубок, я легко могу войти в воду и забрать меч. Но кто-то ещё высек надпись на стене. <i>«Если посмеешь взять этот клинок, явится твой величайший кошмар.»</i> Меч, похоже, неплох, но смею ли я его брать?"
+msgstr "Странно. Кто-то высек в камнях в конце прохода грубый фонтан. Ледяная вода льётся в большой пруд. На дне виднеется скелет, он всё ещё сжимает меч. Клинок, по-моему, слегка светится голубым. Пруд вроде не очень глубок, я легко могу войти в воду и забрать меч. Но кто-то ещё высек надпись на стене. <i>«Если посмеешь взять этот клинок, явится твой величайший кошмар.»</i> меч, похоже, неплох, но смею ли я его брать?"
 
 #. [option]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1062
@@ -3460,7 +3460,7 @@ msgstr "Все в укрытие!"
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:685
 msgid "My work here is done. I must report back to my King. I have many more things to do before the day is done, but I will once you finish your mission. Fight well!"
-msgstr "Ну что ж, я закончил. Теперь пойду доложу Королю. У меня ещё много дел на сегодня, но когда вы закончите, я вернусь. Удачи в бою!"
+msgstr "Ну что ж, я закончил. Теперь пойду доложу королю. У меня ещё много дел на сегодня, но когда вы закончите, я вернусь. Удачи в бою!"
 
 #. [message]: speaker=Troll Guard
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:715
@@ -5999,7 +5999,7 @@ msgstr "Страж"
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4589
 msgid "I saw the distress signal from the outpost on the bluff. Who in the Dark Lady’s name are you and what have you done with my men?"
-msgstr "Я увидел сигнал тревоги с заставы на утёсе. Именем Тёмной Владычицы, кто вы и что вы сделали с моими парнями?"
+msgstr "Я увидел сигнал тревоги с заставы на утёсе. Именем тёмной владычицы, кто вы и что вы сделали с моими парнями?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4594
@@ -6084,7 +6084,7 @@ msgstr "Тогда убивай меня, если должен, но я не п
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4698
 msgid "Your dare defy me?! All who refuse to submit to the authority of the Iron Council shall be killed. By the Dark Lady, I shall not put up with this bickering any longer. To battle, men! Drive those heathens back into the caves!"
-msgstr "Ты смеешь не повиноваться?! Все, кто откажется признать власть Железного Совета, должны быть убиты. О Тёмная Госпожа, не стоит тратить время на эту перебранку. Солдаты, к бою! Отправим этих изуверов обратно в пещеры!"
+msgstr "Ты смеешь не повиноваться?! Все, кто откажется признать власть Железного Совета, должны быть убиты. О тёмная госпожа, не стоит тратить время на эту перебранку. Солдаты, к бою! Отправим этих изуверов обратно в пещеры!"
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4730
@@ -6742,7 +6742,7 @@ msgstr "Ну уж нет, сперва мы вас перебьём. Вперё�
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:566
 msgid "The Dark Lady protect us, they’re elves!"
-msgstr "Защити нас, Тёмная владычица, это эльфы!"
+msgstr "Защити нас, тёмная владычица, это эльфы!"
 
 #. [message]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:570
@@ -7037,7 +7037,7 @@ msgstr "Хекуба"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1138
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2272
 msgid "Curse them! The elves have stolen our offering to the Lady. We will have our vengeance. Keep fighting and execute plan C!"
-msgstr "Будь они прокляты! Эльфы похитили наш дар Госпоже. Месть! Продолжайте биться, переходим к третьему плану!"
+msgstr "Будь они прокляты! Эльфы похитили наш дар госпоже. Месть! Продолжайте биться, переходим к третьему плану!"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1147
@@ -7231,7 +7231,7 @@ msgstr "Вы преступили границы нашей земли, вам �
 #. [message]: speaker=Alastra
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1956
 msgid "Foolish elves. We have heard of your pitiful kind. You are but worms compared to the might of the Dark Lady. Coming here shall be your undoing."
-msgstr "Глупые эльфы. Мы наслышаны о вашем ничтожном народце. Не вам, червякам, тягаться с могуществом Тёмной Госпожи. Придя сюда, вы сами себя погубили."
+msgstr "Глупые эльфы. Мы наслышаны о вашем ничтожном народце. Не вам, червякам, тягаться с могуществом тёмной госпожи. Придя сюда, вы сами себя погубили."
 
 #. [message]: speaker=Darius
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1975
@@ -7241,12 +7241,12 @@ msgstr "Она говорила, что вы придёте. Можете поб
 #. [message]: speaker=Darius
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2021
 msgid "The time has come. On this most holy day, let us sacrifice these infidels unto the Dark Lady. Their suffering shall be a testament to her power and glory!"
-msgstr "Время пришло. В этот самый святой день, давайте же принесём этих нечестивцев в жертву Тёмной Госпоже. Их страдания засвидетельствуют её славу и могущество!"
+msgstr "Время пришло. В этот самый святой день, давайте же принесём этих нечестивцев в жертву тёмной госпоже. Их страдания засвидетельствуют её славу и могущество!"
 
 #. [message]: speaker=Hekuba
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2036
 msgid "The time has come, my brethren. On this most holy day, let us sacrifice these infidels unto The Dark Lady. Their suffering shall be a testament to her power and glory!"
-msgstr "Время пришло, братья мои. В этот самый святой день, давайте же принесём этих нечестивцев в жертву Тёмной Госпоже. Их страдания засвидетельствуют её славу и могущество!"
+msgstr "Время пришло, братья мои. В этот самый святой день, давайте же принесём этих нечестивцев в жертву тёмной госпоже. Их страдания засвидетельствуют её славу и могущество!"
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2082
@@ -7372,7 +7372,7 @@ msgstr "Должен... Не могу... Должен... Помоги мне!"
 #. [message]: speaker=Kromph
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2475
 msgid "Must obey... Can’t resist... I... Yes, Mistress, I am yours."
-msgstr "Повинуюсь... Не противлюсь... Я... Да, Госпожа, я твой."
+msgstr "Повинуюсь... Не противлюсь... Я... Да, госпожа, я твой."
 
 #. [message]: speaker=Kromph
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2479
@@ -7473,7 +7473,7 @@ msgstr "Я никогда не смогу забыть, что вы сделал
 #. [message]: speaker=Hekuba
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2680
 msgid "Good, for that is just a taste. You are fools to interfere with our affairs, and the Iron Council does not tolerate fools. The Dark Lady shall swallow your souls and you shall writhe in eternal torment. Arise my brethren, by her power those who have died shall rise up and join us! The very rocks too shall rise up out of the water to aid our crossing. Like a plague we shall pour forth and drive the non-believers before us!"
-msgstr "Вот и славно, ибо это было лишь начало. Глупо было вмешиваться в наши дела, а Железный Совет не любит глупцов. Тёмная Госпожа поглотит ваши души; вы будете корчиться в вечных муках. Восстаньте, браться; её властью мёртвые снова восстанут и пойдут с нами! Сами скалы поднимутся из воды и помогут нам пройти по воде. Мы пойдём как чума и будем гнать неверующих перед собой!"
+msgstr "Вот и славно, ибо это было лишь начало. Глупо было вмешиваться в наши дела, а Железный Совет не любит глупцов. Тёмная госпожа поглотит ваши души; вы будете корчиться в вечных муках. Восстаньте, браться; её властью мёртвые снова восстанут и пойдут с нами! Сами скалы поднимутся из воды и помогут нам пройти по воде. Мы пойдём как чума и будем гнать неверующих перед собой!"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2723

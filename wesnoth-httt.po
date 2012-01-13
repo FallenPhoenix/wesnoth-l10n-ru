@@ -558,7 +558,7 @@ msgstr "Яран"
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:158
 msgid "We should be able to board a ship at Blackwater Port, but it seems the orcs are heading there too. Rebels who hate Asheviere and are loyal to the memory of the king desperately hold the port, as it is one of the only places where they can ship supplies and weapons."
-msgstr "В порту Черноводья мы сможем взять корабль. Но похоже, и орки идут сюда. Порт удерживают повстанцы, которые верны памяти Короля и ненавидят Ашевир. Это одно из тех немногих мест, где они могут переправлять припасы и оружие."
+msgstr "В порту Черноводья мы сможем взять корабль. Но похоже, и орки идут сюда. Порт удерживают повстанцы, которые верны памяти короля и ненавидят Ашевир. Это одно из тех немногих мест, где они могут переправлять припасы и оружие."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:162
@@ -573,7 +573,7 @@ msgstr "Делфадор, старый друг! Мы слышали о том, 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:170
 msgid "Konrad, this is Kaylan, one of the mightiest of the horse lords, and one of the few who is willing to oppose the Dark Crown. Rumor has it that his lance has slain fifty men and a hundred orcs."
-msgstr "Познакомься, Конрад, это Кайлан, один из лучших наездников королевства. Он один из тех немногих, кто решился выступить против Тёмной Королевы. Ходят слухи, что его копьё пронзило пятьдесят человек и сотню орков."
+msgstr "Познакомься, Конрад, это Кайлан, один из лучших наездников королевства. Он один из тех немногих, кто решился выступить против тёмной королевы. Ходят слухи, что его копьё пронзило пятьдесят человек и сотню орков."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:174
@@ -1741,17 +1741,17 @@ msgstr "Делфадор, мы взяли Эленсефар, но я увере
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:590
 msgid "The Ka’lian has met and decided: we must capture the Sceptre of Fire."
-msgstr "Ка-лиан посовещался и постановил: мы должны найти Огненный Скипетр."
+msgstr "Ка-лиан посовещался и постановил: мы должны найти огненный скипетр."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:595
 msgid "The Sceptre of Fire? What’s that?"
-msgstr "Огненный Скипетр? Что это?"
+msgstr "Огненный скипетр? Что это?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:600
 msgid "The Sceptre of Fire is the most ancient artifact of the realm of Wesnoth. It was forged by the dwarves of Knalga at the request of King Haldric II. It took their finest smiths years to make it, but soon after it was completed, the makers were chased underground, attacked by the elves. None know exactly what occurred, but the Sceptre was lost somewhere in the great caverns. Years have passed, and the fortunes of the dwarves have waxed and waned, but the Sceptre has never been found."
-msgstr "Огненный Скипетр — самый древний артефакт Веснотского царства. Гномы Кналга выковали его для короля Хальдрика II. Их лучшим кузнецам потребовались годы на его изготовление, но вскоре после того, как он был завершён, на них напали эльфы. Никто не знает, что именно там произошло, но Скипетр затерялся где-то в великих пещерах. Шли годы, гномы то усиливались, то ослабевали, но Скипетр так и не был найден."
+msgstr "Огненный скипетр — самый древний артефакт веснотского царства. Гномы Кналга выковали его для короля Хальдрика II. Их лучшим кузнецам потребовались годы на его изготовление, но вскоре после того, как он был завершён, на них напали эльфы. Никто не знает, что именно там произошло, но скипетр затерялся где-то в великих пещерах. Шли годы, гномы то усиливались, то ослабевали, но скипетр так и не был найден."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:605
@@ -1761,7 +1761,7 @@ msgstr "Но какое это имеет отношение ко мне?"
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:610
 msgid "When Garard II, your uncle, was deciding upon a successor, he issued an edict that whichever member of the royal family could retrieve the Sceptre of Fire would rule the land."
-msgstr "Когда твой дядя, Гарард II, думал, кого избрать своим преемником, он издал указ, который гласил, что если кто-либо из членов королевской семьи сумеет вернуть Огненный Скипетр, он и будет править страной."
+msgstr "Когда твой дядя, Гарард II, думал, кого избрать своим преемником, он издал указ, который гласил, что если кто-либо из членов королевской семьи сумеет вернуть огненный скипетр, он и будет править страной."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:615
@@ -1776,7 +1776,7 @@ msgstr "Мы поможем Вам достать его, мой господи�
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:625
 msgid "Time is short. We think that Asheviere is also searching for the Sceptre, to help seal her place as ruler. But if you find the Sceptre first, the people will support you as the king."
-msgstr "Время не ждёт. Мы думаем, что Ашевир тоже ищет Скипетр, чтобы укрепить с его помощью свою власть. Но если ты первым найдёшь Скипетр, люди признают тебя королём."
+msgstr "Время не ждёт. Мы думаем, что Ашевир тоже ищет скипетр, чтобы укрепить с его помощью свою власть. Но если ты первым найдёшь скипетр, люди признают тебя королём."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:630
@@ -1911,7 +1911,7 @@ msgstr "Дан'Тонк, мы так близко к Велдину."
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:519
 msgid "We dare not confront Asheviere yet. We must retrieve the Sceptre of Fire and gather more allies in the north."
-msgstr "Мы ещё не готовы сразиться с Ашевир. Нужно вернуть Огненный Скипетр и собрать больше союзников на севере."
+msgstr "Мы ещё не готовы сразиться с Ашевир. Нужно вернуть огненный скипетр и собрать больше союзников на севере."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:539
@@ -2238,7 +2238,7 @@ msgstr "Пусть покоится с миром!"
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:422
 msgid "He died fighting for you, Prince, just as any of us would be willing to die for you."
-msgstr "Он умер, сражаясь за Вас, Принц, и любой из нас готов за Вас умереть."
+msgstr "Он умер, сражаясь за Вас, принц, и любой из нас готов за Вас умереть."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:428
@@ -2553,7 +2553,7 @@ msgstr "Опять она! Быстрее! Нам надо торопиться!
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:324
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:343
 msgid "Stop! You shall not pass! Quick, reinforcements, protect the Princess!"
-msgstr "Стой! Ты не пройдёшь! Стража, защитить Принцессу!"
+msgstr "Стой! Ты не пройдёшь! Стража, защитить принцессу!"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:361
@@ -2645,7 +2645,7 @@ msgstr "Зима будет очень холодной! Наверное, ст�
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:161
 msgid "Stop and rest? My lord, we must go hard after the Sceptre of Fire, lest it fall into the hands of our enemies!"
-msgstr "Остановиться и отдохнуть? Ваше Высочество, нам надо спешить за Огненным Скипетром, чтобы он не попал в руки врагов!"
+msgstr "Остановиться и отдохнуть? Ваше высочество, нам надо спешить за огненным скипетром, чтобы он не попал в руки врагов!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:165
@@ -2660,7 +2660,7 @@ msgstr "Да, отдохнём немного! Нам наверняка пре�
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:173
 msgid "We are pursued by the forces of your arch-enemy, chasing the Sceptre of Fire, the fate of the realm in our hands, and you humans want to stop and rest? Onward, I say!"
-msgstr "Нас преследуют силы вашего главного врага, и они охотятся за Огненным Скипетром! Судьба королевства в наших руках, а вы люди, хотите остановиться и отдохнуть? Вперёд, я сказал!"
+msgstr "Нас преследуют силы вашего главного врага, и они охотятся за огненным скипетром! Судьба королевства в наших руках, а вы люди, хотите остановиться и отдохнуть? Вперёд, я сказал!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:177
@@ -2780,7 +2780,7 @@ msgstr "В рабстве у злых орков? Мы должны освобо
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:207
 msgid "That would not be a wise choice, for our mission is to retrieve the Sceptre of Fire. If we tarry in this place, hordes of orcs will surround us."
-msgstr "Это не самое мудрое решение, ведь наша цель — найти Огненный Скипетр. Если мы задержимся здесь, нас окружат толпы орков."
+msgstr "Это не самое мудрое решение, ведь наша цель — найти огненный скипетр. Если мы задержимся здесь, нас окружат толпы орков."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_The_Dwarven_Doors.cfg:211
@@ -3081,22 +3081,22 @@ msgstr "Ну, мы... мы..."
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:354
 msgid "We have come so that an heir may claim his inheritance, that a king may claim his throne. We seek the Sceptre of Fire."
-msgstr "Мы пришли, чтобы наследник смог вернуть своё наследство. Чтобы король смог получить свой трон. Мы разыскиваем Огненный Скипетр."
+msgstr "Мы пришли, чтобы наследник смог вернуть своё наследство. Чтобы король смог получить свой трон. Мы разыскиваем огненный скипетр."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:359
 msgid "The Sceptre of Fire? Are you out of your minds? Surely you speak in jest!"
-msgstr "Огненный Скипетр? Вы в своём уме? Вы, верно, шутите!"
+msgstr "Огненный скипетр? Вы в своём уме? Вы, верно, шутите!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:364
 msgid "We jest not, friend. We seek the Sceptre of Fire. We seek the help of the dwarves in finding it. But know that we will find it, whether you help us or not."
-msgstr "Отнюдь, друг, мы не шутим. Мы ищем Огненный Скипетр. Нам нужна помощь гномов, чтобы найти его. Но знайте, что мы найдём его, с вами или без вас."
+msgstr "Отнюдь, друг, мы не шутим. Мы ищем огненный скипетр. Нам нужна помощь гномов, чтобы найти его. Но знайте, что мы найдём его, с вами или без вас."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:369
 msgid "You speak foolishness. No one even knows if the Sceptre of Fire still exists. And who is this heir, this king that you speak of?"
-msgstr "Ты говоришь глупости. Никто даже не знает, существует ли ещё Огненный Скипетр. И кто этот наследник, этот король, о котором ты говоришь?"
+msgstr "Ты говоришь глупости. Никто даже не знает, существует ли ещё огненный скипетр. И кто этот наследник, этот король, о котором ты говоришь?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:374
@@ -3111,7 +3111,7 @@ msgstr "Ты? Ха-ха! Этот мальчишка, что стоит пере
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:384
 msgid "I am Delfador, Delfador the Great, Arch Mage to King Garard, and Protector of his heir."
-msgstr "Я — Делфадор, Делфадор Великий, архимаг короля Гарарда и опекун его Наследника."
+msgstr "Я — Делфадор, Делфадор Великий, архимаг короля Гарарда и опекун его наследника."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:389
@@ -3136,7 +3136,7 @@ msgstr "Они думали, что я умер. Надеялись, что я �
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:434
 msgid "And you really think that you can find the Sceptre of Fire?"
-msgstr "И ты вправду думаешь, что сумеешь найти этот самый Скипетр?"
+msgstr "И ты вправду думаешь, что сумеешь найти этот самый скипетр?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:439
@@ -3413,7 +3413,7 @@ msgstr "Лионель? Генерал? Припоминаю это имя..."
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:494
 msgid "Remember me, do you? Aye. I was the king’s finest general, sent down to these pits to retrieve the Sceptre. But the orcs trapped me and my men in this cavern, to starve to death. The dwarves were no help, leaving me to die. Now I will get revenge on you all!"
-msgstr "Помнишь меня, да? Как же. Я был лучшим генералом короля, меня послали сюда, в эти шахты, чтобы вернуть Скипетр. Но орки окружили нас в этой пещере и заморили голодом. Гномы не помогли, оставив меня умирать. Но теперь я вам всем отомщу!"
+msgstr "Помнишь меня, да? Как же. Я был лучшим генералом короля, меня послали сюда, в эти шахты, чтобы вернуть скипетр. Но орки окружили нас в этой пещере и заморили голодом. Гномы не помогли, оставив меня умирать. Но теперь я вам всем отомщу!"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:513
@@ -3428,7 +3428,7 @@ msgstr "Покойся с миром, Лионель. Бедный пропав�
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:521
 msgid "I am destroyed, but my mission must be completed. Though you are foes, you are at least worthy ones, so I will tell you that the Sceptre is east from here, the way you have come from, deep in the caverns. I made the mistake of not asking for directions when I became lost. May you have better fortune in your quest than I did!"
-msgstr "Я уничтожен, но моя миссия должна быть выполнена. Хотя вы и противники, но вы достойные противники. Я скажу вам, где Скипетр. Он на востоке отсюда, там, откуда вы пришли, в глубине пещер. Я совершил ошибку, не спросив дорогу, когда потерялся. Пусть ваши поиски будут удачливее моих!"
+msgstr "Я уничтожен, но моя миссия должна быть выполнена. Хотя вы и противники, но вы достойные противники. Я скажу вам, где скипетр. Он на востоке отсюда, там, откуда вы пришли, в глубине пещер. Я совершил ошибку, не спросив дорогу, когда потерялся. Пусть ваши поиски будут удачливее моих!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:535
@@ -3443,12 +3443,12 @@ msgstr "Спасибо, высокие парни. Недавно жизнь б�
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:575
 msgid "These caves are vast. If we are to find the Sceptre of Fire we must hurry. We are not alone, and now that our foes have smelled our blood it will be worse."
-msgstr "Эти пещеры огромны. Если мы хотим найти Огненный Скипетр, нужно спешить. Мы не одни, и теперь, когда наши противники почуяли нашу кровь, нам будут мешать."
+msgstr "Эти пещеры огромны. Если мы хотим найти огненный скипетр, нужно спешить. Мы не одни, и теперь, когда наши противники почуяли нашу кровь, нам будут мешать."
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:579
 msgid "The Sceptre? Ah, the Sceptre ye seek. You surface dwellers are ambitious. Beyond my citadel the spawn of the darkness hold complete sway. You’ll no’ survive without assistance."
-msgstr "Скипетр? Ага, Скипетр, стал’ быть, ищете. Жители поверхности такие честолюбивые. За стенами моей цитадели вся власть у темных отродий. Пропадёте вы без подмоги."
+msgstr "Скипетр? Ага, скипетр, стал’ быть, ищете. Жители поверхности такие честолюбивые. За стенами моей цитадели вся власть у темных отродий. Пропадёте вы без подмоги."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:583
@@ -3463,7 +3463,7 @@ msgstr "К северу-востоку от моего жилья, юный че
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:597
 msgid "Your boon is most welcome, sir dwarf. Keeping the Sceptre out of the hands of evil beasts is a common goal for us, and we will prevail with your help."
-msgstr "Мы с благодарностью принимаем Вашу помощь, господин гном. Наша общая цель — держать Скипетр подальше от рук этих злобных тварей, и мы достигнем её с Вашей помощью."
+msgstr "Мы с благодарностью принимаем Вашу помощь, господин гном. Наша общая цель — держать скипетр подальше от рук этих злобных тварей, и мы достигнем её с Вашей помощью."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/15_The_Lost_General.cfg:602
@@ -3557,7 +3557,7 @@ msgstr "Глупая девчонка! Мы в самой глубине пещ�
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:236
 msgid "Don’t try to trick me! I know why you have come here! But I will put an end to you and your treason here. Then I will get the Sceptre, and return to the daylight again!"
-msgstr "И не пытайтесь меня провести! Я знаю, зачем вы здесь! Но я положу конец вам и вашей измене. А потом заберу Скипетр и вернусь назад, к дневному свету!"
+msgstr "И не пытайтесь меня провести! Я знаю, зачем вы здесь! Но я положу конец вам и вашей измене. А потом заберу скипетр и вернусь назад, к дневному свету!"
 
 #. [message]: type=Goblin Knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:347
@@ -3577,7 +3577,7 @@ msgstr "Похоже, нам ничего не остаётся, как помо
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:359
 msgid "Very well, I promise that you will reach the surface again, or we shall all perish together, Princess."
-msgstr "Хорошо. Я обещаю, Вам, Принцесса, что Вы снова окажетесь на поверхности, или мы все погибнем."
+msgstr "Хорошо. Я обещаю, Вам, принцесса, что Вы снова окажетесь на поверхности, или мы все погибнем."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/16_Hasty_Alliance.cfg:363
@@ -3612,7 +3612,7 @@ msgstr "Не думала я, что кончу таким образом!"
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:4
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:33
 msgid "The Sceptre of Fire"
-msgstr "Огненный Скипетр"
+msgstr "Огненный скипетр"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:15
@@ -3627,7 +3627,7 @@ msgstr "Издалека доносился грохот, а твердь ухо
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:62
 msgid "Capture the Sceptre of Fire with Konrad or Li’sar"
-msgstr "Захватите Огненный Скипетр Конрадом или Лисар"
+msgstr "Захватите огненный скипетр Конрадом или Лисар"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:160
@@ -3652,7 +3652,7 @@ msgstr "Землетрясение! Нас здесь завалит!"
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:178
 msgid "No, not an earthquake, Princess. I feel it too. Something is... aware... of us."
-msgstr "Это не землетрясение, Принцесса. Я чувствую его. Что-то... знает... о нас."
+msgstr "Это не землетрясение, принцесса. Я чувствую его. Что-то... знает... о нас."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Scepter_of_Fire.cfg:182
@@ -3692,12 +3692,12 @@ msgstr "Нелегкий выбор"
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:16
 msgid "The Sceptre, initially dulled from decades of dust and debris, began to glow from the ruby’s inner fire. Dwarvish runes on the golden handle lit up in pulsating blue. The heat and light were comforting in the pitch-black."
-msgstr "Скипетр, казалось потускнел за те многие десятилетия, что лежал в пыли и грязи. Но затем он засиял сокровенным свечением Огненного Рубина, а гномьи руны, нанесённые на золотую рукоять, вспыхнули мерцающей синевой. Тепло и свет добавили немножечко уюта в кромешной тьме."
+msgstr "Скипетр, казалось потускнел за те многие десятилетия, что лежал в пыли и грязи. Но затем он засиял сокровенным свечением огненного рубина, а гномьи руны, нанесённые на золотую рукоять, вспыхнули мерцающей синевой. Тепло и свет добавили немножечко уюта в кромешной тьме."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:21
 msgid "An early encounter with the Sceptre in the hands of its new owners left several trolls as smoking husks. Sensing the awakening of a powerful magic, the dwellers of the deep quickly scattered and remained out of sight."
-msgstr "Первая стычка с новыми владельцами Скипетра оставила от нескольких троллей лишь дымящиеся шкуры. Ощутив пробуждение могучего волшебства, обитатели глубин быстро разбежались и старались не попадаться на глаза."
+msgstr "Первая стычка с новыми владельцами скипетра оставила от нескольких троллей лишь дымящиеся шкуры. Ощутив пробуждение могучего волшебства, обитатели глубин быстро разбежались и старались не попадаться на глаза."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:26
@@ -3742,7 +3742,7 @@ msgstr "Да, вижу. Нам придётся с мечом прокладыв
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:196
 msgid "Perhaps it is in both our best interests for us to remain allies for a little longer... but I do want that Sceptre, and someday I will have it!"
-msgstr "Наверное, нам обоим лучше остаться союзниками чуть подольше... но мне нужен этот Скипетр, и однажды он будет моим!"
+msgstr "Наверное, нам обоим лучше остаться союзниками чуть подольше... но мне нужен этот скипетр, и однажды он будет моим!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:200
@@ -3757,7 +3757,7 @@ msgstr "Ну, мы выбрались."
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:212
 msgid "Yes, we have. Now I suppose you want to use the Sceptre against me, Princess?"
-msgstr "Да, выбрались. Теперь, полагаю, Вы захотите обратить Скипетр против меня, Принцесса?"
+msgstr "Да, выбрались. Теперь, полагаю, Вы захотите обратить скипетр против меня, принцесса?"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:216
@@ -3767,7 +3767,7 @@ msgstr "Нет, я тут подумала и... честно говоря, я �
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:220
 msgid "With all due respect, Princess, it is once again we who will spare you, Sceptre or no Sceptre."
-msgstr "При всём уважении, Принцесса, боюсь это мы пощадим Вас, хоть есть у Вас Скипетр, хоть нет."
+msgstr "При всём уважении, принцесса, боюсь это мы пощадим Вас, хоть есть у Вас скипетр, хоть нет."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:224
@@ -3798,7 +3798,7 @@ msgstr "Тогда, может быть, пойдём вдоль реки на �
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:248
 msgid "We should indeed seek refuge there, my lord, but not by going east along the river. Its name means ‘The River of Bones’. Great and evil creatures lurk along its banks, its waters are not fit to drink, and it runs over the Cliffs of Thoria. It has been many centuries since any man or elf has passed over the Cliffs and survived. No, Prince, we must choose another way."
-msgstr "Нам и правда стоит укрыться там, друг мой, но мы пойдём не вдоль реки. Её название означает «Река Костей». Огромные и злобные существа прячутся по её берегам, а вода в ней непригодна для питья. Она течёт мимо Скал Тории, а с тех пор, как человеку или эльфу удавалось пройти через Скалы и остаться живым, прошло уже много веков. Нет, Принц, мы должны идти другой дорогой."
+msgstr "Нам и правда стоит укрыться там, друг мой, но мы пойдём не вдоль реки. Её название означает «Река Костей». Огромные и злобные существа прячутся по её берегам, а вода в ней непригодна для питья. Она течёт мимо Скал Тории, а с тех пор, как человеку или эльфу удавалось пройти через Скалы и остаться живым, прошло уже много веков. Нет, принц, мы должны идти другой дорогой."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:252
@@ -3813,7 +3813,7 @@ msgstr "Реки можно обойти двумя путями. На севе�
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:260
 msgid "And will you join us in seeking refuge with the North Elves, Princess?"
-msgstr "Желаете ли Вы присоединиться к нам и укрыться у северных эльфов, Принцесса?"
+msgstr "Желаете ли Вы присоединиться к нам и укрыться у северных эльфов, принцесса?"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:264
@@ -3823,7 +3823,7 @@ msgstr "Если эльфы пообещают мне укрытие и безо
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:268
 msgid "That we will, Princess. Even though you are the daughter of the Queen, our enemy, we shall not harm you on this encounter, for you have helped us."
-msgstr "Мы обещаем Вам, Принцесса. Несмотря на то, что Вы — дочь королевы, нашего врага, в этот раз мы не причиним Вам вреда, ведь Вы помогли нам."
+msgstr "Мы обещаем Вам, принцесса. Несмотря на то, что Вы — дочь королевы, нашего врага, в этот раз мы не причиним Вам вреда, ведь Вы помогли нам."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:272
@@ -3898,7 +3898,7 @@ msgstr "(вздыхает) Годы, что я провёл среди твое�
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:354
 msgid "It offends your pride and wisdom to suffer the indignity of accepting the will of humans, especially in such a harsh predicament. I urge you to remember how far we have come under Konrad’s leadership, and how close we are to bringing the hammer of destiny crashing down on Queen Asheviere’s ill-gotten throne. We will journey east."
-msgstr "Твоя гордось и мудрость будет оскорблена, если ты подчинишься воле людей, особенно при столь неприятных обстоятельствах. Но прошу тебя, вспомни, как далеко мы продвинулись под водительством Конрада, и как мы близки к тому, чтобы обрушить карающий молот судьбы на трон Королевы Ашевир. Вспомни, и отступись. Мы идём на восток."
+msgstr "Твоя гордось и мудрость будет оскорблена, если ты подчинишься воле людей, особенно при столь неприятных обстоятельствах. Но прошу тебя, вспомни, как далеко мы продвинулись под водительством Конрада, и как мы близки к тому, чтобы обрушить карающий молот судьбы на трон королевы Ашевир. Вспомни, и отступись. Мы идём на восток."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:358
@@ -4040,7 +4040,7 @@ msgstr "Болото Ужаса"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:21
 msgid "Defeat the Lich-Lord Aimucasur"
-msgstr "Победите Лича, Владыку Аймукасура"
+msgstr "Победите лича, владыку Аймукасура"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:26
@@ -4085,7 +4085,7 @@ msgstr "Только взгляните на это! Болото просто �
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:207
 msgid "These Death Knights appear to be minions enslaved by the Lich-Lord. This one must be particularly powerful, since Death Knights are usually strong-willed spirits on their own."
-msgstr "Похоже, что Владыка Лич этих поработил Мёртвых Рыцарей и превратил в свои послушные орудия. Должно быть, он очень силён — у Мёртвых Рыцарей очень сильная воля, и её обычно не так-то легко сломить. "
+msgstr "Похоже, что владыка-лич поработил этих мёртвых рыцарей и превратил в свои послушные орудия. Должно быть, он очень силён — у мёртвых рыцарей очень сильная воля, и её обычно не так-то легко сломить. "
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:211
@@ -4135,7 +4135,7 @@ msgstr "Вот и закончилось правление Аймукасура
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:341
 msgid "Aimucasur? So you know of this Lich-Lord? Did you know him? He was a powerful mage?"
-msgstr "Аймукасур? Так ты слышал об этом Владыке Личе? Ты знал его? Он, должно быть, был сильным магом?"
+msgstr "Аймукасур? Так ты слышал об этом владыке-личе? Ты знал его? Он, должно быть, был сильным магом?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/19b_Swamp_Of_Dread.cfg:345
@@ -4190,7 +4190,7 @@ msgstr "И вот их глазам предстало ужасающее зре
 #. [message]: role=merman-advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:271
 msgid "These are not proper ships, but shallow-draft boats built only recently; much of their timber is green. They were sunk in battle, not by a storm. Those that were not capsized have been burned. The battle must have taken place not long ago, perhaps only a few weeks past. We’ve found no survivors. One more thing...all flew the banner of the Crown of Wesnoth."
-msgstr "Здесь нет больших кораблей, лишь лодки малой осадки. Построены они недавно; дерево совсем свежее. Похоже, корабли погибли в бою, не в бурю. Те, что не опрокинулись, были сожжены. Битва, похоже, случилась не так давно, несколько недель назад, быть может. Мы не нашли никого, кто бы спасся. И ещё одно... на всех кораблях флаг Веснотской Короны."
+msgstr "Здесь нет больших кораблей, лишь лодки малой осадки. Построены они недавно; дерево совсем свежее. Похоже, корабли погибли в бою, не в бурю. Те, что не опрокинулись, были сожжены. Битва, похоже, случилась не так давно, несколько недель назад, быть может. Мы не нашли никого, кто бы спасся. И ещё одно... на всех кораблях флаг Веснотской короны."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:275
@@ -4205,7 +4205,7 @@ msgstr "Не нашли. Если они и были, то давно исчез
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:283
 msgid "Perhaps the monsters Lord Kalenz alluded to sunk the boats."
-msgstr "Возможно, корабли потопили монстры, о которых упоминал Лорд Каленз."
+msgstr "Возможно, корабли потопили монстры, о которых упоминал лорд Каленз."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:287
@@ -4271,12 +4271,12 @@ msgstr "Говорящий дракон?"
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:352
 msgid "I am beginning to understand why you were talking about monsters on our way here, Lord Kalenz."
-msgstr "Теперь я понимаю, о каких монстрах вы говорили, Лорд Каленз."
+msgstr "Теперь я понимаю, о каких монстрах вы говорили, лорд Каленз."
 
 #. [message]: role=merman-advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:356
 msgid "With all due respect, Your Highnesses, you are both wrong. This is not a dragon. This is a drake."
-msgstr "При всём уважении, Ваши Высочества, вы оба ошибаетесь. Это не дракон. Это дрейк."
+msgstr "При всём уважении, Ваши высочества, вы оба ошибаетесь. Это не дракон. Это дрейк."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:360
@@ -4482,7 +4482,7 @@ msgstr "Я — принцесса Лисар, и мы друзья. Присое
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:914
 msgid "Princess Li’sar — here? Your Highness, I am yours to command!"
-msgstr "Принцесса Лисар, здесь? Ваше Высочество, я в Вашем распоряжении!"
+msgstr "Принцесса Лисар, здесь? Ваше высочество, я в Вашем распоряжении!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:918
@@ -4671,7 +4671,7 @@ msgstr "Звучит устрашающе. Может, вернёмся на з�
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:441
 msgid "I think these wild lands are too dangerous for that! Anyhow... I expected you to be on the side of Wesnoth, Princess?"
-msgstr "Эти дикие земли слишком опасны. И потом... Полагаю, Вы на стороне Веснота, Принцесса?"
+msgstr "Эти дикие земли слишком опасны. И потом... Полагаю, Вы на стороне Веснота, принцесса?"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:445
@@ -4731,7 +4731,7 @@ msgstr "Но они же заметят нас! Мы идём на бойню!"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:508
 msgid "(hushed) Our soldiers will defend us as we rush across the field. Sorry to be blunt, princess, but you and I are the only ones who need to make it across alive."
-msgstr "(шёпотом) Наши солдаты защитят нас, пока мы перебежим через поле. Простите за прямоту, Принцесса, только нам с Вами нужно добраться до леса живыми."
+msgstr "(шёпотом) Наши солдаты защитят нас, пока мы перебежим через поле. Простите за прямоту, принцесса, только нам с Вами нужно добраться до леса живыми."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:512
@@ -4771,7 +4771,7 @@ msgstr "Роландир"
 #. [message]: speaker=Rholandir
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:594
 msgid "Lord Kalenz, Lord Konrad, our forces are nigh! Do not lose hope!"
-msgstr "Лорд Каленз, Лорд Конрад, наши силы совсем рядом! Не теряйте надежды!"
+msgstr "Лорд Каленз, лорд Конрад, наши силы совсем рядом! Не теряйте надежды!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:628
@@ -4816,7 +4816,7 @@ msgstr "Друзья эльфов, теперь вы в безопасности
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:768
 msgid "El’rien, we have the Sceptre of Fire with us! We must escort them to Elensiria!"
-msgstr "Эльриен, при нас Огненный Скипетр! Мы должны доставить его в Элензирию!"
+msgstr "Эльриен, при нас огненный скипетр! Мы должны доставить его в Элензирию!"
 
 #. [message]: speaker=El'rien
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:772
@@ -4976,12 +4976,12 @@ msgstr "А что скажешь ты, король эльфов?"
 #. [message]: speaker=Uradredia
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:163
 msgid "I did not see it myself, Princess, but I have heard many reliable reports. Asheviere indeed has the blood of the princes on her hands. She has also allowed orcs to desecrate the lands, abandoning all respect for the peoples around her."
-msgstr "Я сам этого не видел, Принцесса, но я слышал много надёжных донесений. Кровь принцев действительно на руках Ашевир. Кроме того, она позволила оркам осквернить многие земли, утратив всякое уважение окружающих народов."
+msgstr "Я сам этого не видел, принцесса, но я слышал много надёжных донесений. Кровь принцев действительно на руках Ашевир. Кроме того, она позволила оркам осквернить многие земли, утратив всякое уважение окружающих народов."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:173
 msgid "Well, that is why I must take the Sceptre. I will return, and people will accept me as Queen. I will rule justly and fairly. My mother is only Queen Mother. The throne is rightfully mine, and with the Sceptre I can prove it."
-msgstr "Но именно по этому я должна получить Скипетр. Я вернусь, и люди признают меня королевой. Я буду править честно и справедливо. Моя мама всего лишь Королева-Мать. Трон по праву принадлежит мне, и Скипетр докажет это."
+msgstr "Но именно по этому я должна получить скипетр. Я вернусь, и люди признают меня королевой. Я буду править честно и справедливо. Моя мама всего лишь королева-мать. Трон по праву принадлежит мне, и скипетр докажет это."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:177
@@ -4991,7 +4991,7 @@ msgstr "Принцесса, в Вас есть что-то хорошее, но 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:183
 msgid "Well, I have the Sceptre! I will return and the people will accept me as Queen! My mother is only Queen Mother. The Throne is rightfully mine, and I will rule from it with justice and fairness. I may even accept you as my adviser and counselor, Delfador."
-msgstr "Но Скипетр у меня!. Я вернусь, и люди признают меня королевой! Моя мама всего лишь Королева-Мать. Трон по праву принадлежит мне, и я буду править честно и справедливо. Я даже сделаю тебя своим советником, Делфадор."
+msgstr "Но скипетр у меня!. Я вернусь, и люди признают меня королевой! Моя мама всего лишь королева-мать. Трон по праву принадлежит мне, и я буду править честно и справедливо. Я даже сделаю тебя своим советником, Делфадор."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:187
@@ -5031,7 +5031,7 @@ msgstr "А я нет! О чём ты, Парандра?"
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:218
 msgid "In time, things will be revealed, fair Princess. For the moment, go forth and claim the throne of Wesnoth."
-msgstr "Со временем ты всё узнаешь, честная Принцесса. А сейчас иди, и займи трон Веснота."
+msgstr "Со временем ты всё узнаешь, честная принцесса. А сейчас иди, и займи трон Веснота."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:222
@@ -5191,7 +5191,7 @@ msgstr "Глядите! Это изменница Лисар со старым �
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Return_to_Wesnoth.cfg:187
 msgid "What? Me, a traitor? It is the Queen who is a traitor, for not obeying the wishes of King Garard II. We have the Sceptre of Fire, so let us in!"
-msgstr "Что? Я — изменница? Это королева — изменница, ибо ослушалась приказа короля Гарарда II. У нас Огненный Скипетр — прочь с дороги!"
+msgstr "Что? Я — изменница? Это королева — изменница, ибо ослушалась приказа короля Гарарда II. У нас огненный скипетр — прочь с дороги!"
 
 #. [message]: speaker=Malatus
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Return_to_Wesnoth.cfg:191
@@ -5286,7 +5286,7 @@ msgstr "Чего хотят эти незваные гости? Мы их опр
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:221
 msgid "We come in peace! We wish for you to aid us in our struggle against Asheviere, the evil Queen."
-msgstr "Мы пришли с миром! Мы хотим, чтобы вы помогли нам в борьбе против Ашевир, злобной Королевы."
+msgstr "Мы пришли с миром! Мы хотим, чтобы вы помогли нам в борьбе против Ашевир, злобной королевы."
 
 #. [message]: speaker=Sir Alric
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:225
@@ -5321,7 +5321,7 @@ msgstr "Теперь для вас нет пути назад. Это будет
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:257
 msgid "Delfador, this is sheer madness. We cannot afford to play games when we should be marching against the Queen."
-msgstr "Делфадор, это сущее безумие. Мы не можем играть в игры, в то время, когда нам надо противостоять Королеве."
+msgstr "Делфадор, это сущее безумие. Мы не можем играть в игры, в то время, когда нам надо противостоять королеве."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:261
@@ -5390,7 +5390,7 @@ msgstr "Унизительное поражение, но всё же вы не 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:421
 msgid "Stop! I cannot believe this! You have defeated us! Indeed, you are worthy, worthy even to claim the throne. The clans will help you. We will fight with you against the Queen."
-msgstr "Стойте! Я не могу в это поверить! Вы победили нас! Несомненно, вы достойны, достойны даже занять трон. Кланы помогут вам. Мы будем драться за вас против Королевы."
+msgstr "Стойте! Я не могу в это поверить! Вы победили нас! Несомненно, вы достойны, достойны даже занять трон. Кланы помогут вам. Мы будем драться за вас против королевы."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Test_of_the_Clans.cfg:425
@@ -5545,7 +5545,7 @@ msgstr "А! Моя собственная дочь — отступница. З�
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:250
 msgid "How long must the people endure your rule? Give the throne to your daughter. She is the rightful heir. We even hold the scepter to prove it!"
-msgstr "Сколько ещё людям терпеть твоё правление? Передай трон своей дочери. Она — законная наследница. У нас Скипетр, он докажет это!"
+msgstr "Сколько ещё людям терпеть твоё правление? Передай трон своей дочери. Она — законная наследница. У нас скипетр, он докажет это!"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:254
@@ -5580,7 +5580,7 @@ msgstr "Лисар наносит смертельный удар!"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:316
 msgid "You have hunted me across the countryside, indeed across the years. Here I am, Dark Queen."
-msgstr "Ты охотилась за мной по всему королевству, на протяжении долгих лет. Вот он я, Тёмная Королева."
+msgstr "Ты охотилась за мной по всему королевству, на протяжении долгих лет. Вот он я, тёмная королева."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:320
@@ -5630,12 +5630,12 @@ msgstr "... носитель посоха Ан-Усрукара, храните�
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:380
 msgid "... Mage Protector of The Kingdom Of The Peoples Of The West-North, Chief Advisor to the <i>Crown</i>..."
-msgstr "... Маг-Защитник Королевства Народов Запада и Севера, Главный Советник <i>Короны</i>..."
+msgstr "... маг-защитник королевства народов запада и севера, главный советник <i>короны</i>..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:384
 msgid "... and personal counselor to my King and my <i>friend</i>, Garard the Second, who you most <i>foully</i> betrayed..."
-msgstr "и личный советник моего Короля и моего <i>друга</i>, Гарарда Второго, которого ты столь <i>подло</i> предала."
+msgstr "и личный советник моего короля и моего <i>друга</i>, Гарарда Второго, которого ты столь <i>подло</i> предала."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:388
@@ -5685,7 +5685,7 @@ msgstr "Эпилог"
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/25_HttT_Epilogue.cfg:11
 msgid "And so the Dark Queen’s reign was ended. Li’sar, daughter of Garard II and Heir to the Throne of Wesnoth, was crowned Queen and Bearer of the Sceptre of Fire, which she would pass on to all her successors."
-msgstr "Так закончилось правление Тёмной Королевы. Лисар, дочь Гарарда II и Наследница Трона Веснота, была увенчана Короной и объявлена Носителем Огненного Скипетра, который впоследствии передала своим наследникам."
+msgstr "Так закончилось правление тёмной королевы. Лисар, дочь Гарарда II и наследница трона Веснота, была увенчана короной и объявлена носителем огненного скипетра, который впоследствии передала своим наследникам."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/25_HttT_Epilogue.cfg:15
@@ -5884,7 +5884,7 @@ msgstr "Да"
 #. [object]: id={ID}
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:49
 msgid "Flaming Sword"
-msgstr "Огненный Меч"
+msgstr "Огненный меч"
 
 #. [object]: id={ID}
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:53
@@ -5960,17 +5960,17 @@ msgstr ""
 #. [object]: id=object_scepter
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:384
 msgid "Sceptre of Fire"
-msgstr "Огненный Скипетр"
+msgstr "Огненный скипетр"
 
 #. [object]: id=object_scepter
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:387
 msgid "This ancient Sceptre was forged by the great Dwarves of the Heart Mountains. A symbol of the kingship of Wesnoth, the Sceptre has the power to shoot fireballs at enemies of the bearer!"
-msgstr "Великие гномы с Гор Сердца выковали этот древний Скипетр, символ королевской власти Веснота. Он способен метать огненные шары во врагов своего владельца!"
+msgstr "Великие гномы с Гор Сердца выковали этот древний скипетр, символ королевской власти Веснота. Он способен метать огненные шары во врагов своего владельца!"
 
 #. [object]: id=object_scepter
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:388
 msgid "This is the Sceptre of Fire. Only a true successor to the throne can possibly dare to take this!"
-msgstr "Это Огненный Скипетр. Только настоящий наследник трона может осмелиться взять его!"
+msgstr "Это огненный скипетр. Только настоящий наследник трона может осмелиться взять его!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:413
@@ -6020,7 +6020,7 @@ msgstr "Шёл двадцать седьмой год правления Гар�
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:10
 msgid "The Northern host encamped at Galcadar, by the ford of Abez, and the king led his forces to meet them. Splitting his army in two, he led one half while his son, the crown prince Eldred, led the other."
-msgstr "Воинство Северян расположилось в Галкадаре, что возле переправы Абез, а Король двинул свои силы им навстречу. Он разделил армию пополам, и возглавил одну половину; второй же руководил его сын, наследный принц Элдред."
+msgstr "Воинство Северян расположилось в Галкадаре, что возле переправы Абез, а король двинул свои силы им навстречу. Он разделил армию пополам, и возглавил одну половину; второй же руководил его сын, наследный принц Элдред."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:14
@@ -6060,7 +6060,7 @@ msgstr "В конце концов люди Делфадора были побе
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:42
 msgid "Asheviere herself then took command of the army and led it back to Weldyn. Knowing that the king’s young nephews were next in line to the throne, she ordered them all killed, and declared herself Queen of Wesnoth."
-msgstr "Тогда Ашевир взяла командование армией в свои руки, и повела её обратно в Велдин. Она знала, что следующими в очереди на трон будут малолетние племянники короля, и приказала убить их всех. Теперь ничто не могло помешать ей провозгласить себя Королевой Веснота."
+msgstr "Тогда Ашевир взяла командование армией в свои руки, и повела её обратно в Велдин. Она знала, что следующими в очереди на трон будут малолетние племянники короля, и приказала убить их всех. Теперь ничто не могло помешать ей провозгласить себя королевой Веснота."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:46

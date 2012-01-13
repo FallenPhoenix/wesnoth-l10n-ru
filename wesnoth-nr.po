@@ -153,7 +153,7 @@ msgstr "Он стремглав вылетел из лесу, плащ его р
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:45
 #, fuzzy
 msgid "Word quickly spread among the humans that this hero was none other than Prince Konrad of Wesnoth, faring to the ruins of Knalga to retrieve the Sceptre of Fire and use it to save his homeland from the rule of a tyrant, and they stood, rooted to their places in awe."
-msgstr "Меж людей быстро разошёлся слух, что героем тем был никто иной, как принц Конрад Веснотский, рвавшийся к развалинам Кналга, чтобы добыть Огненный Скипетр и спасти родной край от тирании; и они замерли как вкопанные, не силах пошевелиться от восхищения. "
+msgstr "Меж людей быстро разошёлся слух, что героем тем был никто иной, как принц Конрад Веснотский, рвавшийся к развалинам Кналга, чтобы добыть огненный скипетр и спасти родной край от тирании; и они замерли как вкопанные, не силах пошевелиться от восхищения. "
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:48
@@ -791,7 +791,7 @@ msgstr "Верно, нас поработили, но мы восстали пр
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:593
 msgid "Och, the dwarves of Knalga are themselves in desperate straits — but we havena’ forgotten the old bonds. Be welcome to our keep. Aye, and have speech with our chieftain, the Lord Hamel."
-msgstr "Охохох, гномы Кналга и сами в отчаянном положени — но мы помним старых друзей. Добро пожаловать в наш лагерь. Ах да — и поговори с нашим вождём, Лордом Хамелем."
+msgstr "Охохох, гномы Кналга и сами в отчаянном положени — но мы помним старых друзей. Добро пожаловать в наш лагерь. Ах да — и поговори с нашим вождём, лордом Хамелем."
 
 #. [message]: speaker=Tallin
 #. [message]: speaker=unit
@@ -826,7 +826,7 @@ msgstr "Рад встречи, Таллин. Мои парни сказали, �
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:641
 msgid "Thank you and well-met indeed, Lord Hamel."
-msgstr "Благодарю Вас, Лорд Хамель — я тоже рад нашей встрече."
+msgstr "Благодарю Вас, лорд Хамель — я тоже рад нашей встрече."
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:645
@@ -851,7 +851,7 @@ msgstr "Ну что ж, по этой части туннелей больше �
 #. [message]: role=Messenger
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:697
 msgid "Tallin, we have just received the news that the dwarvish Lord Hamel has just been slain. We are too late!"
-msgstr "Таллин, мы только что узнали, что гномий правитель Лорд Хамель погиб. Мы опоздали!"
+msgstr "Таллин, мы только что узнали, что гномий правитель лорд Хамель погиб. Мы опоздали!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:701
@@ -1572,7 +1572,7 @@ msgstr "Сестра Тера"
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:683
 msgid "Freedom at last. Thank you, Lord Tallin."
-msgstr "Наконец-то я свободна. Спасибо, Лорд Таллин."
+msgstr "Наконец-то я свободна. Спасибо, лорд Таллин."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:687
@@ -1660,12 +1660,12 @@ msgstr "Не стоит благодарности. Сестра Тера, по�
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:833
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:871
 msgid "Yes, I would... like to join... you Lord Tallin."
-msgstr "Да, я..... пойду с..... Вами, Лорд Таллин."
+msgstr "Да, я..... пойду с..... Вами, лорд Таллин."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:837
 msgid "Just Tallin; I am no lord. But gee, that sure is some powerful spell you used on her, Sister. She is looking better already."
-msgstr "Просто Таллин, я никакой не Лорд. Ух ты — Вы явно наложили на неё какое-то сильное заклятье, Сестра. Ей явно лучше."
+msgstr "Просто Таллин, я никакой не лорд. Ух ты — Вы явно наложили на неё какое-то сильное заклятье, Сестра. Ей явно лучше."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:841
@@ -2031,7 +2031,7 @@ msgstr "Это великий Жезл правосудия, мальчик мо
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1630
 #, fuzzy
 msgid "Well, if you don’t mind me saying — that certainly isn’t the state of affairs now. Knalga lies in ruins, orcs ravage the surface, and these dark and evil creatures haunt the underground passages. In the meantime, Wesnoth is said to be ruled by the wicked and cruel queen Asheviere, while the rightful heir must have long since perished in his vain quest for the Sceptre of Fire."
-msgstr "Ну, позволь заметить — сейчас всё явно переменилось. Кналга лежит в руинах, на поверхности бесчинствуют орки, а подземные проходы стали притоном этих тёмных и злобных тварей. Тем временем, Веснотом, по слухам, правит злобная и жестокая королева Ашевир, а законный наследник наверняка давно сгинул в тщетных поисках Огненного Скипетра."
+msgstr "Ну, позволь заметить — сейчас всё явно переменилось. Кналга лежит в руинах, на поверхности бесчинствуют орки, а подземные проходы стали притоном этих тёмных и злобных тварей. Тем временем, Веснотом, по слухам, правит злобная и жестокая королева Ашевир, а законный наследник наверняка давно сгинул в тщетных поисках огненного скипетра."
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1634
@@ -2346,7 +2346,7 @@ msgstr "Времена изменились, друг мой."
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2205
 msgid "Right... sorry about that. My name is Lord Abhai and I am... or was... the ruler of the great kingdom of Garet-Desh."
-msgstr "Точно... прошу прощения. Моё имя Лорд Абхай; я правитель великого королевства Гарет-Деш... по крайней мере, был им."
+msgstr "Точно... прошу прощения. Моё имя лорд Абхай; я правитель великого королевства Гарет-Деш... по крайней мере, был им."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2209
@@ -2945,7 +2945,7 @@ msgstr "Нет, я понимаю, что ты прекрасно орудуеш
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:109
 msgid "I would be honored, Lord Hamel."
-msgstr "Это честь для меня, Лорд Хамель."
+msgstr "Это честь для меня, лорд Хамель."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:113
@@ -3455,7 +3455,7 @@ msgstr "Веснот слишком далеко, и мы понятия не и
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:87
 msgid "The last news we heard of them was years ago when Prince Konrad passed through here. At that time the evil queen Asheviere was ruling, and it was said that she was in alliance with the orcs."
-msgstr "Последние раз мы слышали о них много лет назад, когда Принц Конрад проходил по этим местам. В то время правила злобная королева Ашевир, и по слухам, она была в союзе с орками."
+msgstr "Последние раз мы слышали о них много лет назад, когда принц Конрад проходил по этим местам. В то время правила злобная королева Ашевир, и по слухам, она была в союзе с орками."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:91
@@ -3466,13 +3466,13 @@ msgstr "К тому же, Конрада преследовала эта при�
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:95
 #, fuzzy
 msgid "The last time any dwarf set eyes on Konrad was when he set out to the eastern tunnels in search of the Sceptre of Fire, so he could claim his place as ruler."
-msgstr "Последний раз, когда гномы видели Конрада, он отправился в восточные туннели на поиски Огненного Скипетра, чтобы заявить о своих правах на трон."
+msgstr "Последний раз, когда гномы видели Конрада, он отправился в восточные туннели на поиски огненного скипетра, чтобы заявить о своих правах на трон."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:99
 #, fuzzy
 msgid "Geez, what a fool’s quest. Everyone in these Northlands knows that the Sceptre is long gone."
-msgstr "Нда, дурацкая затея. Все в Северных Землях знают, что Скипетр давно утерян."
+msgstr "Нда, дурацкая затея. Все в северных землях знают, что скипетр давно утерян."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:103
@@ -3699,7 +3699,7 @@ msgstr "Да?! А вот он меня убил!"
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:451
 msgid "Oh... I see. But we come on more pressing business. We are in desperate need of your help. Here is Tallin from the community of Dwarven Doors. As you know, the people of Dwarven Doors were enslaved by the orcs for many years. They have broken their chains and together with Lord Hamel from Knalga, they are beginning to reclaim Knalga from the chaos that it was in."
-msgstr "О... ну да. Но давай к делу. Нам крайне нужна ваша помощь. Это Таллин, из общины Гномьих Врат. Как тебе известно, народ Гномьих Врат много лет был в рабстве у орков. Они сбросили свои оковы и вместе с Лордом Хамелем Кналганским, они поднимают Кналга из того хаоса, в котором она пребывала всё это время."
+msgstr "О... ну да. Но давай к делу. Нам крайне нужна ваша помощь. Это Таллин, из общины Гномьих Врат. Как тебе известно, народ Гномьих Врат много лет был в рабстве у орков. Они сбросили свои оковы и вместе с лордом Хамелем Кналганским, они поднимают Кналга из того хаоса, в котором она пребывала всё это время."
 
 #. [message]: id=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:455
@@ -4234,7 +4234,7 @@ msgstr "Мы можем приобрести союзников...."
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:58
 msgid "Allies? I take it we’re to go to them and ask them to join us in return for our help in rescuing their Princess? You heard their message — those elves have got their noses so high in the air they canna’ see over them. They wouldna’ ally themselves with the likes o’ us."
-msgstr "Союзников? Я так понимаю, что мы должны пойти к ним и предложить присоединиться к нам в обмен на помощь в освобождении их Принцессы? Но Вы ведь слышали их ответ — эти эльфы задрали свои носы так высоко, что не видят дальше своего носа. Они не станут вступать в союз с кем-то вроде нас."
+msgstr "Союзников? Я так понимаю, что мы должны пойти к ним и предложить присоединиться к нам в обмен на помощь в освобождении их принцессы? Но Вы ведь слышали их ответ — эти эльфы задрали свои носы так высоко, что не видят дальше своего носа. Они не станут вступать в союз с кем-то вроде нас."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:62
@@ -4512,7 +4512,7 @@ msgstr ""
 #: data/campaigns/Northern_Rebirth/scenarios/08b_Ray_of_Hope.cfg:99
 #, fuzzy
 msgid "Well, that certainly isn’t the state of affairs now. Knalga lies in ruins, orcs ravish the surface, and dark and evil creatures haunt the underground passages. In the meantime, Wesnoth is said to be ruled by the wicked and cruel queen Asheviere, while the rightful heir must have long since perished in his vain quest for the Sceptre of Fire."
-msgstr "Ну, позволь заметить — сейчас всё явно переменилось. Кналга лежит в руинах, на поверхности бесчинствуют орки, а подземные проходы стали притоном этих тёмных и злобных тварей. Тем временем, Веснотом, по слухам, правит злобная и жестокая королева Ашевир, а законный наследник наверняка давно сгинул в тщетных поисках Огненного Скипетра."
+msgstr "Ну, позволь заметить — сейчас всё явно переменилось. Кналга лежит в руинах, на поверхности бесчинствуют орки, а подземные проходы стали притоном этих тёмных и злобных тварей. Тем временем, Веснотом, по слухам, правит злобная и жестокая королева Ашевир, а законный наследник наверняка давно сгинул в тщетных поисках огненного скипетра."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08b_Ray_of_Hope.cfg:104
@@ -4923,7 +4923,7 @@ msgstr "Ты права, Эления — Таллин настоящий гер
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:170
 msgid "Not at all, Princess. I am no more than a humble peasant trying to free my people from enslavement."
-msgstr "Не стоит, Принцесса. Я лишь простой крестьянин, который пытается освободить свой порабощённый народ."
+msgstr "Не стоит, принцесса. Я лишь простой крестьянин, который пытается освободить свой порабощённый народ."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:174
@@ -4983,7 +4983,7 @@ msgstr "Хорошо сказано— Ну то есть, быть по сем�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:226
 msgid "Not at all. I am Tallin, from the human town of Dwarven Doors. Together with the Dwarvish Lord Hamel and the mage Ro’Arthian and his brother, we are attempting to restore peace and freedom to Knalga."
-msgstr "Как скажете. Я Таллин, из Гномьих Врат, города людей. Вместе Лордом Хамелем, гномом, и магом Ро-Арфьяном и его братом, мы пытаемся восстановить мир и свободу в Кналга."
+msgstr "Как скажете. Я Таллин, из Гномьих Врат, города людей. Вместе лордом Хамелем, гномом, и магом Ро-Арфьяном и его братом, мы пытаемся восстановить мир и свободу в Кналга."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:230
@@ -5730,7 +5730,7 @@ msgstr "Замечательно. И наша первая задача — ок
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:868
 msgid "With pleasure, Princess! Quickly men, set up a base!"
-msgstr "С удовольствием, Принцесса! Быстрее, воины, разбить лагерь!"
+msgstr "С удовольствием, принцесса! Быстрее, воины, разбить лагерь!"
 
 #. [message]: speaker=Oof
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:882
