@@ -1728,7 +1728,7 @@ msgstr "Ожидаемый результат битвы (ЗД)"
 #. [note]
 #: data/core/macros/ai_controller.cfg:5
 msgid "In this scenario, you may issue instructions to an allied side by right-clicking on a unit that belongs to it."
-msgstr "В этом сценарии вы можете давать команды союзникам через контекстное меню, вызываемое по правому клику на бойце союзника."
+msgstr "В этом сценарии вы можете давать указания союзным бойцам, используя их контекстное меню."
 
 #. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
 #: data/core/macros/ai.cfg:526
@@ -1744,18 +1744,18 @@ msgstr "Попросить $ally_leader.name (лидера фракции $ally_
 #: data/core/macros/ai_controller.cfg:26
 #: data/core/macros/ai_controller.cfg:33
 msgid "Instruct ally"
-msgstr "Команда союзнику"
+msgstr "Указания союзнику"
 
 #region Текущее состояние
 #. [overview_message_no_instructions]: speaker=narrator
 #: data/core/macros/ai_controller.cfg:34
 msgid "$ally_leader.name (side $ally_side|) has not been given any instructions and is acting normally."
-msgstr "$ally_leader.name (фракция $ally_side|) не получил команд  и действует на своё усмотрение."
+msgstr "$ally_leader.name (фракция $ally_side|) не получил указаний и действует на своё усмотрение."
 
 #. [overview_message_has_instructions]: speaker=narrator
 #: data/core/macros/ai_controller.cfg:27
 msgid "$ally_leader.name (side $ally_side|) is carrying out the following instructions:"
-msgstr "$ally_leader.name (фракция $ally_side|) выполняет такие команды:"
+msgstr "$ally_leader.name (фракция $ally_side|) выполняет такие инструкции:"
 
 #. [do]
 #: data/core/macros/ai_controller.cfg:644
@@ -1768,7 +1768,7 @@ msgstr ""
 
 #: data/core/macros/ai_controller.cfg:981
 msgid "Special: $ai_controller.side_$ally_side|_current_settings.currently_doing_special_description"
-msgstr "Специальный: $ai_controller.side_$ally_side|_current_settings.currently_doing_special_description"
+msgstr "Особое: $ai_controller.side_$ally_side|_current_settings.currently_doing_special_description"
 
 #. [else]
 #: data/core/macros/ai_controller.cfg:143
@@ -1795,36 +1795,36 @@ msgstr "$side_i_leader.name (фракция $temp_i|)"
 #: data/core/macros/ai_controller.cfg:591
 #: data/core/macros/ai_controller.cfg:602
 msgid "none set."
-msgstr "не установлен"
+msgstr "не установлено."
 
 #. [focus_on_enemy]
 #: data/core/macros/ai_controller.cfg:72
 msgid "focusing on defeating $ai_controller.side_$ally_side|_current_settings.focus_on_enemy.side_description|."
-msgstr "сосредоточься на атаке $ai_controller.side_$ally_side|_current_settings.focus_on_enemy.side_description|."
+msgstr "атака $ai_controller.side_$ally_side|_current_settings.focus_on_enemy.side_description|."
 
 #. [protect]
 #: data/core/macros/ai_controller.cfg:202
 msgid "focusing on protecting $ai_controller.side_$ally_side|_current_settings.protect.side_description|."
-msgstr "Обороняйся: $ai_controller.side_$ally_side|_current_settings.protect.side_description|."
+msgstr "защита $ai_controller.side_$ally_side|_current_settings.protect.side_description|."
 
 #. [aggression]
 #: data/core/macros/ai_controller.cfg:42
 msgid "aggressive."
-msgstr "агрессивный."
+msgstr "агрессивное."
 
 #. [caution]
 #: data/core/macros/ai_controller.cfg:60
 msgid "defensive."
-msgstr "оборонительный."
+msgstr "оборонительное."
 
 #. [command]
 #: data/core/macros/ai_controller.cfg:392
 msgid "focusing on defending the area around $x1|,$y1|."
-msgstr "Сосредоточься на обороне области вокруг $x1|,$y1|."
+msgstr "защита области вокруг поля $x1|,$y1|."
 
 #: data/core/macros/ai_controller.cfg:979
 msgid "moving leader to $x1|,$y1|."
-msgstr "веду лидера в $x1|,$y1|."
+msgstr "веду лидера к полю $x1|,$y1|."
 #endregion
 
 #region Установка цели
@@ -1848,7 +1848,7 @@ msgstr "Сосредоточься на обороне..."
 #. [revoke_objective_orders]
 #: data/core/macros/ai_controller.cfg:449
 msgid "Clear objective orders"
-msgstr "Отменить указания  целей"
+msgstr "Отменить цель"
 #endregion
 
 #region Установка поведения
@@ -1870,7 +1870,7 @@ msgstr "Уходи в оборону"
 #. [revoke_behavior_orders]
 #: data/core/macros/ai_controller.cfg:461
 msgid "Clear behavior orders"
-msgstr "Отменить указания поведения"
+msgstr "Отменить поведение"
 #endregion
 
 #. [option]: type=objective
@@ -1881,12 +1881,12 @@ msgstr "Обороняй место..."
 #. [print]
 #: data/core/macros/ai_controller.cfg:368
 msgid "Right-click to select a location to defend"
-msgstr "Кликните правой кнопкой в месте, которое надо оборонять"
+msgstr "Кликните правой кнопкой в месте, которое надо защищать"
 
 #. [set_menu_item]: id=ai_controller_defend_location_picker
 #: data/core/macros/ai_controller.cfg:375
 msgid "Defend this location"
-msgstr "Обороняй  это место"
+msgstr "Обороняй это место"
 
 #. [print]
 #: data/core/macros/ai_controller.cfg:434
@@ -1895,7 +1895,7 @@ msgstr "Выбор места отменён"
 
 #: data/core/macros/ai_controller.cfg:975
 msgid "Set special orders..."
-msgstr "Дать специальные приказы..."
+msgstr "Дать особые указания..."
 
 #: data/core/macros/ai_controller.cfg:976
 msgid "Move leader to..."
@@ -1911,7 +1911,7 @@ msgstr "Привести лидера сюда"
 
 #: data/core/macros/ai_controller.cfg:980
 msgid "Clear special orders"
-msgstr "Отменить специальные приказы"
+msgstr "Отменить особые указания"
 
 #. [value]
 #: data/core/macros/ai_controller.cfg:182
@@ -1924,7 +1924,7 @@ msgstr "Назад"
 #. [revoke_all_orders]
 #: data/core/macros/ai_controller.cfg:474
 msgid "Clear all orders"
-msgstr "Отменить все приказы"
+msgstr "Отменить все инструкции"
 
 #. [literal]
 #: data/core/macros/ai_controller.cfg:848
