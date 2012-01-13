@@ -78,7 +78,7 @@ msgstr "Витязь"
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:21
 msgid "(Novice level, 23 scenarios.)"
-msgstr "(Для начинающих, 23 сценария.)"
+msgstr "(Для начинающих, 23 сценария)"
 
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:21

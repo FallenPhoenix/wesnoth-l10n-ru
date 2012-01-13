@@ -1613,7 +1613,7 @@ msgstr "Вы отделены от своих солдат и не можете 
 
 #: src/menu_events.cpp:873
 msgid "You currently can't recall at the highlighted location"
-msgstr "Вы сейчас не можете призывать на этом поле"
+msgstr ""
 
 #: src/menu_events.cpp:988
 msgid "You must have at least 1 gold piece to recall a unit"
@@ -2781,7 +2781,7 @@ msgstr "Тяжёлая"
 #. [language]
 #: data/english.cfg:6
 msgid "Nightmare"
-msgstr "Кошмар"
+msgstr "Кошмарная"
 
 
 #2 ***** Цвета сторон *****
@@ -3099,12 +3099,12 @@ msgstr "Мир в Весноте"
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:62
 msgid "The only thing worth wishing for is peace throughout the land."
-msgstr "Только одно желание — мир на этих землях."
+msgstr "У меня только одно желание — мир на этих землях."
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:68
 msgid "Don’t make a wish."
-msgstr "Я не хочу загадывать желание."
+msgstr "Я не хочу ничего загадывать."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:206
@@ -3114,12 +3114,12 @@ msgstr "Целебное снадобье"
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:209
 msgid "A feeling of well-being overwhelms the drinker."
-msgstr "Выпивший переполнен здоровьем"
+msgstr "Выпивший переполнен здоровьем."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:210
 msgid "You are not worthy of healing."
-msgstr "Вы недостойны исцеления"
+msgstr "Вы недостойны исцеления."
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:244
@@ -3129,7 +3129,7 @@ msgstr "Яд"
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:247
 msgid "Poison is seeping through the veins of this unit at this very moment."
-msgstr "Сейчас жилам бойца течет яд."
+msgstr "Сейчас по жилам бойца течет яд."
 
 #. [object]
 #: data/core/macros/items.cfg:272
@@ -3139,7 +3139,7 @@ msgstr "Святая вода"
 #. [object]
 #: data/core/macros/items.cfg:275
 msgid "This water will make melee weapons have the <i>arcane</i> damage type until the end of the current scenario."
-msgstr "Эта вода добавит оружию ближнего боя дополнительный «мистический» ущерб до конца текущего сценария."
+msgstr "Эта вода добавит оружию ближнего боя дополнительный «мистический» урон до конца текущего сценария."
 
 #: data/core/macros/items.cfg:267
 msgid "Sprinkling this water on melee weapons grants them the <i>arcane</i> damage type until the end of the current scenario. Should $unit.name use it?"
@@ -3352,7 +3352,7 @@ msgstr "Аксмалиа,Алиасс,Амейлис,Бланалей,Блей,�
 # Основа названия
 #: data/core/macros/names.cfg:77
 msgid "Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York"
-msgstr "Бал,Кам,Корн,Дел,Еарл,Ел,Фокс,Френ,Гел,Хел,Хекс,Хол,Хокс,Ил,Кин,Нам,Нес,Нью,Ол,Олд,Олф,Оул,Окс,Рок,Рук,Сал,Сам,Сед,Сел,Сен,Сил,Тал,Уотер,Вет,Йорк"
+msgstr "Бал,Кам,Корн,Дел,Эрл,Ел,Фокс,Френ,Гел,Хел,Хекс,Хол,Хокс,Ил,Кин,Нам,Нес,Нью,Ол,Олд,Олф,Оул,Окс,Рок,Рук,Сал,Сам,Сед,Сел,Сен,Сил,Тал,Уотер,Вет,Йорк"
 
 # village_name
 #. [language]
@@ -3424,7 +3424,7 @@ msgstr "$name|берри,$name|гем,$name|тон,$swamp|берри,$swamp|ге
 #. [language]
 #: data/english.cfg:24
 msgid "$name|’s Highway,$name|’s Pass,Path of $name"
-msgstr "Дорога $name,Переход $name,Путь $name,"
+msgstr "Дорога $name,Переход $name,Путь $name"
 
 # Мосты
 #. [language]
@@ -3436,13 +3436,13 @@ msgstr "Мост $name,Переход $name"
 #. [language]
 #: data/english.cfg:26
 msgid "$name Forest,$name|’s Forest"
-msgstr "Лес $name,Лес $name"
+msgstr "Лес $name,$name|инский лес"
 
 # Горы
 #. [language]
 #: data/english.cfg:28
 msgid "$name|’s Peak,Mount $name"
-msgstr "Пик $name,гора $name"
+msgstr "Пик $name,Гора $name"
 
 # Реки
 #. [language]
@@ -3460,7 +3460,7 @@ msgstr "Озеро $name"
 #. [language]
 #: data/english.cfg:29
 msgid "$name|’s Swamp,$name|marsh,$name|fen"
-msgstr "$nameово болото,трясина $name,топь $name"
+msgstr "$name|ово болото,Трясина $name,Топь $name"
 
 
 #1 ********** Дополнительные настройки **********
@@ -5400,7 +5400,7 @@ msgstr "Обнаружена территория с ценой движения
 #: src/savegame.cpp:1006
 #: src/savegame.cpp:1008
 msgid "Auto-Save"
-msgstr "автосохр"
+msgstr "Автосохр."
 
 #: src/replay_controller.cpp:321
 msgid "The replay is corrupt/out of sync. It might not make much sense to continue. Do you want to save the game?"

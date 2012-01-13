@@ -53,7 +53,7 @@ msgstr "Рыцарь"
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:21
 msgid "(Novice level, 4 scenarios.)"
-msgstr "(Для новичков, 4 сценария.)"
+msgstr "(Для новичков, 4 сценария)"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:21

@@ -69,7 +69,7 @@ msgstr "Тритон"
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:22
 msgid "(Intermediate level, 10 scenarios.)"
-msgstr "(Средний уровень сложности, 10 сценариев.)"
+msgstr "(Средний уровень сложности, 10 сценариев)"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:22

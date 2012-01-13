@@ -2898,7 +2898,7 @@ msgstr "Нет"
 #: src/hotkeys.cpp:875
 #: src/hotkeys.cpp:1220
 msgid "Quit"
-msgstr "Выйти"
+msgstr "Выход"
 
 #. [button]: id=ok
 #. [button]: id=cancel

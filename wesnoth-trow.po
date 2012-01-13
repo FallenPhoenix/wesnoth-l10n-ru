@@ -77,7 +77,7 @@ msgstr "Лорд"
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:22
 msgid "(Expert level, 24 scenarios.)"
-msgstr "(Для опытных игроков, 24 сценария.)"
+msgstr "(Для опытных игроков, 24 сценария)"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:22

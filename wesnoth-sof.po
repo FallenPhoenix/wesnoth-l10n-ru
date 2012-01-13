@@ -59,7 +59,7 @@ msgstr "Богатырь"
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:31
 msgid "(Expert level, 9 scenarios.)"
-msgstr "(Для опытных игроков, 9 сценариев.)"
+msgstr "(Для опытных игроков, 9 сценариев)"
 
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:31

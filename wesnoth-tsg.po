@@ -34,14 +34,14 @@ msgstr "ЮС"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:19
 msgid "(Novice level, 9 scenarios.)"
-msgstr "(Для начинающих, 9 сценариев.)"
+msgstr "(Для начинающих, 9 сценариев)"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:19
 msgid "A young Knight, Deoran, is dispatched to take command of the South Guard... Note: This campaign is designed as an introduction to Wesnoth. The ‘Civilian’ difficulty level is aimed at first-time players.\n\n"
 msgstr ""
 "Молодому рыцарю Деорану велено принять руководство Южной стражей...\n\n"
-"Примечание: эта кампания служит введением в мир Веснота. Уровень сложности «гражданский» предназначен для тех, кто никогда раньше не играл. \n\n"
+"Примечание: эта кампания служит введением в мир Веснота. Уровень сложности «гражданский» предназначен для тех, кто никогда раньше не играл.\n\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:22
