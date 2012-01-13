@@ -1620,7 +1620,7 @@ msgstr "Серая глубокая вода"
 #. [terrain_type]: id=deep_water
 #: data/core/terrain.cfg:30
 msgid "Medium Deep Water"
-msgstr "Неглубокая вода"
+msgstr "Средняя глубокая вода"
 
 #. [terrain_type]: id=deep_water_tropical
 #: data/core/terrain.cfg:40
@@ -1644,7 +1644,7 @@ msgstr "Серая отмель"
 #. [terrain_type]: id=shallow_water
 #: data/core/terrain.cfg:62
 msgid "Medium Shallow Water"
-msgstr "Неглубокая отмель"
+msgstr "Средняя отмель"
 
 #. [terrain_type]: id=tropical_water
 #: data/core/terrain.cfg:72
@@ -1740,7 +1740,7 @@ msgstr "Грязь"
 #. [terrain_type]: id=road
 #: data/core/terrain.cfg:217
 msgid "Dry Dirt"
-msgstr "Засохшая рязь"
+msgstr "Засохшая грязь"
 
 #. [terrain_type]: id=road
 #. [terrain_type]: id=road_clean
@@ -1888,7 +1888,7 @@ msgstr "Большое дерево"
 #. [terrain_type]: id=great_tree_dead
 #: data/core/terrain.cfg:464
 msgid "Dead Great Tree"
-msgstr "Мёртвое большое дерево"
+msgstr "Большое мёртвое дерево"
 
 #. [terrain_type]: id=tropical_forest
 #. [terrain_type]: id=pine_forest
@@ -2765,7 +2765,7 @@ msgstr "Вне карты"
 #. [terrain_type]: id=off_map2
 #: data/core/terrain.cfg:2057
 msgid "Experimental Fake Map Edge"
-msgstr "Экспериментальный ненастоящий край карты"
+msgstr "Экспериментальный искуственный край карты"
 
 #. [toggle_button]: id=shroud
 #. [terrain_type]: id=shroud

@@ -141,72 +141,72 @@ msgstr "Кликните мышкой для вставки. Когда вста
 #. [editor_group]: id=all
 #: data/core/editor/terrain-groups.cfg:10
 msgid "all"
-msgstr "все"
+msgstr "Всё"
 
 #. [editor_group]: id=water
 #: data/core/editor/terrain-groups.cfg:16
 msgid "water"
-msgstr "вода"
+msgstr "Вода"
 
 #. [editor_group]: id=flat
 #: data/core/editor/terrain-groups.cfg:23
 msgid "flat"
-msgstr "равнина"
+msgstr "Равнина"
 
 #. [editor_group]: id=desert
 #: data/core/editor/terrain-groups.cfg:30
 msgid "desert"
-msgstr "пустыня"
+msgstr "Пустыня"
 
 #. [editor_group]: id=embellishments
 #: data/core/editor/terrain-groups.cfg:37
 msgid "embellishments"
-msgstr "украшения"
+msgstr "Украшения"
 
 #. [editor_group]: id=forest
 #: data/core/editor/terrain-groups.cfg:44
 msgid "forest"
-msgstr "лес"
+msgstr "Лес"
 
 #. [editor_group]: id=frozen
 #: data/core/editor/terrain-groups.cfg:51
 msgid "frozen"
-msgstr "мерзлота"
+msgstr "Мерзлота"
 
 #. [editor_group]: id=rough
 #: data/core/editor/terrain-groups.cfg:58
 msgid "rough"
-msgstr "возвышение"
+msgstr "Возвышенность"
 
 #. [editor_group]: id=cave
 #: data/core/editor/terrain-groups.cfg:65
 msgid "cave"
-msgstr "пещера"
+msgstr "Пещера"
 
 #. [editor_group]: id=obstacle
 #: data/core/editor/terrain-groups.cfg:72
 msgid "obstacle"
-msgstr "преграда"
+msgstr "Преграда"
 
 #. [editor_group]: id=village
 #: data/core/editor/terrain-groups.cfg:79
 msgid "village"
-msgstr "деревня"
+msgstr "Деревни"
 
 #. [editor_group]: id=castle
 #: data/core/editor/terrain-groups.cfg:86
 msgid "castle"
-msgstr "замок"
+msgstr "Замки"
 
 #. [editor_group]: id=bridge
 #: data/core/editor/terrain-groups.cfg:93
 msgid "bridge"
-msgstr "мост"
+msgstr "Мосты"
 
 #. [editor_group]: id=special
 #: data/core/editor/terrain-groups.cfg:100
 msgid "special"
-msgstr "особое"
+msgstr "Особое"
 #endregion
 
 #: src/editor/editor_palettes.cpp:497

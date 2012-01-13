@@ -2653,8 +2653,8 @@ msgid ""
 "The instability of <italic>text='sand'</italic> makes it harder for most units to cross, and leaves them wide open to attack. In contrast, the wide feet or snakelike bodies of the reptilian races make sand much easier for them to navigate.\n\n"
 "Most units receive 20 to 40% defense in sand."
 msgstr ""
-"<italic>text='Песок'</italic> очень вязок, из-за чего большинству бойцов трудно по нему идти, к тому же в песках ничто не защищает бойцов от нападений. Ящерам же напротив, в песках очень удобно, благодра широким ступням и змееподобным телам. \n\n"
-"Большинство бойцов получают от 20 до 40% защиты на песке."
+"<italic>text='Песок'</italic> очень вязок, из-за чего большинству бойцов трудно по нему идти, к тому же в песках ничто не защищает бойцов от нападений. Ящерам же напротив, в песках очень удобно, благодаря широким ступням и змееподобным телам.\n\n"
+"Большинство бойцов на песке получают от 20 до 40% защиты."
 #endregion
 
 #region Пустыня
