@@ -3460,7 +3460,7 @@ msgstr "$nameово болото,трясина $name,топь $name"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:4
 msgid "Compressed saves"
-msgstr "Сжимать сохранения"
+msgstr "Сжимать файлы сохранений"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:11
@@ -3470,18 +3470,19 @@ msgstr "Подтверждать удаление сохранений"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:18
 msgid "Mouse scrolling"
-msgstr "Прокрутка мышью"
+msgstr "Прокрутка мышью у краёв экрана"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:25
 msgid "Middle-click scrolling"
-msgstr "Прокрутка средним кликом"
+msgstr "Прокрутка на среднюю клавишу мыши"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:32
 msgid "Keep scrolling when mouse leaves window"
 msgstr "Продолжать прокрутку, когда мышь покидает окно"
 
+# Может, "местному"? И ваще какая-то непонятная фраза.
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:39
 msgid "Local time of day area lighting"
@@ -3495,7 +3496,7 @@ msgstr "Рисовать специальное освещение полей п
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:47
 msgid "Show titlescreen animation"
-msgstr "Анимировать главный экран"
+msgstr "Анимировать титульный экран"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:54
@@ -3510,17 +3511,17 @@ msgstr "Таймаут пинга"
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:62
 msgid "Number of seconds to wait for a ping reply before timing out. Set to 0 to disable"
-msgstr "Сколько секунд ждать ответа сервера на пинг. 0 — отключить."
+msgstr "Время ожидания отклика сервера в секундах. 0 — отключить."
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:72
 msgid "Accept whispers from friends only"
-msgstr "Получать личные сообщения только от друзей"
+msgstr "Принимать личные сообщения только от друзей"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:79
 msgid "Auto-open whisper windows in lobby"
-msgstr "Автоматически открывать окна личных сообщений в холле"
+msgstr "Автоматически открывать окна ЛС в холле"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:86
@@ -3545,47 +3546,47 @@ msgstr "Обратить картинку времени"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:108
 msgid "Choose whether the sun moves left-to-right or right-to-left"
-msgstr "Выберите, будет ли солнце двигаться слева направо, или же справа налево"
+msgstr "Выберите, будет ли солнце двигаться слева направо, или же справа налево."
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:115
 msgid "Follow unit actions"
-msgstr "Следить за действиями бойца"
+msgstr "Следить за действиями бойцов"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:116
 msgid "Choose whether the map view should scroll to a unit when an action or move is animated"
-msgstr "Будет ли камера следовать за бойцом, когда он выполняет свой ход"
+msgstr "Будет ли камера следовать за бойцами, когда они совершают свой ход."
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:132
 msgid "Chat message aging"
-msgstr "Устарение сообщений в чате"
+msgstr "Удаление устаревших сообщений из чата"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:133
 msgid "Number of minutes to wait before clearing an ingame chat message. Set to 0 to disable"
-msgstr "Время ожидания до очистки игрового чата в минутах. 0 — отключить очистку."
+msgstr "Время в минутах перед очисткой сообщений в чате. 0 — отключить."
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:143
 msgid "Use 12-hour clock format"
-msgstr ""
+msgstr "Использовать 12-часовой формат времени"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:150
 msgid "Confirm loading of saves from a different version"
-msgstr ""
+msgstr "Подтверждать загрузку сохранений другой версии"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:157
 msgid "Show all unit types in help"
-msgstr ""
+msgstr "Показывать в справочнике всех бойцов"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:158
 msgid "Show all unit types in the help (requires restart). This does not alter the list of encountered units"
-msgstr ""
+msgstr "Показывать в справочнике все типы бойцов, а не только повстречавшиеся в игре. На сам список ваших встреч эта опция никак не влияет."
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:166
