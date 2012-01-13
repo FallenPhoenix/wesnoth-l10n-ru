@@ -4546,6 +4546,9 @@ msgstr "Тип"
 # %z %Z Time-zone name or abbreviation, (no characters if time zone is unknown)
 # %% символ процента
 
+# Русские наименования месяцев и дней недели (%A, %a, %B, %b) не работают в винде.
+# Посему вместо названия месяца использую его числовое обозначение, а вместо дня недели - дату.
+
 #: src/dialogs.cpp:547
 #: src/reports.cpp:1218
 #: src/savegame.cpp:173
@@ -4556,41 +4559,39 @@ msgstr "%H:%M"
 #: src/reports.cpp:1218
 #: src/savegame.cpp:176
 msgid "%I:%M %p"
-msgstr ""
+msgstr "%I:%M %p"
 
 #: src/dialogs.cpp:555
 #: src/savegame.cpp:181
 msgid "%A, %H:%M"
-msgstr "%A, %H:%M"
+msgstr "%d, %H:%M"
 
 #: src/dialogs.cpp:558
 #: src/savegame.cpp:184
-#, fuzzy
 msgid "%A, %I:%M %p"
-msgstr "%A, %H:%M"
+msgstr "%d, %I:%M %p"
 
 #: src/dialogs.cpp:562
 #: src/savegame.cpp:188
 msgid "%b %d"
-msgstr "%b %d"
+msgstr "%d.%m"
 
 #: src/dialogs.cpp:540
 #: src/dialogs.cpp:566
 #: src/savegame.cpp:166
 #: src/savegame.cpp:192
 msgid "%b %d %y"
-msgstr "%b %d %y"
+msgstr "%d.%m.%y"
 
 #: src/dialogs.cpp:454
 #: src/savegame.cpp:136
 msgid "%a %b %d %H:%M %Y"
-msgstr "%a %b %d %H:%M %Y"
+msgstr "%d.%m.%Y %H:%M"
 
 #: src/dialogs.cpp:454
 #: src/savegame.cpp:136
-#, fuzzy
 msgid "%a %b %d %I:%M %p %Y"
-msgstr "%a %b %d %H:%M %Y"
+msgstr "%d.%m.%Y %I:%M %p"
 #endregion
 
 #: src/serialization/string_utils.cpp:299
