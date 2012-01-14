@@ -1,31 +1,29 @@
-# translation of ru.po to Russian
-# ----wesnoth-sotbe.cpp.po (Battle for Wesnoth )  ----Russian translations for Battle for Wesnoth package.
+# Russian translations for Battle for Wesnoth package.
 # Copyright (C) 2004 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
+#
 # Translators:
-# Alexandr Menovchicov (VaM) - orders@kypi.ru
-# Azamat Hackimov (Izek) - azazello1984@mail.ru
-# Sergey Khlutchin (Khlut) - Sergey.Khlutchin@gmail.com
-# Valentina Mukhamedzhanova - umirra@gmail.com
-#
-#
-# Automatically generated, 2004.
-# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2007.
-# Valentina Mukhamedzhanova <umirra@gmail.com>, 2009.
+# Alexandr Menovchicov (VaM)		<orders@kypi.ru>
+# Azamat Hackimov (Izek)		<azazello1984@mail.ru>
+# Sergey Khlutchin (Khlut)		<Sergey.Khlutchin@gmail.com>
+# Valentina Mukhamedzhanova		<umirra@gmail.com>
+# Azamat H. Hackimov, 2007		<azamat.hackimov@gmail.com>
+# Valentina Mukhamedzhanova, 2009	<umirra@gmail.com>
+# Victor Sergienko (singalen), 2011
+
 msgid ""
 msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-07-11 16:34+0200\n"
-"Last-Translator: Victor Sergienko <singalen@gmail.com>\n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2012-01-14 20:16+0400\n"
+"Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 1.0\n"
 
 
 #. [campaign]: id=Son_of_the_Black-Eye
