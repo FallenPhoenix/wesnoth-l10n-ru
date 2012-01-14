@@ -3551,42 +3551,6 @@ msgid "I see I cannot convince you. Go, do as you must; but be careful Kalenz, f
 msgstr "Вижу, мне тебя не убедить. Иди, делай, что должен; но будь осторожен, Каленз, потому что я боюсь за нас всех..."
 
 #. [multiplayer]
-#: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:5
-msgid "2p MC — LoW, Hard Mode, Chapter five"
-msgstr "2и МК — ЛВ, Сложный режим, Глава пятая"
-
-#. [multiplayer]
-#: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:6
-msgid ""
-"<i>The Legend of Wesmere</i>\n"
-"Multiplayer Campaign\n"
-"Chapter five\n"
-" Hard difficulty"
-msgstr ""
-"<i>Легенда Весмира</i>\n"
-"Многопользовательская кампания\n"
-"Глава пятая\n"
-" Сложная"
-
-#. [multiplayer]
-#: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:9
-msgid "2p MC — LoW, Easy Mode, Chapter five"
-msgstr "2и МК — ЛВ, Лёгкий режим, Глава пятая"
-
-#. [multiplayer]
-#: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:10
-msgid ""
-"<i>The Legend of Wesmere</i>\n"
-"Multiplayer Campaign\n"
-"Chapter five\n"
-" Easy difficulty"
-msgstr ""
-"<i>Легенда Весмира</i>\n"
-"Многопользовательская кампания\n"
-"Глава пятая\n"
-" Лёгкая сложность"
-
-#. [multiplayer]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:4
 msgid "2p MC — LoW, Normal Mode, Chapter five"
 msgstr "2и МК — ЛВ, Нормальный режим, Глава пятая"
@@ -4248,6 +4212,46 @@ msgstr "Вы получаете $amount_gold золотых монет"
 
 
 #1 ---------- Старые убранные строки ----------
+
+#2 ----- Были в 1.9.13 -----
+
+#~ #. [multiplayer]
+#~ #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:5
+#~ msgid "2p MC — LoW, Hard Mode, Chapter five"
+#~ msgstr "2и МК — ЛВ, Сложный режим, Глава пятая"
+
+#~ #. [multiplayer]
+#~ #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:6
+#~ msgid ""
+#~ "<i>The Legend of Wesmere</i>\n"
+#~ "Multiplayer Campaign\n"
+#~ "Chapter five\n"
+#~ " Hard difficulty"
+#~ msgstr ""
+#~ "<i>Легенда Весмира</i>\n"
+#~ "Многопользовательская кампания\n"
+#~ "Глава пятая\n"
+#~ " Сложная"
+
+#~ #. [multiplayer]
+#~ #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:9
+#~ msgid "2p MC — LoW, Easy Mode, Chapter five"
+#~ msgstr "2и МК — ЛВ, Лёгкий режим, Глава пятая"
+
+#~ #. [multiplayer]
+#~ #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:10
+#~ msgid ""
+#~ "<i>The Legend of Wesmere</i>\n"
+#~ "Multiplayer Campaign\n"
+#~ "Chapter five\n"
+#~ " Easy difficulty"
+#~ msgstr ""
+#~ "<i>Легенда Весмира</i>\n"
+#~ "Многопользовательская кампания\n"
+#~ "Глава пятая\n"
+#~ " Лёгкая сложность"
+
+#2 -----  -----
 
 #~ msgid "2p MC — LoW, Easy Mode, Chapter one"
 #~ msgstr "2и МК — ЛВ, Лёгкий режим, Глава первая"

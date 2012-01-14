@@ -119,12 +119,34 @@ msgstr "установить значение бит на пиксель. При
 #. type: TP
 #: ../../doc/man/wesnoth.6:49
 #, no-wrap
-msgid "B<-c, --campaign[[E<lt>difficultyE<gt>] E<lt>id_campaignE<gt> [E<lt>id_scenarioE<gt>]]>"
+msgid "B<-c, --campaign \\ [E<lt>id_campaignE<gt>]>"
 msgstr ""
 
 #. type: Plain text
-#: ../../doc/man/wesnoth.6:56
-msgid "goes directly to the campaign based on the parameters.  The difficulty is a number between 1 and current campaign's difficulties number.  The default difficulty is 1.  The scenario must be one of the campaign's child scenarios. The default scenario is campaign's first scenario.  B<Note: When using this switch please ensure that you specify the data directory path as the final argument> aswell, otherwise the game will take the campaign/scenario id as the data dir."
+#: ../../doc/man/wesnoth.6:54
+msgid "goes directly to the campaign with id E<lt>id_campaignE<gt>. A selection menu will appear if no id was specified.  B<Note:> When using this switch please ensure that you specify the data directory path as the final argument aswell, otherwise the game will take the campaign/scenario id as the data dir."
+msgstr ""
+
+#. type: TP
+#: ../../doc/man/wesnoth.6:54
+#, fuzzy, no-wrap
+msgid "B<--campaign-difficulty E<lt>difficultyE<gt>>"
+msgstr "B<--data-dir E<lt>каталогE<gt>>"
+
+#. type: Plain text
+#: ../../doc/man/wesnoth.6:57
+msgid "The difficulty of the specified campaign (1 to max). If none specified, the campaign difficulty selection widget will appear."
+msgstr ""
+
+#. type: TP
+#: ../../doc/man/wesnoth.6:57
+#, no-wrap
+msgid "B<--campaign-scenario E<lt>id_scenarioE<gt>>"
+msgstr ""
+
+#. type: Plain text
+#: ../../doc/man/wesnoth.6:60
+msgid "The id of the scenario from the specified campaign. The default is the first scenario."
 msgstr ""
 
 # type: TP
@@ -320,17 +342,6 @@ msgstr "B<-m, --multiplayer>"
 #: ../../doc/man/wesnoth.6:143
 msgid "runs a multiplayer game. There are additional options that can be used together with B<--multiplayer> as explained below. Only these additional options can follow B<--multiplayer>."
 msgstr "запускает многопользовательскую игру. Совместно с B<--multiplayer> могут использоваться дополнительные параметры, объяснённые ниже. Только эти дополнительные параметры могут следовать после B<--multiplayer>."
-
-#. type: TP
-#: ../../doc/man/wesnoth.6:139
-#, no-wrap
-msgid "B<--new-syntax>"
-msgstr "B<--new-syntax>"
-
-#. type: Plain text
-#: ../../doc/man/wesnoth.6:142
-msgid "enables the new campaign syntax parsing."
-msgstr ""
 
 # type: TP
 #. type: TP

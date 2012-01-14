@@ -508,7 +508,8 @@ msgstr "Сохрани их для марша на север. Мы немног
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:308
-msgid "Lord Erlornas never saw the blade that felled him. He died on the spot, with no a chance to issue last commands or farewells. Without him his wardens soon fell into confusion, and losing heart withdrew from the battle."
+#| msgid "Lord Erlornas never saw the blade that felled him. He died on the spot, with no a chance to issue last commands or farewells. Without him his wardens soon fell into confusion, and losing heart withdrew from the battle."
+msgid "Lord Erlornas never saw the blade that felled him. He died on the spot, with not a chance to issue last commands or farewells. Without him his wardens soon fell into confusion, and losing heart withdrew from the battle."
 msgstr "Лорд Эрлорнас так и не увидел клинка, что убил его. Он умер мгновенно, не успев отдать последний приказ и сказать прощальных слов. Без своего лидера его подчинённые растерялись и с поникшими головами покинули поле битвы."
 
 #. [message]: speaker=narrator
@@ -518,7 +519,8 @@ msgstr "Когда наконец прибыло подкрепление, эл�
 
 #. [message]: role=Adviser
 #: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:323
-msgid "We can’t carry on Lord, the men are to tired. We have to fall back."
+#| msgid "We can’t carry on Lord, the men are to tired. We have to fall back."
+msgid "We can’t carry on Lord, the men are too tired. We have to fall back."
 msgstr "Мы не можем продолжать, мой господин, наши воины слишком утомлены. Мы должны отступить."
 
 #. [message]: id=Erlornas
@@ -664,7 +666,8 @@ msgstr "Нет! Не может быть!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:305
-msgid "Soon after Erlornas died the elven party, lacking a leader and pressed from all sides, scattered and fled. Their retreat to Wesmere was arduous and long."
+#| msgid "Soon after Erlornas died the elven party, lacking a leader and pressed from all sides, scattered and fled. Their retreat to Wesmere was arduous and long."
+msgid "Soon after Erlornas died, the elven party, lacking a leader and pressed from all sides, scattered and fled. Their retreat to Wesmere was arduous and long."
 msgstr "Вскоре после смерти Эрлорнаса, обезглавленное войско эльфов не выдержало натиска, рассеялось и бежало. Их отступление в Весмир было долгим и тяжким."
 
 #. [message]: speaker=narrator

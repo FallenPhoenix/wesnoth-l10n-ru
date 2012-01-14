@@ -3419,14 +3419,16 @@ msgstr "Оркам нельзя верить; даже если мы заклю�
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:57
-msgid "Then what shall we do? Can we assassinate this Rakshas fellow and throw them into disarray once more."
+#| msgid "Then what shall we do? Can we assassinate this Rakshas fellow and throw them into disarray once more."
+msgid "Then what shall we do? Can we assassinate this Rakshas fellow and throw them into disarray once more?"
 msgstr "Так что же нам делать? Может, убить этого Ракшаса и снова ввергнуть их в беспорядок."
 
 #. [part]
 #. "coil" meant, in Middle and Early Modern English, a difficulty
 #. or problem.
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:63
-msgid "That will be very difficult. We did that last time and they will no doubt be alert to that threat now. Anyway, it would be but temporary solution. Soon another strong leader would emerge and we’d find oursel’ back in the same coil."
+#| msgid "That will be very difficult. We did that last time and they will no doubt be alert to that threat now. Anyway, it would be but temporary solution. Soon another strong leader would emerge and we’d find oursel’ back in the same coil."
+msgid "That will be very difficult. We did that last time and they will no doubt be alert to that threat now. Anyway, it would be but a temporary solution. Soon another strong leader would emerge and we’d find oursel’ back in the same coil."
 msgstr "Это будет трудно сделать. В прошлый раз нам удалось, и теперь они наверняка будут готовы к попыткам такого рода. Так или иначе, это будет лишь временное решение. Вскоре появится новый сильный вожак, и всё начнётся по новой."
 
 #. [part]

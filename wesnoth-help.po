@@ -161,12 +161,14 @@ msgstr "Вербовка и призыв"
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:163
-msgid "Each side begins with one leader in their keep. At the start of any battle, and at times during it, you will need to recruit <ref>dst='..units' text='units'</ref> into your army. To recruit, you must have your leader (for instance, Konrad in the <italic>text='Heir to the Throne'</italic> campaign) on the keep square of a <ref>dst='terrain_castle' text='castle'</ref>. Then you may recruit by either choosing <bold>text='Recruit'</bold> from the menu or right-clicking on a hex and selecting <bold>text='Recruit'</bold>. This brings up the recruit menu, which lists units available for recruitment, along with their gold cost. Click on a unit to see its statistics, then press the recruit button to recruit it."
+#| msgid "Each side begins with one leader in their keep. At the start of any battle, and at times during it, you will need to recruit <ref>dst='..units' text='units'</ref> into your army. To recruit, you must have your leader (for instance, Konrad in the <italic>text='Heir to the Throne'</italic> campaign) on the keep square of a <ref>dst='terrain_castle' text='castle'</ref>. Then you may recruit by either choosing <bold>text='Recruit'</bold> from the menu or right-clicking on a hex and selecting <bold>text='Recruit'</bold>. This brings up the recruit menu, which lists units available for recruitment, along with their gold cost. Click on a unit to see its statistics, then press the recruit button to recruit it."
+msgid "Each side begins with one leader in their keep. At the start of any battle, and at times during it, you will need to recruit <ref>dst='..units' text='units'</ref> into your army. To recruit, you must have your leader (for instance, Konrad in the <italic>text='Heir to the Throne'</italic> campaign) on the keep hex of a <ref>dst='terrain_castle' text='castle'</ref>. Then you may recruit by either choosing <bold>text='Recruit'</bold> from the menu or right-clicking on a hex and selecting <bold>text='Recruit'</bold>. This brings up the recruit menu, which lists units available for recruitment, along with their gold cost. Click on a unit to see its statistics, then press the recruit button to recruit it."
 msgstr "Каждый игрок начинает игру с одним лидером в своей цитадели. В начале и по ходу каждой битвы вам нужно будет вербовать <ref>dst='..units' text='бойцов'</ref> для своей армии. Чтобы вербовать бойцов, ваш лидер (например, Конрад в кампании <italic>text='Наследник престола'</italic>) должен находиться в цитадели <ref>dst='terrain_castle' text='замка'</ref>. Вы можете вербовать бойцов, выбрав пункт <italic>text='Вербовать'</italic> в меню или кликнув правой кнопкой мыши по цитадели и выбрав пункт <italic>text='Вербовать'</italic>. Появится меню вербовки со списком доступных бойцов и их стоимостью. Выделив бойца, слева появится информация о нём. Чтобы завербовать выделенного бойца, нажмите кнопку «Вербовать»."
 
 #. [topic]: id=recruit_and_recall
 #: data/core/help.cfg:165
-msgid "\n\nIf you right-clicked on a castle hex and selected recruit, the new unit will appear in that square. Otherwise, it will appear in a free square near the keep. You may only recruit as many units as you have free hexes in your castle, and you cannot spend more gold than you actually have on recruiting."
+#| msgid "\n\nIf you right-clicked on a castle hex and selected recruit, the new unit will appear in that square. Otherwise, it will appear in a free square near the keep. You may only recruit as many units as you have free hexes in your castle, and you cannot spend more gold than you actually have on recruiting."
+msgid "\n\nIf you right-clicked on a castle hex and selected recruit, the new unit will appear in that hex. Otherwise, it will appear in a free hex near the keep. You may only recruit as many units as you have free hexes in your castle, and you cannot spend more gold than you actually have on recruiting."
 msgstr "\n\nЕсли вы нажмёте правой кнопкой мыши на поле замка и завербуете бойца, он появится на этом поле. Иначе он появится на свободном поле рядом с укрытием. Вы можете завербовать за ход столько бойцов, сколько свободных полей в вашем замке, и вы не сможете потратить на вербовку больше золота, чем у вас есть."
 
 #. [topic]: id=recruit_and_recall
@@ -2166,7 +2168,8 @@ msgstr "дикая"
 
 #. [trait]: id=feral
 #: data/core/macros/traits.cfg:192
-msgid "Receive only 50% defense in land-based villages"
+#| msgid "Receive only 50% defense in land-based villages"
+msgid "Receives only 50% defense in land-based villages"
 msgstr "Получает только 50% защиты в деревнях"
 
 #. [topic]: id=traits_feral
@@ -2627,8 +2630,11 @@ msgstr "Замок"
 
 #. [topic]: id=terrain_castle
 #: data/core/help.cfg:614
+#| msgid ""
+#| "<italic>text='Castles'</italic> are any sort of permanent fortification. Nearly all units receive a considerable bonus to their defense by being stationed in a castle, and all units receive full movement in a castle. Stationing units in a castle represents its defensive capability. Without a unit in each wall hex, an enemy can simply sneak into the castle unchallenged, gaining the same defensive bonus as everyone inside.\n\n"
+#| "Most units have about 60% defense in a castle.\n\n"
 msgid ""
-"<italic>text='Castles'</italic> are any sort of permanent fortification. Nearly all units receive a considerable bonus to their defense by being stationed in a castle, and all units receive full movement in a castle. Stationing units in a castle represents its defensive capability. Without a unit in each wall hex, an enemy can simply sneak into the castle unchallenged, gaining the same defensive bonus as everyone inside.\n\n"
+"<italic>text='Castles'</italic> are any sort of permanent fortification. Nearly all units receive a considerable bonus to their defense by being stationed in a castle, and most units receive full movement in a castle. Stationing units in a castle represents its defensive capability. Without a unit in each wall hex, an enemy can simply sneak into the castle unchallenged, gaining the same defensive bonus as everyone inside.\n\n"
 "Most units have about 60% defense in a castle.\n\n"
 msgstr ""
 "<italic>text='Замки'</italic> — это любые постоянных укреплений. Практически все бойцы в замках хорошо защищаются, кроме того, все бойцы получают полный запас движения. Чтобы защищать замок, заполните его бойцами. Если не на всех полях вдоль стен замка стоят бойцы, враги смогут беспрепятственно пробраться внутрь и получить те же преимущества в защите, что и защитники замка.\n\n"
@@ -3326,7 +3332,8 @@ msgstr "Новый континент"
 
 #. [topic]: id=new_continent
 #: data/core/encyclopedia/drakes.cfg:38
-msgid "New Continent -- The great continent to the east of <ref>dst='morogor' text='Morogor'</ref>. Its existence is unknown to the drakes until the flight of Galun."
+#| msgid "New Continent -- The great continent to the east of <ref>dst='morogor' text='Morogor'</ref>. Its existence is unknown to the drakes until the flight of Galun."
+msgid "The great continent to the east of <ref>dst='morogor' text='Morogor'</ref>. Its existence is unknown to the drakes until the flight of Galun."
 msgstr "Новый континент — большой континент к востоку от <ref>dst='morogor' text='Морогора'</ref>. О его существовании дрейки не знали вплоть до битвы за Галун."
 
 #. [topic]: id=abyss
@@ -3356,7 +3363,8 @@ msgstr "Прямой путь"
 
 #. [topic]: id=straight_path
 #: data/core/encyclopedia/drakes.cfg:56
-msgid "'The drakish tradition of perpetual expansion and conquest. This term is mostly used by the members of the <ref>dst='spiral_path' text='Spiral Path'</ref>."
+#| msgid "'The drakish tradition of perpetual expansion and conquest. This term is mostly used by the members of the <ref>dst='spiral_path' text='Spiral Path'</ref>."
+msgid "The drakish tradition of perpetual expansion and conquest. This term is mostly used by the members of the <ref>dst='spiral_path' text='Spiral Path'</ref>."
 msgstr "Вечная традиция дрейков расширения и захвата. Так обычно говорят члены <ref>dst='spiral_path' text='Спирального пути'</ref>."
 
 #. [topic]: id=dominant
@@ -3386,7 +3394,8 @@ msgstr ""
 
 #. [topic]: id=recorder
 #: data/core/encyclopedia/drakes.cfg:74
-msgid "A Recorder is a Drakish scrollkeeper whose has mastered the drakish <ref>dst='drakish_script' text='script'</ref>. The recorders are the only <ref>dst='caste' text='caste'</ref> of Drake not determined by biology: they recruit their members from all of the other castes."
+#| msgid "A Recorder is a Drakish scrollkeeper whose has mastered the drakish <ref>dst='drakish_script' text='script'</ref>. The recorders are the only <ref>dst='caste' text='caste'</ref> of Drake not determined by biology: they recruit their members from all of the other castes."
+msgid "A Recorder is a Drakish scrollkeeper who has mastered the drakish <ref>dst='drakish_script' text='script'</ref>. The recorders are the only <ref>dst='caste' text='caste'</ref> of Drake not determined by biology: they recruit their members from all of the other castes."
 msgstr ""
 
 #. [topic]: id=laying

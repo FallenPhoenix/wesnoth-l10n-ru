@@ -359,7 +359,8 @@ msgstr "Крестьянин-охотник"
 
 #. [unit_type]: id=Huntsman_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:228
-msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes. They can bullseye wamprats and track anything that moves in their territory."
+#| msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes. They can bullseye wamprats and track anything that moves in their territory."
+msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes. They can bullseye ferocious swamp rats and track anything that moves in their territory."
 msgstr "Охотники провели свои жизни, живя на болотах и задворках своих глухих домов. Они могут отслеживать всё, что двигается на их территории."
 #endregion
 

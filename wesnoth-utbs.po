@@ -9502,7 +9502,8 @@ msgstr "Шаманка"
 
 #. [unit_type]: id=Desert Shaman, race=elf
 #: data/campaigns/Under_the_Burning_Suns/units/elves/Desert_Shaman.cfg:34
-msgid "Desert Shamans focus on less violent ways to hinder the enemy. Their entangling attack slows enemies down and reduces by one the number of times they may attack. Shamans also possess basic healing abilities."
+#| msgid "Desert Shamans focus on less violent ways to hinder the enemy. Their entangling attack slows enemies down and reduces by one the number of times they may attack. Shamans also possess basic healing abilities."
+msgid "Desert Shamans focus on less violent ways to hinder the enemy."
 msgstr "Пустынные шаманы концентрируются на наименее жестоких методах остановить противника. Их опутывающая атака замедляет противников и ослабляет их атаку. Шаманы также владеют основами исцеления."
 
 #. [attack]: type=impact

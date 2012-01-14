@@ -34,13 +34,15 @@ msgstr "Battle for Wesnoth"
 #region Используемые шрифты
 #. [fonts]
 #: data/hardwired/fonts.cfg:7
-msgid "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc,Junicode-Regular.ttf"
-msgstr "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc,Junicode-Regular.ttf"
+#| msgid "DejaVuSans.ttf,Andagii.ttf,wqy-zenhei.ttc,Junicode-Regular.ttf"
+msgid "DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf"
+msgstr "DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf"
 
 #. [fonts]
 #: data/hardwired/fonts.cfg:8
-msgid "DejaVu Sans,Andagii,WenQuanYi Zen Hei,Junicode"
-msgstr "DejaVu Sans,Andagii,WenQuanYi Zen Hei,Junicode"
+#| msgid "DejaVu Sans,Andagii,WenQuanYi Zen Hei,Junicode"
+msgid "DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode"
+msgstr "DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode"
 #endregion
 
 
@@ -3495,11 +3497,6 @@ msgid "Local time of day area lighting"
 msgstr "Освещение полей по локальному времени суток"
 
 #. [advanced_preference]: type=boolean
-#: data/advanced_preferences.cfg:40
-msgid "Custom lighting for local time of day areas (uses more memory)"
-msgstr "Рисовать специальное освещение полей по локальному времени суток (требует больше памяти)"
-
-#. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:46
 msgid "Show titlescreen animation"
 msgstr "Анимировать титульный экран"
@@ -4347,119 +4344,6 @@ msgstr "Перевод RACV"
 #: data/core/about.cfg:2775
 msgid "Bots"
 msgstr "Боты"
-
-
-#1 ********** Тестовая кампания **********
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:43
-msgid "TestCamp"
-msgstr "ТестоваяКампания"
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:45
-msgid "Test campaign used to check if new campaign syntax is working."
-msgstr "Тестовая кампания нужна для проверки работоспособности нововведений."
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:46
-msgid "Soldier"
-msgstr "Солдат"
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:46
-msgid "(Easy)"
-msgstr "Легко"
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:47
-msgid "Lord"
-msgstr "Лорд"
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:47
-msgid "(Normal)"
-msgstr "Нормально"
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:48
-msgid "High Lord"
-msgstr "Высший лорд"
-
-#. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
-#: data/campaigns/test_campaign/_main.cfg:48
-msgid "(Hard)"
-msgstr "Тяжело"
-
-#. [about]
-#: data/campaigns/test_campaign/_main.cfg:52
-msgid "Test campaign test [about] entry"
-msgstr "Тестовый сценарий, тестовое описание [about]"
-
-# Надо попробовать перевести, но предварительно пометив как локализуемую.
-# msgid "If you see this, [about] tag is working correctly."
-# msgstr ""
-#. [scenario]: id=01_Grass
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:4
-msgid "Test campaign - first scenario (grass)"
-msgstr "Тестовая кампания - первый сценарий (трава)"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:87
-msgid "Difficulty: Easy"
-msgstr "Сложность: Легко"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:90
-msgid "Difficulty: Normal"
-msgstr "Сложность: Нормально"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:93
-msgid "Difficulty: Hard"
-msgstr "Сложность: Тяжело"
-
-#. [side]: id=Alpha, type=Elvish Fighter
-#. [side]: id=Bravo, type=Elvish Archer
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:24
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:41
-msgid "Players"
-msgstr "Игроки"
-
-#. [side]: id=Charlie, type=Orcish Grunt
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:53
-msgid "Enemies"
-msgstr "Враги"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:73
-msgid "Passed test color"
-msgstr "Цвет успешно пройденного теста"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:80
-msgid "Failed test color"
-msgstr "Цвет проваленного теста"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:100
-msgid "Main campaign define"
-msgstr "Определение из основной кампании"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:111
-msgid "Extra campaign define"
-msgstr "Определение из дополнительной кампании"
-
-#. [label]
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:122
-msgid "Multiplayer define"
-msgstr "Определение из сценария"
-
-#. [objective]: condition=win
-#: data/campaigns/test_campaign/scenarios/01_Grass.cfg:132
-msgid "Defeat enemy leader"
-msgstr "Убейте вражеского лидера"
 
 
 #1 ********** Общие строки **********
@@ -5729,6 +5613,123 @@ msgstr "Настройки планировщика"
 
 
 #1 ---------- Старые убранные строки ----------
+
+#2 ----- Были в 1.9.13 -----
+
+# Дополнительные настройки (оставили без подсказки)
+#~ #. [advanced_preference]: type=boolean
+#~ #: data/advanced_preferences.cfg:40
+#~ msgid "Custom lighting for local time of day areas (uses more memory)"
+#~ msgstr "Рисовать специальное освещение полей по локальному времени суток (требует больше памяти)"
+
+#region Тестовая кампания
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:43
+#~ msgid "TestCamp"
+#~ msgstr "ТестоваяКампания"
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:45
+#~ msgid "Test campaign used to check if new campaign syntax is working."
+#~ msgstr "Тестовая кампания нужна для проверки работоспособности нововведений."
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:46
+#~ msgid "Soldier"
+#~ msgstr "Солдат"
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:46
+#~ msgid "(Easy)"
+#~ msgstr "Легко"
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:47
+#~ msgid "Lord"
+#~ msgstr "Лорд"
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:47
+#~ msgid "(Normal)"
+#~ msgstr "Нормально"
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:48
+#~ msgid "High Lord"
+#~ msgstr "Высший лорд"
+
+#~ #. [campaign_metadata]: id=TEST_CAMPAIGN_NEW_SYNTAX
+#~ #: data/campaigns/test_campaign/_main.cfg:48
+#~ msgid "(Hard)"
+#~ msgstr "Тяжело"
+
+#~ #. [about]
+#~ #: data/campaigns/test_campaign/_main.cfg:52
+#~ msgid "Test campaign test [about] entry"
+#~ msgstr "Тестовый сценарий, тестовое описание [about]"
+
+#~ #. [scenario]: id=01_Grass
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:4
+#~ msgid "Test campaign - first scenario (grass)"
+#~ msgstr "Тестовая кампания - первый сценарий (трава)"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:87
+#~ msgid "Difficulty: Easy"
+#~ msgstr "Сложность: Легко"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:90
+#~ msgid "Difficulty: Normal"
+#~ msgstr "Сложность: Нормально"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:93
+#~ msgid "Difficulty: Hard"
+#~ msgstr "Сложность: Тяжело"
+
+#~ #. [side]: id=Alpha, type=Elvish Fighter
+#~ #. [side]: id=Bravo, type=Elvish Archer
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:24
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:41
+#~ msgid "Players"
+#~ msgstr "Игроки"
+
+#~ #. [side]: id=Charlie, type=Orcish Grunt
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:53
+#~ msgid "Enemies"
+#~ msgstr "Враги"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:73
+#~ msgid "Passed test color"
+#~ msgstr "Цвет успешно пройденного теста"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:80
+#~ msgid "Failed test color"
+#~ msgstr "Цвет проваленного теста"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:100
+#~ msgid "Main campaign define"
+#~ msgstr "Определение из основной кампании"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:111
+#~ msgid "Extra campaign define"
+#~ msgstr "Определение из дополнительной кампании"
+
+#~ #. [label]
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:122
+#~ msgid "Multiplayer define"
+#~ msgstr "Определение из сценария"
+
+#~ #. [objective]: condition=win
+#~ #: data/campaigns/test_campaign/scenarios/01_Grass.cfg:132
+#~ msgid "Defeat enemy leader"
+#~ msgstr "Убейте вражеского лидера"
+#endregion
 
 #2 ----- Были в 1.9.12 -----
 
