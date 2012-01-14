@@ -862,12 +862,12 @@ msgstr "Журнал чата"
 #. [label]
 #: data/gui/default/window/chat_log.cfg:56
 msgid "Page:"
-msgstr ""
+msgstr "Лист:"
 
 #. [slider]: id=page_number
 #: data/gui/default/window/chat_log.cfg:69
 msgid "Last"
-msgstr ""
+msgstr "Последний"
 #endregion
 
 

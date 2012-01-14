@@ -33,17 +33,17 @@ msgstr "Пользовательская карта"
 #. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
 #: data/multiplayer/eras.cfg:126
 msgid "<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d"
-msgstr ""
+msgstr "<span foreground='#%02x%02x%02x'>Команда %d</span>:  Очки дохода = %d  Очки армии = %d  Золото = %d"
 
 #. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
 #: data/multiplayer/eras.cfg:126
 msgid "Grand total: <b>%d</b>"
-msgstr ""
+msgstr "В сумме: <b>%d</b>"
 
 #. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
 #: data/multiplayer/eras.cfg:136
 msgid "<span foreground='%s'>Side %d</span> has the advantage."
-msgstr ""
+msgstr "Преимущуство у <span foreground='%s'>команды %d</span>."
 #endregion
 
 
