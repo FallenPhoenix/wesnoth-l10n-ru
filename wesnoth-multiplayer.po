@@ -29,6 +29,22 @@ msgstr ""
 msgid "User Map"
 msgstr "Пользовательская карта"
 
+#region Рассчет преимущества (если кончились ходы)
+#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
+#: data/multiplayer/eras.cfg:126
+msgid "<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d"
+msgstr ""
+
+#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
+#: data/multiplayer/eras.cfg:126
+msgid "Grand total: <b>%d</b>"
+msgstr ""
+
+#. [lua]: id=unit.id }), speaker=narrator, speaker=narrator
+#: data/multiplayer/eras.cfg:136
+msgid "<span foreground='%s'>Side %d</span> has the advantage."
+msgstr ""
+#endregion
 
 
 #1 ********** Эры и фракции **********

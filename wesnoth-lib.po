@@ -853,6 +853,23 @@ msgid "Team only"
 msgstr "Только для союзников"
 #endregion
 
+#region Чат-лог
+#. [label]
+#: data/gui/default/window/chat_log.cfg:38
+msgid "Chat Log"
+msgstr "Журнал чата"
+
+#. [label]
+#: data/gui/default/window/chat_log.cfg:56
+msgid "Page:"
+msgstr ""
+
+#. [slider]: id=page_number
+#: data/gui/default/window/chat_log.cfg:69
+msgid "Last"
+msgstr ""
+#endregion
+
 
 #1 ********** Диалоги редактора карт **********
 

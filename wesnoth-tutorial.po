@@ -277,12 +277,14 @@ msgstr "Короны"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:458
-msgid "Note: The tiny metal crown above Delfador means you will lose the game if he is killed. You will also lose the game if your leader (Konrad) is killed."
+#| msgid "Note: The tiny metal crown above Delfador means you will lose the game if he is killed. You will also lose the game if your leader (Konrad) is killed."
+msgid "The tiny metal crown above Delfador means you will lose the game if he is killed. You will also lose the game if your leader (Konrad) is killed."
 msgstr "Примечание: небольшая корона рядом с Делфадором означает, что вы проиграете битву, если его убьют. Вы также проиграете, если погибнет ваш лидер (Конрад)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:462
-msgid "Note: The tiny metal crown above Delfador means you will lose the game if he is killed. You will also lose the game if your leader (Li’sar) is killed."
+#| msgid "Note: The tiny metal crown above Delfador means you will lose the game if he is killed. You will also lose the game if your leader (Li’sar) is killed."
+msgid "The tiny metal crown above Delfador means you will lose the game if he is killed. You will also lose the game if your leader (Li’sar) is killed."
 msgstr "Примечание: небольшая корона рядом с Делфадором означает, что вы проиграете битву, если его убьют. Вы также проиграете, если погибнет ваш лидер (Лисар)."
 
 #. [message]: id=Delfador

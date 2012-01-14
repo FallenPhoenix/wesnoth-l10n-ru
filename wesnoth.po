@@ -3958,14 +3958,6 @@ msgstr "Установка аддонов"
 msgid "Choose the add-on to download."
 msgstr "Выберите аддон для загрузки."
 
-#: src/addon/manager.cpp:1286
-msgid "Download"
-msgstr "Загрузить"
-
-#: src/addon/manager.cpp:1287
-msgid "Done"
-msgstr "Закончить"
-
 #: src/addon/manager.cpp:1297
 #: src/dialogs.cpp:634
 #: src/menu_events.cpp:954
@@ -5035,10 +5027,6 @@ msgstr "Карта сохранена."
 msgid "Could not save the map: $msg"
 msgstr "Невозможно сохранить карту: $msg"
 
-#: src/menu_events.cpp:637
-msgid "Chat Log"
-msgstr "Лог чата"
-
 #: src/menu_events.cpp:890
 msgid "Traits"
 msgstr "Особенности"
@@ -5658,10 +5646,6 @@ msgstr "Пропустить"
 msgid "border_size should be between 0.0 and 0.5."
 msgstr "Величина параметра border_size должна быть между 0,0 и 0,5."
 
-#: src/tod_manager.cpp:126
-msgid "No time of day has been defined."
-msgstr "Время суток не задано."
-
 #: src/unit.cpp:707
 msgid "Unknown unit type '$type|' while generating traits"
 msgstr "Неизвестный тип бойца: '$type|' в списке особенностей"
@@ -5745,6 +5729,29 @@ msgstr "Настройки планировщика"
 
 
 #1 ---------- Старые убранные строки ----------
+
+#2 ----- Были в 1.9.12 -----
+
+# Аддоны
+
+#~ #: src/addon/manager.cpp:1286
+#~ msgid "Download"
+#~ msgstr "Загрузить"
+
+#~ #: src/addon/manager.cpp:1287
+#~ msgid "Done"
+#~ msgstr "Закончить"
+
+# Перенесено в lib
+#~ #: src/menu_events.cpp:637
+#~ msgid "Chat Log"
+#~ msgstr "Лог чата"
+
+#~ #: src/tod_manager.cpp:126
+#~ msgid "No time of day has been defined."
+#~ msgstr "Время суток не задано."
+
+#2 ----- -----
 
 #~ msgid "Some units have planned actions left. Do you really want to end your turn?"
 #~ msgstr "Некоторые бойцы ещё не сделали ход. Вы действительно хотите завершить свой ход?"
