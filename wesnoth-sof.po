@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-05 16:25+0100\n"
+"POT-Creation-Date: 2011-12-15 10:39+0100\n"
 "PO-Revision-Date: 2012-01-14 20:16+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -228,8 +228,8 @@ msgstr "Победите Глилдура"
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:341
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:380
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:164
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:441
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:817
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:444
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:820
 msgid "Death of Rugnur"
 msgstr "Смерть Ругнура"
 
@@ -1045,8 +1045,8 @@ msgstr "Найдите Турсагана и убедите его вернут�
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:345
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:384
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:168
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:445
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:821
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:448
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:824
 msgid "Death of Krawg"
 msgstr "Смерть Кравга"
 
@@ -1156,8 +1156,8 @@ msgstr "Доведите Турсагана до знака"
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:141
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:349
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:172
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:449
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:825
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:452
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:828
 msgid "Death of Thursagan"
 msgstr "Смерть Турсагана"
 
@@ -2479,83 +2479,83 @@ msgid "We could try to set off the volcano as soon as possible. Meanwhile, we sh
 msgstr "Постараемся вызвать извержение вулкана как можно быстрее. Между тем, мы должны заманить их поглубже в пещеры, чтобы они не сбежали от лавы."
 
 #. [message]: speaker=Rugnur
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:428
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:431
 msgid "These orcs appear to be guarding something."
 msgstr "Кажется, орки что-то стерегут."
 
 #. [message]: speaker=Thursagan
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:432
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:435
 msgid "It is probably the magical object. Attack them!"
 msgstr "Должно быть, это что-то волшебное. В атаку!"
 
 #. [objective]: condition=win
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:437
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:440
 msgid "Move onto the glyph in the center of the volcano"
 msgstr "Встаньте на знак в центре вулкана."
 
 #. [message]: speaker=Thursagan
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:495
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:498
 msgid "That’s it! The volcano will erupt soon now that you’ve triggered it."
 msgstr "Вот так! Вулкан скоро начнёт извергаться."
 
 #. [message]: speaker=Rugnur
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:511
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:514
 msgid "Look, it has knocked down some of the walls! Those orcs have a way out now!"
 msgstr "Глядите, стены рушатся! Теперь орки выйдут наружу!"
 
 #. [message]: speaker=Baglur
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:520
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:523
 msgid "Well, we’ve succeeded in stopping the elves from getting the Sceptre, I would say. But what do we do now?!"
 msgstr "Мы не дали эльфам получить скипетр. Но что дальше?"
 
 #. [message]: speaker=Thursagan
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:526
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:529
 msgid "Now, we must fight the orcs until we die, it’s our only option."
 msgstr "А теперь будем драться с орками до последнего. Это всё, что нам осталось."
 
 #. [message]: speaker=Rugnur
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:532
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:535
 msgid "We cannot let any of the elves or their mercenaries escape; they would tell where the Sceptre of Fire is. Make sure they all die!"
 msgstr "Нельзя позволить кому-то из эльфов или их наёмников уйти; иначе они расскажут, где искать огненный скипетр. Удостоверьтесь, что все мертвы!"
 
 #. [message]: speaker=Thursagan
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:538
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:541
 msgid "We have to kill them quickly, before they realize what is happening. And remember, the lava spreads quickly, suddenly, and dangerously. The only place safe from it is the area near the glyph."
 msgstr "Мы должны убить их быстро, прежде чем они поймут, что происходит. И помните, что течение лавы быстро, непредсказуемо и опасно. Единственное спокойное место — рядом со знаком."
 
 #. [message]: role=smartelf
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:570
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:573
 msgid "Wait, what’s going on? The volcano is going to erupt! Everyone, try to get out of these caves!"
 msgstr "Эй, постойте! Что происходит?! Вулкан сейчас начнёт извергаться! Бегите все из этих чёртовых пещер!"
 
 #. [message]: speaker=unit
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:585
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:588
 msgid "I must go report to my superiors!"
 msgstr "Пойду доложу командирам!"
 
 #. [message]: speaker=Thursagan
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:589
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:592
 msgid "We have allowed an enemy to escape; we have failed."
 msgstr "Мы дали врагу уйти, всё пропало!"
 
 #. [message]: role=dumbelf
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:647
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:650
 msgid "Aghh!! The volcano is erupting, and now our exit has been blocked off!!"
 msgstr "Ахх!! Вулкан извергается, а выход для нас закрыт!!"
 
 #. [message]: speaker=Rugnur
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:672
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:675
 msgid "We have hidden the Sceptre well, but now the volcano is going to erupt and kill us all."
 msgstr "Ну что ж, мы надёжно спрятали скипетр. Но извержение убьёт нас всех."
 
 #. [objective]: condition=win
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:813
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:816
 msgid "Kill all of the elves before one of them escapes from the caves"
 msgstr "Убейте всех эльфов прежде, чем хоть один из них сможет сбежать из пещер"
 
 #. [message]: speaker=Krawg
 #. "Hmmm, me leave now!"
-#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:924
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:927
 msgid "Hm... Me le’ no’w!"
 msgstr "Хм... Мне пораа улетааа!"
 

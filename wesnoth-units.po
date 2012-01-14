@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-23 15:01+0100\n"
+"POT-Creation-Date: 2011-12-15 10:39+0100\n"
 "PO-Revision-Date: 2012-01-14 20:16+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -2786,9 +2786,9 @@ msgstr "Волк-исполин"
 #. [unit_type]: id=Wolf, race=wolf
 #. [unit_type]: id=Direwolf, race=wolf
 #. [unit_type]: id=Great Wolf, race=wolf
-#: data/core/units/monsters/Wolf.cfg:35
-#: data/core/units/monsters/Wolf_Dire.cfg:19
-#: data/core/units/monsters/Wolf_Great.cfg:19
+#: data/core/units/monsters/Wolf.cfg:34
+#: data/core/units/monsters/Wolf_Dire.cfg:18
+#: data/core/units/monsters/Wolf_Great.cfg:18
 msgid "Wolves are aggressive animals that hunt in packs. Although weak individually, a wolf pack can kill even the strongest man in minutes."
 msgstr "Волки — это агрессивные животные, охотящиеся стаями. Хотя они довольно слабы поодиночке, стая волков может убить даже сильнейшего человека за считанные минуты."
 #endregion
@@ -3584,9 +3584,9 @@ msgstr "удар слёта"
 #: data/core/units/monsters/Giant_Spider.cfg:25
 #: data/core/units/monsters/Sea_Serpent.cfg:27
 #: data/core/units/monsters/Water_Serpent.cfg:44
-#: data/core/units/monsters/Wolf.cfg:50
-#: data/core/units/monsters/Wolf_Dire.cfg:34
-#: data/core/units/monsters/Wolf_Great.cfg:34
+#: data/core/units/monsters/Wolf.cfg:49
+#: data/core/units/monsters/Wolf_Dire.cfg:33
+#: data/core/units/monsters/Wolf_Great.cfg:33
 msgid "fangs"
 msgstr "клыки"
 

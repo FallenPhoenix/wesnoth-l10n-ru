@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-23 15:01+0100\n"
+"POT-Creation-Date: 2011-12-15 10:39+0100\n"
 "PO-Revision-Date: 2012-01-14 20:16+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -34,12 +34,12 @@ msgstr "Пользовательская карта"
 #1 ********** Эры и фракции **********
 
 #. [era]: id=era_default
-#: data/multiplayer/eras.cfg:159
+#: data/multiplayer/eras.cfg:160
 msgid "Default"
 msgstr "По умолчанию"
 
 #. [era]: id=era_heroes
-#: data/multiplayer/eras.cfg:179
+#: data/multiplayer/eras.cfg:180
 msgid "Age of Heroes"
 msgstr "Эпоха героев"
 
