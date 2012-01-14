@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-ei.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-15 10:39+0100\n"
+"POT-Creation-Date: 2012-01-03 10:40+0100\n"
 "PO-Revision-Date: 2012-01-14 20:16+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -234,9 +234,8 @@ msgstr "Мал-Саккат"
 #. [side]: type=Dark Sorcerer, id=Mal-Marak
 #. [side]: type=Dark Sorcerer, id=Mal-Galkar
 #. [side]: type=Death Knight, id=Ravanal-Guard
-#. [side]: type=Lich, id=Mal-Ravanal
-#. [side]: type=Revenant, id=Lanar-Skal
 #. [side]: type=Ancient Lich, id=Mal-Ravanal
+#. [side]: type=Revenant, id=Lanar-Skal
 #. [side]: type=Lich, id=Mal-Drakanal
 #. [side]: type=Lich, id=Lich3
 #. [side]: type=Lich, id=Lich4
@@ -344,7 +343,6 @@ msgstr "Что? Что происходит?"
 msgid "Look. To the east. Undead approach! But wait... I sense something... They must not see me..."
 msgstr "Взгляни на восток. Мертвецы идут! Но постой... Я что-то чувствую... Они не должны меня увидеть..."
 
-#. [side]: type=Lich, id=Mal-Ravanal
 #. [side]: type=Ancient Lich, id=Mal-Ravanal
 #. [event]
 #. [variable]

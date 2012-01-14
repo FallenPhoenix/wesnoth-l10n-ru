@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-05 16:25+0100\n"
+"POT-Creation-Date: 2012-01-03 10:40+0100\n"
 "PO-Revision-Date: 2012-01-14 20:16+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -56,36 +56,36 @@ msgstr "деревни"
 msgid "Quit Editor"
 msgstr "Выйти из редактора"
 
-#: src/editor/editor_controller.cpp:1126
+#: src/editor/editor_controller.cpp:1128
 msgid "Undo"
 msgstr "Отменить"
 
-#: src/editor/editor_controller.cpp:1128
+#: src/editor/editor_controller.cpp:1130
 msgid "Can’t Undo"
 msgstr "Отменить (нечего)"
 
-#: src/editor/editor_controller.cpp:1132
+#: src/editor/editor_controller.cpp:1134
 msgid "Redo"
 msgstr "Повторить"
 
-#: src/editor/editor_controller.cpp:1134
+#: src/editor/editor_controller.cpp:1136
 msgid "Can’t Redo"
 msgstr "Повторить (нечего)"
 
-#: src/editor/editor_controller.cpp:1139
+#: src/editor/editor_controller.cpp:1141
 msgid "Auto-update Terrain Transitions: Yes"
 msgstr "Автообновление тайловых переходов: Вкл."
 
-#: src/editor/editor_controller.cpp:1142
+#: src/editor/editor_controller.cpp:1144
 msgid "Auto-update Terrain Transitions: Partial"
 msgstr "Автообновление тайловых переходов: Частично"
 
-#: src/editor/editor_controller.cpp:1146
+#: src/editor/editor_controller.cpp:1148
 msgid "Auto-update Terrain Transitions: No"
 msgstr "Автообновление тайловых переходов: Выкл."
 
 #: src/editor/editor_controller.cpp:311
-#: src/editor/editor_controller.cpp:1096
+#: src/editor/editor_controller.cpp:1098
 msgid "(New Map)"
 msgstr "(Новая карта)"
 #endregion
@@ -201,11 +201,11 @@ msgid "special"
 msgstr "Особое"
 #endregion
 
-#: src/editor/editor_palettes.cpp:497
+#: src/editor/editor_palettes.cpp:503
 msgid "(non-core)"
 msgstr " "
 
-#: src/editor/editor_palettes.cpp:498
+#: src/editor/editor_palettes.cpp:504
 msgid "Will not work in game without extra care."
 msgstr "Не базовый: без дополнительных действий в игре не заработает."
 
@@ -383,11 +383,11 @@ msgstr "Не удалось создать карту."
 msgid "Player"
 msgstr "Игрок"
 
-#: src/editor/editor_palettes.cpp:526
+#: src/editor/editor_palettes.cpp:532
 msgid "FG: "
 msgstr "ПП:"
 
-#: src/editor/editor_palettes.cpp:527
+#: src/editor/editor_palettes.cpp:533
 msgid "BG: "
 msgstr "ФОН:"
 

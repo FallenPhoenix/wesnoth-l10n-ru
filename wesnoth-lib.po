@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-lib.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-19 15:14+0100\n"
+"POT-Creation-Date: 2012-01-03 10:40+0100\n"
 "PO-Revision-Date: 2012-01-14 20:16+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -1863,9 +1863,7 @@ msgid "Desert Plants without Bones"
 msgstr "Пустынные растения без костей"
 
 #. [terrain_type]: id=windmill
-#. [terrain_type]: id=windmill_village
 #: data/core/terrain.cfg:400
-#: data/core/terrain.cfg:1279
 msgid "Windmill"
 msgstr "Ветряная мельница"
 
@@ -2304,6 +2302,7 @@ msgstr "пусто"
 #. [terrain_type]: id=snow_village
 #. [terrain_type]: id=human_village_ruin
 #. [terrain_type]: id=city_village
+#. [terrain_type]: id=windmill_village
 #. [terrain_type]: id=city_village_wno
 #. [terrain_type]: id=hill_village
 #. [terrain_type]: id=snow-hill_village
@@ -2332,6 +2331,7 @@ msgstr "пусто"
 #: data/core/terrain.cfg:1240
 #: data/core/terrain.cfg:1253
 #: data/core/terrain.cfg:1266
+#: data/core/terrain.cfg:1279
 #: data/core/terrain.cfg:1292
 #: data/core/terrain.cfg:1305
 #: data/core/terrain.cfg:1318
