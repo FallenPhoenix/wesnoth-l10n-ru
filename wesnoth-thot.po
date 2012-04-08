@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: ru-thot\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-11-16 12:43+0100\n"
-"PO-Revision-Date: 2011-07-09 03:48+0300\n"
-"Last-Translator: Ushkin N\n"
-"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2012-04-07 02:50+0400\n"
+"Last-Translator: Fedor Khod'kov <fkhodkov@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Emacs 23.2.1, po-mode 2.2+0.4\n"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:10
@@ -286,7 +286,7 @@ msgid ""
 msgstr ""
 "После победы над орками Айглондур предстал перед Хамелем, повелителем Кналга "
 "и Лордом-Компаньоном Северного Альянса. За помостом стоял незнакомец в "
-"одежде Ордена Хранителей Знания."
+"одежде Ордена Хранителей Знания..."
 
 #. [unit]: type=Dwarvish Witness, id=Angarthing_dummy
 #. [unit]: type=Dwarvish Witness, id=Angarthing
@@ -705,7 +705,7 @@ msgstr "Эта мост троллей. Вы платить пошлина. Э..
 #. [message]: speaker=Gronk
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:153
 msgid "Dat not right. Dis a toll bridge. You pay troll. Er..."
-msgstr "Эта не так. Это платный мост. Платите тролля. Э.."
+msgstr "Не то. Это платная мост. Вы платить троллям. Э..."
 
 #. [message]: speaker=Gronk
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_Troll_Bridge.cfg:157
@@ -977,7 +977,7 @@ msgstr "Начался снег! Быстрее! Застрять здесь —
 msgid ""
 "We’re snowed in. Our mission has failed, even if we live until the spring."
 msgstr ""
-"Нас засыпало снегом. Даже если доживём до весны — Наше задание провалено.b"
+"Нас засыпало снегом. Даже если доживём до весны — Наше задание провалено."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_High_Pass.cfg:344
@@ -1000,7 +1000,7 @@ msgstr ""
 msgid ""
 "Aye. But I’ve a grim feeling we might be going to discover that in person."
 msgstr ""
-"Ага, но у меня есть зловещее предчувствие, что мы скоро узнаем, кто это был."
+"Ага. Но у меня есть зловещее предчувствие, что мы скоро узнаем, кто это был."
 
 #. [scenario]: id=07_Mages_and_Drakes
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Mages_and_Drakes.cfg:3
@@ -1907,7 +1907,7 @@ msgid ""
 "by that vile Karrag!"
 msgstr ""
 "Наконец-то! Я вижу, как кто-то может видеть сквозь пелену обмана, которую "
-"повесил этот подлец Карраг."
+"повесил этот подлец Карраг!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:241
@@ -2071,7 +2071,7 @@ msgstr "Ключ произнесён, двери должны открытьс�
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:600
 msgid "There we go... faugh, what is that smell!"
-msgstr "Идём туда. Фуу, ну и воняет тут!"
+msgstr "Идём туда... фуу, ну и воняет тут!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:637
@@ -2106,7 +2106,7 @@ msgstr "(<i>Читает</i>) <i>Канниг а'кана ду'маси а'фо�
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:713
 msgid "Now try the door again. It should open."
-msgstr "Попробуйте теперь, дверь должна быть открыта."
+msgstr "Попробуйте ещё. Дверь должна открыться."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:733
@@ -2547,17 +2547,12 @@ msgstr ""
 "между разными гномьими кланами."
 
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:4
-#, fuzzy
-#| msgid ""
-#| "The presence of this unit inspires own units next to it to deal more "
-#| "damage in combat, though this only applies to units of lower or equal "
-#| "level."
 msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower or equal level."
 msgstr ""
 " Присутствие этого бойца вдохновляет соседних. Они наносят больше урона в "
-"бою, правда, это относится только к бойцам такого же или низших уровней."
+"бою; правда, это касается лишь бойцов того же или низших уровней."
 
 #. [leadership]: id=inspire_0
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:13
@@ -2660,123 +2655,3 @@ msgid ""
 "Aaarrgh! Though I die, the flame of righteousness shall send you down to "
 "darkness!"
 msgstr "Арргх! Хотя я умру, пламя справедливости отправит вас в вечную тьму!"
-
-#~ msgid "Dwarvish Runemaster"
-#~ msgstr "Мастер Рун"
-
-#~ msgid ""
-#~ "Except for those with almost supernatural skill, the highest rank a "
-#~ "runecrafter can rise to is that of the Dwarvish Runemaster. Striking "
-#~ "blows nearly as powerful as those of the best warriors, they would be "
-#~ "fearsome without their craft, but with it they are also nigh on "
-#~ "invincible, since their runes cause the physical blows of their enemies "
-#~ "to deal less damage than would be expected."
-#~ msgstr ""
-#~ "Звание мастера рун — высшее звание, до которого может дослужиться кузнец, "
-#~ "если он не обладает совсем уж сверхъестественными способностями. Их удары "
-#~ "почти так же сильны, как и у самых лучших воинов, так что они были бы "
-#~ "очень опасны и без брони. В ней же они практически неуязвимы, ведь руны "
-#~ "уменьшают вред, наносимый ударами противника."
-
-#~ msgid "hammer"
-#~ msgstr "молот"
-
-#~ msgid "chill tempest"
-#~ msgstr "волна холода"
-
-#~ msgid "Time runs out"
-#~ msgstr "Закончились ходы"
-
-#~ msgid "chainmace"
-#~ msgstr "булава на цепи"
-
-#~ msgid "dagger"
-#~ msgstr "кинжал"
-
-#~ msgid "dragonstaff"
-#~ msgstr "драконий посох"
-
-#~ msgid "axe"
-#~ msgstr "топор"
-
-#~ msgid "battle axe"
-#~ msgstr "боевой топор"
-
-#~ msgid "hatchet"
-#~ msgstr "томагавк"
-
-#~ msgid "thunderstick"
-#~ msgstr "громовая трость"
-
-#~ msgid ""
-#~ "It is not clear why the Dragonguards are called what they are, a name "
-#~ "given by their dwarven brethren. Some speculate that the name comes from "
-#~ "their weapon of choice, these strange staves that belch fire and death. "
-#~ "Others have surmised that it is because such weapons would be a threat "
-#~ "against even a true Dragon, should such a thing be seen again in the "
-#~ "known world. Whatever the case, it is for these weapons that the "
-#~ "guardians of the great Dwarven citadels are both renowned and feared; "
-#~ "weapons that have broken the mightiest of warriors in a single blow."
-#~ msgstr ""
-#~ "Неизвестно, почему этих гномов назвали драконими стражами — такое "
-#~ "название было дано их собратьями. Подумав, можно предположить, такое имя "
-#~ "ему дали из-за выбранного ими оружия — странного предмета, извергающего "
-#~ "огонь и смерть. Также есть подозрение, что его оружие будет настоящей "
-#~ "угрозой и для настоящего Дракона. Как бы то ни было, именно с этим "
-#~ "оружием они охраняют великие цитадели гномов; это оружие повергло многих "
-#~ "великих воинов с одного выстрела."
-
-#~ msgid ""
-#~ "When the men of Wesnoth first encountered the dwarves, they were "
-#~ "mystified by the power of the Dwarvish Thunderers, who were able to hurl "
-#~ "death from afar through the apparatus of these strange wands they carried "
-#~ "into battle. The deafening noise of these 'thundersticks' is terrifying "
-#~ "to behold, and is made moreso by the secrecy which dwarves hold about "
-#~ "their workings."
-#~ msgstr ""
-#~ "Когда люди Веснота встретили гномов, то те произвели страшное впечатление "
-#~ "мощью своих Громовержцев (Dwarvish Thunderer), способных убивать издали с "
-#~ "помощью странных палок, носимых ими в бою. Оглушающий шум этих  "
-#~ "\"громовых тростей\" вызывает ужас, а принцип их работы окружён тайной."
-
-#~ msgid ""
-#~ "The Dwarven Thunderguards are famed for their curious weaponry, these "
-#~ "strange staves of wood and iron that make a thunderous noise in their "
-#~ "anger. The machinations behind this weaponry are a mystery, a secret "
-#~ "taken to the grave by the dwarves of Knalga who wield them, and are "
-#~ "assumed to have even forged them. The most that is known are reports of "
-#~ "dwarves pouring a strange black dust into the mouth of their weapons, "
-#~ "which some say is a food to fuel the beast imprisoned within.\n"
-#~ "\n"
-#~ "Though a single shot from these 'thundersticks' can take several minutes "
-#~ "to prepare, the results are seen by the Dwarves as being well worth the "
-#~ "wait."
-#~ msgstr ""
-#~ "Гномы стражи грома знамениты своим таинственным оружием, странным образом "
-#~ "выполненным из железа и дерева и делающим громоподобный звук при "
-#~ "использовании. Механизм действия этого оружия неизвестен, держится "
-#~ "гномами из Кналга в строжайшей тайне и, предположительно, воссоздается "
-#~ "при выковке оружия. Все, что известно, это то, что гномы засыпают "
-#~ "странный черный порошок в жерло своего оружия. Кто-то утверждает, что это "
-#~ "еда для животного, заключенного внутри оружия.\n"
-#~ "\n"
-#~ "Хотя подготовка одного выстрела из этих \"громовых тростей\" занимает "
-#~ "несколько минут, результаты такого выстрела, по мнению гномов, стоят "
-#~ "того, чтобы подождать."
-
-#~ msgid ""
-#~ "SPECIAL_NOTES^ This unit can exert leadership on units of his own level."
-#~ msgstr ""
-#~ "ОСОБЫЕ_ЗАМЕЧАНИЯ^ Этот отряд может давать лидерские способности отрядам "
-#~ "своего уровня."
-
-#~ msgid ""
-#~ "Dwarvish Fighters wield mighty battle axes and hammers, which make them "
-#~ "feared opponents in close range combat. They are excellent in mountainous "
-#~ "terrain or underground. Though not swift, their power and endurance more "
-#~ "than compensate."
-#~ msgstr ""
-#~ "Гномы бойцы хорошо владеют боевыми топорами и молотами, что делает их "
-#~ "грозными противниками в рукопашной битве. Они великолепны в гористой "
-#~ "местности и под землей. Они не очень ловки, но их сила и выносливость с "
-#~ "лихвой это компенсирует."
