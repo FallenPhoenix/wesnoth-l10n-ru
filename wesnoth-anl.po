@@ -33,10 +33,15 @@ msgstr "4и - Новая земля"
 msgid "This 4p survival scenario allows you to construct buildings and terraform the land. Use map settings. The recommended starting gold is 100."
 msgstr "Сценарий на выживание для 4 игроков позволяет строить здания и видоизменять местность. Рекомендуемое стартовое золото - 100."
 
+
+# Заставка
 #. [part]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:24
 msgid "In the aftermath of the great war the remnants of humanity fled to an obscure secluded glen. Though they knew they could not hide from the mighty armies that had crushed their homeland, the leaders of the resistance hoped only for enough time to rebuild their forces."
 msgstr "После долгой войны немногие оставшиеся в живых потомки рода человеческого нашли убежище в укромной горной долине. Лидеры сопротивления знали, что им не скрыться от могущественных армий, сокрушишвших их страну. Но они надеялись, что им все же хватит времени восстановить силы."
+
+
+#1 ********** Данные сценария **********
 
 #. [objectives]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:32
@@ -65,6 +70,55 @@ msgstr "Команда 1"
 msgid "teamname^Team 2"
 msgstr "Команда 2"
 
+
+#1 ********** События и квесты **********
+
+#region Паучьи гнезда
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:585
+msgid "One of your peasants has happened upon some spiders’ nests in the north and south."
+msgstr "Один из ваших крестьян обнаружил паучьи гнезда на севере и юге."
+
+#. [message]: type=Peasant
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:591
+msgid "I swear I saw somebody trapped in the spider’s web. Maybe we should rescue him?"
+msgstr "Могу поклясться, я видел, как кто-то запутался в паутине. Мы, наверное, должны его спасти?"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:613
+msgid "Move any unit next to these captives and they will join your side. The spiders guarding each captive are currently wounded, the sooner you get there the better chance you have of killing them."
+msgstr "Подведите любого бойца к пленникам и они перейдут на вашу сторону. Охраняющие их пауки ранены, поэтому чем раньше вы туда доберетеся, тем больше у вас шансов их убить."
+
+#region Освобождение существ
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:197
+msgid "Let’s cut you free!"
+msgstr "Давайте освободим вас!"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:201
+msgid "You release the creature from the web and it agrees to help you."
+msgstr "Вы освободили существо из паутины, и оно согласилось вам помогать."
+#endregion
+#endregion
+
+#region Грибные рудники
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:625
+msgid "Your men report strange sounds coming from some caves to the east and west."
+msgstr "Ваши люди сообщают о странных звуках, идущих из некоторых пещер на западе и востоке."
+
+#. [message]
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:631
+msgid "It would seem the enemy has built some underground mushroom mines nearby — it must be where the mainstay of their resources are produced. If we could destroy them our chances wouldn’t nearly be so slim."
+msgstr "Похоже, что врагу удалось выстроить неподалеку подземные грибные рудники. Должно быть именно там и добывается большинство их ресурсов. Если бы мы смогли их уничтожить, наши шансы не были бы такими ничтожными."
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:653
+msgid "Move any unit onto these villages to destroy the mine. Each one you destroy will reduce the enemy’s income by 10."
+msgstr "Поместите любого бойца в деревню, чтобы уничтожить рудник. Каждый уничтоженный рудник уменьшит доход врага на 10 золотых."
+
+#region Уничтожение рудников
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:407
 msgid "You destroy the mushroom mine. The northwest undead now have 10 less income."
@@ -84,42 +138,47 @@ msgstr "Вы·уничтожили·грибной·рудник.·Доход·�
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:476
 msgid "You destroy the mushroom mine. The southeast undead now have 10 less income."
 msgstr "Вы·уничтожили·грибной·рудник.·Доход·мертвецов·на·юго-востоке·сократился·на·10·золотых."
+#endregion
+#endregion
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:585
-msgid "One of your peasants has happened upon some spiders’ nests in the north and south."
-msgstr "Один из ваших крестьян обнаружил паучьи гнезда на севере и юге."
+#: data/multiplayer/scenarios/ANL_utils/ANL_general_macros.cfg:34
+msgid "The chest contains $oc_treasure gold."
+msgstr "В сундуке золото — $oc_treasure"
 
-#. [message]: type=Peasant
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:591
-msgid "I swear I saw somebody trapped in the spider’s web. Maybe we should rescue him?"
-msgstr "Могу поклясться, я видел, как кто-то запутался в паутине. Мы, наверное, должны его спасти?"
+#region Смерть лидеров
+# 1й игрок
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:698
+msgid "I have fallen, but all is not lost!"
+msgstr "Я побежден, но еще не все потеряно!"
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:613
-msgid "Move any unit next to these captives and they will join your side. The spiders guarding each captive are currently wounded, the sooner you get there the better chance you have of killing them."
-msgstr "Подведите любого бойца к пленникам и они перейдут на вашу сторону. Охраняющие их пауки ранены, поэтому чем раньше вы туда доберетеся, тем больше у вас шансов их убить."
+# 2й игрок
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:711
+msgid "I am done for, but we have yet to lose this battle!"
+msgstr "Я все сделал, но нам все еще необходимо не проиграть битву!"
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:625
-msgid "Your men report strange sounds coming from some caves to the east and west."
-msgstr "Ваши люди сообщают о странных звуках, идущих из некоторых пещер на западе и востоке."
+# 3й игрок
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:724
+msgid "Comrades, avenge me!"
+msgstr "Друзья, отомстите за меня!"
 
-#. [message]
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:631
-msgid "It would seem the enemy has built some underground mushroom mines nearby — it must be where the mainstay of their resources are produced. If we could destroy them our chances wouldn’t nearly be so slim."
-msgstr "Похоже, что врагу удалось выстроить неподалеку подземные грибные рудники. Должно быть именно там и добывается большинство их ресурсов. Если бы мы смогли их уничтожить, наши шансы не были бы такими ничтожными."
+# 4й игрок
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/4p_A_New_Land.cfg:737
+msgid "Do not fear, there is hope for us still!"
+msgstr "Не бойся! Нам еще есть, на что надеяться!"
+#endregion
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:653
-msgid "Move any unit onto these villages to destroy the mine. Each one you destroy will reduce the enemy’s income by 10."
-msgstr "Поместите любого бойца в деревню, чтобы уничтожить рудник. Каждый уничтоженный рудник уменьшит доход врага на 10 золотых."
-
+# Ход 23
 #. [message]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:666
 msgid "This battle is nearly at an end. Victory is close at hand!"
 msgstr "Битва близка к завершению. Победа почти у вас в руках!"
 
+# Ход 25
 #. [message]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:678
 msgid "We have survived the onslaught! The tide of the battle has turned, victory cannot elude us now!"
@@ -130,298 +189,190 @@ msgstr "Мы отразили атаку! Началась совсем друг
 msgid "You have won the game, but you may continue if you wish..."
 msgstr "Вы победили, но, если хотите, можете продолжить игру..."
 
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:698
-msgid "I have fallen, but all is not lost!"
-msgstr "Я побежден, но еще не все потеряно!"
+
+#1 ********** Хозяйство **********
+
+# Контестное меню крестьянина
+#. [set_menu_item]: id=anl_get_to_work
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:6
+msgid "Get to Work!"
+msgstr "За работу!"
 
 #. [message]: speaker=unit
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:711
-msgid "I am done for, but we have yet to lose this battle!"
-msgstr "Я все сделал, но нам все еще необходимо не проиграть битву!"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:724
-msgid "Comrades, avenge me!"
-msgstr "Друзья, отомстите за меня!"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/4p_A_New_Land.cfg:737
-msgid "Do not fear, there is hope for us still!"
-msgstr "Не бойся! Нам еще есть, на что надеяться!"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_general_macros.cfg:34
-msgid "The chest contains $oc_treasure gold."
-msgstr "В сундуке золото — $oc_treasure"
-
-#. [option]
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:5
-msgid "Return to menu"
-msgstr "Вернуться в меню"
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:16
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:125
-msgid "Peasants"
-msgstr "Крестьяне"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:19
-msgid "Peasants are your workers. Depending on the terrain, right-clicking on a peasant allows you to terraform the landscape and/or build castles, mines, farms, villages and universities."
-msgstr "Крестьяне — это ваши рабочие. Нажатие правой кнопки мыши на любом из них в зависимости от типа поверхности позволит вам видоизменять ландшафт и/или строить замки, рудники, фермы и университеты."
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:27
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:132
-msgid "Mages"
-msgstr "Маги"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:29
-msgid "Mages are your wise men. They can study at universities, pursuing advances in mining, farming and recruitment."
-msgstr "Mages are your wise men. They can study at universities, pursuing advances in mining, farming and recruitment."
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:37
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:139
-msgid "Farms"
-msgstr "Фермы"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:39
-msgid "Farms can only be planted on grassland. Move a peasant onto a farm and he will begin to automatically harvest the cash crop."
-msgstr "Фермы можно строить на лугах. Поместите крестьянина в ферму и он сам начнет собирать урожай."
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:47
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:146
-msgid "Villages"
-msgstr "Деревни"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:49
-msgid "Villages can only be built on grassland. They provide income and healing as usual. Right-click on a peasant in a village and you can establish a university."
-msgstr "Деревни можно строить на лугах. Деревни обеспечивают доход, а также позволяют лечить ваших бойцов. Кликнув правой кнопкой мыши по деревне, вы сможете основать в ней университет."
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:57
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:153
-msgid "Mines"
-msgstr "Рудники"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:59
-msgid "Mines can be built on hills or mountains. A peasant on a mine will automatically dig for gold at the start of your turn."
-msgstr "Рудники можно строить на холмах и горах. Крестьянин, помещенный в рудник, будет добывать золото в начале вашего хода."
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:67
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:160
-msgid "Universities"
-msgstr "Университеты"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:69
-msgid "Any of the ‘Elvish’ style villages represent universities. At the start of your turn, Mages in universities automatically add to the study progress of your chosen research target. Right-click on a mage in a university to change research target."
-msgstr "Любая эльфийская деревня является университетом. Если маг находится в университете, то в начале каждого хода прогресс изучаемой дисциплины увеличивается. Чтобы сменить изучаемую дисциплину, нажмите правой кнопкой мыши на мага, когда тот находится в университете."
-
-#. [message]: speaker=narrator
-#. [option]: speaker=narrator
-#. [set_menu_item]: id=anl_diplomacy
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:77
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:167
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:196
-msgid "Diplomacy"
-msgstr "Дипломатия"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:79
-msgid "Right-clicking on your leader when in a university allows you to select special diplomatic options."
-msgstr "Для того, чтобы выбрать специальные димпломатические опции, нажмите правой кнопкой на своего лидера, когда он находится в университете."
-
-#. [set_menu_item]: id=anl_help
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:87
-msgid "Help"
-msgstr "Помощь"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:111
-msgid "A New Land — Help"
-msgstr "Новая земля — Помощь"
-
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:112
-msgid "Select a topic."
-msgstr "Выберите тему."
-
-#. [option]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:115
-msgid "Done"
-msgstr "Готово"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:47
-msgid "I hereby donate 20 gold to the coffers of $df_player_name|."
-msgstr "Я передаю 20 золотых в казну игрока $df_player_name|."
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:100
-msgid "$sf_player_name|, since our wisdom exceeds yours I have instructed my scholars to further your understanding of agriculture."
-msgstr "$sf_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим ученым распоряжение помочь тебе в освоении сельского хозяйства."
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:138
-msgid "$sm_player_name|, since the wisdom of my people exceeds yours I have instructed my scholars to aid you in your efforts to learn the science of mining."
-msgstr "$sm_player_name|,·поскольку·мы·обладаем·знаниями,·которых·нет·у·тебя,·я·отдал·своим·ученым·распоряжение·помочь·тебе·в·освоении·горного дела."
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:183
-msgid "You know worryingly little about the arts of war, $sw_player_name|. I feel an obligation to instruct you in this vital matter."
-msgstr "$sw_player_name|, ты почти ничего знаешь об искусстве ведения боевых действий. Я считаю своим долгом помочь тебе в освоении этого жизненно важного ремесла."
-
-#. [set_variable]
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:250
-msgid ""
-"<span color='green'>$player_name</span>\n"
-"Share knowledge of agriculture"
-msgstr ""
-"<span color='green'>$player_name</span>\n"
-"Поделиться знаниями в области сельского хозяйства."
-
-#. [set_variable]
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:257
-msgid ""
-"<span color='green'>$player_name</span>\n"
-"Share knowledge of mining"
-msgstr ""
-"<span color='green'>$player_name</span>\n"
-"Поделиться знаниями в области горного дела."
-
-#. [set_variable]
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:264
-msgid ""
-"<span color='green'>$player_name</span>\n"
-"Share knowledge of warfare"
-msgstr ""
-"<span color='green'>$player_name</span>\n"
-"Поделиться знаниями в области ведения военных действий."
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:293
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:330
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:374
-msgid "Diplomatic Options"
-msgstr "Опции дипломатии"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:296
-msgid "What shall I do?"
-msgstr "Что мне делать?"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:50
+msgid "What shall I do my liege?"
+msgstr "Что мне сделать, повелитель?"
 
 #. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:302
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:54
-msgid "Nothing"
-msgstr "Ничего"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:86
+msgid "Plant Farm"
+msgstr "Разместить ферму"
 
 #. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:315
-msgid ""
-"<span color='green'>Donate Funds</span>\n"
-"Give 20 gold to another player"
-msgstr ""
-"<span color='green'>Пожертвовать ресурсы</span>\n"
-"Передать 20 золотых другому игроку"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:333
-msgid "Who will you donate funds to?"
-msgstr "Кому будете жертвовать ресурсы?"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
+msgid "Build Village"
+msgstr "Построить деревню"
 
 #. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:336
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:380
-msgid "Back"
-msgstr "Назад"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:247
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:272
+msgid "Build Mine"
+msgstr "Построить рудник"
 
 #. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:359
-msgid ""
-"<span color='green'>Share Knowledge</span>\n"
-"Help an ally with their research"
-msgstr ""
-"<span color='green'>Поделиться знаниями</span>\n"
-"Помочь союзнику в его исследованиях"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:377
-msgid "Who will you share knowledge with?"
-msgstr "С кем будете делиться знаниями?"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:522
+msgid "Establish University"
+msgstr "Основать университет"
 
 #. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:417
-msgid ""
-"<span color='green'>Negotiate with the Dwarves</span>\n"
-"Lets you recruit a Dwarvish unit\n"
-"Negotiation Progress: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
-msgstr ""
-"<span color='green'>Проведите переговоры с Гномами</span>\n"
-"Это позволит вам вербовать гномов-бойцов\n"
-"Прогресс:·$player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:122
+msgid "Build Castle"
+msgstr "Построить замок"
 
 #. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:472
-msgid ""
-"<span color='green'>Negotiate with the Elves</span>\n"
-"Lets you recruit an Elvish unit\n"
-"Negotiation Progress: $player_$side_number|.leader_option_2.progress|/$player_$side_number|.leader_option_2.target"
-msgstr ""
-"<span color='green'>Проведите·переговоры·с·Эльфами</span>\n"
-"Это·позволит·вам·вербовать·эльфов-бойцов\n"
-"Прогресс: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:498
+msgid "Build a Keep"
+msgstr "Построить башню"
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:538
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:570
-msgid "Negotiation Complete"
-msgstr "Переговоры завершены"
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
+msgid "Harvest Mushrooms"
+msgstr "Собрать урожай грибов"
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:541
-msgid "Our talks are complete — the Dwarves will gladly fight by your side. Which of our brethren do you want to recruit?"
-msgstr "Наши переговоры завершены — Гномы почтут за честь биться на вашей стороне. Кого из наших собратьев вы хотите завербовать?"
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:69
+msgid "Convert to Grassland"
+msgstr "Переделать в луг"
 
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:573
-msgid "Our talks are complete — the Elves shall aid you in this battle. Which our of kin do you wish to recruit?"
-msgstr "Наши переговоры завершены — Эльфы почтут за честь биться на вашей стороне. Кого из нас вы хотите завербовать?"
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:143
+msgid "Flood the Field"
+msgstr "Затопить поле"
 
-#. [set_menu_item]: id=anl_choose_new_recruit
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:34
-msgid "Choose New Recruit"
-msgstr "Выберите новобранца"
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
+msgid "Plant Saplings"
+msgstr "Засеять рощу"
 
-#. [message]: speaker=unit
-#. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:62
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:245
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:277
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:304
-msgid "Study Complete"
-msgstr "Обучение завершено"
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
+msgid "Chop Down Forest"
+msgstr "Вырубить лес"
 
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:64
-msgid "Which type of unit would you like to be able to recruit?"
-msgstr "Каких бойцов вы бы хотели иметь возможность вербовать?"
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:297
+msgid "Make a Ford"
+msgstr "Сделать брод"
 
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:352
+msgid "Destroy the Ford"
+msgstr "Уничтожить брод"
+
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:323
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:375
+msgid "Landfill"
+msgstr "Свалка"
+
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:404
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:427
+msgid "Smash Cave Floor"
+msgstr "Обрушить пещеру"
+
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
+msgid "Clear the Ground"
+msgstr "Clear the Ground"
+
+#region Цены
+# луг, ферма, уничтожение брода, очистка земли
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:69
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:86
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:352
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
+msgid "Cost: 0g"
+msgstr "Стоимость: 0 золотых"
+
+# роща, свалка
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:375
+msgid "Cost: 1g"
+msgstr "Стоимость: 1 золотой"
+
+# обрушить пещеру (равнина)
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:404
+msgid "Cost: 2g"
+msgstr "Стоимость: 2 золотых"
+
+# обрушить пещеру (холмы), брод
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:297
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:427
+msgid "Cost: 3g"
+msgstr "Стоимость: 3 золотых"
+
+# затопление
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:143
+msgid "Cost: 4g"
+msgstr "Стоимость: 4 золотых"
+
+# свалка
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:323
+msgid "Cost: 5g"
+msgstr "Стоимость: 5 золотых"
+
+# замок, башня
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:122
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:498
+msgid "Cost: 6g"
+msgstr "Стоимость: 6 золотых"
+
+# университет
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:522
+msgid "Cost: 7g"
+msgstr "Стоимость: 7 золотых"
+
+# деревня
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
+msgid "Cost: 15g"
+msgstr "Стоимость: 15 золотых"
+
+# рудник
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:247
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:272
+msgid "Cost: 25g"
+msgstr "Стоимость: 25 золотых"
+
+# вырубка леса
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
+msgid "Earns: 1g"
+msgstr "Доход: 1 золотой"
+
+# урожай грибов
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
+msgid "Earns: 3g"
+msgstr "Доход: 3 золотых"
+#endregion
+
+
+#1 ********** Исследования **********
+
+#2 ***** Выбор исследования *****
+
+# Контестное меню мага
 #. [set_menu_item]: id=anl_oversee_research
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:89
 msgid "Oversee Research"
@@ -443,11 +394,29 @@ msgstr ""
 "Our·farms·produce·$player_$side_number|.farming.gold|g\n"
 "Our·mines·produce·$player_$side_number|.mining.gold|g\n"
 
+#. [command]
+#. [research]
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:169
+#: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:102
+msgid "agriculture"
+msgstr "сельское хозяйство"
+
+#. [command]
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:180
+msgid "mining"
+msgstr "горное дело"
+
+#. [command]
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:198
+msgid "warfare"
+msgstr "военное дело"
+
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:148
 msgid "Continue as before"
 msgstr "Продолжайте в том же духе"
 
+# сельское хозяйство
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:167
 msgid ""
@@ -459,13 +428,7 @@ msgstr ""
 "Фермеры приносят один золотой\n"
 "Прогресс обучения:·$player_$side_number|.farming.progress|/$player_$side_number|.farming.target"
 
-#. [command]
-#. [research]
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:169
-#: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:102
-msgid "agriculture"
-msgstr "сельское хозяйство"
-
+# горное дело
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:178
 msgid ""
@@ -477,11 +440,7 @@ msgstr ""
 "Горняки·приносят·один золотой\n"
 "Прогресс обучения:·$player_$side_number|.mining.progress|/$player_$side_number|.mining.target"
 
-#. [command]
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:180
-msgid "mining"
-msgstr "горное дело"
-
+# военное дело
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:189
 msgid ""
@@ -493,880 +452,331 @@ msgstr ""
 "Позволяет вам вербовать бойцов нового типа\n"
 "Прогресс обучения:·$player_$side_number|.warfare.progress|/$player_$side_number|.warfare.target"
 
-#. [command]
-#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:198
-msgid "warfare"
-msgstr "военное дело"
+#2 ***** Исследование завершено *****
 
+# Заголовок сообщения
+#. [message]: speaker=unit
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:62
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:245
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:277
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:304
+msgid "Study Complete"
+msgstr "Обучение завершено"
+
+# сельское хозяйство
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:247
 msgid "$player_$side_number|.name|’s farms now produce $player_$side_number|.farming.gold gold."
 msgstr "Теперь фермы игрока $player_$side_number|.name|производят·золота — $player_$side_number|.farming.gold."
 
+# горное дело
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:279
 msgid "$player_$side_number|.name|’s mines now produce $player_$side_number|.mining.gold gold."
 msgstr "Теперь рудники игрока $player_$side_number|.name|·производят золота·- $player_$side_number|.mining.gold."
 
+# военное дело
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:306
 msgid "$player_$side_number|.name|, we have finished researching warfare. Right-click on a mage in a university to select a unit to recruit."
 msgstr "$player_$side_number|.name|, мы закончили исследования в области военного дела. Чтобы выбрать бойца для вербовки, нажмите правой кнопкой мыши на мага, находящегося в университете."
 
+#2 ***** Выбор новобранца *****
+
+# Контестное меню мага
+#. [set_menu_item]: id=anl_choose_new_recruit
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:34
+msgid "Choose New Recruit"
+msgstr "Выберите новобранца"
+
 #. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:197
-msgid "Let’s cut you free!"
-msgstr "Давайте освободим вас!"
+#: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:64
+msgid "Which type of unit would you like to be able to recruit?"
+msgstr "Каких бойцов вы бы хотели иметь возможность вербовать?"
+
+
+#1 ********** Дипломатия **********
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:293
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:330
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:374
+msgid "Diplomatic Options"
+msgstr "Опции дипломатии"
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:296
+msgid "What shall I do?"
+msgstr "Что мне делать?"
+
+# Также используется в меню крестьянина
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:302
+#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:54
+msgid "Nothing"
+msgstr "Ничего"
+
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:336
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:380
+msgid "Back"
+msgstr "Назад"
+
+#region Пожертвовать ресурсы
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:315
+msgid ""
+"<span color='green'>Donate Funds</span>\n"
+"Give 20 gold to another player"
+msgstr ""
+"<span color='green'>Пожертвовать ресурсы</span>\n"
+"Передать 20 золотых другому игроку"
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:333
+msgid "Who will you donate funds to?"
+msgstr "Кому будете жертвовать ресурсы?"
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:47
+msgid "I hereby donate 20 gold to the coffers of $df_player_name|."
+msgstr "Я передаю 20 золотых в казну игрока $df_player_name|."
+#endregion
+
+#region Поделиться знаниями
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:359
+msgid ""
+"<span color='green'>Share Knowledge</span>\n"
+"Help an ally with their research"
+msgstr ""
+"<span color='green'>Поделиться знаниями</span>\n"
+"Помочь союзнику в его исследованиях"
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:377
+msgid "Who will you share knowledge with?"
+msgstr "С кем будете делиться знаниями?"
+
+#region Сельское хозяйство
+#. [set_variable]
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:250
+msgid ""
+"<span color='green'>$player_name</span>\n"
+"Share knowledge of agriculture"
+msgstr ""
+"<span color='green'>$player_name</span>\n"
+"Поделиться знаниями в области сельского хозяйства."
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:100
+msgid "$sf_player_name|, since our wisdom exceeds yours I have instructed my scholars to further your understanding of agriculture."
+msgstr "$sf_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим ученым распоряжение помочь тебе в освоении сельского хозяйства."
+#endregion
+
+#region Горное дело
+#. [set_variable]
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:257
+msgid ""
+"<span color='green'>$player_name</span>\n"
+"Share knowledge of mining"
+msgstr ""
+"<span color='green'>$player_name</span>\n"
+"Поделиться знаниями в области горного дела."
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:138
+msgid "$sm_player_name|, since the wisdom of my people exceeds yours I have instructed my scholars to aid you in your efforts to learn the science of mining."
+msgstr "$sm_player_name|,·поскольку·мы·обладаем·знаниями,·которых·нет·у·тебя,·я·отдал·своим·ученым·распоряжение·помочь·тебе·в·освоении·горного дела."
+#endregion
+
+#region Военное дело
+#. [set_variable]
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:264
+msgid ""
+"<span color='green'>$player_name</span>\n"
+"Share knowledge of warfare"
+msgstr ""
+"<span color='green'>$player_name</span>\n"
+"Поделиться знаниями в области ведения военных действий."
+
+#. [message]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:183
+msgid "You know worryingly little about the arts of war, $sw_player_name|. I feel an obligation to instruct you in this vital matter."
+msgstr "$sw_player_name|, ты почти ничего знаешь об искусстве ведения боевых действий. Я считаю своим долгом помочь тебе в освоении этого жизненно важного ремесла."
+#endregion
+#endregion
+
+#region Переговоры с гномами
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:417
+msgid ""
+"<span color='green'>Negotiate with the Dwarves</span>\n"
+"Lets you recruit a Dwarvish unit\n"
+"Negotiation Progress: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+msgstr ""
+"<span color='green'>Проведите переговоры с Гномами</span>\n"
+"Это позволит вам вербовать гномов-бойцов\n"
+"Прогресс:·$player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+#endregion
+
+#region Переговоры с эльфами
+#. [option]: speaker=unit
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:472
+msgid ""
+"<span color='green'>Negotiate with the Elves</span>\n"
+"Lets you recruit an Elvish unit\n"
+"Negotiation Progress: $player_$side_number|.leader_option_2.progress|/$player_$side_number|.leader_option_2.target"
+msgstr ""
+"<span color='green'>Проведите·переговоры·с·Эльфами</span>\n"
+"Это·позволит·вам·вербовать·эльфов-бойцов\n"
+"Прогресс: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+#endregion
+
+#region Переговоры завершены
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:538
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:570
+msgid "Negotiation Complete"
+msgstr "Переговоры завершены"
 
 #. [message]: speaker=narrator
-#: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:201
-msgid "You release the creature from the web and it agrees to help you."
-msgstr "Вы освободили существо из паутины, и оно согласилось вам помогать."
-
-#. [set_menu_item]: id=anl_get_to_work
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:6
-msgid "Get to Work!"
-msgstr "За работу!"
-
-#. [message]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:50
-msgid "What shall I do my liege?"
-msgstr "Что мне сделать, повелитель?"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:69
-msgid "Convert to Grassland"
-msgstr "Переделать в луг"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:69
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:86
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:352
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
-msgid "Cost: 0g"
-msgstr "Стоимость: 0 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:86
-msgid "Plant Farm"
-msgstr "Разместить ферму"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
-msgid "Build Village"
-msgstr "Построить деревню"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
-msgid "Cost: 15g"
-msgstr "Стоимость: 15 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:122
-msgid "Build Castle"
-msgstr "Построить замок"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:122
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:498
-msgid "Cost: 6g"
-msgstr "Стоимость: 6 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:143
-msgid "Cost: 4g"
-msgstr "Стоимость: 4 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:143
-msgid "Flood the Field"
-msgstr "Затопить поле"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:375
-msgid "Cost: 1g"
-msgstr "Стоимость: 1 золотой"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:166
-msgid "Plant Saplings"
-msgstr "Засеять рощу"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
-msgid "Chop Down Forest"
-msgstr "Вырубить лес"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:192
-msgid "Earns: 1g"
-msgstr "Доход: 1 золотой"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:247
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:272
-msgid "Build Mine"
-msgstr "Построить рудник"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:247
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:272
-msgid "Cost: 25g"
-msgstr "Стоимость: 25 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:297
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:427
-msgid "Cost: 3g"
-msgstr "Стоимость: 3 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:297
-msgid "Make a Ford"
-msgstr "Сделать брод"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:323
-msgid "Cost: 5g"
-msgstr "Стоимость: 5 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:323
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:375
-msgid "Landfill"
-msgstr "Свалка"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:352
-msgid "Destroy the Ford"
-msgstr "Уничтожить брод"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:404
-msgid "Cost: 2g"
-msgstr "Стоимость: 2 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:404
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:427
-msgid "Smash Cave Floor"
-msgstr "Обрушить пещеру"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
-msgid "Earns: 3g"
-msgstr "Доход: 3 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
-msgid "Harvest Mushrooms"
-msgstr "Собрать урожай грибов"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:498
-msgid "Build a Keep"
-msgstr "Построить башню"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:522
-msgid "Cost: 7g"
-msgstr "Стоимость: 7 золотых"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:522
-msgid "Establish University"
-msgstr "Основать университет"
-
-#. [option]: speaker=unit
-#: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
-msgid "Clear the Ground"
-msgstr "Clear the Ground"
-
-
-#1 ---------- Старые убранные строки ----------
-
-#~ msgid "User Map"
-#~ msgstr "Пользовательская карта"
-
-#~ msgid "Random"
-#~ msgstr "Случайная"
-
-#~ msgid "Default"
-#~ msgstr "По умолчанию"
-
-#~ msgid "Age of Heroes"
-#~ msgstr "Эпоха героев"
-
-#~ msgid "Great War"
-#~ msgstr "Великая война"
-
-#~ msgid "Alliance of Darkness"
-#~ msgstr "Альянс Тьмы"
-
-#~ msgid "Alliance of Light"
-#~ msgstr "Альянс Света"
-
-#~ msgid "Drakes"
-#~ msgstr "Дрейки"
-
-#~ msgid "Knalgan Alliance"
-#~ msgstr "Альянс Кналга"
-
-#~ msgid "Loyalists"
-#~ msgstr "Законопослушные"
-
-#~ msgid "Northerners"
-#~ msgstr "Северяне"
-
-#~ msgid "Rebels"
-#~ msgstr "Мятежники"
-
-#~ msgid "Undead"
-#~ msgstr "Мертвецы"
-
-#~ msgid "2p - Caves of the Basilisk"
-#~ msgstr "2и - Пещеры Василиска"
-
-#~ msgid "Players must maneuver their units through the divisive terrain of this long-feared region, once the home of a legendary Elder Basilisk. The caves and the stark wilderness surrounding them are filled with the petrified forms of some of Wesnoth's greatest heroes."
-#~ msgstr "Игроки должны передвигать свои отряды сквозь разрозненные земли этого пустынного региона, некогда дома Древнего Василиска. Путь к победе отмечен окаменевшими телами великих героев Веснота."
-
-#~ msgid "teamname^North"
-#~ msgstr "Север"
-
-#~ msgid "teamname^South"
-#~ msgstr "Юг"
-
-# оставлено как есть, это стихотворение
-#~ msgid ""
-#~ "The winds of the dark sky blew so cold,\n"
-#~ "The moon was high, the night was old,\n"
-#~ "Brave was the drake that dared forsake\n"
-#~ "His home to steal the Basilisk's gold.\n\n"
-#~ "On that dark night, the skies so churned,\n"
-#~ "He disregarded what he had learned,\n"
-#~ "Foolish but brave, to the Basilisk's cave,\n"
-#~ "He flew, and the fire within him burned.\n\n"
-#~ "Alas, that fire burns no more,\n"
-#~ "For the Basilisk, with one mighty roar,\n"
-#~ "Chilled him to the bone, and he turned to stone,\n"
-#~ "And so he stays forevermore.\n\n"
-#~ "The winds of the sky blow so cold,\n"
-#~ "The years pass by, the days are old,\n"
-#~ "Here stands that drake, who dared forsake\n"
-#~ "His home to steal the Basilisk's gold.\n"
-#~ "(inscribed by Flametrooper)"
-#~ msgstr ""
-#~ "The winds of the dark sky blew so cold,\n"
-#~ "The moon was high, the night was old,\n"
-#~ "Brave was the drake that dared forsake\n"
-#~ "His home to steal the Basilisk's gold.\n\n"
-#~ "On that dark night, the skies so churned,\n"
-#~ "He disregarded what he had learned,\n"
-#~ "Foolish but brave, to the Basilisk's cave,\n"
-#~ "He flew, and the fire within him burned.\n\n"
-#~ "Alas, that fire burns no more,\n"
-#~ "For the Basilisk, with one mighty roar,\n"
-#~ "Chilled him to the bone, and he turned to stone,\n"
-#~ "And so he stays forevermore.\n\n"
-#~ "The winds of the sky blow so cold,\n"
-#~ "The years pass by, the days are old,\n"
-#~ "Here stands that drake, who dared forsake\n"
-#~ "His home to steal the Basilisk's gold.\n"
-#~ "(написано Flametrooper)"
-
-#~ msgid "Xikkrisx"
-#~ msgstr "Ксиккрискс"
-
-#~ msgid "Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: ''The Hunts-Foes-In-Boiling-Rivers Clan''). The Elders were preparing to make war on a human outpost, and were in great need of the powerful magics of Oxsrrsk, a Saurian Mystic who had last been seen heading in the direction of Ruaskkolin Lake. Xikkrisx found the petrified body of Oxsrrsk, along with a carefully bound scroll that had apparently been dropped into a small crevice in the cave floor. He opened the scroll and read a brief passage from the middle of the text: ''After he was bound and cast from the Upper World, Chak'kso's enraged spirit sought release, and was able to exert a corrupting influence on certain regions of the Upper World, channeled through ''pathways of stone'' that extend from the surface into the depths of the Under Reaches. This rage altered the eggs of great lizards, shaping their bodies and spirits into implements of Chak'kso's hatred.'' Confused, Xikkrisx fixed his attention on the task at hand. Thinking that perhaps the Elders could find some way to restore Oxsrrsk, he began the long and strenuous task of hauling the statue back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having traveled far from the lake, Xikkrisx set the statue down inside of a small cave, and lay down to rest. He was awoken by a bone-chilling roar."
-#~ msgstr "Ксиккрискс из Сирсшка  был могучил саурианским воином, отправленным в этот регион старейшинами клана Рисссрилосскк (что означает \"Клан тех, кто охотится на врагов в кипящих реках\"). Старейшины готовились напасть на форпост людей, и крайне нуждались в могущественной магии Окссрсска, саурианского мистика, которого видели направляющимся к озеру Руаскколин. Ксиккрискс обнаружил окаменевшее тело Окссрсска, а рядом с ним — аккуратно свёрнутый свиток, который, по-видимому, упал в небольшую трещину в полу пещеры. Он развернул свиток, и прочёл короткий отрывок из середины: \"После того, как он был связан и изгнан из Верхнего Мира, разярённый дух Чак'ксо искал освобождения, и он смог распространить своё развращающее влияние на определённые регионы Верхнего Мира, используя для этого \"каменные проходы\", шедшие с поверхности в глубины Недоступного. Эта ярость измения яйца великих ящеров, и их форма и дух стали воплощением ненависты Чак'ксо\". Смущённый, Ксиккрискс сосредоточил внимание на стоявшей перед ним задаче. Полагая, что старейшины, возможно, смогут найти способ восстановить Окссрсска, он начал долгую и нудную работу по доставке его статуи во владения клана. Истощённый, и не далеко отойдя от озера, он поместил статую внутрь небольшой пещеры, и прилёг отдохнуть. Разбудил его рёв, от которого кровь стыла в жилах."
-
-#~ msgid "Oxsrrsk"
-#~ msgstr "Оксррск"
-
-#~ msgid ""
-#~ "Slim of Stature, dexterous Hands\n"
-#~ "- - Seven Stones and Eleven\n"
-#~ "Left his Foes so slim a Chance\n"
-#~ "- - Seven Stones and Eleven\n"
-#~ "Marksman known as Dragonbane\n"
-#~ "'mongst the Statues here was slain\n"
-#~ "- - Seven Stones - and the Elven\n"
-#~ "(inscribed by Gauteamus)"
-#~ msgstr ""
-#~ "Изящное тело, ловкие руки\n"
-#~ "— Семь камней и этот восьмой\n"
-#~ "Убив врагов своих грациозно\n"
-#~ "— Семь камней и этот восьмой\n"
-#~ "Стрелок, Победитель Дракона\n"
-#~ "Пал меж статуй тех\n"
-#~ "— Семь камней и этот эльф\n"
-#~ "(написано Гаутимусом)"
-
-#~ msgid "Blum Duk"
-#~ msgstr "Блум Дук"
-
-#~ msgid ""
-#~ "Blum Duk was renowned among his goblin clan for having tamed one of the Dire Wolves of the mountains, and he had the courage to match. His leadership and skills alone were what kept the area's goblins alive despite human and elvish menaces. Rumor had it that his wolf had slain fifty men and a hundred Elves.\n"
-#~ "Thus, when he heard of the awful monster that was inhabiting the area, it was only natural that he ride out alone to face it. All the other goblins expected him to slay the creature easily and drag back its carcass to feast on.\n"
-#~ "He was in for quite a shock. As soon as he saw the Basilisk, Blum Duk cowered in fright. He tried to wheel his wolf around to run away, but it wouldn't move. As the creature stalked towards him, he screamed his last words: Good Gog, dog, are yer legs made of stone?!?\n"
-#~ "(inscribed by Elvish Pillager)"
-#~ msgstr ""
-#~ "Блам Дак был знаменит в своем гоблинском клане благодаря прирученному в горах ужасному волку и невероятной храбрости. Его лидерство и навыки позволили гоблинам жить посреди людей и эльфов. Легенды гласят, что его волк перегрыз пятьдесят людей и сотню эльфов.\n"
-#~ "Однажды он услышал, что есть ужасное чудище, против которого не сможет устоять ни одно живое существо. Все гоблины просили убить чудище и приволочь его остов для праздника.\n"
-#~ "Он быстро достиг места. Но как только Блам Дак увидел василиска, его обуял страх. Он пытался развернуть своего волка и пуститься наутек, однако тот даже не пошевелился. Когда чудовище вплотную подошло к нему, последними словами, которые он прокричал, были: \"Славный Гог, песик, у тебя что, ноги сделаны из камня?!?\"\n"
-#~ "(написано Эльфийским Мародером)"
-
-#~ msgid "Rah Ihn Mar"
-#~ msgstr "Ра Ин Мар"
-
-#~ msgid ""
-#~ "He had lived there for ages upon ages, in the depths of the water, preying upon the various fish and frogs and merfolk that entered his domain. It was his lake, no other's, and though it was not large, he was its master. Then, the Basilisk came, and looked into the Serpent's eyes. And the Serpent had not died, but it was no longer alive. Thus the new lord of the lake had arrived.\n"
-#~ "(inscribed by Turin)"
-#~ msgstr ""
-#~ "Она жила на протяжении веков, в водной глуби, охотясь на рыб, и лягушек, и водяных, посмевших заплыть в её владения. Это было её озеро, ничьё более, оно было невелико, но она была его хозяином. А затем появился Василиск, взглянувший ей в глаза. И Змея не умерла, хотя и перестала жить. Так появился новый повелитель озера\n"
-#~ "(написано Турином)"
-
-#~ msgid ""
-#~ "A brave hero of Wesnoth's Golden Age, this great rider and commander of men came to this evil place while on a raid against the orcs. Caught unaware by the foul creatures, many of his fellows were killed, but he fought valiantly, slaying many a foe. But alas! The foul Basilisk turned him to stone even as he slew the last orc. Now all that is left is a stark reminder of his once great bearing and strength.\n"
-#~ "(inscribed by Fynmiir)"
-#~ msgstr ""
-#~ "Смелый герой Золотого века Веснота, великий наездник и командир прибыл в это злое место, преследуя орков. Попав в западню и потеряв своих товарищей, он продолжал доблестно биться, убив множество врагов. Но увы! Подлый василиск превратил его в камень, как только он убил последнего орка. Он и поныне стоит здесь, напоминая о свей силе и доблести.\n"
-#~ "(написано Файнмиром)"
-
-#~ msgid "Bramwythl"
-#~ msgstr "Брамвицл"
-
-#~ msgid ""
-#~ "Bramwythl the Wose was always considered a slow, taciturn fellow, even by other Woses. More than any other Wose, he enjoyed simply standing alone in the sun, arms upraised, admiring the beauty of the empty sky. Once, even, he confided in a fellow that his greatest wish was to be able to bask forever in the sun's glory.\n"
-#~ "However, not long after, the local wose community heard of the approach of a horrible monster, powerful enough to easily destroy the few woses that lived in the area. They quickly moved off (quickly for Woses, anyway), but Bramwythl was left behind - in their haste, no one had remembered to find him and tell him of the danger.\n"
-#~ "He was taken quite unawares by the Basilisk, and turned to stone before he even recognized the beast. His petrified form still stands there today, warmed by the sun's rays, under an open sky. His greatest wish has been granted.\n"
-#~ "(inscribed by Elvish Pillager)"
-#~ msgstr ""
-#~ "Леший Брамвитл всегда был медлительным и молчаливым, даже для лешего. Больше других леших он любил просто стоять одиноко под солнцем, вскинув к верху руки и наслаждаясь красотой пустынного неба. Один раз, правда, он поведал своему другу, что хотел бы вечно греться под лучами солнца.\n"
-#~ "Однако, чуть позднее, сообщество леших услышало о приближении ужасного монстра, достаточно могущественного, чтобы запросто уничтожить нескольких леших, живших на этой земле. Они быстро покинули эти земли (быстро для леших, конечно же), но Брамвитл остался позади — в спешке никто не вспомнил найти его и предупредить об опасности.\n"
-#~ "Он был застигнут врасплох василиском и превращен в камень, еще до того, как он понял, что за зверь стоит перед ним. Его обветренное тело до сих пор стоит здесь, обращенное к солнечным лучам под открытом небом. Его заветное желание было исполнено.\n"
-#~ "(написано Эльфийским Мародером)"
-
-#~ msgid "Talael Ryndoc"
-#~ msgstr "Талаель Риндок"
-
-#~ msgid "General Talael Ryndoc came to this place to fight a duel with the Grand Marshal Aethec Corryn, but the two men never found one another. "
-#~ msgstr "Генерал Талаель Риндок пришёл в это место, чтобы сразиться на дуэли с Великим Маршалом Этеком Коррином, но они так и не нашли один другого."
-
-#~ msgid "Aethec Corryn"
-#~ msgstr "Этек Коррин"
-
-#~ msgid ""
-#~ "The last words spoken by Grand Marshal Aethec Corryn: ''Talael Ryndoc! I am through searching for you! I shall make my way back to Haldric's Hall, and inform the court that you were too much of a coward to attend our duel! Your disgrace shall be more agonizing than the death I'd have given you!''\n\n"
-#~ "Perhaps he should not have shouted quite so loudly.... "
-#~ msgstr ""
-#~ "Последние слова, сказанные Великим Маршалом Этеком Коррином: \"Талаель Риндок! Я искал тебя повсюду! Сейчас я возвращаюсь в Зал Халдрика и объявлю при дворе, что ты был слишком труслив, чтобы придти на дуэль! Твой позор будет для тебя более мучительным, чем смерть, которую ты принял бы от моей руки!\"\n\n"
-#~ "Пожалуй, ему не стоило выкрикивать эти слова так громко..."
-
-#~ msgid "Rilhon"
-#~ msgstr "Рилхон"
-
-#~ msgid ""
-#~ "This brave warrior, known as Rilhon among the Naga, heard tell of a fabulous treasure that had been lost in these watery caves- a spear whose head was said to have been fashioned from the tooth of Chak'kso Ney'yks, an Elder Basilisk slain long ago by the Elvish hero, Eloralduil. According to the legend, the weapon rested somewhere on the bottom of this very lake (Ruaskkolin Lake, named for a well-known Sea Serpent who made it his home). Having prepared himself for battle with the Serpent, Rilhon met with two rather large surprises. The first was the petrified form of Ruaskkolin the Serpent. The second was the very-much-alive Chak'kso Ney'yks, who was, oddly enough, in possession of all of his teeth.\n"
-#~ "(inscribed by Paterson)"
-#~ msgstr ""
-#~ "Смелый воин, известный среди нагов как Рилхон, прослышал о легендарном сокровище, потерянном в этих водных пещерах, — копье, которое было клыком Чак'ксо Ней'икса, древнего василиска, убитого эльфийским героем Элоралдуэлем. Согласно легенде, оружие осталось где-то на дне этого озера (озеро Руаскколин, по имени известного морского чудища, когда-то поселившегося здесь). Хорошо подготовившись к схватке с чудищем, Рилхон встретился с двумя неожиданными сюрпризами. Первый — это окаменевший Руаскколин. Второй — очень даже живой Чак'со Ней'икс, у которого к тому же все клыки были на месте.\n"
-#~ "(написано Патерсоном)"
-
-#~ msgid ""
-#~ "Through waves and rocky channels\n"
-#~ "blue and white\n"
-#~ "she pulled and pushed the tides\n"
-#~ "and taught the fishes how to speak to planets\n"
-#~ "silver green\n"
-#~ "with magic\n"
-#~ "running from her spirit into skins of kelp and shells of snails\n"
-#~ "a twisting of her tail and hands\n"
-#~ "she sent her songs to run on pin-tipped legs about the sands\n"
-#~ "and now\n"
-#~ "and now the strangest pause\n"
-#~ "for years and years\n"
-#~ "she hasn't moved her eyes\n\n"
-#~ "(inscribed by MJQ)"
-#~ msgstr ""
-#~ "Сквозь волны и каменистые каналы\n"
-#~ "синие и белые\n"
-#~ "она прибыла, ведомая прибоем\n"
-#~ "рыбы научили общаться с планетами\n"
-#~ "серебристая зелень\n"
-#~ "с помощью магии\n"
-#~ "текущей от ее души к водорослям и раковинам улиток\n"
-#~ "усиливающей ее тело и руки\n"
-#~ "она доносила свои песни до двуногих на берегу\n"
-#~ "но вдруг\n"
-#~ "но вдруг странная пауза\n"
-#~ "на века\n"
-#~ "она не может двинуться с места\n\n"
-#~ "(написано MJQ)"
-
-#~ msgid "2p - Cynsaun Battlefield"
-#~ msgstr "2и - Поле битвы Цинзауна"
-
-#~ msgid " Recommended settings of 150 gold and 2 gold per village."
-#~ msgstr "Рекомендуемые настройки — 150 золота при старте и 2 золота с деревни."
-
-#~ msgid "There is much to explore in this vast battlefront, designed for players who favor epic, large-scale duel matches."
-#~ msgstr "На этом обширном поле боя достаточно места для двоих игроков, желающих разыграть между собой эпическую битву."
-
-#~ msgid "2p - Dark Forecast (Survival)"
-#~ msgstr "2и - Мрачный прогноз (выживание)"
-
-#~ msgid "Heavy Snowfall"
-#~ msgstr "Сильный снегопад"
-
-#~ msgid "Snowfall"
-#~ msgstr "Снегопад"
-
-#~ msgid "Heavy Rains"
-#~ msgstr "Сильный дождь"
-
-#~ msgid "Drought"
-#~ msgstr "Засуха"
-
-#~ msgid "Lose all your team's leaders"
-#~ msgstr "Гибель лидеров команд."
-
-#~ msgid "2p - Den of Onis"
-#~ msgstr "2и - Логово Ониса"
-
-#~ msgid "Danger lurks around every corner in this underground battlefield, a duel map where players must find the balance between force and subterfuge."
-#~ msgstr "Опасность скрывается в каждом закоулке этого подземного поля битвы, дуэльной карты, где встречаются сила и хитрость."
-
-#~ msgid " Recommended setting of 2 gold per village."
-#~ msgstr " Рекомендуемые настройки — 2 золота на деревню."
-
-#~ msgid "2p - Fallenstar Lake"
-#~ msgstr "2и - Озеро павшей звезды"
-
-#~ msgid "Long ago, a great star fell from the heavens, leaving its mark on this coniferous region."
-#~ msgstr "Давным-давно, огромная звезда упала с небес, оставив свою отметину на этой поросшей хвойными лесами земле."
-
-#~ msgid "teamname^West"
-#~ msgstr "Запад"
-
-#~ msgid "teamname^East"
-#~ msgstr "Восток"
-
-#~ msgid "2p - Hamlets"
-#~ msgstr "2и - Деревушки"
-
-#~ msgid "Warfare transforms the simple farms and villages of a peaceful region into a subtly parceled battlefield."
-#~ msgstr "Война превратила простые фермы и деревни мирного региона в причудливо разделенное на части поле боя."
-
-#~ msgid "2p - Hornshark Island"
-#~ msgstr "2и - Остров рогатой акулы"
-
-#~ msgid "Players must navigate the dispersive terrain of this small but topographically dense island."
-#~ msgstr "Игроки должны передвигаться по пересеченной местности этого маленького, но топографически насыщенного острова."
-
-#~ msgid "2p - Sablestone Delta"
-#~ msgstr "2и - Дельта каменного меча"
-
-#~ msgid "Two armies collide on this disjointed coastal landscape of hidden caves and jagged rivers."
-#~ msgstr "Две армии сталкиваются на разделённом побережье скрытых пещер и бурных рек."
-
-#~ msgid "2p - Silverhead Crossing"
-#~ msgstr "2и - Седой перевал"
-
-#~ msgid "Players must traverse all manner of terrain in pursuit of victory on this multi-fronted duel map."
-#~ msgstr "Игроки должны пересечь все типы земель в погоне за победой на этой многосторонней дуэльной карте."
-
-#~ msgid "statue"
-#~ msgstr "статуя"
-
-#~ msgid "This is a sculpture made of stone."
-#~ msgstr "Это каменная скульптура."
-
-#~ msgid "2p - Sullas Ruins"
-#~ msgstr "2и - Руины Суллы"
-
-#~ msgid "Flooded by the seas and battered by the winter elements, only ruins, water and ice now remain in the shadow of this once mighty empire."
-#~ msgstr "Затопленные морями, покрытые отметинами зимы, только руины, вода и лед напоминают теперь о закате этой некогда могучей империи."
-
-#~ msgid "Statue of Sulla"
-#~ msgstr "Статуя Суллы"
-
-#~ msgid "A stone-carved likeness of Sulla the Great, also known as Sulla the Just, Sulla the Tyrant, Empress of the Sinking Tower, Lady of the Walking Glacier, Sulla the Incinerator, Sulla the Proud and Sulla the Righteous."
-#~ msgstr "Каменное изваяние Суллы Великой, также известной как Сулла Справедливая, Сулла Суровая, Императрица Подводной Башни, Дама Ходячего Ледника, Сулла Испепеляющая, Сулла Великолепная и Сулла Праведная."
-
-#~ msgid "Statue of Lhun-dup"
-#~ msgstr "Статуя Лун-дапа"
-
-#~ msgid "A stone-carved likeness of Lhun-dup, Servant of Sulla."
-#~ msgstr "Каменное изваяние Лун-дапа, слуги Суллы."
-
-#~ msgid "Statue of Ri-nzen"
-#~ msgstr "Статуя Ри-нзена"
-
-#~ msgid "A stone-carved likeness of Ri-nzen, Servant of Sulla."
-#~ msgstr "Каменное изваяние Ри-нзена, слуги Суллы."
-
-#~ msgid "Statue of Ten-zin"
-#~ msgstr "Статуя Тен-зина"
-
-#~ msgid "A stone-carved likeness of Ten-zin, Servant of Sulla."
-#~ msgstr "Каменное изваяние Тен-зина, слуги Суллы."
-
-#~ msgid "Statue of Lo-bsang"
-#~ msgstr "Статуя Ло-бзанга"
-
-#~ msgid "A stone-carved likeness of Lo-bsang, Servant of Sulla."
-#~ msgstr "Каменное изваяние Ло-бзанга, слуги Суллы."
-
-#~ msgid "2p - The Freelands"
-#~ msgstr "2и - Дикие земли"
-
-#~ msgid "A duel map for super fast play."
-#~ msgstr "Дуэльная карта для сверхбыстрой игры."
-
-#~ msgid "2p - Weldyn Channel"
-#~ msgstr "2и - Канал Велдина"
-
-#~ msgid "2p - Wesbowl"
-#~ msgstr "2и - Кубок Веснота"
-
-#~ msgid "In Wesbowl, a player has to get any of the balls to the other player's end zone as often as possible. However, the other player can attack your units. Wesbowl is played with blunt weapons, and healers are on hand, so when units are killed, they return to that player's end zone with an injury."
-#~ msgstr "В Кубке Веснота игрок должен как можно быстрее пронести мяч до конечной зоны другого игрока. Другой игрок может атаковать ваши отряды. Кубок Веснота играется с тупым оружием, и наготове есть бригада лекарей, так что \"убитые\" игроки возвращаются в свою начальную зону, получив лишь ранения."
-
-#~ msgid ""
-#~ "\nVictory:\n"
-#~ "@Move either ball to your opponent's end zone more times than they move a ball to yours.\n"
-#~ "Defeat:\n"
-#~ "#Opponent moves the balls to your end zone more times than you move them to the opponent's end zone"
-#~ msgstr ""
-#~ "\nПобеда:\n"
-#~ "@Пронесите мяч в конечную зону оппонента больше раз, чем он пронесет в вашу\n"
-#~ "Поражение:\n"
-#~ "#Оппонент пронес в вашу конечную зону больше мячей, чем вы в его"
-
-#~ msgid "Red scores! Current score is $redscore-$bluescore"
-#~ msgstr "Красные забили! Счет $redscore — $bluescore"
-
-#~ msgid "Blue scores! Current score is $redscore-$bluescore"
-#~ msgstr "Синие забили! Счет $redscore — $bluescore"
-
-#~ msgid "Should I pass the ball to $passto.type ($xloc,$yloc)?"
-#~ msgstr "Отдать пас $passto.type ($xloc,$yloc)?"
-
-#~ msgid "Yes!"
-#~ msgstr "Да!"
-
-#~ msgid "No"
-#~ msgstr "Нет"
-
-#~ msgid "Blue team wins! Final score: $redscore-$bluescore"
-#~ msgstr "Синяя команда выиграла! Финальный счет: $redscore — $bluescore"
-
-#~ msgid "Red team wins! Final score: $redscore-$bluescore"
-#~ msgstr "Красная команда выиграла! Финальный счет: $redscore — $bluescore"
-
-#~ msgid "Draw! Final score: $redscore-$bluescore"
-#~ msgstr "Ничья! Финальный счет: $redscore — $bluescore"
-
-#~ msgid "3p - Alirok Marsh"
-#~ msgstr "3и - Болота Алирок"
-
-#~ msgid "Three players come head to head on this water-cut battlefield."
-#~ msgstr "Три игрока сходятся лицом к лицу на этом водяном боевом пространстве."
-
-#~ msgid "3p - Island of the Horatii"
-#~ msgstr "3и - Остров Хоратии"
-
-#~ msgid "Controlling the central island is often the key to victory in this 21x21hex 3 player free for all map."
-#~ msgstr "Контроль над центральным островом часто является ключом к победе в этой карте для трёх игроков (\"каждый за себя\") размером 21х21 ячеек."
-
-#~ msgid "3p - Morituri"
-#~ msgstr "3и - Идущие на смерть"
-
-#~ msgid "Only one faction will emerge victorious from this tightly bordered three-player map."
-#~ msgstr "Только одна сторона будет признана победительницей на этой карте для трёх игроков со сжатыми границами."
-
-#~ msgid "4p - Blue Water Province"
-#~ msgstr "4и - Провинция Голубой воды "
-
-#~ msgid "Historians write that Bluewater Province has been destroyed and rebuilt some twenty times. Now, as armies once again converge on the rocky streams and snowcapped mountains of this small province, its villagers hardly seem to take notice."
-#~ msgstr "Говорят, что Провинция Голубой воды разрушалась и отстраивалась вновь около двадцати раз. Теперь, когда армии вновь сошлись на горных потоках и укрытых снегом горах этой небольшой провинции, её жителей практически не заметно."
-
-#~ msgid "4p - Castle Hopping Isle"
-#~ msgstr "4и - Замок Хмельного острова"
-
-#~ msgid "Hop from castle to castle while fighting over a central isle."
-#~ msgstr "Перескакивайте от замка к замку, сражаясь  вокруг острова в центре."
-
-#~ msgid "4p - Clash"
-#~ msgstr "4и - Столкновение"
-
-#~ msgid "Small map for 2 vs. 2."
-#~ msgstr "Маленькая карта для 2 против 2."
-
-#~ msgid "4p - Hamlets"
-#~ msgstr "4и - Деревушки"
-
-#~ msgid "4p - Isar's Cross"
-#~ msgstr "4и - Перекресток Исара"
-
-#~ msgid "A very small 2 vs. 2 map. Close quarters fighting means the successful rotation of units and planning of moves is important. Teams set for players 1&4 vs. 2&3 (northeast vs. southwest). Designed for 75 starting gold, 20 villages."
-#~ msgstr "Очень маленькая карта 2 против 2. Близкорасположенные боевые позиции означают быструю смену отрядов, потому важно тщательное планирование ходов. Игроки расположены так: 1 и 4 против 2 и 3 (северо-восток против юго-запада). Разработана для 75 начального золота, 20 деревень."
-
-#~ msgid "teamname^South-West"
-#~ msgstr "Юго-запад"
-
-#~ msgid "teamname^North-East"
-#~ msgstr "Северо-восток"
-
-#~ msgid "4p - King of the Hill"
-#~ msgstr "4и - Царь горы"
-
-#~ msgid "Controlling the area around the central keep is very lucrative in this 36X36 4 player FFA map. Works fine 2 vs. 2 as well. There are 36 villages."
-#~ msgstr "На этой карте размером 36х36 для четырех игроков (каждый за себя) весьма привлекателен контроль территории вокруг центрального укрытия. Подходит и для 2 против 2. Имеется 36 деревень."
-
-#~ msgid " Recommended setting of 2 gold per village and 150 starting gold."
-#~ msgstr " Рекомендуемые настройки — 2 золота с деревни и 150 золота при старте."
-
-#~ msgid "teamname^South-East"
-#~ msgstr "Юго-Восток"
-
-#~ msgid "teamname^North-West"
-#~ msgstr "Северо-Запад"
-
-#~ msgid " Recommended setting of 1 gold per village."
-#~ msgstr " Рекомендуемые настройки — 1 золото с деревни."
-
-#~ msgid "Four factions contend for dominance over this watery settlement."
-#~ msgstr "Четыре команды борятся за доминирование над этим болотистым поселением."
-
-#~ msgid "4p - Loris River"
-#~ msgstr "4и - Река Лориса"
-
-#~ msgid "A 25x25 2 vs. 2 map centered around a river with keeps in opposite corners. Designed for players 1&4 vs. 2&3. There are 28 villages."
-#~ msgstr "Карта 2 против 2 размером 25х25 с рекой посередине и укрытиях в противоположных углах. Создана для 1 и 4 против 2 и 3. Имеется 28 деревень."
-
-#~ msgid "4p - Morituri"
-#~ msgstr "4и - Идущие на смерть"
-
-#~ msgid "Who will emerge from the confines of this perilous battlefield?"
-#~ msgstr "Кто сможет вырваться за пределы этого опасного поля битвы?"
-
-#~ msgid "4p - Paths of Daggers"
-#~ msgstr "4и - Путь кинжалов"
-
-#~ msgid " Recommended setting of 2 gold per village, 28 villages."
-#~ msgstr "Рекомендуемые настройки — 2 золота с деревни, 28 деревень."
-
-#~ msgid "A 35X27 2 vs. 2 map with 5 separate paths of engagement. Balanced to be played east vs. west (1&4 vs. 2&3), but works well with any teams or FFA."
-#~ msgstr "Карта 2 против 2 размером 35х27 с пятью различными путями для наступления. Разработана для игры запада против востока (1 и 4 против 2 и 3), но также хороша и для других вариантов, или для игры \"каждый за себя\"."
-
-#~ msgid "4p - Siege Castles"
-#~ msgstr "4и - Осаждаемые замки"
-
-#~ msgid "40X30 4 player map where 4 mighty castles face off at the convergence of two rivers. Works well as 2 vs. 2 or FFA. There are approximately 45 villages."
-#~ msgstr "Карта размером 40х30 для 4 игроков, на которой 4 могущественных замка разделены на месте слияния двух рек. Подходит для 2 против 2 и каждый за себя. Имеется примерно 45 деревень."
-
-#~ msgid "4p - The Wilderlands"
-#~ msgstr "4и - Дикие земли"
-
-#~ msgid "A vast region of wild, untamed wilderness, its terrain dotted with forests, caves, rivers, and the ruins of ancient fortresses."
-#~ msgstr "Незаселённый регион дикой, безграничной пустоши, чьи земли покрыты лесами, пещерами, реками и руинами древних крепостей."
-
-#~ msgid "4p - Xanthe Chaos"
-#~ msgstr "4и - Хаос Ксанте"
-
-#~ msgid "A 24X28 2 vs. 2 map with auxiliary keeps, and a large messy battle in the center common."
-#~ msgstr "Карта размером 24x28 для 2 против 2, со вспомогательными укрытиями и большой битвой в общем центре."
-
-#~ msgid "5p - Auction-X"
-#~ msgstr "5и - Аукцион-X"
-
-#~ msgid "4 players surround a central keep, play vs the AI survival style, or as a FFA or 4 vs. 1. The center player will need more gold in a 4 vs. 1 or FFA, and the best way to determine how much is an auction, LOWEST bid wins. It is a very small map so 75 gold is recommended for the other players."
-#~ msgstr "4 игрока окружают центральный замок, игра либо в стиле выживания против компьютера, либо каждый за себя, либо 4 против 1. В двух последних случаях центральный игрок нуждается в большем количестве золота, и лучший способ определить, насколько большем — это аукцион. Побеждает МЕНЬШАЯ ставка. Это очень маленькая карта, так что для других игроков рекомендуется 75 монет начального золота."
-
-#~ msgid "teamname^Northeast"
-#~ msgstr "Северо-восток"
-
-#~ msgid "teamname^Southeast"
-#~ msgstr "Юго-восток"
-
-#~ msgid "teamname^Southwest"
-#~ msgstr "Юго-запад"
-
-#~ msgid "teamname^Northwest"
-#~ msgstr "Северо-запад"
-
-#~ msgid "teamname^Center"
-#~ msgstr "Центр"
-
-#~ msgid "5p - Forest of Fear"
-#~ msgstr "5и - Лес страха"
-
-#~ msgid "In this mixed landscape, five armies battle for supremacy."
-#~ msgstr "На этом смешанном ландшафте пять армий борются за превосходство."
-
-#~ msgid "6p - Amohsad Caldera"
-#~ msgstr "6и - Впадина Амосад"
-
-#~ msgid "Only a true tactician will survive in this deadly and confining battlefield, where six boxed-in armies come to a head."
-#~ msgstr "Только настоящий стратег сможет выжить на этом смертельном и ограниченном поле боя, где сошлись лицом к лицу шесть армий."
-
-#~ msgid "6p - Crusaders' Field"
-#~ msgstr "6и - Поле крестоносцев"
-
-#~ msgid "The rallying cries of battle can once again be heard on this time-worn field of war, where the ghosts of thousands of brave warriors float invisibly through the mountains, trees and rivers."
-#~ msgstr "Сплоченный боевой клич снова слышен на поле битвы, на котором сотни призраков смелых воинов витают среди гор, деревьев и рек."
-
-#~ msgid "6p - Hexcake"
-#~ msgstr "6и - Шестигранник"
-
-#~ msgid "2 vs. 2 or 3 vs. 3 team game."
-#~ msgstr "Командная игра 2 на 2 или 3 на 3."
-
-#~ msgid "Turn 2: Loyalists"
-#~ msgstr "Ход 2: Законопослушные"
-
-#~ msgid "Turn 5: Knalgans"
-#~ msgstr "Ход 5: Кналгане"
-
-#~ msgid "Turn 8: Rebels"
-#~ msgstr "Ход 8: Мятежники"
-
-#~ msgid "Turn 11: Northerners"
-#~ msgstr "Ход 11: Северяне"
-
-#~ msgid "Turn 14: Drakes"
-#~ msgstr "Ход 14: Дрейки"
-
-#~ msgid "Turn 17: Undead"
-#~ msgstr "Ход 17: Мертвецы"
-
-#~ msgid "Tower of Doom"
-#~ msgstr "Роковая башня"
-
-#~ msgid "6p - Team Survival"
-#~ msgstr "6и - Командное выживание"
-
-#~ msgid "Scenario where the objective is to survive for as long as possible."
-#~ msgstr "Сценарий, задачей которого является выживание на максимально возможный срок."
-
-#~ msgid "Survive for 32 turns."
-#~ msgstr "Продержитесь 32 хода."
-
-#~ msgid "Hint: Learning the enemy spawnpoints and types helps alot."
-#~ msgstr "Совет: изучение точек появления противника и их тип весьма поможет."
-
-#~ msgid "Survive all enemy attacks."
-#~ msgstr "Отбейте все атаки противника."
-
-#~ msgid "Death of your team leaders."
-#~ msgstr "Гибель лидеров команды."
-
-#~ msgid "Congratulations for surviving the map that so many people claim is impossible. Frankly, I haven't got a clue as to how you did it, so send me the replay by mail to: roze@roze.mine.nu. Thank You!"
-#~ msgstr "Поздравляю, много людей признало, что выжить на этой карте невозможно. Даже я не представляю, как вам удалось это, поэтому, пожалуйста, отправьте повтор мне на электронный адрес roze@roze.mine.nu. Спасибо!"
-
-#~ msgid "Death"
-#~ msgstr "Смерть"
-
-#~ msgid "You have lost this game, but fear not. You can always try again. And again. And again. *Muahahaha*"
-#~ msgstr "Вы проиграли эту битву, но не отчаивайтесь. Вы всегда можете попробовать снова. И снова. И снова. *Хе-хе-хе*"
-
-#~ msgid "Attacker"
-#~ msgstr "Атакующий"
-
-#~ msgid "Defender"
-#~ msgstr "Защищающийся"
-
-#~ msgid "6p - The Manzivan Traps"
-#~ msgstr "6и - Запутанные ловушки"
-
-#~ msgid "A 40X20 3 vs. 3 map. The Manzivan Traps are widely known as a difficult and confusing area of terrain where it is easy to end up out of position or over extended. Teams set for players 145 vs. 236 (east vs west). Designed for 100 starting gold, has 33 villages."
-#~ msgstr "Карта размером 40х20 для 3 против 3. Запутанные Ловушки широко известны, как сложная и трудная территория, где можно запросто потеряться и заблудиться. Команды разделены как 145 против 236 (восток против запада). Расчитана на 100 золотых в начале, имеется 33 деревени."
-
-#~ msgid "6p - Waterloo Sunset"
-#~ msgstr "6и - Рассвет Ватерлоо"
-
-#~ msgid "A 40X30 3 vs. 3 map. Flexible coordination of your alliance is required to avoid being outnumbered. Teams set for players 145 vs. 236 (north vs. south), but having players 146 or 136 as a team is also interesting. Designed for 150 starting gold, has 44 villages."
-#~ msgstr "Карта размером 40х30 для 3 против 3. Понадобится гибкая координация сил ваших союзников, чтобы вас не превзошли числом. Команды разделены как 145 против 236 (север против юга), но варианты 146 или 136 также интересны. Разработана для 150 золотых в начале, имеется 44 деревни."
-
-#~ msgid "8p - Mokena Prairie"
-#~ msgstr "8и - Прерии Мокена"
-
-#~ msgid "Inspired from Morituri, this 8 player map creates an epic battle scene that requires two teams to coordinate on both offense and defense."
-#~ msgstr "Эта карта на 8 игроков, вдохновлённая картой \"Идущие на смерть\", представляет эпическую баталию, требующую двух команд для координации как нападения, так и защиты."
-
-#~ msgid "teamname^east"
-#~ msgstr "восток"
-
-#~ msgid "teamname^west"
-#~ msgstr "запад"
-
-#~ msgid "8p - Morituri"
-#~ msgstr "8и - Идущие на смерть"
-
-#~ msgid "Teamwork and tactics are key to victory in this unusual battlefield, where eight armies fight to the finish."
-#~ msgstr "Только настоящий стратег сможет выжить на этом смертельном и ограниченном поле боя, где сошлись лицом к лицу восемь армий."
-
-#~ msgid "9p - Merkwuerdigliebe"
-#~ msgstr "9и — Мерквуердиглиебе"
-
-#~ msgid "A very small 3 vs. 3 vs. 3 map. A 60sec timer is recommended due to the large number of players. The teams are players 159 vs. 267 vs. 348 (north vs. southeast vs. southwest). There are very few villages per player, so 3 gold per villages is recommended."
-#~ msgstr "Очень маленькая карта для 3 против 3 против 3. Из-за большого числа игроков рекомендуется установить таймер в 60 секунд. Игроки разбиты на команды 159 против 267 против 348 (север против юго-востока против юго-запада). Здесь очень мало деревень на каждого игрока, поэтому рекомендуемые настройки — 3 золота на деревню."
-
-#~ msgid "Random map"
-#~ msgstr "Случайная карта"
-
-#~ msgid "Randomly generated map. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайно генерируемая карта. Внимание: случайные карты обычно не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите карту, устраивающую вас."
-
-#~ msgid "Random map (Desert)"
-#~ msgstr "Случайная карта (пустыня)"
-
-#~ msgid "A random map with sand as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайная карта с песками. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
-
-#~ msgid "Random map (Marsh)"
-#~ msgstr "Случайная карта (болото)"
-
-#~ msgid "A random map with swamp as the primary terrain. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайная карта с болотами. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
-
-#~ msgid "Random map (Winter)"
-#~ msgstr "Случайная карта (зима)"
-
-#~ msgid "A random map set in the break between spring and winter, mainly with snowy terrains. Note: random maps are often unbalanced, but if you have time, you can regenerate them until you get a good one."
-#~ msgstr "Случайная карта между осенью и зимой, преимущественно со снежным покровом. Внимание: случайные карты не сбалансированы, но если у вас есть время, вы можете регенерировать её, пока не получите хорошую."
-
-#~ msgid "Wesnoth Benchmark: AI"
-#~ msgstr "Тест Веснота: AI"
-
-#~ msgid "A wesnoth benchmark, use --nogui --no-delay --multiplayer --scenario=wesbench_ai --exit-at-end."
-#~ msgstr "Тестирование Веснота, использует --nogui --no-delay --multiplayer --scenario=wesbench_ai --exit-at-end."
-
-#~ msgid "Wesnoth Benchmark: Scrolling"
-#~ msgstr "Тест Веснота: скроллинг"
-
-#~ msgid "A wesnoth benchmark, use --no-delay --multiplayer --scenario=wesbench_scroll --exit-at-end."
-#~ msgstr "Тестирование Веснота, использует --no-delay --multiplayer --scenario=wesbench_scroll --exit-at-end."
-
-#~ msgid "Wesnoth Benchmark: Walking through Shroud"
-#~ msgstr "Тест Веснота: хождение сквозь пелену"
-
-#~ msgid "A wesnoth benchmark, use --no-delay --multiplayer --scenario=wesbench_shroud_walk --exit-at-end."
-#~ msgstr "Тестирование Веснота, использует --no-delay --multiplayer --scenario=wesbench_shroud_walk --exit-at-end."
-
-#~ msgid "2p - Blitz"
-#~ msgstr "2и — Блиц"
-
-#~ msgid "3p - Triple Blitz"
-#~ msgstr "3и — Тройной Блиц"
-
-#, fuzzy
-#~ msgid "Defeat enemy leader"
-#~ msgstr "Гибель лидеров команды."
-
-#, fuzzy
-#~ msgid "Defeat enemy leader(s)"
-#~ msgstr "Гибель лидеров команды."
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:541
+msgid "Our talks are complete — the Dwarves will gladly fight by your side. Which of our brethren do you want to recruit?"
+msgstr "Наши переговоры завершены — Гномы почтут за честь биться на вашей стороне. Кого из наших собратьев вы хотите завербовать?"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:573
+msgid "Our talks are complete — the Elves shall aid you in this battle. Which our of kin do you wish to recruit?"
+msgstr "Наши переговоры завершены — Эльфы почтут за честь биться на вашей стороне. Кого из нас вы хотите завербовать?"
+#endregion
+
+
+#1 ********** Справка **********
+
+# Контекстное меню лидера
+#. [set_menu_item]: id=anl_help
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:87
+msgid "Help"
+msgstr "Помощь"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:111
+msgid "A New Land — Help"
+msgstr "Новая земля — Помощь"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:112
+msgid "Select a topic."
+msgstr "Выберите тему."
+
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:115
+msgid "Done"
+msgstr "Готово"
+
+#region Крестьяне
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:16
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:125
+msgid "Peasants"
+msgstr "Крестьяне"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:19
+msgid "Peasants are your workers. Depending on the terrain, right-clicking on a peasant allows you to terraform the landscape and/or build castles, mines, farms, villages and universities."
+msgstr "Крестьяне — это ваши рабочие. Нажатие правой кнопки мыши на любом из них в зависимости от типа поверхности позволит вам видоизменять ландшафт и/или строить замки, рудники, фермы и университеты."
+#endregion
+
+#region Маги
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:27
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:132
+msgid "Mages"
+msgstr "Маги"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:29
+msgid "Mages are your wise men. They can study at universities, pursuing advances in mining, farming and recruitment."
+msgstr "Mages are your wise men. They can study at universities, pursuing advances in mining, farming and recruitment."
+#endregion
+
+#region Фермы
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:37
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:139
+msgid "Farms"
+msgstr "Фермы"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:39
+msgid "Farms can only be planted on grassland. Move a peasant onto a farm and he will begin to automatically harvest the cash crop."
+msgstr "Фермы можно строить на лугах. Поместите крестьянина в ферму и он сам начнет собирать урожай."
+#endregion
+
+#region Деревни
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:47
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:146
+msgid "Villages"
+msgstr "Деревни"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:49
+msgid "Villages can only be built on grassland. They provide income and healing as usual. Right-click on a peasant in a village and you can establish a university."
+msgstr "Деревни можно строить на лугах. Деревни обеспечивают доход, а также позволяют лечить ваших бойцов. Кликнув правой кнопкой мыши по деревне, вы сможете основать в ней университет."
+#endregion
+
+#region Рудники
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:57
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:153
+msgid "Mines"
+msgstr "Рудники"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:59
+msgid "Mines can be built on hills or mountains. A peasant on a mine will automatically dig for gold at the start of your turn."
+msgstr "Рудники можно строить на холмах и горах. Крестьянин, помещенный в рудник, будет добывать золото в начале вашего хода."
+#endregion
+
+#region Университеты
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:67
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:160
+msgid "Universities"
+msgstr "Университеты"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:69
+msgid "Any of the ‘Elvish’ style villages represent universities. At the start of your turn, Mages in universities automatically add to the study progress of your chosen research target. Right-click on a mage in a university to change research target."
+msgstr "Любая эльфийская деревня является университетом. Если маг находится в университете, то в начале каждого хода прогресс изучаемой дисциплины увеличивается. Чтобы сменить изучаемую дисциплину, нажмите правой кнопкой мыши на мага, когда тот находится в университете."
+#endregion
+
+#region Дипломатия
+#. [message]: speaker=narrator
+#. [option]: speaker=narrator
+#. [set_menu_item]: id=anl_diplomacy
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:77
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:167
+#: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:196
+msgid "Diplomacy"
+msgstr "Дипломатия"
+
+#. [message]: speaker=narrator
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:79
+msgid "Right-clicking on your leader when in a university allows you to select special diplomatic options."
+msgstr "Для того, чтобы выбрать специальные димпломатические опции, нажмите правой кнопкой на своего лидера, когда он находится в университете."
+#endregion
+
+#. [option]
+#: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:5
+msgid "Return to menu"
+msgstr "Вернуться в меню"

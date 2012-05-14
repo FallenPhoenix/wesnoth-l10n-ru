@@ -172,7 +172,12 @@ msgstr "Выберите уровень сложности:"
 
 #1 ********** Мультиплеер **********
 
-#region Выбор типа игры
+#region Выбор типа связи
+# Ник игрока по умолчанию. Кириллические ники запрещены на оф. сервере, но ник player один хрен забит.
+#: src/game_preferences.cpp:395
+msgid "player"
+msgstr "игрок"
+
 #. [text_box]: id=user_name
 #: data/gui/default/window/mp_method_selection.cfg:90
 msgid ""
@@ -226,6 +231,11 @@ msgstr "Играть сценарий против компьютера или �
 #: data/gui/default/window/mp_server_list.cfg:69
 msgid "You will now connect to the multiplayer server."
 msgstr "Сейчас подключимся к мультиплеерному серверу."
+
+#. [button]: id=list
+#: data/gui/default/window/mp_connect.cfg:158
+msgid "View List"
+msgstr "Список друзей"
 
 #. [label]: id=address
 #: data/gui/default/window/mp_server_list.cfg:121
@@ -292,8 +302,59 @@ msgstr "Забанить"
 #endregion
 
 
-#1 ********** Создание игры **********
+#2 ***** Создание игры *****
 
+#region Параметры генерации карт
+#: src/mapgen_dialog.cpp:113
+msgid "Map Generator"
+msgstr "Генератор карты"
+
+#: src/mapgen_dialog.cpp:120
+msgid "Players:"
+msgstr "Игроки:"
+
+#: src/mapgen_dialog.cpp:123
+msgid "Number of hills:"
+msgstr "Количество холмов:"
+
+#: src/mapgen_dialog.cpp:124
+msgid "Max hill size:"
+msgstr "Максимальный размер холма:"
+
+#: src/mapgen_dialog.cpp:125
+msgid "Villages:"
+msgstr "Деревни:"
+
+#: src/mapgen_dialog.cpp:126
+msgid "Castle size:"
+msgstr "Размер замка:"
+
+#: src/mapgen_dialog.cpp:127
+msgid "Landform:"
+msgstr "Форма земли:"
+
+#: src/mapgen_dialog.cpp:249
+msgid "Roads between castles"
+msgstr "Дороги между замками"
+
+#: src/mapgen_dialog.cpp:306
+msgid "/1000 tiles"
+msgstr "/1000 ячеек"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Coastal"
+msgstr "Береговой"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Inland"
+msgstr "Внутренний"
+
+#: src/mapgen_dialog.cpp:315
+msgid "Island"
+msgstr "Остров"
+#endregion
+
+#region Установка пароля
 #. [button]: id=password
 #. [label]: id=title
 #: data/gui/default/window/mp_create_game.cfg:226
@@ -305,6 +366,7 @@ msgstr "Установка пароля"
 #: data/gui/default/window/mp_create_game_set_password.cfg:61
 msgid "Set the password that people wanting to join your game as players must enter."
 msgstr "Для присоединения к вашей игре остальным потребуется его ввести."
+#endregion
 
 
 #1 ********** Строки меню и горячие клавиши **********
@@ -319,6 +381,7 @@ msgstr "Левый щелчок мышью"
 msgid "Right Mouse Click"
 msgstr "Правый щелчок мышью"
 
+# Влючение/выключение анимации
 #: src/hotkeys.cpp:55
 msgid "Animate Map"
 msgstr "Анимированная карта"
@@ -347,6 +410,8 @@ msgstr "Масштаб по умолчанию"
 msgid "Toggle Full Screen"
 msgstr "Полноэкранный режим"
 
+# Также используется как часть имени файла для снимков
+# (см. Диалоги игры - Снимок)
 #: src/hotkeys.cpp:67
 #: src/hotkeys.cpp:1172
 msgid "Screenshot"
@@ -788,6 +853,15 @@ msgstr "Перемешать тайлы в выделенной области"
 #endregion
 
 #region Карта
+#. [label]
+#. [button]: id=ok
+#: data/gui/default/window/editor_resize_map.cfg:35
+#: data/gui/default/window/editor_resize_map.cfg:270
+#: data/gui/default/window/editor_resize_map.cfg:271
+#: src/hotkeys.cpp:172
+msgid "Resize Map"
+msgstr "Изменить размер карты"
+
 #: src/hotkeys.cpp:174
 msgid "Rotate Map"
 msgstr "Повернуть карту"
@@ -870,50 +944,56 @@ msgid "Last"
 msgstr "Последний"
 #endregion
 
+#region Снимок
+#: src/hotkeys.cpp:1179
+#: src/hotkeys.cpp:1181
+msgid "Screenshot done"
+msgstr "Снимок готов"
+
+# Часть имени файла. Для простого снимка используется та же строка, что для хоткея (msgid "Screenshot").
+#: src/hotkeys.cpp:1172
+msgid "Map-Screenshot"
+msgstr "Снимок карты"
+#endregion
+
+#region Инспектор состояния игры
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:46
+msgid "Gamestate Inspector"
+msgstr "Инспектор состояния игры"
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:100
+msgid "Types"
+msgstr "Типы"
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:111
+msgid "Content"
+msgstr "Содержимое"
+
+#. [label]
+#: data/gui/default/window/gamestate_inspector.cfg:122
+msgid "Inspection window"
+msgstr "Окно инспекции"
+
+#+ Действия (msgid "Actions")
+
+#. [label]: id=unit_type
+#. [label]: id=typename
+#: data/gui/default/window/gamestate_inspector.cfg:153
+#: data/gui/default/window/unit_create.cfg:131
+msgid "Type"
+msgstr "Тип"
+
+#. [label]: id=name
+#: data/gui/default/window/gamestate_inspector.cfg:214
+msgid "Variable"
+msgstr "Переменная"
+#endregion
+
 
 #1 ********** Диалоги редактора карт **********
-
-#region Стартовая позиция
-# Заголовок диалога
-#. [label]: id=title
-#: data/gui/default/window/editor_set_starting_position.cfg:50
-msgid "Choose Player"
-msgstr "Выберите игрока"
-
-#. [label]: id=message
-#: data/gui/default/window/editor_set_starting_position.cfg:70
-msgid "Which player should start here?"
-msgstr ""
-"Какой игрок будет начинать \n"
-"игру в этой позиции?"
-#endregion
-
-#region Создание новой карты
-# Заголовок диалога
-#. [label]
-#: data/gui/default/window/editor_new_map.cfg:35
-#: src/hotkeys.cpp:126
-msgid "New Map"
-msgstr "Новая карта"
-
-#. [label]
-#: data/gui/default/window/editor_new_map.cfg:54
-#: src/mapgen_dialog.cpp:121
-msgid "Width:"
-msgstr "Ширина:"
-
-#. [label]
-#: data/gui/default/window/editor_new_map.cfg:81
-#: src/mapgen_dialog.cpp:122
-msgid "Height:"
-msgstr "Высота:"
-
-#. [button]: id=ok
-#: data/gui/default/window/editor_new_map.cfg:108
-#: data/gui/default/window/editor_new_map.cfg:109
-msgid "Create New Map"
-msgstr "Создать новую карту"
-#endregion
 
 #region Настройки редактора
 #. [label]
@@ -962,6 +1042,106 @@ msgstr "Разрешить открытие сразу нескольких ка
 #: src/game_preferences_display.cpp:214
 msgid "Apply"
 msgstr "Применить"
+#endregion
+
+#region Создание новой карты
+# Заголовок диалога
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:35
+#: src/hotkeys.cpp:126
+msgid "New Map"
+msgstr "Новая карта"
+
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:54
+#: src/mapgen_dialog.cpp:121
+msgid "Width:"
+msgstr "Ширина:"
+
+#. [label]
+#: data/gui/default/window/editor_new_map.cfg:81
+#: src/mapgen_dialog.cpp:122
+msgid "Height:"
+msgstr "Высота:"
+
+#. [button]: id=ok
+#: data/gui/default/window/editor_new_map.cfg:108
+#: data/gui/default/window/editor_new_map.cfg:109
+msgid "Create New Map"
+msgstr "Создать новую карту"
+#endregion
+
+#region Создание случайной карты
+#. [label]
+#: data/gui/default/window/editor_generate_map.cfg:35
+msgid "Generate Random Map"
+msgstr "Создание случайной карты"
+
+#. [button]: id=next_generator
+#: data/gui/default/window/editor_generate_map.cfg:64
+#: data/gui/default/window/editor_generate_map.cfg:65
+msgid "Next Generator"
+msgstr "Следующий генератор"
+
+#. [button]: id=settings
+#: data/gui/default/window/editor_generate_map.cfg:87
+#: data/gui/default/window/editor_generate_map.cfg:88
+msgid "Settings"
+msgstr "Настройки"
+
+#. [button]: id=ok
+#: data/gui/default/window/editor_generate_map.cfg:98
+msgid "Generate"
+msgstr "Создать"
+#endregion
+
+#region Изменение размера карты
+#+ Изменить размер карты (msgid "Resize Map")
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:54
+msgid "New width:"
+msgstr "Новая ширина:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:78
+msgid "Old width:"
+msgstr "Старая ширина:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:102
+msgid "New height:"
+msgstr "Новая высота:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:126
+msgid "Old height:"
+msgstr "Старая высота:"
+
+#. [label]
+#: data/gui/default/window/editor_resize_map.cfg:153
+msgid "Expand / shrink direction"
+msgstr "Направление растяжения / сжатия"
+
+#. [toggle_button]: id=copy_edge_terrain
+#: data/gui/default/window/editor_resize_map.cfg:248
+msgid "Copy edge terrain"
+msgstr "Копировать ландшафт по краю"
+#endregion
+
+#region Стартовая позиция
+# Заголовок диалога
+#. [label]: id=title
+#: data/gui/default/window/editor_set_starting_position.cfg:50
+msgid "Choose Player"
+msgstr "Выберите игрока"
+
+#. [label]: id=message
+#: data/gui/default/window/editor_set_starting_position.cfg:70
+msgid "Which player should start here?"
+msgstr ""
+"Какой игрок будет начинать \n"
+"игру в этой позиции?"
 #endregion
 
 
@@ -1062,6 +1242,7 @@ msgstr "Прерывать движение вашего бойца при вс�
 msgid "Save replay on SP/MP victory or MP defeat"
 msgstr "Сохранять повторы"
 
+# подсказка
 #: src/game_preferences_display.cpp:369
 msgid "Save Replay on SP/MP Victory or MP Defeat"
 msgstr "Сохранять повторы"
@@ -1070,6 +1251,7 @@ msgstr "Сохранять повторы"
 msgid "Delete auto-saves on SP/MP victory or MP defeat"
 msgstr "Автоматически удалять автосохранения"
 
+# подсказка
 #: src/game_preferences_display.cpp:372
 msgid "Delete Auto-Saves on SP/MP Victory or MP Defeat"
 msgstr "Автоматически удалять автосохранения"
@@ -1433,6 +1615,7 @@ msgstr "Показывать сообщения обо всех игроках, 
 msgid "Use new lobby interface"
 msgstr "Использовать новый интерфейс холла"
 
+# подсказка
 #: src/game_preferences_display.cpp:394
 msgid "Use New Lobby Interface"
 msgstr "Использовать альтернативный интерфейс холла."
@@ -1555,6 +1738,8 @@ msgstr "Сменить язык"
 msgid "You will now connect to a server to download add-ons."
 msgstr "Сейчас подключимся к серверу и загрузим аддоны."
 
+#+ msgid "Server:"
+
 #. [button]: id=update_addons
 #: data/gui/default/window/addon_connect.cfg:145
 #: data/gui/default/window/addon_connect.cfg:146
@@ -1567,6 +1752,9 @@ msgstr "Обновить аддоны"
 msgid "Remove Add-ons"
 msgstr "Удалить аддоны"
 
+#+ msgid "Connect"
+
+#region Описание
 #. [label]
 #: data/gui/default/window/addon_description.cfg:88
 msgid "Author:"
@@ -1601,7 +1789,9 @@ msgstr "Переводы:"
 #: data/gui/default/window/addon_description.cfg:226
 msgid "translations^None"
 msgstr "Нет"
+#endregion
 
+#region Удаление
 #. [label]
 #: data/gui/default/window/addon_uninstall_list.cfg:51
 msgid "Uninstall Add-ons"
@@ -1611,7 +1801,7 @@ msgstr "Удаление аддонов"
 #: data/gui/default/window/addon_uninstall_list.cfg:70
 msgid "Choose the add-ons you want to remove."
 msgstr "Выберите аддоны, которые хотите удалить."
-
+#endregion
 
 
 #1 ********** Названия видов местности в игре и редакторе **********
@@ -2955,6 +3145,20 @@ msgstr "Предыдущий"
 msgid "Next"
 msgstr "Следующий"
 
+# Используется в заголовках сообщений об ошибках
+#: src/gui/dialogs/message.cpp:190
+#: src/gui/dialogs/transient_message.cpp:62
+msgid "Error"
+msgstr "Ошибка"
+
+# Обозначение байта.
+# Используется в окне статуса закачки и в сообщении об успешно сделанном скриншоте (вместе с префиксами из домена wesnoth)
+#: src/gui/dialogs/network_transmission.cpp:55
+#: src/gui/dialogs/network_transmission.cpp:57
+#: src/hotkeys.cpp:1178
+msgid "unit_byte^B"
+msgstr "b"
+
 #. [label]
 #. [grid]
 #: data/gui/default/window/mp_method_selection.cfg:39
@@ -2992,6 +3196,11 @@ msgstr "Подключение к серверу"
 #: src/hotkeys.cpp:75
 msgid "Load Game"
 msgstr "Загрузить игру"
+
+#: src/hotkeys.cpp:875
+#: src/hotkeys.cpp:1220
+msgid "Do you really want to quit?"
+msgstr "Вы действительно хотите выйти?"
 
 
 #1 ********** Бардак **********
@@ -3040,29 +3249,14 @@ msgid "Campaign: $campaign_name"
 msgstr "Кампания: $campaign_name"
 #endregion
 
-#: src/hotkeys.cpp:875
-#: src/hotkeys.cpp:1220
-msgid "Do you really want to quit?"
-msgstr "Вы действительно хотите выйти?"
-
-#region Снимок
-#: src/hotkeys.cpp:1172
-msgid "Map-Screenshot"
-msgstr "Снимок карты"
-
-#: src/hotkeys.cpp:1179
-#: src/hotkeys.cpp:1181
-msgid "Screenshot done"
-msgstr "Снимок готов"
-#endregion
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:109
+msgid "Games"
+msgstr "Игры"
 
 #: src/gui/dialogs/lobby_main.cpp:230
 msgid "whisper to $receiver"
 msgstr "Отправить ЛС $receiver-у"
-
-#: src/gui/dialogs/lobby_main.cpp:662
-msgid "Games: showing $num_shown out of $num_total"
-msgstr "Игры: показано $num_shown из $num_total"
 
 #: src/gui/dialogs/lobby_main.cpp:705
 msgid "Observers allowed"
@@ -3100,11 +3294,6 @@ msgstr "Чтобы присоединиться к игре, нужен паро
 msgid "Password: "
 msgstr "Пароль: "
 
-#: src/gui/dialogs/message.cpp:190
-#: src/gui/dialogs/transient_message.cpp:62
-msgid "Error"
-msgstr "Ошибка"
-
 #: src/gui/dialogs/mp_change_control.cpp:244
 msgid "Side $side"
 msgstr "Сторона $side"
@@ -3113,12 +3302,7 @@ msgstr "Сторона $side"
 msgid "Load Game..."
 msgstr "Загрузить игру..."
 
-#: src/gui/dialogs/network_transmission.cpp:55
-#: src/gui/dialogs/network_transmission.cpp:57
-#: src/hotkeys.cpp:1178
-msgid "unit_byte^B"
-msgstr "b"
-
+#region Ошибки
 #: src/gui/widgets/helper.cpp:137
 msgid "Mandatory widget '$id' hasn't been defined."
 msgstr "Обязательный виджет '$id' не определён"
@@ -3148,56 +3332,6 @@ msgstr "Закрытие по клику требует кнопки «click_dis
 #: src/tests/gui/test_gui2.cpp:432
 msgid "Failed to show a dialog, which doesn't fit on the screen."
 msgstr "Не могу показать диалог, он не помещается на экране."
-
-#region Параметры генерации карт
-#: src/mapgen_dialog.cpp:113
-msgid "Map Generator"
-msgstr "Генератор карты"
-
-#: src/mapgen_dialog.cpp:120
-msgid "Players:"
-msgstr "Игроки:"
-
-#: src/mapgen_dialog.cpp:123
-msgid "Number of hills:"
-msgstr "Количество холмов:"
-
-#: src/mapgen_dialog.cpp:124
-msgid "Max hill size:"
-msgstr "Максимальный размер холма:"
-
-#: src/mapgen_dialog.cpp:125
-msgid "Villages:"
-msgstr "Деревни:"
-
-#: src/mapgen_dialog.cpp:126
-msgid "Castle size:"
-msgstr "Размер замка:"
-
-#: src/mapgen_dialog.cpp:127
-msgid "Landform:"
-msgstr "Форма земли:"
-
-#: src/mapgen_dialog.cpp:249
-msgid "Roads between castles"
-msgstr "Дороги между замками"
-
-#: src/mapgen_dialog.cpp:306
-msgid "/1000 tiles"
-msgstr "/1000 ячеек"
-
-#: src/mapgen_dialog.cpp:315
-msgid "Coastal"
-msgstr "Береговой"
-
-#: src/mapgen_dialog.cpp:315
-msgid "Inland"
-msgstr "Внутренний"
-
-#: src/mapgen_dialog.cpp:315
-msgid "Island"
-msgstr "Остров"
-#endregion
 
 #: src/marked-up_text.cpp:439
 msgid "The maximum text width is less than 1."
@@ -3249,6 +3383,7 @@ msgstr "Управление файлами"
 #: data/gui/default/window/game_load.cfg:189
 msgid "Choose the game to load"
 msgstr "Выберите игру для загрузки"
+#endregion
 
 #. [label]: id=lblFilter
 #: data/gui/default/window/data_manage.cfg:113
@@ -3287,73 +3422,6 @@ msgstr "Вернуть"
 #: data/gui/default/window/data_manage.cfg:301
 msgid "Backup"
 msgstr "Восстановить"
-
-#. [label]
-#: data/gui/default/window/editor_generate_map.cfg:35
-msgid "Generate Random Map"
-msgstr "Создание случайной карты"
-
-#. [button]: id=next_generator
-#: data/gui/default/window/editor_generate_map.cfg:64
-#: data/gui/default/window/editor_generate_map.cfg:65
-msgid "Next Generator"
-msgstr "Следующий генератор"
-
-#. [button]: id=settings
-#: data/gui/default/window/editor_generate_map.cfg:87
-#: data/gui/default/window/editor_generate_map.cfg:88
-msgid "Settings"
-msgstr "Настройки"
-
-#. [button]: id=ok
-#: data/gui/default/window/editor_generate_map.cfg:98
-msgid "Generate"
-msgstr "Создать"
-
-#. [label]
-#. [button]: id=ok
-#: data/gui/default/window/editor_resize_map.cfg:35
-#: data/gui/default/window/editor_resize_map.cfg:270
-#: data/gui/default/window/editor_resize_map.cfg:271
-#: src/hotkeys.cpp:172
-msgid "Resize Map"
-msgstr "Изменить размер карты"
-
-#. [label]
-#: data/gui/default/window/editor_resize_map.cfg:54
-msgid "New width:"
-msgstr "Новая ширина:"
-
-#. [label]
-#: data/gui/default/window/editor_resize_map.cfg:78
-msgid "Old width:"
-msgstr "Старая ширина:"
-
-#. [label]
-#: data/gui/default/window/editor_resize_map.cfg:102
-msgid "New height:"
-msgstr "Новая высота:"
-
-#. [label]
-#: data/gui/default/window/editor_resize_map.cfg:126
-msgid "Old height:"
-msgstr "Старая высота:"
-
-#. [label]
-#: data/gui/default/window/editor_resize_map.cfg:153
-msgid "Expand / shrink direction"
-msgstr "Направление растяжения / сжатия"
-
-#. [toggle_button]: id=copy_edge_terrain
-#: data/gui/default/window/editor_resize_map.cfg:248
-msgid "Copy edge terrain"
-msgstr "Копировать ландшафт по краю"
-
-#. [label]: id=title
-#: data/gui/default/window/folder_create.cfg:43
-#: src/filechooser.cpp:82
-msgid "New Folder"
-msgstr "Новая папка"
 
 #. [label]
 #: data/gui/default/window/folder_create.cfg:72
@@ -3414,22 +3482,6 @@ msgstr "Продолжить"
 msgid "Execution trace"
 msgstr "Трейс выполнения"
 
-
-#. [label]: id=lblTitle
-#: data/gui/default/window/game_delete.cfg:40
-msgid "Delete Save"
-msgstr "Удалить сохранение"
-
-#. [label]: id=lblMessage
-#: data/gui/default/window/game_delete.cfg:60
-msgid "Do you really want to delete this game?"
-msgstr "Вы действительно хотите удалить сохранение?"
-
-#. [toggle_button]: id=dont_ask_again
-#: data/gui/default/window/game_delete.cfg:80
-msgid "Don’t ask me again!"
-msgstr "И больше меня не спрашивай!"
-
 #. [button]: id=delete
 #: data/gui/default/window/game_load.cfg:360
 #: data/gui/default/window/game_load.cfg:361
@@ -3459,6 +3511,7 @@ msgstr "Ошибка OOS"
 msgid "Ignore all"
 msgstr "Игнорировать все"
 
+#region Перезапись сохранения
 #. [label]: id=lblTitle
 #: data/gui/default/window/game_save_overwrite.cfg:40
 msgid "Overwrite?"
@@ -3468,173 +3521,36 @@ msgstr "Перезапись"
 #: data/gui/default/window/game_save_overwrite.cfg:60
 msgid "Save already exists. Do you want to overwrite it?"
 msgstr "Такое сохранение уже существует, переписать его?"
+#endregion
 
-#. [label]
-#: data/gui/default/window/gamestate_inspector.cfg:46
-msgid "Gamestate Inspector"
-msgstr "Инспектор состояния игры"
+#region Удаление сохранения
+#. [label]: id=lblTitle
+#: data/gui/default/window/game_delete.cfg:40
+msgid "Delete Save"
+msgstr "Удалить сохранение"
 
-#. [label]
-#: data/gui/default/window/gamestate_inspector.cfg:100
-msgid "Types"
-msgstr "Типы"
+#. [label]: id=lblMessage
+#: data/gui/default/window/game_delete.cfg:60
+msgid "Do you really want to delete this game?"
+msgstr "Вы действительно хотите удалить сохранение?"
 
-#. [label]
-#: data/gui/default/window/gamestate_inspector.cfg:111
-msgid "Content"
-msgstr "Содержимое"
+#. [toggle_button]: id=dont_ask_again
+#: data/gui/default/window/game_delete.cfg:80
+msgid "Don’t ask me again!"
+msgstr "И больше меня не спрашивай!"
+#endregion
 
-#. [label]
-#: data/gui/default/window/gamestate_inspector.cfg:122
-msgid "Inspection window"
-msgstr "Окно инспекции"
-
-#. [label]: id=unit_type
-#. [label]: id=typename
-#: data/gui/default/window/gamestate_inspector.cfg:153
-#: data/gui/default/window/unit_create.cfg:131
-msgid "Type"
-msgstr "Тип"
-
-#. [label]: id=name
-#: data/gui/default/window/gamestate_inspector.cfg:214
-msgid "Variable"
-msgstr "Переменная"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:109
-msgid "Games"
-msgstr "Игры"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:176
-msgid "Assign sides to players at random"
-msgstr "Назначить случайные стороны"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:177
-msgid "Requires a password to join"
-msgstr "Присоединяться только с паролем"
-
-#. [toggle_button]: id=use_map_settings
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:178
-#: data/gui/default/window/mp_create_game.cfg:321
-msgid "Use map settings"
-msgstr "Задано картой"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:179
-msgid "Reloaded game"
-msgstr "Игра загружена"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:180
-msgid "Unknown era"
-msgstr "Неизвестная эра"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:182
-msgid "Gold per village"
-msgstr "Золота с деревни"
-
-#. [label]
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:184
-#: data/gui/default/window/mp_create_game.cfg:420
-msgid "Experience modifier"
-msgstr "Модификатор опыта"
-
-#. [row]
-#: data/gui/default/window/lobby_main.cfg:186
-msgid "Time limit"
-msgstr "Лимит времени"
-
-#. [label]
-#: data/gui/default/window/lobby_main.cfg:305
-msgid "Sort players:"
-msgstr "Сортировать игроков:"
-
-#. [toggle_button]: id=player_list_sort_relation
-#: data/gui/default/window/lobby_main.cfg:313
-msgid "Friends first, ignored people last"
-msgstr "Сначала друзья, игнорируемые в конце"
-
-#. [toggle_button]: id=player_list_sort_name
-#: data/gui/default/window/lobby_main.cfg:321
-msgid "Alphabetically"
-msgstr "По алфавиту"
-
-#. [definition]
-#: data/gui/default/window/lobby_main.cfg:337
-msgid "Selected game"
-msgstr "Выбранная игра"
-
-#. [definition]
-#: data/gui/default/window/lobby_main.cfg:338
-msgid "Current room"
-msgstr "Текущая комната"
-
-#. [definition]
-#: data/gui/default/window/lobby_main.cfg:339
-msgid "Lobby"
-msgstr "Холл"
-
-#. [definition]
-#: data/gui/default/window/lobby_main.cfg:340
-msgid "Other games"
-msgstr "Другие игры"
-
-#. [label]: id=room
-#: data/gui/default/window/lobby_main.cfg:479
-msgid "Rooms"
-msgstr "Комнаты"
-
-#. [image]: id=pending_messages
-#: data/gui/default/window/lobby_main.cfg:497
-msgid "Messages waiting"
-msgstr "Ожидающие сообщения"
-
-# Новый интерфейс холла
-
+#region Холл сервера (новый интерфейс)
 #. [label]
 #: data/gui/default/window/lobby_main.cfg:567
 msgid "Multiplayer Lobby"
 msgstr "Холл мультиплеера"
 
-#. [label]
-#: data/gui/default/window/lobby_main.cfg:575
-msgid "Filter:"
-msgstr "Фильтр:"
+#: src/gui/dialogs/lobby_main.cpp:662
+msgid "Games: showing $num_shown out of $num_total"
+msgstr "Игры: показано $num_shown из $num_total"
 
-#. [toggle_button]: id=filter_with_friends
-#: data/gui/default/window/lobby_main.cfg:586
-msgid "Friends"
-msgstr "Есть друзья"
-
-#. [toggle_button]: id=filter_without_ignored
-#: data/gui/default/window/lobby_main.cfg:592
-msgid "No ignored"
-msgstr "Нет игнорируемых"
-
-#. [toggle_button]: id=filter_vacant_slots
-#: data/gui/default/window/lobby_main.cfg:598
-msgid "Vacant slots"
-msgstr "Свободно"
-
-#. [toggle_button]: id=filter_invert
-#: data/gui/default/window/lobby_main.cfg:604
-msgid "Invert filter"
-msgstr "Инвертировать фильтр"
-
-#. [button]: id=ok
-#. [button]: id=send_message
-#: data/gui/default/window/lobby_main.cfg:648
-#: data/gui/default/window/mp_cmd_wrapper.cfg:101
-msgid "Send"
-msgstr "Отправить"
-
-
+#region Главное меню
 #. [button]: id=show_preferences
 #. [grid]
 #: data/gui/default/window/lobby_main.cfg:666
@@ -3670,7 +3586,137 @@ msgstr "Наблюдать"
 #: data/gui/default/window/lobby_main.cfg:704
 msgid "Quick replay"
 msgstr "Быстрый повтор"
+#endregion
 
+#region Фильтр игр
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:575
+msgid "Filter:"
+msgstr "Фильтр:"
+
+#. [toggle_button]: id=filter_with_friends
+#: data/gui/default/window/lobby_main.cfg:586
+msgid "Friends"
+msgstr "Есть друзья"
+
+#. [toggle_button]: id=filter_without_ignored
+#: data/gui/default/window/lobby_main.cfg:592
+msgid "No ignored"
+msgstr "Нет игнорируемых"
+
+#. [toggle_button]: id=filter_vacant_slots
+#: data/gui/default/window/lobby_main.cfg:598
+msgid "Vacant slots"
+msgstr "Свободно"
+
+#. [toggle_button]: id=filter_invert
+#: data/gui/default/window/lobby_main.cfg:604
+msgid "Invert filter"
+msgstr "Инвертировать фильтр"
+#endregion
+
+#region Данные игр (подсказки к значкам)
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:177
+msgid "Requires a password to join"
+msgstr "Присоединяться только с паролем"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:176
+msgid "Assign sides to players at random"
+msgstr "Назначить случайные стороны"
+
+#. [toggle_button]: id=use_map_settings
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:178
+#: data/gui/default/window/mp_create_game.cfg:321
+msgid "Use map settings"
+msgstr "Задано картой"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:180
+msgid "Unknown era"
+msgstr "Неизвестная эра"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:179
+msgid "Reloaded game"
+msgstr "Игра загружена"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:182
+msgid "Gold per village"
+msgstr "Золота с деревни"
+
+#. [label]
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:184
+#: data/gui/default/window/mp_create_game.cfg:420
+msgid "Experience modifier"
+msgstr "Модификатор опыта"
+
+#. [row]
+#: data/gui/default/window/lobby_main.cfg:186
+msgid "Time limit"
+msgstr "Лимит времени"
+#endregion
+
+#region Чат
+#. [label]: id=room
+#: data/gui/default/window/lobby_main.cfg:479
+msgid "Rooms"
+msgstr "Комнаты"
+
+#. [button]: id=ok
+#. [button]: id=send_message
+#: data/gui/default/window/lobby_main.cfg:648
+#: data/gui/default/window/mp_cmd_wrapper.cfg:101
+msgid "Send"
+msgstr "Отправить"
+#endregion
+
+#region Список игроков
+#region Сортировка
+#. [label]
+#: data/gui/default/window/lobby_main.cfg:305
+msgid "Sort players:"
+msgstr "Сортировать игроков:"
+
+# подсказка
+#. [toggle_button]: id=player_list_sort_relation
+#: data/gui/default/window/lobby_main.cfg:313
+msgid "Friends first, ignored people last"
+msgstr "Сначала друзья, игнорируемые в конце"
+
+# подсказка
+#. [toggle_button]: id=player_list_sort_name
+#: data/gui/default/window/lobby_main.cfg:321
+msgid "Alphabetically"
+msgstr "По алфавиту"
+#endregion
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:337
+msgid "Selected game"
+msgstr "Выбранная игра"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:338
+msgid "Current room"
+msgstr "Текущая комната"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:339
+msgid "Lobby"
+msgstr "Холл"
+
+#. [definition]
+#: data/gui/default/window/lobby_main.cfg:340
+msgid "Other games"
+msgstr "Другие игры"
+#endregion
+
+#region Информация об игроке
 #. [label]
 #: data/gui/default/window/lobby_player_info.cfg:38
 msgid "Player Info — "
@@ -3726,6 +3772,13 @@ msgstr "Время бана:"
 #: data/gui/default/window/lobby_player_info.cfg:188
 msgid "Kick/ban"
 msgstr "Кикнуть/забанить"
+#endregion
+
+#. [image]: id=pending_messages
+#: data/gui/default/window/lobby_main.cfg:497
+msgid "Messages waiting"
+msgstr "Ожидающие сообщения"
+#endregion
 
 #. [label]: id=side_title
 #: data/gui/default/window/mp_change_control.cfg:21
@@ -3742,15 +3795,11 @@ msgstr "Ник"
 msgid "Change Control"
 msgstr "Сменить управление"
 
+# Скорей всего, не используется: это просто описание окна.
 #. [window]: id=mp_cmd_wrapper
 #: data/gui/default/window/mp_cmd_wrapper.cfg:8
 msgid "Multiplayer command dialog"
 msgstr "Диалог команд мультиплеера"
-
-#. [button]: id=list
-#: data/gui/default/window/mp_connect.cfg:158
-msgid "View List"
-msgstr "Список друзей"
 
 #. [label]
 #. [text_box]: id=game_name
@@ -3814,6 +3863,7 @@ msgstr "Случайное время начала"
 msgid "Create game"
 msgstr "Создать игру"
 
+#region Логин
 #. [window]: id=mp_login
 #: data/gui/default/window/mp_login.cfg:8
 msgid "Multiplayer server login dialog"
@@ -3845,6 +3895,7 @@ msgstr "Сохранять пароль в настройках (в незаши
 #: data/gui/default/window/mp_login.cfg:258
 msgid "Password Reminder"
 msgstr "Напомнить пароль"
+#endregion
 
 #. [button]: id=ok
 #: data/gui/default/window/unit_attack.cfg:195
@@ -3855,6 +3906,19 @@ msgstr "Атаковать"
 #: data/gui/default/window/unit_attack.cfg:263
 msgid "Attack enemy"
 msgstr "Атаковать врага"
+
+#region Создание бойца (нерабочее)
+# Похоже, это просто наброски альтернативной реализации.
+# В настоящий момент используется диалог из menu_events.cpp, а строки лежат в домене wesnoth.
+
+#+ msgid "Create Unit (Debug!)"
+
+#. [label]: id=race
+#: data/gui/default/window/unit_create.cfg:119
+msgid "Race"
+msgstr "Раса"
+
+#+ msgid "Type"
 
 #. [label]
 #: data/gui/default/window/unit_create.cfg:67
@@ -3870,15 +3934,18 @@ msgstr "Мужчина"
 #: data/gui/default/window/unit_create.cfg:87
 msgid "Female"
 msgstr "Женщина"
+#endregion
 
-#. [label]: id=race
-#: data/gui/default/window/unit_create.cfg:119
-msgid "Race"
-msgstr "Раса"
-
+#region Обзор файлов
 #: src/filechooser.cpp:77
 msgid "File: "
 msgstr "Файл: "
+
+#. [label]: id=title
+#: data/gui/default/window/folder_create.cfg:43
+#: src/filechooser.cpp:82
+msgid "New Folder"
+msgstr "Новая папка"
 
 #: src/filechooser.cpp:80
 msgid "Delete File"
@@ -3891,14 +3958,11 @@ msgstr "Ошибка удаления файла."
 #: src/filechooser.cpp:212
 msgid "Creation of the directory failed."
 msgstr "Ошибка создания каталога."
+#endregion
 
 #: src/game_preferences.cpp:315
 msgid "No server has been defined."
 msgstr "Сервер не определён"
-
-#: src/game_preferences.cpp:395
-msgid "player"
-msgstr "игрок"
 
 #: src/game_preferences.cpp:837
 msgid "%H:%M"
@@ -3907,7 +3971,6 @@ msgstr ""
 #: src/game_preferences.cpp:840
 msgid "%I:%M %p"
 msgstr ""
-
 
 #: src/gui/auxiliary/canvas.cpp:596
 msgid "Line doesn't fit on canvas."
@@ -4172,6 +4235,8 @@ msgstr "Узлы не определены."
 
 #~ msgid "Error creating or aquiring an image."
 #~ msgstr "Ошибка при создании или получении изображения."
+
+#2 -----
 
 #~ msgid "Save The Map"
 #~ msgstr "Сохранить карту"

@@ -31,19 +31,25 @@ msgid "DM"
 msgstr "МД"
 
 #. [campaign]: id=Delfadors_Memoirs
-#: data/campaigns/Delfadors_Memoirs/_main.cfg:31
-msgid "(Normal)"
-msgstr "(Нормальный)"
+#: data/campaigns/Delfadors_Memoirs/_main.cfg:37
+msgid "Wesnoth seems to be slipping inexorably into chaos, as marauding orcs pour south across the Great River, and mysterious and deadly creatures roam the night. Who is the shadowy Iliah-Malal? Can you defeat him before he destroys all life in Wesnoth?\n\n"
+msgstr "Веснот неотвратимо скатывается в пучину хаоса, мародёрствующие орки прибывают на юг через Великую Реку, а таинственные смертоносные создания скитаются под покровом ночи. Кто такой этот призрачный Илиа-Малал? Сможешь ли ты победить его до того, как он уничтожит все живое в Весноте?\n\n"
 
+#. [campaign]: id=Delfadors_Memoirs
+#: data/campaigns/Delfadors_Memoirs/_main.cfg:37
+msgid "(Intermediate level, 19 scenarios.)"
+msgstr "(Средний уровень, 19 сценариев)"
+
+#region Уровни сложности
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:31
 msgid "Apprentice"
 msgstr "Ученик"
 
 #. [campaign]: id=Delfadors_Memoirs
-#: data/campaigns/Delfadors_Memoirs/_main.cfg:32
-msgid "(Challenging)"
-msgstr "(Сложный)"
+#: data/campaigns/Delfadors_Memoirs/_main.cfg:31
+msgid "(Normal)"
+msgstr "(Нормальный)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:32
@@ -51,9 +57,9 @@ msgid "Mage"
 msgstr "Маг"
 
 #. [campaign]: id=Delfadors_Memoirs
-#: data/campaigns/Delfadors_Memoirs/_main.cfg:33
-msgid "(Difficult)"
-msgstr "(Очень сложный)"
+#: data/campaigns/Delfadors_Memoirs/_main.cfg:32
+msgid "(Challenging)"
+msgstr "(Сложный)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:33
@@ -61,15 +67,12 @@ msgid "Great Mage"
 msgstr "Великий Маг"
 
 #. [campaign]: id=Delfadors_Memoirs
-#: data/campaigns/Delfadors_Memoirs/_main.cfg:37
-msgid "(Intermediate level, 19 scenarios.)"
-msgstr "(Средний уровень, 19 сценариев)"
+#: data/campaigns/Delfadors_Memoirs/_main.cfg:33
+msgid "(Difficult)"
+msgstr "(Очень сложный)"
+#endregion
 
-#. [campaign]: id=Delfadors_Memoirs
-#: data/campaigns/Delfadors_Memoirs/_main.cfg:37
-msgid "Wesnoth seems to be slipping inexorably into chaos, as marauding orcs pour south across the Great River, and mysterious and deadly creatures roam the night. Who is the shadowy Iliah-Malal? Can you defeat him before he destroys all life in Wesnoth?\n\n"
-msgstr "Веснот неотвратимо скатывается в пучину хаоса, мародёрствующие орки прибывают на юг через Великую Реку, а таинственные смертоносные создания скитаются под покровом ночи. Кто такой этот призрачный Илиа-Малал? Сможешь ли ты победить его до того, как он уничтожит все живое в Весноте?\n\n"
-
+#region Создатели
 #. [about]
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:40
 msgid "Creator and Original Designer"
@@ -94,12 +97,365 @@ msgstr "Графика"
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:84
 msgid "Additional thanks to"
 msgstr "Также благодарим"
+#endregion
+
+
+#1 ********** Общие строки **********
+
+#2 ***** Бойцы *****
+
+#region Маг подмастерье
+#. [unit_type]: id=Journeyman Mage
+#: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
+msgid "Journeyman Mage"
+msgstr "Маг подмастерье"
+
+#. [unit_type]: id=Journeyman Mage
+#: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:13
+msgid "A mage who has just finished his apprenticeship is known as a journeyman. Journeyman mages travel far in search of employment and experience."
+msgstr "Маг, который только что закончил ученичество называется подмастерьем. Эти маги путешествуют в поисках работы и опыта."
+#endregion
+
+#region Лидер магов
+#. [unit_type]: id=Mage Leader
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:7
+msgid "Mage Leader"
+msgstr "Лидер Магов"
+
+#. [unit_type]: id=Mage Leader
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:15
+msgid "This mage has gained some experience leading others into battle. As a result, level 1 units fight more effectively when they are adjacent to him."
+msgstr "Этот маг обладает некоторым боевым и командирским опытом. В результате, бойцы первого уровня сражаются более эффективно, когда он рядом."
+#endregion
+
+#region Командир магов
+#. [unit_type]: id=Mage Commander
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:7
+msgid "Mage Commander"
+msgstr "Командир Магов"
+
+#. [unit_type]: id=Mage Commander
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:16
+msgid "This mage has gained much experience leading others into battle. As a result, level 1 and 2 units fight more effectively when they are adjacent to him. He also has the power to heal others during combat."
+msgstr "Этот маг получил богатый боевой и командирский опыт. В результате, бойцы первого и второго уровня сражаются более эффективно, когда он рядом. Он также умеет лечить соратников в бою."
+#endregion
+
+#region Великий магистр магов
+#. [unit_type]: id=Mage Magister
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:7
+msgid "Mage Magister"
+msgstr "Великий Магистр Магов"
+
+#. [unit_type]: id=Mage Magister
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:19
+msgid "A Mage Magister, though equivalent in degree to a Great Mage, has special abilities of command and healing derived from extensive experience of battle."
+msgstr "Великий Магистр Магов по званию равен Великому Магу, но при том во многих битвах отточил командирские и лекарские умения."
+#endregion
+
+#region Король Веснота
+#. [unit_type]: id=King of Wesnoth
+#: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:7
+msgid "King of Wesnoth"
+msgstr "Король Веснота"
+
+#. [unit_type]: id=King of Wesnoth
+#: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:15
+msgid "Under the feudal system, all authority ultimately rested with the sovereign. His lords held their property only with his agreement, and had to pay him tribute. In return, the king would defend the realm against invaders, and redistribute wealth in times of need."
+msgstr "При феодальной системе монарх обладал абсолютной властью. Его лорды владели собственностью только с его разрешения, и должны были платить ему дань. В свою очередь, король защищал свои владения от захватчиков, и перераспределял имущество во времена нужды."
+#endregion
+
+#region Шаман леших
+#. [unit_type]: id=Wose Shaman, race=wose
+#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:4
+msgid "Wose Shaman"
+msgstr "Шаман Леших"
+
+#. [unit_type]: id=Wose Shaman, race=wose
+#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:66
+msgid "These woses are able to command forest plants such as vines and creepers to hinder their enemies."
+msgstr "Эти лешие способны приказать ползучим лесным растениям — лозам и плющам — задерживать врагов."
+#endregion
+
+#. [attack]: type=impact
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:20
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:18
+#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:23
+msgid "staff"
+msgstr "посох"
+
+#. [attack]: type=impact
+#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:69
+msgid "crush"
+msgstr "дробящий"
+
+#. [attack]: type=impact
+#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:78
+msgid "entangle"
+msgstr "запутывает"
+
+
+#2 ***** Персонажи *****
+
+#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:6
+msgid "Kalenz"
+msgstr "Каленз"
+
+#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:45
+msgid "Chantal"
+msgstr "Шанталь"
+
+#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:81
+msgid "Ulrek"
+msgstr "Ульрек"
+
+#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:86
+msgid "Methor"
+msgstr "Метор"
+
+
+#2 ***** Стороны *****
+
+#. [side]: type=Journeyman Mage
+#. [side]: type=King of Wesnoth, id=Garard
+#. [side]
+#. [side]: type=King of Wesnoth, id=Garard II
+#: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:30
+#: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:27
+#: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:38
+#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:31
+#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:33
+#: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:211
+#: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:246
+#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:31
+#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:40
+#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:55
+msgid "Player"
+msgstr "Игрок"
+
+#. [side]: type=Rogue, id=Garrath
+#. [side]: type=Bandit, id=Harold
+#. [side]: type=Orcish Warrior, id=Urthaka-Tan
+#. [side]: type=Orcish Warlord, id=Tish Golub
+#. [side]: type=Ancient Wose, id=Ur-Thorodor
+#. [side]: type=Orcish Warrior, id=Tan-Garthak
+#: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:47
+#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:51
+#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:68
+#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:55
+#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:74
+#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:46
+msgid "Enemies"
+msgstr "Противники"
+
+#. [unit]: id=Clogrin, type=Royal Guard
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:236
+msgid "Clogrin"
+msgstr "Клогрин"
+
+#. [unit]: id=Theorsten, type=White Mage
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:244
+msgid "Theorsten"
+msgstr "Теорстен"
+
+#. [unit]: id=Igler, type=White Mage
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:252
+msgid "Igler"
+msgstr "Иглер"
+
+#. [unit]: id=Larsin, type=White Mage
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:260
+msgid "Larsin"
+msgstr "Ларсин"
+
+#. [unit]: id=Aldrin, type=White Mage
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:268
+msgid "Aldrin"
+msgstr "Алдрин"
+
+#. [unit]: id=Gren, type=Shock Trooper
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:276
+msgid "Gren"
+msgstr "Грен"
+
+#. [unit]: id=Droni, type=Shock Trooper
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:284
+msgid "Droni"
+msgstr "Дрони"
+
+#. [unit]: id=Artor, type=Shock Trooper
+#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:292
+msgid "Artor"
+msgstr "Артор"
+
+
+#2 ***** Задачи сценариев *****
+
+#. [objective]: condition=win
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:58
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:660
+#: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:187
+#: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:152
+msgid "Defeat all enemies"
+msgstr "Победить всех противников"
+
+#. [objective]: condition=lose
+#: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:93
+#: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:88
+#: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:120
+#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:98
+#: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:105
+#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:122
+#: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:293
+#: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:63
+#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:116
+#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:233
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:35
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:62
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:664
+#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:334
+#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:190
+#: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:113
+#: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:162
+#: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:303
+#: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:156
+#: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:95
+#: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:79
+msgid "Death of Delfador"
+msgstr "Смерть Делфадора"
+
+#. [objective]: condition=lose
+#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:237
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:39
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:66
+#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:668
+#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:127
+#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:338
+#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:194
+#: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:116
+#: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:103
+#: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:87
+msgid "Death of Chantal"
+msgstr "Смерть Шанталь"
+
+#. [objective]: condition=lose
+#: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:191
+#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:123
+#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:330
+#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:186
+#: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:164
+#: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:112
+#: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:99
+#: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:83
+msgid "Death of Kalenz"
+msgstr "Смерть Каленза"
+
+
+#2 ***** Прочее *****
+
+#. [terrain_type]: id=milestone1
+#. [terrain_type]: id=milestone2
+#: data/campaigns/Delfadors_Memoirs/terrain.cfg:16
+#: data/campaigns/Delfadors_Memoirs/terrain.cfg:25
+msgid "Milestone"
+msgstr "Веха"
+
+# Смерть Делфадора
+#. [message]: speaker=Delfador
+#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:13
+msgid "No! So young..."
+msgstr "Нет! Я так молод..."
+
+# Смерть Лионеля
+#. [message]: speaker=Delfador
+#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:27
+msgid "No! Without Lionel’s help, I am as good as defeated!"
+msgstr "Нет! Без помощи Лионеля я уже, считайте, проиграл!"
+
+# Смерть Шанталь
+#. [message]: speaker=Delfador
+#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:40
+msgid "Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth now..."
+msgstr "Нет! Шанталь... Вы не можете умереть! Прощай, надежда возвратиться в Веснот..."
+
+# Смерть Каленза
+#. [message]: speaker=unit
+#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:54
+msgid "I have been defeated!"
+msgstr "Я побежден!"
+
+# Смерть Герарда II
+#. [message]: speaker=Delfador
+#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:67
+msgid "No! All is now lost..."
+msgstr "Нет! Теперь всё потеряно..."
+
+#
+#. [message]: id=Kalenz
+#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:80
+msgid "No! It’s all over!"
+msgstr "Нет! Конец всему!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Delfadors_Memoirs/utils/generators.cfg:66
+msgid "I call upon all that is holy to break the power of this evil stone!"
+msgstr "Я призываю всё, что есть на свете святого, чтобы сломить силу этого злого камня!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Delfadors_Memoirs/utils/generators.cfg:107
+msgid "Evil emanates from this stone, but I have not the power to destroy it."
+msgstr "Зло исходит от этого камня, но мне не хватает сил разрушить его."
+
+#. [message]: speaker=unit
+#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:17
+msgid "Ahh... I can slake my thirst at this well. Glug, glug glug..."
+msgstr "Ахх... Наконец-то я могу утолить жажду... Глаг, глаг глаг..."
+
+#region Посох молний
+#. [object]: id=staff_lightning
+#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:42
+msgid "Staff of Lightning"
+msgstr "Посох Молний"
+
+#. [object]: id=staff_lightning
+#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:45
+msgid "A wizard’s staff of power. This allows the bearer to summon powerful lightning bolts which strike their enemies, even at close range."
+msgstr "Магический посох силы. Это позволяет владельцу вызывать мощные молнии, которые ударяют его врагов, даже вблизи."
+
+#. [object]: id=staff_lightning
+#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:46
+msgid "Only a powerful mage can wield this."
+msgstr "Только могущественный волшебник может владеть этим."
+
+#. [effect]
+#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:51
+msgid "staff of power"
+msgstr "посох силы"
+
+#. [effect]: type=fire
+#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:71
+msgid "lightning"
+msgstr "молния"
+#endregion
+
+#. [message]: speaker=unit
+#: data/campaigns/Delfadors_Memoirs/utils/misc.cfg:37
+msgid "A secret passage... I wonder where it leads..."
+msgstr "Потайной ход... Интересно, куда он ведет..."
+
+#. [time]: id=land_of_the_dead
+#: data/campaigns/Delfadors_Memoirs/utils/schedules.cfg:5
+msgid "Land of the Dead"
+msgstr "Страна Мёртвых"
+
+
+#1 ********** Вступление **********
 
 #. [scenario]: id=01_Overture
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:3
 msgid "Overture"
 msgstr "Вступление"
 
+#region Персонажи
 #. [side]: type=Mage of Light, id=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:27
 msgid "Marshal"
@@ -124,7 +480,9 @@ msgstr "Третий предсказатель"
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:45
 msgid "Fourth Oracle"
 msgstr "Четвертый предсказатель"
+#endregion
 
+#region Заставка
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:57
 msgid "This is the true story of Delfador the Great from his humble beginnings; the tale of how he became the most famous and powerful of all the mages of Wesnoth."
@@ -154,6 +512,7 @@ msgstr " и"
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:72
 msgid "<i>The Name Journey</i>"
 msgstr "<i>Путешествие за Именем</i>"
+#endregion
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:91
@@ -170,6 +529,7 @@ msgstr "Академия Магии, остров Алдуин."
 msgid "... thorum restro targa thorum..."
 msgstr "... thorum restro targa thorum..."
 
+# Оракулы
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:102
 msgid "Come, O aspirant. The Oracles await you."
@@ -236,6 +596,7 @@ msgstr "Это хорошо."
 msgid "Now, go forth!"
 msgstr "Теперь иди вперед!"
 
+# может, просто проводит?
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:201
 msgid "Your name journey begins. Methor will lead you from this place."
@@ -256,6 +617,9 @@ msgstr "Нас ожидают опасности и испытания. Когд
 msgid "I am ready."
 msgstr "Я готов."
 
+
+#1 ********** 1. Эта долина принадлежит мне **********
+
 #. [scenario]: id=02_This_Valley_Belongs_to_Me
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:3
 msgid "This Valley Belongs to Me"
@@ -266,16 +630,27 @@ msgstr "Эта долина принадлежит мне"
 msgid "Grogor-Tuk"
 msgstr "Грогор-Тук"
 
+#region Заставка
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:54
 msgid "Delfador’s wandering time with Methor took them to many strange places, both within and beyond the lands of men. They studied and practiced, applying magecraft to aid those they traveled among and to deepen their understanding of the hidden currents and powers of the world."
 msgstr "Во время своего путешествия Делфадор с Метором посетили множество странных мест в земле людей и за её пределами. Делфадор обучался и тренировался, применяя магическое ремесло в помощь гостеприимным хозяевам, и чтобы углубить свое знания о скрытых потоках и силах мира."
+#* msgstr "Во время путешествия Делфадор и Метор посетили множество странных мест в земле людей и за её пределами. Делфадор обучался и тренировался, применяя магическое ремесло в помощь гостеприимным хозяевам, и чтобы углубить свои знания о скрытых потоках и силах мира."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:57
 msgid "But the elder mage’s health was taxed by the rigors of the journey. A year after the two left Alduin, Methor settled in a tranquil valley at the edge of the Dulatus Hills, not far southeast of the capitol at Weldyn. He opened a small school of his own, and with Delfador assisting him he began training a handful of youths who might in time be worthy to enter the great Academy on Alduin."
 msgstr "Но здоровье старшего мага было потрепано тяготами путешествия. Через год после ухода из Алдуина, Метор решил осесть в тихой долине на границе Низких Гор, на юго-востоке от столицы в Велдине. Он открыл собственную небольшую школу и, вместе с помогавшим ему Делфадором, начал тренировать горстку молодых учеников, которые могли через некоторое время стать достойными Академии на Алдуине."
+#endregion
 
+#region Задачи сценария
+#. [objective]: condition=win
+#: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:89
+msgid "Defeat Grogor-Tuk"
+msgstr "Убить Грогор-Тука"
+#endregion
+
+#region Начало
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:72
 msgid "Delfador, your time as my apprentice is now almost over. You are a fully-trained mage, and may choose your own path in life. I hope, however, that you will take my advice, and enroll yourself in the service of King Garard. I have many contacts at the court and..."
@@ -295,36 +670,7 @@ msgstr "Надменная тварь! У нас мало что есть, но 
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:84
 msgid "That’s where you are wrong, puny mage. War is coming, humans... War! Take their villages, and spare no-one!"
 msgstr "Тут ты ошибаешься, ничтожный колдунишка. Война приближается, люди... Война! Взять их деревни, никого не щадить!"
-
-#. [objective]: condition=win
-#: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:89
-msgid "Defeat Grogor-Tuk"
-msgstr "Убить Грогор-Тука"
-
-#. [objective]: condition=lose
-#: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:93
-#: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:88
-#: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:120
-#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:98
-#: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:105
-#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:122
-#: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:293
-#: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:63
-#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:116
-#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:233
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:35
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:62
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:664
-#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:334
-#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:190
-#: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:113
-#: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:162
-#: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:303
-#: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:156
-#: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:95
-#: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:79
-msgid "Death of Delfador"
-msgstr "Смерть Делфадора"
+#endregion
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:115
@@ -356,47 +702,18 @@ msgstr "Я буду скорбить по мастеру Метору... Я до
 msgid "And it is no good news I will bring him. Orcs, so far south and so near the capital? This is a dire sign; things are gravely amiss in Wesnoth."
 msgstr "И принесу я ему неодбрые новости. Орки, так далеко на юге, и так близко к столице? Это дурной знак; дела в Весноте сильно не в порядке."
 
+
+#1 ********** 2. Дорога в Велдин **********
+
 #. [scenario]: id=03_The_Road_to_Weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:3
 msgid "The Road to Weldyn"
 msgstr "Дорога в Велдин"
 
-#. [side]: type=Journeyman Mage
-#. [side]: type=King of Wesnoth, id=Garard
-#. [side]
-#. [side]: type=King of Wesnoth, id=Garard II
-#: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:30
-#: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:27
-#: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:38
-#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:31
-#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:33
-#: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:211
-#: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:246
-#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:31
-#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:40
-#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:55
-msgid "Player"
-msgstr "Игрок"
-
 #. [side]: type=Orcish Warrior, id=Urthaka-Tan
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:36
 msgid "Urthaka-Tan"
 msgstr "Уртака-Тан"
-
-#. [side]: type=Rogue, id=Garrath
-#. [side]: type=Bandit, id=Harold
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Orcish Warlord, id=Tish Golub
-#. [side]: type=Ancient Wose, id=Ur-Thorodor
-#. [side]: type=Orcish Warrior, id=Tan-Garthak
-#: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:47
-#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:51
-#: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:68
-#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:55
-#: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:74
-#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:46
-msgid "Enemies"
-msgstr "Противники"
 
 #. [label]
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:68
@@ -478,6 +795,9 @@ msgstr "Всегда пожалуйста... но мне интересно, ч�
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:194
 msgid "Perhaps some of our lads had better go with you as far as Weldyn. These lands are not safe for a lone traveler, and we may learn what drew the orcs so far south."
 msgstr "Пожалуй, будет лучше, если кое-кто из наших ребят проводит тебя до Велдина. В этих местах опасно путешествовать в одиночку, и мы сможем узнать, что завело орков так далеко на юг."
+
+
+#1 ********** 3. Леоллин **********
 
 #. [unit]: type=Arch Mage, id=Leollyn
 #. [side]: type=Arch Mage, id=Leollyn
@@ -598,6 +918,9 @@ msgstr "Вы имеете в виду Гарарда, короля Веснот�
 msgid "Of course — do you know any other kings by that name? I was one of his father’s most trusted advisors until he passed away earlier this year, and I still have the son’s ear, though being young he listens perhaps less well than he should."
 msgstr "Конечно, а ты знаешь других королей под таким же именем? Я был одним из самых доверенных советников его отца, пока он не скончался в начале этого года. Теперь я советник Гарарда, хотя он по молодости и прислушивается ко мне гораздо меньше, чем следовало бы."
 
+
+#1 ********** 4. Совет в Велдине **********
+
 #. [scenario]: id=05_Council_in_Weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:3
 msgid "Council in Weldyn"
@@ -677,6 +1000,9 @@ msgstr "Если так я могу помочь, то я охотно сдел�
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:158
 msgid "Then you shall! Lionel and his men will accompany you, for you will need more than magic for protection on the road... especially where you’ll be going, into the wild country north of Tath. It is a chancy place at the best of times, and orcs may already be raiding south of the Ford."
 msgstr "Тогда иди! Лионель со своими людьми будет сопровождать тебя, так как одна магия тебя на дороге не защитит... Особенно там, куда ты идёшь, в дикой стране к северу от Тата. Там и в лучшие времена было опасно, а сейчас орки могут напасть и южнее Переправы."
+
+
+#1 ********** 5. Болота Иллювен **********
 
 #. [scenario]: id=06_Swamps_of_Illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:3
@@ -771,6 +1097,9 @@ msgstr "Конечно, они пожалеют! Ха ха ха!"
 msgid "This chest contains all the money that rogue has taken from unwary travelers!"
 msgstr "В этом сундуке — все деньги, которые этот мерзавец забрал у неосторожных путешественников!"
 
+
+#1 ********** 6. Ночь в болоте **********
+
 #. [scenario]: id=07_Night_in_the_Swamp
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:3
 msgid "Night in the Swamp"
@@ -830,6 +1159,9 @@ msgstr "Наконец-то наступило утро!"
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:193
 msgid "I hope I never see another night like that! Let’s leave this evil place as quickly as possible — I want to get us out of Illuven before dusk."
 msgstr "Я надеюсь, что мне не доведется пережить еще одну такую ночку! Давайте уйдем из этого злого места побыстрее — я хочу вывести нас из Иллювена до сумерек."
+
+
+#1 ********** 7. Ур-Фородор **********
 
 #. [side]: type=Ancient Wose, id=Ur-Thorodor
 #. [scenario]: id=08_Ur-Thorodor
@@ -961,6 +1293,9 @@ msgstr "Легко узнать ... ударь и посмотри, проснё
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:282
 msgid "<i>Thump</i>!"
 msgstr "<i>Стук</i>!"
+
+
+#1 ********** 8. Дома мертвых **********
 
 #. [message]: speaker={STRING}
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:59
@@ -1253,6 +1588,9 @@ msgstr "Я... Я служу жизни, а не смерти. Любви, а н�
 msgid "IT IS WELL. Take up, O servant of light, the Staff of An-Usrukhar. The trials before you will be great. So is its power."
 msgstr "ХОРОШО. Подними, о слуга света, Посох Ан-Усрухара. Тебе предстоят великие испытания — но таково и его могущество."
 
+
+#1 ********** 9. Врата между мирами **********
+
 #. [scenario]: id=10_The_Gate_Between_Worlds
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:3
 msgid "The Gate Between Worlds"
@@ -1321,6 +1659,9 @@ msgstr "Следуй за мной, если ты осмелишься..."
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:248
 msgid "This portal Iliah-Malal has created is a great and terrible work of magic. I must catch him, and somehow force him to close it!"
 msgstr "Портал, созданный Илиа-Малалом — великое и ужасное творение магии. Я должен поймать его, и как-то заставить закрыть его!"
+
+
+#1 ********** 10. Пустошь **********
 
 #. [scenario]: id=11_Wasteland
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:3
@@ -1432,24 +1773,13 @@ msgstr "Это будет нелегко. Армия орков располож
 msgid "Attacked by orcs? Then I might perhaps help you to defeat them, and repay your assistance and kindness!"
 msgstr "На вас нападают? Тогда я мог бы помочь вам победить их, и воздать за вашу помощь и доброту!"
 
-#. [objective]: condition=lose
-#: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:237
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:39
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:66
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:668
-#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:127
-#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:338
-#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:194
-#: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:116
-#: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:103
-#: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:87
-msgid "Death of Chantal"
-msgstr "Смерть Шанталь"
-
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:258
 msgid "With your help, Delfador, we have overrun the orcish warlord of this area, and our forests are secure. Secure enough that I can even join you in your journey south... at least as far as the Great River."
 msgstr "С твоей помощью, Делфадор, мы уничтожили военачальника этой области, и теперь наши леса безопасны. Достаточно безопасны для того, чтобы я могла присоединиться к тебе по дороге... по крайней мере, до Великой Реки."
+
+
+#1 ********** 11. Ужас у Парфинской переправы **********
 
 #. [scenario]: id=12_Terror_at_the_Ford_of_Parthyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:5
@@ -1460,14 +1790,6 @@ msgstr "Ужас у Парфинской Переправы"
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:31
 msgid "Find out what is happening at the Ford"
 msgstr "Разузнайте, что происходит у Переправы"
-
-#. [objective]: condition=win
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:58
-#: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:660
-#: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:187
-#: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:152
-msgid "Defeat all enemies"
-msgstr "Победить всех противников"
 
 #. [side]: type=Orcish Warlord, id=Upgar
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:109
@@ -1900,6 +2222,9 @@ msgstr "Они освободили вторую волну. Солдаты, у�
 msgid "This is hopeless. Many more enemies are coming, while our numbers are limited."
 msgstr "Это безнадёжно. Врагам нет конца, а нас все меньше."
 
+
+#1 ********** 12. Неприятности возвращаются **********
+
 #. [scenario]: id=13_The_Return_of_Trouble
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:4
 msgid "The Return of Trouble"
@@ -1942,18 +2267,6 @@ msgstr "Крардул"
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:173
 msgid "Clartakis"
 msgstr "Клартакис"
-
-#. [objective]: condition=lose
-#: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:191
-#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:123
-#: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:330
-#: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:186
-#: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:164
-#: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:112
-#: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:99
-#: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:83
-msgid "Death of Kalenz"
-msgstr "Смерть Каленза"
 
 #. [message]: id=Tan-drul
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:208
@@ -2044,6 +2357,9 @@ msgstr "Я испытала его своими лечебными силами.
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:302
 msgid "Then we must aid him, and I must meet him. The King of Wesnoth is just a king; it is inner strength such as you describe that will turn back the darkness, if anything can. West, to the Ford of Abez!"
 msgstr "Тогда мы должны помочь ему, и я должен встретить его. Король Веснота — всего лишь король, а его внутренняя сила, если она такая, как ты говоришь, может спасти нас от тьмы, если вообще что-то может от неё спасти. На запад, к Переправе Абез!"
+
+
+#1 ********** 13. Тени в темноте **********
 
 #. [scenario]: id=14_Shadows_in_the_Dark
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:4
@@ -2236,6 +2552,9 @@ msgstr "Я не думаю, что кто-то может быть в безоп
 msgid "Yes. We will follow you to the Ford of Abez, Delfador. Let us hope we are not too late to prevent an orcish victory there."
 msgstr "Мы проводим тебя до Переправы Абез, Делфадор. Будем надеяться, что мы не слишком задержались, чтобы остановить орков."
 
+
+#1 ********** 14. Спасти короля **********
+
 #. [scenario]: id=15_Save_the_King
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:4
 msgid "Save the King"
@@ -2405,6 +2724,9 @@ msgstr "Рондагер"
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:413
 msgid "For the King!"
 msgstr "За короля!"
+
+
+#1 ********** 15. Темные небеса над Велдином **********
 
 #. [scenario]: id=16_Dark_Sky_Over_Weldyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:3
@@ -2595,6 +2917,9 @@ msgstr "Но тяжёлая пехота слишком медленна! А м�
 msgid "Delfador could. You will command the heavy infantry. Make sure to shield the mages in battle, for they are precious. Now, go, close the portal and come back soon!"
 msgstr "Делфадор сможет. Ты будешь командовать тяжёлой пехотой. Убедись, что маги защищены во время битвы, так как они очень ценны. Теперь иди, закрой портал и возвращайся скорее!"
 
+
+#1 ********** 16. Новый союзник **********
+
 #. [scenario]: id=17_A_New_Ally
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:3
 msgid "A New Ally"
@@ -2719,6 +3044,9 @@ msgstr "Теперь, когда вождь гномов убит, мы не м�
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:259
 msgid "Relgorn fell! Quickly, run for yer lives!"
 msgstr "Релгорн побежден! Быстрее, бегите, спасайте свои жизни!"
+
+
+#1 ********** 17. Портал Смерти **********
 
 #. [scenario]: id=18_The_Portal_of_Doom
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:3
@@ -2874,6 +3202,9 @@ msgstr "Убить их всех!"
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:517
 msgid "Fool! You could not kill me in the land of the dead, nor can you in the land of the living! I transcend both death and life, and I will return to destroy you!"
 msgstr "Глупец! Ты не смог убить меня в Стране Мёртвых, и ты не сможешь сделать это в Стране Живых! Я перешёл границу жизни и смерти, и я вернусь, чтобы уничтожить тебя!"
+
+
+#1 ********** 18. Поединок в Северном болоте **********
 
 #. [scenario]: id=19_Showdown_in_the_Northern_Swamp
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:4
@@ -3051,6 +3382,9 @@ msgstr "А портал, закрыт ли он навсегда?"
 msgid "Yes, it is. But it was too great a work of magic to be entirely undone; there is a flaw still remaining, a trace of Iliah-Malal’s way between worlds. Raising undead will be a little easier in the future than it has been before. Those who come after us will have to be vigilant against the corruption of the dark arts, and show themselves worthy of the land they live in."
 msgstr "Да. Но Илиа-Малал совершил слишком большую работу, чтобы отменить её в одночасье. Всё ещё есть щель, след Илиа-Малала между мирами. В будущем воскрешать мертвецов станет немного легче, чем раньше. Те, кто будет жить после нас, должны устоять перед искушением тёмного искусства, и показать себя достойными страны, в которой они будут жить."
 
+
+#1 ********** 19. Принц Веснота **********
+
 #. [scenario]: id=20_Prince_of_Wesnoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:4
 msgid "Prince of Wesnoth"
@@ -3146,6 +3480,9 @@ msgstr "Может быть и так. Теперь я думаю, что мне
 msgid "We are too late! All is lost!"
 msgstr "Мы опоздали! Все потеряно!"
 
+
+#1 ********** 20. Столкновение в поместье **********
+
 #. [scenario]: id=21_Clash_at_the_Manor
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:4
 msgid "Clash at the Manor"
@@ -3228,6 +3565,9 @@ msgstr "Хм, выглядит как потайной ход. Посмотри�
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:269
 msgid "Reinforcements on the horizon. We are too late!"
 msgstr "Подкрепление на горизонте. Мы опоздали!"
+
+
+#1 ********** 21. Лицо врага **********
 
 #. [scenario]: id=22_Face_of_the_Enemy
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:4
@@ -3314,6 +3654,9 @@ msgstr "Книга вернулась к нам, но ценой потерь. �
 msgid "We are too late! Royal troops are coming! We are trapped!"
 msgstr "Мы опоздали! Королевские войска приближаются! Мы в ловушке!"
 
+
+#1 ********** Эпилог **********
+
 #. [scenario]: id=23_Epilogue
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_Epilogue.cfg:3
 msgid "Epilogue"
@@ -3333,226 +3676,6 @@ msgstr "Последнее знаменитое приключение Делф�
 #: data/campaigns/Delfadors_Memoirs/scenarios/23_Epilogue.cfg:24
 msgid "After restoring the rightful heir to the throne of Wesnoth, Delfador lived the rest of his life as an advisor to the new rulers. He devoted much of his attention to restoring the Great Academy in Alduin to its former glory. But his efforts there were to bear little fruit in his lifetime; for through many years of war and strife, very few mages were left, and none of them came near in power and skill to Delfador, greatest mage ever to grace the courts of Wesnoth."
 msgstr "После возвращения на трон законного правителя Веснота Делфадор прожил остаток своей жизни в качестве советника новых правителей. Много внимания он уделил на то, чтобы восстановить былую славу Великой Академии на Алдуине. Но все его усилия не увенчались особым успехом: слишком мало магов осталось после долгих лет войны и борьбы, и ни один из них не мог сравниться в могуществе и опыте с Делфадором, величайшим магом из всех, что служили при дворе Веснота."
-
-#. [terrain_type]: id=milestone1
-#. [terrain_type]: id=milestone2
-#: data/campaigns/Delfadors_Memoirs/terrain.cfg:16
-#: data/campaigns/Delfadors_Memoirs/terrain.cfg:25
-msgid "Milestone"
-msgstr "Веха"
-
-#. [unit_type]: id=Journeyman Mage
-#: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
-msgid "Journeyman Mage"
-msgstr "Маг подмастерье"
-
-#. [unit_type]: id=Journeyman Mage
-#: data/campaigns/Delfadors_Memoirs/units/Journeyman_Mage.cfg:13
-msgid "A mage who has just finished his apprenticeship is known as a journeyman. Journeyman mages travel far in search of employment and experience."
-msgstr "Маг, который только что закончил ученичество называется подмастерьем. Эти маги путешествуют в поисках работы и опыта."
-
-#. [unit_type]: id=King of Wesnoth
-#: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:7
-msgid "King of Wesnoth"
-msgstr "Король Веснота"
-
-#. [unit_type]: id=King of Wesnoth
-#: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:15
-msgid "Under the feudal system, all authority ultimately rested with the sovereign. His lords held their property only with his agreement, and had to pay him tribute. In return, the king would defend the realm against invaders, and redistribute wealth in times of need."
-msgstr "При феодальной системе монарх обладал абсолютной властью. Его лорды владели собственностью только с его разрешения, и должны были платить ему дань. В свою очередь, король защищал свои владения от захватчиков, и перераспределял имущество во времена нужды."
-
-#. [unit_type]: id=Mage Commander
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:7
-msgid "Mage Commander"
-msgstr "Командир Магов"
-
-#. [unit_type]: id=Mage Commander
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:16
-msgid "This mage has gained much experience leading others into battle. As a result, level 1 and 2 units fight more effectively when they are adjacent to him. He also has the power to heal others during combat."
-msgstr "Этот маг получил богатый боевой и командирский опыт. В результате, бойцы первого и второго уровня сражаются более эффективно, когда он рядом. Он также умеет лечить соратников в бою."
-
-#. [attack]: type=impact
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Commander.cfg:20
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:18
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:23
-msgid "staff"
-msgstr "посох"
-
-#. [unit_type]: id=Mage Leader
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:7
-msgid "Mage Leader"
-msgstr "Лидер Магов"
-
-#. [unit_type]: id=Mage Leader
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Leader.cfg:15
-msgid "This mage has gained some experience leading others into battle. As a result, level 1 units fight more effectively when they are adjacent to him."
-msgstr "Этот маг обладает некоторым боевым и командирским опытом. В результате, бойцы первого уровня сражаются более эффективно, когда он рядом."
-
-#. [unit_type]: id=Mage Magister
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:7
-msgid "Mage Magister"
-msgstr "Великий Магистр Магов"
-
-#. [unit_type]: id=Mage Magister
-#: data/campaigns/Delfadors_Memoirs/units/Mage_Magister.cfg:19
-msgid "A Mage Magister, though equivalent in degree to a Great Mage, has special abilities of command and healing derived from extensive experience of battle."
-msgstr "Великий Магистр Магов по званию равен Великому Магу, но при том во многих битвах отточил командирские и лекарские умения."
-
-#. [unit_type]: id=Wose Shaman, race=wose
-#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:4
-msgid "Wose Shaman"
-msgstr "Шаман Леших"
-
-#. [unit_type]: id=Wose Shaman, race=wose
-#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:66
-msgid "These woses are able to command forest plants such as vines and creepers to hinder their enemies."
-msgstr "Эти лешие способны приказать ползучим лесным растениям — лозам и плющам — задерживать врагов."
-
-#. [attack]: type=impact
-#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:69
-msgid "crush"
-msgstr "дробящий"
-
-#. [attack]: type=impact
-#: data/campaigns/Delfadors_Memoirs/units/Wose_Shaman.cfg:78
-msgid "entangle"
-msgstr "запутывает"
-
-#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:6
-msgid "Kalenz"
-msgstr "Каленз"
-
-#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:45
-msgid "Chantal"
-msgstr "Шанталь"
-
-#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:81
-msgid "Ulrek"
-msgstr "Ульрек"
-
-#: data/campaigns/Delfadors_Memoirs/utils/characters.cfg:86
-msgid "Methor"
-msgstr "Метор"
-
-#. [message]: speaker=Delfador
-#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:13
-msgid "No! So young..."
-msgstr "Нет! Я так молод..."
-
-#. [message]: speaker=Delfador
-#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:27
-msgid "No! Without Lionel’s help, I am as good as defeated!"
-msgstr "Нет! Без помощи Лионеля я уже, считайте, проиграл!"
-
-#. [message]: speaker=Delfador
-#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:40
-msgid "Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth now..."
-msgstr "Нет! Шанталь... Вы не можете умереть! Прощай, надежда возвратиться в Веснот..."
-
-#. [message]: speaker=unit
-#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:54
-msgid "I have been defeated!"
-msgstr "Я побежден!"
-
-#. [message]: speaker=Delfador
-#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:67
-msgid "No! All is now lost..."
-msgstr "Нет! Теперь всё потеряно..."
-
-#. [message]: id=Kalenz
-#: data/campaigns/Delfadors_Memoirs/utils/deaths.cfg:80
-msgid "No! It’s all over!"
-msgstr "Нет! Конец всему!"
-
-#. [message]: speaker=unit
-#: data/campaigns/Delfadors_Memoirs/utils/generators.cfg:66
-msgid "I call upon all that is holy to break the power of this evil stone!"
-msgstr "Я призываю всё, что есть на свете святого, чтобы сломить силу этого злого камня!"
-
-#. [message]: speaker=unit
-#: data/campaigns/Delfadors_Memoirs/utils/generators.cfg:107
-msgid "Evil emanates from this stone, but I have not the power to destroy it."
-msgstr "Зло исходит от этого камня, но мне не хватает сил разрушить его."
-
-#. [message]: speaker=unit
-#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:17
-msgid "Ahh... I can slake my thirst at this well. Glug, glug glug..."
-msgstr "Ахх... Наконец-то я могу утолить жажду... Глаг, глаг глаг..."
-
-#. [object]: id=staff_lightning
-#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:42
-msgid "Staff of Lightning"
-msgstr "Посох Молний"
-
-#. [object]: id=staff_lightning
-#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:45
-msgid "A wizard’s staff of power. This allows the bearer to summon powerful lightning bolts which strike their enemies, even at close range."
-msgstr "Магический посох силы. Это позволяет владельцу вызывать мощные молнии, которые ударяют его врагов, даже вблизи."
-
-#. [object]: id=staff_lightning
-#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:46
-msgid "Only a powerful mage can wield this."
-msgstr "Только могущественный волшебник может владеть этим."
-
-#. [effect]
-#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:51
-msgid "staff of power"
-msgstr "посох силы"
-
-#. [effect]: type=fire
-#: data/campaigns/Delfadors_Memoirs/utils/items.cfg:71
-msgid "lightning"
-msgstr "молния"
-
-#. [message]: speaker=unit
-#: data/campaigns/Delfadors_Memoirs/utils/misc.cfg:37
-msgid "A secret passage... I wonder where it leads..."
-msgstr "Потайной ход... Интересно, куда он ведет..."
-
-#. [time]: id=land_of_the_dead
-#: data/campaigns/Delfadors_Memoirs/utils/schedules.cfg:5
-msgid "Land of the Dead"
-msgstr "Страна Мёртвых"
-
-#. [unit]: id=Clogrin, type=Royal Guard
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:236
-msgid "Clogrin"
-msgstr "Клогрин"
-
-#. [unit]: id=Theorsten, type=White Mage
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:244
-msgid "Theorsten"
-msgstr "Теорстен"
-
-#. [unit]: id=Igler, type=White Mage
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:252
-msgid "Igler"
-msgstr "Иглер"
-
-#. [unit]: id=Larsin, type=White Mage
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:260
-msgid "Larsin"
-msgstr "Ларсин"
-
-#. [unit]: id=Aldrin, type=White Mage
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:268
-msgid "Aldrin"
-msgstr "Алдрин"
-
-#. [unit]: id=Gren, type=Shock Trooper
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:276
-msgid "Gren"
-msgstr "Грен"
-
-#. [unit]: id=Droni, type=Shock Trooper
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:284
-msgid "Droni"
-msgstr "Дрони"
-
-#. [unit]: id=Artor, type=Shock Trooper
-#: data/campaigns/Delfadors_Memoirs/utils/sides.cfg:292
-msgid "Artor"
-msgstr "Артор"
 
 
 #1 ---------- Старые убранные строки ----------

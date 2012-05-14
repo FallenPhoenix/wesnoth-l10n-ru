@@ -439,7 +439,7 @@ msgstr "Некогда великие воины равнин, эти всадн
 #endregion
 
 
-#3 ** Атаки **
+#3 *** Атаки ***
 
 #. [attack]: type=blade
 #: data/campaigns/Liberty/units/Death_Squire.cfg:32
