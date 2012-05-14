@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-16 12:43+0100\n"
+"POT-Creation-Date: 2012-01-21 01:34+0100\n"
 "PO-Revision-Date: 2012-01-14 20:18+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -467,69 +467,69 @@ msgid "The orcish chieftain finally fell, overcome by his wounds. The elves foun
 msgstr "Раны наконец одолели вождя орков, и он пал. Эльфы заняли полуразрушенный лагерь, усыпанный телами друзей и врагов. Ни один орк не сдался, ни один из раненых не попросил пощады. Эльфы не взяли ни единого пленника. "
 
 #. [message]: role=Adviser
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:233
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:241
 msgid "It’s done, lord. No-one escaped. No-one tried to escape. I’m... disturbed."
 msgstr "Кончено, мой господин. Никто не ушёл. Никто и не пытался уйти. Я... меня это тревожит."
 
 #. [message]: id=Erlornas
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:237
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:245
 msgid "Good. But their disregard for self-preservation is astounding. As is their ferocity when defending what they claim as their own. Have the scouts found others this side of the hills?"
 msgstr "Хорошо. Но я поражён их презрением к собственной жизни. И тем, как беспощадно они защищают то, что объявили своим. Разведчики нашли кого-нибудь с этой стороны холмов?"
 
 #. [message]: role=Adviser
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:241
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:249
 msgid "No, lord. But trolls were spotted in the hills ahead. Do we really need to cross them to the north?"
 msgstr "Нет, господин. Но впереди в холмах замечены тролли. Нам действительно нужно идти на север?"
 
 #. [message]: id=Erlornas
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:245
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:253
 msgid "Yes. The council has spoken to me through a dream-sending. They are troubled. Reinforcements have been sent after us, but we need to press on. Tell the men to rest, we’ll move out at dawn."
 msgstr "Да. Совет говорил со мной во сне. Они обеспокоены. К нам послано подкрепление, но мы должны двигаться вперёд. Вели солдатам отдыхать — мы выходим на заре."
 
 #. [message]: role=Adviser
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:255
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:263
 msgid "What about the loot lord? We found supplies worth over a hundred gold in the camp."
 msgstr "Что делать с добычей, господин? Мы нашли пищи почти на сотню золотых."
 
 #. [message]: id=Erlornas
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:259
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:267
 msgid "Distribute some among the men, save the rest for the road. This country is a wasteland now; we won’t find much forage on the march."
 msgstr "Раздели часть среди воинов, а остальное припаси в дорогу. Эти земли теперь пустынны; мы не найдём много съестного в пути."
 
 #. [message]: role=Adviser
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:275
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:283
 msgid "We found some supplies when searching the camp, but nothing much. What is to be done with them?"
 msgstr "Мы нашли кое-какие припасы, пока обыскивали лагерь, но ничего существенного. Как ими распорядиться?"
 
 #. [message]: id=Erlornas
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:279
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:287
 msgid "Save it for the march north. There is little to be found in this barren country."
 msgstr "Сохрани их для марша на север. Мы немногое найдём в этих пустынных землях."
 
 #. [message]: speaker=narrator
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:308
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:316
 #| msgid "Lord Erlornas never saw the blade that felled him. He died on the spot, with no a chance to issue last commands or farewells. Without him his wardens soon fell into confusion, and losing heart withdrew from the battle."
 msgid "Lord Erlornas never saw the blade that felled him. He died on the spot, with not a chance to issue last commands or farewells. Without him his wardens soon fell into confusion, and losing heart withdrew from the battle."
 msgstr "Лорд Эрлорнас так и не увидел клинка, что убил его. Он умер мгновенно, не успев отдать последний приказ и сказать прощальных слов. Без своего лидера его подчинённые растерялись и с поникшими головами покинули поле битвы."
 
 #. [message]: speaker=narrator
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:313
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:321
 msgid "When reinforcements finally arrived, elves managed to dislodge the orcish tribe. But the threat from the north remained unresolved and loomed large over their future."
 msgstr "Когда наконец прибыло подкрепление, эльфы смогли выбить орочье племя. Однако угроза с севера не была отведена и нависла огромным облаком над их будущим."
 
 #. [message]: role=Adviser
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:323
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:339
 #| msgid "We can’t carry on Lord, the men are to tired. We have to fall back."
 msgid "We can’t carry on Lord, the men are too tired. We have to fall back."
 msgstr "Мы не можем продолжать, мой господин, наши воины слишком утомлены. Мы должны отступить."
 
 #. [message]: id=Erlornas
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:327
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:343
 msgid "Damn it. Sound the retreat, we’ll try again when reinforcements arrive."
 msgstr "Проклятье! Трубите отбой, мы попробуем снова, когда придёт подкрепление."
 
 #. [message]: speaker=narrator
-#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:331
+#: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:347
 msgid "The expected relief caught up with them a few days later. The following morning they took the field against a far larger host of orcs. The battle ended in a draw; the war raged on for years..."
 msgstr "Долгожданная подмога догнала их несколько дней спустя. Следующим же утром они вышли против значительно превосходящих сил орков. Ни одна из сторон не смогла выиграть битву; долгие годы полыхало пламя войны..."
 

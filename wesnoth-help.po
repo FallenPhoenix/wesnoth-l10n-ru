@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-06 11:47+0100\n"
+"POT-Creation-Date: 2012-01-21 01:34+0100\n"
 "PO-Revision-Date: 2012-01-14 20:18+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -2228,13 +2228,13 @@ msgstr "<header>text='Бойцы с такой особенностью оруж
 
 #region Берсерк
 #. [berserk]: id=berserk
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:819
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:820
 #: data/core/macros/abilities.cfg:582
 msgid "berserk"
 msgstr "берсерк"
 
 #. [berserk]: id=berserk
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:822
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:823
 #: data/core/macros/abilities.cfg:584
 msgid ""
 "Berserk:\n"
@@ -2246,13 +2246,13 @@ msgstr ""
 
 #region Бьёт первым
 #. [firststrike]: id=firststrike
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:850
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:851
 #: data/core/macros/abilities.cfg:717
 msgid "firststrike"
 msgstr "бьёт первым"
 
 #. [firststrike]: id=firststrike
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:853
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:854
 #: data/core/macros/abilities.cfg:719
 msgid ""
 "First Strike:\n"
@@ -2264,13 +2264,13 @@ msgstr ""
 
 #region Магия
 #. [chance_to_hit]: id=magical
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:835
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:836
 #: data/core/macros/abilities.cfg:668
 msgid "magical"
 msgstr "магия"
 
 #. [chance_to_hit]: id=magical
-#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:838
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:839
 #: data/core/macros/abilities.cfg:670
 msgid ""
 "Magical:\n"

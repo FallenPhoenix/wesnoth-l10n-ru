@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-06 11:47+0100\n"
+"POT-Creation-Date: 2012-01-22 15:00+0100\n"
 "PO-Revision-Date: 2012-01-14 20:18+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -1271,7 +1271,7 @@ msgstr "Это некорректный сценарий: в нём не зад�
 #: data/themes/default.cfg:233
 #: data/themes/dfool.cfg:267
 #: data/themes/experimental.cfg:206
-#: data/themes/widescreen.cfg:287
+#: data/themes/widescreen.cfg:285
 msgid "gold"
 msgstr "золото"
 
@@ -1279,7 +1279,7 @@ msgstr "золото"
 #: data/themes/default.cfg:242
 #: data/themes/dfool.cfg:276
 #: data/themes/experimental.cfg:215
-#: data/themes/widescreen.cfg:296
+#: data/themes/widescreen.cfg:294
 msgid "villages"
 msgstr "деревни"
 
@@ -1287,7 +1287,7 @@ msgstr "деревни"
 #: data/themes/default.cfg:251
 #: data/themes/dfool.cfg:285
 #: data/themes/experimental.cfg:224
-#: data/themes/widescreen.cfg:305
+#: data/themes/widescreen.cfg:303
 msgid "units"
 msgstr "бойцы"
 
@@ -1295,7 +1295,7 @@ msgstr "бойцы"
 #: data/themes/default.cfg:260
 #: data/themes/dfool.cfg:294
 #: data/themes/experimental.cfg:233
-#: data/themes/widescreen.cfg:314
+#: data/themes/widescreen.cfg:312
 msgid "upkeep"
 msgstr "содержание"
 
@@ -1303,7 +1303,7 @@ msgstr "содержание"
 #: data/themes/default.cfg:269
 #: data/themes/dfool.cfg:303
 #: data/themes/experimental.cfg:242
-#: data/themes/widescreen.cfg:323
+#: data/themes/widescreen.cfg:321
 msgid "income"
 msgstr "доход"
 
@@ -1323,8 +1323,8 @@ msgstr "осталось времени на этот ход"
 #: data/themes/default.cfg:214
 #: data/themes/dfool.cfg:238
 #: data/themes/experimental.cfg:188
-#: data/themes/widescreen.cfg:247
-#: data/themes/widescreen.cfg:268
+#: data/themes/widescreen.cfg:246
+#: data/themes/widescreen.cfg:266
 #: src/menu_events.cpp:216
 #: src/unit.cpp:2450
 #: src/unit.cpp:2621
@@ -1336,8 +1336,8 @@ msgstr "ЗД"
 #: data/themes/default.cfg:223
 #: data/themes/dfool.cfg:248
 #: data/themes/experimental.cfg:197
-#: data/themes/widescreen.cfg:256
-#: data/themes/widescreen.cfg:277
+#: data/themes/widescreen.cfg:255
+#: data/themes/widescreen.cfg:275
 #: src/menu_events.cpp:218
 #: src/menu_events.cpp:889
 msgid "XP"
@@ -1353,8 +1353,8 @@ msgstr "ЧХ"
 #: data/themes/default.cfg:431
 #: data/themes/dfool.cfg:473
 #: data/themes/experimental.cfg:376
-#: data/themes/widescreen.cfg:502
-#: data/themes/widescreen.cfg:629
+#: data/themes/widescreen.cfg:500
+#: data/themes/widescreen.cfg:626
 msgid "statuspanel^level"
 msgstr "уровень"
 
@@ -1362,8 +1362,8 @@ msgstr "уровень"
 #. [selected_unit_moves]: id=selected-unit-moves
 #: data/themes/default.cfg:461
 #: data/themes/experimental.cfg:406
-#: data/themes/widescreen.cfg:532
-#: data/themes/widescreen.cfg:659
+#: data/themes/widescreen.cfg:530
+#: data/themes/widescreen.cfg:656
 msgid "statuspanel^moves"
 msgstr "ходов"
 
@@ -1371,8 +1371,8 @@ msgstr "ходов"
 #. [selected_unit_defense]: id=selected-unit-defense
 #: data/themes/default.cfg:470
 #: data/themes/experimental.cfg:415
-#: data/themes/widescreen.cfg:541
-#: data/themes/widescreen.cfg:668
+#: data/themes/widescreen.cfg:539
+#: data/themes/widescreen.cfg:665
 msgid "statuspanel^terrain def."
 msgstr "защита здесь"
 
@@ -1427,7 +1427,7 @@ msgstr "Особенность: "
 #: data/themes/default.cfg:121
 #: data/themes/dfool.cfg:140
 #: data/themes/experimental.cfg:102
-#: data/themes/widescreen.cfg:147
+#: data/themes/widescreen.cfg:146
 msgid "Menu"
 msgstr "Меню"
 
@@ -1439,21 +1439,21 @@ msgstr "Вернуться к ходу "
 #: data/themes/default.cfg:132
 #: data/themes/dfool.cfg:151
 #: data/themes/experimental.cfg:113
-#: data/themes/widescreen.cfg:158
+#: data/themes/widescreen.cfg:157
 msgid "Actions"
 msgstr "Действия"
 
 #. [menu]: id=button-endturn
 #: data/themes/default.cfg:155
 #: data/themes/dfool.cfg:166
-#: data/themes/widescreen.cfg:188
+#: data/themes/widescreen.cfg:187
 msgid "End Turn"
 msgstr "Конец хода"
 
 #. [menu]: id=button-endturn
 #: data/themes/default.cfg:156
 #: data/themes/dfool.cfg:167
-#: data/themes/widescreen.cfg:189
+#: data/themes/widescreen.cfg:188
 msgid "End Scenario"
 msgstr "Конец сценария"
 
@@ -1659,19 +1659,19 @@ msgstr "Вы действительно хотите от неё избавит�
 
 #region Диалог битвы
 # Заголовок диалога
-#: src/mouse_events.cpp:808
-#: src/mouse_events.cpp:888
+#: src/mouse_events.cpp:834
+#: src/mouse_events.cpp:914
 msgid "Attack Enemy"
 msgstr "Атаковать противника"
 
-#: src/mouse_events.cpp:889
+#: src/mouse_events.cpp:915
 msgid "Choose weapon:"
 msgstr "Выберите оружие:"
 
 
 # И заголовок диалога, и кнопка для его вызова
 #: src/attack_prediction_display.cpp:545
-#: src/mouse_events.cpp:878
+#: src/mouse_events.cpp:904
 msgid "Damage Calculations"
 msgstr "Подсчёт урона"
 
@@ -1711,7 +1711,7 @@ msgid "Total damage"
 msgstr "Всего повреждений"
 
 #: src/attack_prediction_display.cpp:261
-#: src/mouse_events.cpp:809
+#: src/mouse_events.cpp:835
 msgid "No usable weapon"
 msgstr "Нет подходящего оружия"
 
@@ -1731,7 +1731,7 @@ msgid "In this scenario, you may issue instructions to an allied side by right-c
 msgstr "В этом сценарии вы можете давать указания союзным бойцам, используя их контекстное меню."
 
 #. [set_menu_item]: id=ai_controller_leader_control_{CONTROLLED_SIDE}
-#: data/core/macros/ai.cfg:526
+#: data/core/macros/ai.cfg:523
 msgid "Ask $ally_leader.name (leader of side $ally_leader.side) to move here"
 msgstr "Попросить $ally_leader.name (лидера фракции $ally_leader.side) прийти сюда"
 
@@ -2131,11 +2131,11 @@ msgid "Failed teleport! Exit not empty"
 msgstr "Телепорт не удался. Пункт назначения не пуст."
 
 
-#: src/play_controller.cpp:1361
+#: src/play_controller.cpp:1362
 msgid "The game is out of sync. It might not make much sense to continue. Do you want to save your game?"
 msgstr "Ошибка синхронизации, нет смысла продолжать. Вы хотите сохранить игру?"
 
-#: src/play_controller.cpp:1362
+#: src/play_controller.cpp:1363
 #: src/replay_controller.cpp:322
 msgid "Error details:"
 msgstr "Подробности ошибки:"
@@ -2173,11 +2173,11 @@ msgstr "Ход сменился"
 msgid "Undoing moves not yet transmitted to the server."
 msgstr "Отмена ходов, не переданных на сервер."
 
-#: src/playmp_controller.cpp:396
+#: src/playmp_controller.cpp:398
 msgid "Waiting for next scenario..."
 msgstr "Ждем следующего сценария..."
 
-#: src/playmp_controller.cpp:529
+#: src/playmp_controller.cpp:531
 msgid ""
 "The game is out of sync, and cannot continue. There are a number of reasons this could happen: this can occur if you or another player have modified their game settings. This may mean one of the players is attempting to cheat. It could also be due to a bug in the game, but this is less likely.\n\n"
 "Do you want to save an error log of your game?"
@@ -2994,12 +2994,12 @@ msgstr "Этот боец невидим. Противник не может е�
 
 #. [unstore_unit]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:309
-#: data/lua/wml-tags.lua:831
+#: data/lua/wml-tags.lua:822
 #: src/actions.cpp:1492
 msgid "poisoned"
 msgstr "отравлен"
 
-#: data/lua/wml-tags.lua:831
+#: data/lua/wml-tags.lua:822
 #: src/actions.cpp:1492
 msgid "female^poisoned"
 msgstr "отравлена"
@@ -3017,12 +3017,12 @@ msgstr ""
 "Бойца нельзя убить одним ядом. Яд не может понизить ЗД ниже 1 единицы."
 
 
-#: data/lua/wml-tags.lua:833
+#: data/lua/wml-tags.lua:824
 #: src/actions.cpp:1497
 msgid "slowed"
 msgstr "замедлен"
 
-#: data/lua/wml-tags.lua:833
+#: data/lua/wml-tags.lua:824
 #: src/actions.cpp:1497
 msgid "female^slowed"
 msgstr "замедлена"
@@ -3036,12 +3036,12 @@ msgid "This unit has been slowed. It will only deal half its normal damage when 
 msgstr "Этот боец был замедлен. Он наносит при атаке только половинный ущерб, и движение для него вдвое дороже."
 
 
-#: data/lua/wml-tags.lua:834
+#: data/lua/wml-tags.lua:825
 #: src/actions.cpp:1502
 msgid "petrified"
 msgstr "окаменел"
 
-#: data/lua/wml-tags.lua:834
+#: data/lua/wml-tags.lua:825
 #: src/actions.cpp:1502
 msgid "female^petrified"
 msgstr "окаменела"
@@ -3055,11 +3055,11 @@ msgid "This unit has been petrified. It may not move or attack."
 msgstr "Этот боец окаменел. Он не может двигаться или атаковать."
 
 
-#: data/lua/wml-tags.lua:835
+#: data/lua/wml-tags.lua:826
 msgid "unhealable"
 msgstr "неизлечимо"
 
-#: data/lua/wml-tags.lua:835
+#: data/lua/wml-tags.lua:826
 msgid "female^unhealable"
 msgstr "неизлечима"
 
@@ -4226,122 +4226,122 @@ msgid "Italian Translation"
 msgstr "Итальянский перевод"
 
 #. [about]
-#: data/core/about.cfg:2166
+#: data/core/about.cfg:2169
 msgid "Japanese Translation"
 msgstr "Японский перевод"
 
 #. [about]
-#: data/core/about.cfg:2234
+#: data/core/about.cfg:2237
 msgid "Korean Translation"
 msgstr "Норвежский перевод"
 
 #. [about]
-#: data/core/about.cfg:2242
+#: data/core/about.cfg:2245
 msgid "Latin Translation"
 msgstr "Латинский перевод"
 
 #. [about]
-#: data/core/about.cfg:2269
+#: data/core/about.cfg:2272
 msgid "Latvian Translation"
 msgstr "Латвийский перевод"
 
 #. [about]
-#: data/core/about.cfg:2280
+#: data/core/about.cfg:2283
 msgid "Lithuanian Translation"
 msgstr "Литовский перевод"
 
 #. [about]
-#: data/core/about.cfg:2302
+#: data/core/about.cfg:2305
 msgid "Macedonian Translation"
 msgstr "Македонский перевод"
 
 #. [about]
-#: data/core/about.cfg:2309
+#: data/core/about.cfg:2312
 msgid "Marathi Translation"
 msgstr "Перевод на маратхи"
 
 #. [about]
-#: data/core/about.cfg:2318
+#: data/core/about.cfg:2321
 msgid "Norwegian Translation"
 msgstr "Норвежский перевод"
 
 #. [about]
-#: data/core/about.cfg:2343
+#: data/core/about.cfg:2346
 msgid "Old English Translation"
 msgstr "Староанглийский перевод"
 
 #. [about]
-#: data/core/about.cfg:2352
+#: data/core/about.cfg:2355
 msgid "Polish Translation"
 msgstr "Польский перевод"
 
 #. [about]
-#: data/core/about.cfg:2392
+#: data/core/about.cfg:2395
 msgid "Portuguese Translation"
 msgstr "Португальский перевод"
 
 #. [about]
-#: data/core/about.cfg:2399
+#: data/core/about.cfg:2402
 msgid "Portuguese (Brazil) Translation"
 msgstr "Перевод на португальский бразильский"
 
 #. [about]
-#: data/core/about.cfg:2441
+#: data/core/about.cfg:2444
 msgid "Romanian Translation"
 msgstr "Румынский перевод"
 
 #. [about]
-#: data/core/about.cfg:2449
+#: data/core/about.cfg:2452
 msgid "Russian Translation"
 msgstr "Русский перевод"
 
 #. [about]
-#: data/core/about.cfg:2531
+#: data/core/about.cfg:2534
 msgid "Serbian Translation"
 msgstr "Сербский перевод"
 
 #. [about]
-#: data/core/about.cfg:2550
+#: data/core/about.cfg:2553
 msgid "Slovak Translation"
 msgstr "Словацкий перевод"
 
 #. [about]
-#: data/core/about.cfg:2576
+#: data/core/about.cfg:2579
 msgid "Slovenian Translation"
 msgstr "Словенский перевод"
 
 #. [about]
-#: data/core/about.cfg:2592
+#: data/core/about.cfg:2595
 msgid "Spanish Translation"
 msgstr "Испанский перевод"
 
 #. [about]
-#: data/core/about.cfg:2673
+#: data/core/about.cfg:2676
 msgid "Swedish Translation"
 msgstr "Шведский перевод"
 
 #. [about]
-#: data/core/about.cfg:2714
+#: data/core/about.cfg:2717
 msgid "Turkish Translation"
 msgstr "Турецкий перевод"
 
 #. [about]
-#: data/core/about.cfg:2736
+#: data/core/about.cfg:2739
 msgid "Valencian (southern Catalan) Translation"
 msgstr "Валенсийский (южнокаталанский) перевод"
 
 #. [about]
-#: data/core/about.cfg:2749
+#: data/core/about.cfg:2752
 msgid "Vietnamese Translation"
 msgstr "Вьетнамский перевод"
 
 #. [about]
-#: data/core/about.cfg:2768
+#: data/core/about.cfg:2771
 msgid "RACV’s Translation"
 msgstr "Перевод RACV"
 
 #. [about]
-#: data/core/about.cfg:2775
+#: data/core/about.cfg:2778
 msgid "Bots"
 msgstr "Боты"
 
@@ -4349,14 +4349,14 @@ msgstr "Боты"
 #1 ********** Общие строки **********
 
 #. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
-#: data/scenario-test.cfg:460
+#: data/scenario-test.cfg:466
 #: src/dialogs.cpp:652
 #: src/multiplayer_create.cpp:94
 msgid "OK"
 msgstr "OK"
 
 #. [lua]: id=helptip_large, id=tooltip_large, id=the_list, id=the_label, id=the_icon, id=ok, id=cancel, id=flip, id=the_image
-#: data/scenario-test.cfg:461
+#: data/scenario-test.cfg:467
 #: src/dialogs.cpp:653
 #: src/dialogs.cpp:1091
 #: src/dialogs.cpp:1197
@@ -4366,7 +4366,7 @@ msgstr "OK"
 msgid "Cancel"
 msgstr "Отмена"
 
-#: src/about.cpp:204
+#: src/about.cpp:208
 #: src/menu_events.cpp:325
 #: src/menu_events.cpp:352
 #: src/statistics_dialog.cpp:114
@@ -4552,12 +4552,12 @@ msgid "The computer player might not be able to play side $side_number properly 
 msgstr "Компьютер не может правильно сыграть этот сценарий за игрока №$side_number. Предполагается, что игрок №$side_number — это человек."
 
 #. [language]
-#: data/scenario-test.cfg:3151
+#: data/scenario-test.cfg:3157
 msgid "very long"
 msgstr "очень длинный"
 
 #. [language]
-#: data/scenario-test.cfg:3152
+#: data/scenario-test.cfg:3158
 msgid "electrical"
 msgstr "электрический"
 
@@ -4765,7 +4765,7 @@ msgstr "Конец"
 msgid "System default language"
 msgstr "Язык по умолчанию"
 
-#: src/map.cpp:194
+#: src/map.cpp:196
 msgid "A map without a header is not supported"
 msgstr "Карты без заголовка не поддерживаются."
 
@@ -5118,7 +5118,7 @@ msgstr "комп"
 msgid "prompt^Command:"
 msgstr "Команда:"
 
-#: src/mouse_events.cpp:677
+#: src/mouse_events.cpp:703
 msgid "You cannot move your leader away from the keep with some planned recruits left."
 msgstr "Вы не можете убрать лидера из цитадели до тех пор, пока у вас остаются запланированные бойцы для вербовки."
 
@@ -5591,23 +5591,23 @@ msgstr "% защиты"
 msgid "No description available."
 msgstr "Описание недоступно."
 
-#: src/whiteboard/manager.cpp:1068
+#: src/whiteboard/manager.cpp:1083
 msgid "SHOW ALL allies’ plans"
 msgstr "Показать планы всех союзников"
 
-#: src/whiteboard/manager.cpp:1069
+#: src/whiteboard/manager.cpp:1084
 msgid "HIDE ALL allies’ plans"
 msgstr "Скрыть планы всех союзников"
 
-#: src/whiteboard/manager.cpp:1083
+#: src/whiteboard/manager.cpp:1098
 msgid "Show plans for $player"
 msgstr "Показать план $player"
 
-#: src/whiteboard/manager.cpp:1085
+#: src/whiteboard/manager.cpp:1100
 msgid "Hide plans for $player"
 msgstr "Скрыть план $player"
 
-#: src/whiteboard/manager.cpp:1088
+#: src/whiteboard/manager.cpp:1103
 msgid "Whiteboard Options"
 msgstr "Настройки планировщика"
 
