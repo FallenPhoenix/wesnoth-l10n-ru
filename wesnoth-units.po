@@ -3422,7 +3422,7 @@ msgstr "путы"
 #: data/core/units/elves/Druid.cfg:49
 #: data/core/units/elves/Shyde.cfg:54
 msgid "ensnare"
-msgstr "заплетает"
+msgstr "оплетение"
 
 #. [attack]: type=pierce
 #: data/core/units/elves/Druid.cfg:61
@@ -3531,7 +3531,8 @@ msgstr "щупальце"
 #. [attack]: type=pierce
 #: data/core/units/monsters/Cuttle_Fish.cfg:60
 msgid "ink"
-msgstr "тушь"
+msgstr "чернила"
+#* msgstr "тушь"
 
 #. [attack]: type=cold
 #: data/core/units/undead/Spirit_Ghost.cfg:142
@@ -3539,6 +3540,7 @@ msgstr "тушь"
 #: data/core/units/undead/Spirit_Wraith.cfg:45
 msgid "wail"
 msgstr "вопль"
+#* msgstr "вой"
 
 #. [attack]: type=impact
 #: data/core/units/wose/Ancient.cfg:104

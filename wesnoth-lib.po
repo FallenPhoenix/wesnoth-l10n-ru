@@ -176,7 +176,8 @@ msgstr "Выберите уровень сложности:"
 # Ник игрока по умолчанию. Кириллические ники запрещены на оф. сервере, но ник player один хрен забит.
 #: src/game_preferences.cpp:395
 msgid "player"
-msgstr "игрок"
+msgstr "Игрок"
+#* msgstr "Player"
 
 #. [text_box]: id=user_name
 #: data/gui/default/window/mp_method_selection.cfg:90
@@ -235,7 +236,7 @@ msgstr "Сейчас подключимся к мультиплеерному с
 #. [button]: id=list
 #: data/gui/default/window/mp_connect.cfg:158
 msgid "View List"
-msgstr "Список друзей"
+msgstr "Список"
 
 #. [label]: id=address
 #: data/gui/default/window/mp_server_list.cfg:121
@@ -262,7 +263,9 @@ msgstr "Сообщение:"
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:141
 msgid "Friends/Ignored List"
-msgstr "Ваши списки друзей/игнора"
+msgstr "Списки игроков"
+#* msgstr "Списки"
+#* msgstr "Ваши списки друзей/игнора"
 
 #. [button]: id=add_friend
 #: data/gui/default/window/mp_cmd_wrapper.cfg:170
@@ -277,8 +280,8 @@ msgstr "Добавить как игнорируемого"
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:241
 msgid "Moderating"
-msgstr "Модерируется"
-#* msgstr "Модерация"
+msgstr "Модерация"
+#* msgstr "Модерируется"
 
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:271
@@ -384,7 +387,7 @@ msgstr "Правый щелчок мышью"
 # Влючение/выключение анимации
 #: src/hotkeys.cpp:55
 msgid "Animate Map"
-msgstr "Анимированная карта"
+msgstr "Анимация карты"
 
 #: src/hotkeys.cpp:61
 msgid "Undo"
@@ -1258,7 +1261,6 @@ msgstr "Автоматически удалять автосохранения �
 
 #: src/game_preferences_display.cpp:765
 #: src/game_preferences_display.cpp:767
-#| msgid "Maximum Auto-Saves: "
 msgid "Maximum auto-saves: "
 msgstr "Макс. число автосохранений: "
 
@@ -1311,9 +1313,8 @@ msgid "This hotkey is already in use."
 msgstr "Такое сочетание уже используется."
 
 #: src/preferences_display.cpp:429
-#| msgid "Warning: screenshot hotkeys not combined with Control, Alt or Meta keys."
 msgid "Screenshot hotkeys should be combined with the Control, Alt or Meta modifiers to avoid problems."
-msgstr "Предупреждение: для снимков лучше использовать комбинации с клавишами Control, Alt или Meta."
+msgstr "Для снимков лучше использовать комбинации с клавишами Control, Alt или Meta."
 #endregion
 
 
@@ -1414,7 +1415,8 @@ msgstr "Выберите разрешение"
 
 #: src/preferences_display.cpp:561
 msgid " (widescreen)"
-msgstr " (широкоэкранный)"
+msgstr " (широкоэкранное)"
+#* msgstr " (ш.э.)"
 
 #: src/preferences_display.cpp:429
 msgid "Warning"
@@ -1514,7 +1516,7 @@ msgstr "Продвинутые настройки"
 
 #: src/game_preferences_display.cpp:209
 msgid "sound^Standard Options"
-msgstr "Стандартные настройки"
+msgstr "Основные настройки"
 
 #: src/game_preferences_display.cpp:227
 msgid "Sample rate (Hz):"
@@ -1618,7 +1620,7 @@ msgstr "Использовать новый интерфейс холла"
 # подсказка
 #: src/game_preferences_display.cpp:394
 msgid "Use New Lobby Interface"
-msgstr "Использовать альтернативный интерфейс холла."
+msgstr "Использовать альтернативный интерфейс холла сервера."
 
 #: src/game_preferences_display.cpp:188
 msgid "Friends List"
@@ -3529,17 +3531,17 @@ msgstr "Такое сохранение уже существует, переп�
 #. [label]: id=lblTitle
 #: data/gui/default/window/game_delete.cfg:40
 msgid "Delete Save"
-msgstr "Удалить сохранение"
+msgstr "Удаление сохранения"
 
 #. [label]: id=lblMessage
 #: data/gui/default/window/game_delete.cfg:60
 msgid "Do you really want to delete this game?"
-msgstr "Вы действительно хотите удалить сохранение?"
+msgstr "Вы действительно хотите удалить выделенное сохранение?"
 
 #. [toggle_button]: id=dont_ask_again
 #: data/gui/default/window/game_delete.cfg:80
 msgid "Don’t ask me again!"
-msgstr "И больше меня не спрашивай!"
+msgstr "И больше не спрашивать"
 #endregion
 
 #region Холл сервера (новый интерфейс)
@@ -3621,19 +3623,20 @@ msgstr "Инвертировать фильтр"
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:177
 msgid "Requires a password to join"
-msgstr "Присоединяться только с паролем"
+msgstr "Требуется ввести пароль"
 
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:176
 msgid "Assign sides to players at random"
-msgstr "Назначить случайные стороны"
+msgstr "Назначаются случайные стороны"
 
 #. [toggle_button]: id=use_map_settings
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:178
 #: data/gui/default/window/mp_create_game.cfg:321
 msgid "Use map settings"
-msgstr "Задано картой"
+msgstr "Используются стандартные настройки карты"
+#* msgstr "Стандартные настройки карты"
 
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:180
@@ -3648,7 +3651,7 @@ msgstr "Игра загружена"
 #. [row]
 #: data/gui/default/window/lobby_main.cfg:182
 msgid "Gold per village"
-msgstr "Золота с деревни"
+msgstr "Доход золота с деревень"
 
 #. [label]
 #. [row]
@@ -3682,7 +3685,7 @@ msgstr "Отправить"
 #. [label]
 #: data/gui/default/window/lobby_main.cfg:305
 msgid "Sort players:"
-msgstr "Сортировать игроков:"
+msgstr "Сортировка игроков:"
 
 # подсказка
 #. [toggle_button]: id=player_list_sort_relation

@@ -1831,7 +1831,7 @@ msgstr "Латник в маске"
 #. [unit_type]: id=Dwarvish Masked Steelclad, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:18
 msgid "More experienced Dwarvish fighters wear heavy chain mail and plate armor, for which they are rightly famous. In the dark dreams of dwarvenkind, some conceal their faces behind riveted masks."
-msgstr "Более опытные ополченцы одеты в тяжёлую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу. Те же, кто скрывает свои лица за клёпаной маской -- самый страшный кошмар гномов."
+msgstr "Более опытные ополченцы одеты в тяжёлую кольчугу и пластинчатые доспехи, которые снискали им заслуженную славу. Те же, кто скрывает свои лица за клёпаной маской — самый страшный кошмар гномов."
 
 #. [unit_type]: id=Dwarvish Masked Thunderer, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:4
