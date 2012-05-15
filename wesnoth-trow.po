@@ -3176,7 +3176,7 @@ msgstr "Что? Что здесь происходит? Гномы? Люди? К
 #. [message]: speaker=Glimir
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:242
 msgid "The stories are true. There must be dwarven colonists in the Brown Hills. We caught this band chopping wood near the bay. Then we saw lots of ships. Not like before, with that fellow from Southbay and his lone ship. It was always interesting when he stopped by."
-msgstr "Рассказы оказались правдой. Должно быть, в Коричневых холмах поселились гномы. Мы поймали эту банду, когда они рубили лес у залива. А потом мы увидели множество кораблей. Не так, как раньше, ну, я о том парне из Южной бухты и его единственном корабле. Когда он сюда заглядывал, было интересно."
+msgstr "Рассказы оказались правдой. Должно быть, в Бурых холмах поселились гномы. Мы поймали эту банду, когда они рубили лес у залива. А потом мы увидели множество кораблей. Не так, как раньше, ну, я о том парне из Южной бухты и его единственном корабле. Когда он сюда заглядывал, было интересно."
 
 #. [message]: speaker=Glimir
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:247
@@ -3201,7 +3201,7 @@ msgstr "Хальдрик."
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:263
 msgid "As for you, dwarf, return to the Brown Hills. Then tell your people to prepare to return to the north."
-msgstr "Что до тебя, гном, возвращайся назад к Коричневым холмам. Затем скажи своим товарищам, чтобы готовились вернуться на север."
+msgstr "Что до тебя, гном, возвращайся назад к Бурым холмам. Затем скажи своим товарищам, чтобы готовились вернуться на север."
 
 #. [message]: speaker=Dursil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:267
@@ -3346,7 +3346,7 @@ msgstr "Здесь засела группа ящеров, наверняка п
 #. [message]: speaker=Lord Aryad
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:304
 msgid "We are having a problem with a troll-hole in the Brown Hills. While I find the thought of those dwarves stumbling on the trolls vaguely amusing, this should make an adequate quest for you."
-msgstr "У нас трудности с тролльей норой в Коричневых холмах. Я бы, конечно, с удовольствием посмотрел. как эти гномы будут с ними мучиться, но пусть это будет вашей задачей."
+msgstr "У нас трудности с тролльей норой в Бурых холмах. Я бы, конечно, с удовольствием посмотрел. как эти гномы будут с ними мучиться, но пусть это будет вашей задачей."
 
 #. [message]: speaker=Lord El'Isomithir
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:317
@@ -3396,7 +3396,7 @@ msgstr "Чем они могут быть полезны? Что за нужда
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:385
 msgid "The dwarves have come to the Brown Hills. While they live long, even they grow like weeds when in an empty field. There is trouble brewing."
-msgstr "В Коричневые холмы пришли гномы. Они живут долго, но и они множатся как сорняки, если дать им чистое поле. Назревают сложности."
+msgstr "В Бурые холмы пришли гномы. Они живут долго, но и они множатся как сорняки, если дать им чистое поле. Назревают сложности."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:389
@@ -3794,7 +3794,7 @@ msgstr "Клык"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:266
 msgid "It isn’t long before Haldric and his companions enter the Brown Hills. An elven guide leads them to a gaping cave mouth, and they descend into the darkness."
-msgstr "До Коричневых холмов было совсем недалеко. Эльф-проводник дошёл с Хальдриком и его спутниками до зияющего входа в пещеру, и они спустились во тьму."
+msgstr "До Бурых холмов было совсем недалеко. Эльф-проводник дошёл с Хальдриком и его спутниками до зияющего входа в пещеру, и они спустились во тьму."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:272

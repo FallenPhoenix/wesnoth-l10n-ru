@@ -84,7 +84,7 @@ msgstr "Мир"
 #. type: Content of: <book><chapter><section><simpara>
 #: /src/wesnoth/doc/manual/manual.en.xml:42
 msgid "The known portion of the Great Continent, on which Wesnoth abides, is generally divided into three areas: the Northlands, which are generally lawless; the kingdom of Wesnoth and its occasional principality, Elensefar; and the domain of the Southwest Elves in the Aethenwood and beyond."
-msgstr "Известную территорию Великого континента, на которой расположен Веснот, обычно делят на три части: северные земли (в основном живущие в беззаконии); королевство Веснот и союзное с ним княжество Эленсефар; владения юго-западных эльфов в лесах Этенвуд и за ними."
+msgstr "Известную территорию Большого континента, на которой расположен Веснот, обычно делят на три части: северные земли (в основном живущие в беззаконии); королевство Веснот и союзное с ним княжество Эленсефар; владения юго-западных эльфов в лесах Этенвуд и за ними."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>

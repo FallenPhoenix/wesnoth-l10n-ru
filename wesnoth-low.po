@@ -289,7 +289,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:55
 msgid "The great elven heroes Kalenz and Landar were born in a quiet green wood in Lintanir on the fringes of the Great Northern Forest."
-msgstr "Великий эльфийский герой Каленз родился в тихой зелёной роще Линтанира на окраине Великого Северного леса."
+msgstr "Великий эльфийский герой Каленз родился в тихой зелёной роще Линтанира на окраине Большого Северного леса."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:58

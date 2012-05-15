@@ -1035,7 +1035,7 @@ msgstr "Смерть Лионеля"
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:119
 msgid "These are the swamps of Illuven — lesser kin of the Swamp of Dread north of the Great River, but noxious enough in their own fashion. Our way lies west and north across them to the Ford of Abez. The western road around the other edge of the Brown Hills would have been safer, but..."
-msgstr "Это — болота Иллювен; они меньше, чем болото Ужаса к северу от Великой реки, но по-своему достаточно гибельны. Наш путь через них пролегает на запад и север к переправе Абез. Западная дорога в обход Коричневых холмов безопаснее, но..."
+msgstr "Это — болота Иллювен; они меньше, чем болото Ужаса к северу от Великой реки, но по-своему достаточно гибельны. Наш путь через них пролегает на запад и север к переправе Абез. Западная дорога в обход Бурых холмов безопаснее, но..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:123
