@@ -834,7 +834,7 @@ msgstr "Почему бы не нанести ей ответный удар? С
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:319
 msgid "We must indeed go there. Let us therefore rest here a little, and then set sail for the Bay. Hopefully we will defeat her forces there!"
-msgstr "Мы действительно должны пойти туда. Отдохнём немного, а затем поплывём в Залив. Надеюсь, мы там победим!"
+msgstr "Мы действительно должны пойти туда. Отдохнём немного, а затем поплывём в залив. Надеюсь, мы там победим!"
 
 #. [scenario]: id=04_The_Bay_of_Pearls
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:4
@@ -2170,7 +2170,7 @@ msgstr "Белые маги? Пришли помочь нам? Но что он�
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:315
 msgid "That is Moremirmu! He helped us fight the undead in the Isles of the Damned, let us hope he can help us once more!"
-msgstr "Это Моремирму! Он помог нам биться против мертвецов на Острове проклятых. Думаю, его помощь будет кстати нам и в этот раз!"
+msgstr "Это Моремирму! Он помог нам биться против мертвецов на острове Проклятых. Думаю, его помощь будет кстати нам и в этот раз!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:326
@@ -2295,7 +2295,7 @@ msgstr "Это легендарная Грифонова гора."
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:135
 msgid "Gryphon Mountain! Maybe we could steal some eggs from the gryphons and train the young to be flying mounts. Would that work, Delfador?"
-msgstr "Грифонова Гора! Может, мы сможем украсть несколько грифоньих яиц и объездить птенцов. Получится, Делфадор?"
+msgstr "Грифонова гора! Может, мы сможем украсть несколько грифоньих яиц и объездить птенцов. Получится, Делфадор?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:139
@@ -2340,7 +2340,7 @@ msgstr "Мы разбили их! Что нам делать дальше?"
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:238
 msgid "We must continue north. It is too late to return to the safety of Elensefar or Alduin before winter falls. We must therefore cross the great river and continue toward the land of the dwarves. Hurry, let us go!"
-msgstr "Идём дальше на север. Мы не успеем вернуться в Эленсефар или на Алдуин до зимних снегов. Так что придётся нам пересечь Великую Реку и идти вперёд, в земли гномов. Быстрее, в путь!"
+msgstr "Идём дальше на север. Мы не успеем вернуться в Эленсефар или на Алдуин до зимних снегов. Так что придётся нам пересечь Великую реку и идти вперёд, в земли гномов. Быстрее, в путь!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:248
@@ -2587,7 +2587,7 @@ msgstr "Мы переправились через реку! Куда тепер
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:423
 msgid "If we are to have any hope of penetrating into Knalga, we must continue north to seek help from the Dwarves of the Heart Mountains in the north."
-msgstr "Единственная надежда проникнуть в Кналга — продолжать идти на север и искать помощи у гномов с Гор Сердца на севере."
+msgstr "Единственная надежда проникнуть в Кналга — продолжать идти на север и искать помощи у гномов с гор Сердца на севере."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:434
@@ -3878,7 +3878,7 @@ msgstr "Делфадор, не дай этому случиться! Мы идё
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:346
 msgid "Lord elf, I am in command. I have held council with the Merfolk, and they believe they can find a path down the river and over the falls. We will take the most direct route to your homeland and escape the grasp of the Northerner armies that swarm the wilderness."
-msgstr "Лорд эльфов, здесь я принимаю решения. Я посовещался с водяными, и они уверены, что смогут найти путь вдоль реки и через водопады. Мы пойдём к вашей родине, и мы пойдём самым прямым путём, и избежим цепкой хватки Северных армий, что заполонили эти дикие земли."
+msgstr "Лорд эльфов, здесь я принимаю решения. Я посовещался с водяными, и они уверены, что смогут найти путь вдоль реки и через водопады. Мы пойдём к вашей родине, и мы пойдём самым прямым путём, и избежим цепкой хватки северных армий, что заполонили эти дикие земли."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:350
@@ -4278,7 +4278,7 @@ msgstr "Здесь? Но ведь дрейков никогда раньше в 
 #. it's the eastern shore of the Great Ocean.
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:366
 msgid "I was born in the Bay of Pearls and spent my entire life on the Eastern Shore. But I have spoken with those who have traveled the Western Ocean and met drakes on their journeys. Therefore, I am certain beyond doubt that the creature flying in front of us is a drake, Delfador. Concerning the drakes having never been seen in Wesnoth, must I remind you that we are not in Wesnoth anymore? There are many unthinkable things and creatures which can be found outside of Wesnoth."
-msgstr "Я родился в Бухте Жемчуга, и всю свою жизнь провёл на Восточном Побережье. Но я говорил с теми, кто путешествовал по Западному Океану, и встречал дрейков на своём пути. И потому, я совершенно уверен, что существо, что летает перед нами — дрейк. Что же до того, что их не видели в Весноте, надо ли напоминать, что мы больше не в Весноте. За пределами Веснота можно найти много немыслимых вещей и повстречать много невиданных созданий."
+msgstr "Я родился в бухте Жемчуга, и всю свою жизнь провёл на восточном побережье. Но я говорил с теми, кто путешествовал по западному океану, и встречал дрейков на своём пути. И потому, я совершенно уверен, что существо, что летает перед нами — дрейк. Что же до того, что их не видели в Весноте, надо ли напоминать, что мы больше не в Весноте. За пределами Веснота можно найти много немыслимых вещей и повстречать много невиданных созданий."
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:371
@@ -5096,7 +5096,7 @@ msgstr "Что ж, эльфийский Совет высказался. Но п
 #. [message]: speaker=Uradredia
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:278
 msgid "There is another way by which you can return to Wesnoth: past the mountains of the dragons and through the dark valley. To the land of the East, from there you can return to Wesnoth and surprise the Dark Queen, catching her off guard."
-msgstr "Есть другой путь, по которому вы можете вернуться в Веснот: через Драконьи горы и тёмную долину. На Восточные земли, откуда вы сможете войти в Веснот и застигнуть тёмную королеву врасплох."
+msgstr "Есть другой путь, по которому вы можете вернуться в Веснот: через Драконьи горы и тёмную долину. На восточные земли, откуда вы сможете войти в Веснот и застигнуть тёмную королеву врасплох."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/21_Elven_Council.cfg:282
@@ -5141,7 +5141,7 @@ msgstr "Конрад стоял на крепостном валу, устрем
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Return_to_Wesnoth.cfg:71
 msgid "Kalenz’s champion courtiers escorted Konrad and Delfador through their forest, a near-invincible vanguard. War had spread to the Northlands, but by taking long-deserted trails through the rugged eastern hills, it failed to find the band of rebels. The high craggy peaks of the mountains of the Dragons looked down on them in deserted desolation."
-msgstr "В лесу Конрада и Делфадора сопровождали витязи из свиты Каленза. С таким головным отрядом им никто был не страшен. Война уже докатилась до Севера, но повстанцы шли заброшенными тропами через труднопроходимые восточные холмы, так что их отряд она не застигла. Высокие, крутые вершины Драконьих гор смотрели на них сверху в полном одиночестве."
+msgstr "В лесу Конрада и Делфадора сопровождали витязи из свиты Каленза. С таким головным отрядом им никто был не страшен. Война уже докатилась до севера, но повстанцы шли заброшенными тропами через труднопроходимые восточные холмы, так что их отряд она не застигла. Высокие, крутые вершины Драконьих гор смотрели на них сверху в полном одиночестве."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Return_to_Wesnoth.cfg:76
@@ -5955,7 +5955,7 @@ msgstr "Огненный скипетр"
 #. [object]: id=object_scepter
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:387
 msgid "This ancient Sceptre was forged by the great Dwarves of the Heart Mountains. A symbol of the kingship of Wesnoth, the Sceptre has the power to shoot fireballs at enemies of the bearer!"
-msgstr "Великие гномы с Гор Сердца выковали этот древний скипетр, символ королевской власти Веснота. Он способен метать огненные шары во врагов своего владельца!"
+msgstr "Великие гномы с гор Сердца выковали этот древний скипетр, символ королевской власти Веснота. Он способен метать огненные шары во врагов своего владельца!"
 
 #. [object]: id=object_scepter
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:388
@@ -6005,7 +6005,7 @@ msgstr "Думаю, я сама знаю, что мне делать. Пойдё
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:5
 msgid "In the twenty-eighth year of the reign of Garard II, king of Wesnoth, the kingdom was plunged into a bitter war with the Orcs of the North."
-msgstr "Шёл двадцать седьмой год правления Гарарда II, короля Веснота. Королевство было ввергнуто в пучину ожесточённой войны с орками Севера."
+msgstr "Шёл двадцать седьмой год правления Гарарда II, короля Веснота. Королевство было ввергнуто в пучину ожесточённой войны с орками севера."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:10

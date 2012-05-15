@@ -37,7 +37,7 @@ msgstr "(Средний уровень, 18 сценариев)"
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:90
 msgid "The tale of Kalenz, the High Lord who rallied his people after the second orcish invasion of the Great Continent and became the most renowned hero in the recorded history of the Elves.\n\n"
-msgstr "Повесть о Калензе, верховном лорде, который объединил свой народ после второго вторжения орков на Большой Континент и стал самым почитаемым героем в обозримой истории эльфов.\n\n"
+msgstr "Повесть о Калензе, верховном лорде, который объединил свой народ после второго вторжения орков на Большой континент и стал самым почитаемым героем в обозримой истории эльфов.\n\n"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:91
@@ -289,7 +289,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:55
 msgid "The great elven heroes Kalenz and Landar were born in a quiet green wood in Lintanir on the fringes of the Great Northern Forest."
-msgstr "Великий эльфийский герой Каленз родился в тихой зеленой роще Линтанира на окраине Великого Северного Леса."
+msgstr "Великий эльфийский герой Каленз родился в тихой зеленой роще Линтанира на окраине Великого Северного леса."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:58
@@ -304,7 +304,7 @@ msgstr "Ландар и Каленз дружили с детства. Стар�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:70
 msgid "Perhaps the elders sensed that changing times would require more flexible minds; these were the years when humans from the Green Isle were establishing themselves south of the Great River, and the known world was changing more rapidly than it had for a thousand years before."
-msgstr "Возможно, старейшины чувствовали, что времена меняются и требуют более гибких умов; то были годы, когда люди с Зелёного Острова заселяли юг Великой Реки, и когда известный мир менялся быстрее, чем тысячелетием ранее."
+msgstr "Возможно, старейшины чувствовали, что времена меняются и требуют более гибких умов; то были годы, когда люди с Зелёного острова заселяли юг Великой реки, и когда известный мир менялся быстрее, чем тысячелетием ранее."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:74
@@ -1559,7 +1559,7 @@ msgstr "Пирорр"
 #. [message]: id=Pirorr
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:749
 msgid "The elves have beaten us and they did not use da stone. Maybe they don’t have it? Great Chief will not like bad news!"
-msgstr "Эльфы победили нас без помощи камня. Он вообще у них или нет? Великому Вождю не понравятся дурные вести!"
+msgstr "Эльфы победили нас без помощи камня. Он вообще у них или нет? Великому вождю не понравятся дурные вести!"
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:758
@@ -1901,7 +1901,7 @@ msgstr "Мне тоже не нравится бездействие совет�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:91
 msgid "This is madness! The Orcs will but regain their strength and attack again, if we give them the time! We must have some other sort of help. Olurf, can we perhaps make a war-pact with the Dwarves?"
-msgstr "Это безумие! Дайте Оркам время, и они восстановят свои силы и снова нападут! Мы должны что-то делать, мы должны искать подмоги! Олурф, может, нам удастся заключить военный договор с Гномами?"
+msgstr "Это безумие! Дайте оркам время, и они восстановят свои силы и снова нападут! Мы должны что-то делать, мы должны искать подмоги! Олурф, может, нам удастся заключить военный договор с гномами?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:96
@@ -2507,12 +2507,12 @@ msgstr "Как? Не хочешь же ты сказать, что мы драл
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:134
 msgid "You need to kill their Great Chief and make it look like he was murdered by orcs. That way the orcs will start a civil war for succession, for many yearn to take their Great Chief’s place. You will be safe until a new leader arises strong enough to unite them again."
-msgstr "Вы должны убить их Великого Вождя и заставить все выглядеть так, будто его убили орки. Тогда они начнут гражданскую войну за наследование, ведь многие жаждут занять место Великого Вождя. Вы будете в безопасности, пока не появится новый вожак, достаточно сильный, чтобы снова их объединить."
+msgstr "Вы должны убить их великого вождя и заставить все выглядеть так, будто его убили орки. Тогда они начнут гражданскую войну за наследование, ведь многие жаждут занять место великого вождя. Вы будете в безопасности, пока не появится новый вожак, достаточно сильный, чтобы снова их объединить."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:139
 msgid "Kill an orcish Great Chieftain? But he’s guarded better than a troll hole!"
-msgstr "Убить Великого Вождя орков? Да его охраняют лучше, чем Троллью Нору!"
+msgstr "Убить великого вождя орков? Да его охраняют лучше, чем троллью нору!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:144
@@ -2567,12 +2567,12 @@ msgstr "Другого выбора нет."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:194
 msgid "Very well, suppose Cleodil accepts the guardianship of your book. How will you then help us slay the orcish Great Chief?"
-msgstr "Хорошо, предположим, Клеодил возложит на себя хранение твоей книги. Как ты нам поможешь убить Великого Вождя орков?"
+msgstr "Хорошо, предположим, Клеодил возложит на себя хранение твоей книги. Как ты нам поможешь убить великого вождя орков?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:199
 msgid "There is a way, but it will be very dangerous. Two of you must enter the orcish camp by stealth and kill the Great Chief. There is a potion that will make you invisible for some time."
-msgstr "Есть способ, но это очень опасно. Двое из вас должны незаметно проникнуть в лагерь орков и убить Великого Вождя. Существует зелье, которое сделает вас на какое-то время невидимыми."
+msgstr "Есть способ, но это очень опасно. Двое из вас должны незаметно проникнуть в лагерь орков и убить великого вождя. Существует зелье, которое сделает вас на какое-то время невидимыми."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:204
@@ -2602,7 +2602,7 @@ msgstr "Твоё тело станет слабее, но взамен ты по
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:229
 msgid "It is a dark and desperate course you set before me, but I see no other way; we must stop the orcs. As leader I cannot ask my men to run a risk I will not take myself, so I will be one of the two who will go to kill the Great Chief. But I will not compel anyone else to come with me, not at peril of being overwhelmed from within by evil magic. Does anyone volunteer?"
-msgstr "Путь, что ты указал, тёмен и страшен, но другого я не вижу; мы должны остановить орков. Я лидер, и не могу просить своих воинов подвергаться опасности, которой избегну сам. Я буду одним из тех двоих, кто убьёт Великого Вождя. Но я никого не принуждаю идти со мной и рисковать быть съеденным тёмной магией изнутри. Есть ли среди вас добровольцы?"
+msgstr "Путь, что ты указал, тёмен и страшен, но другого я не вижу; мы должны остановить орков. Я лидер, и не могу просить своих воинов подвергаться опасности, которой избегну сам. Я буду одним из тех двоих, кто убьёт великого вождя. Но я никого не принуждаю идти со мной и рисковать быть съеденным тёмной магией изнутри. Есть ли среди вас добровольцы?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:234
@@ -2652,7 +2652,7 @@ msgstr "Иди, Ландар, но будь осторожен. Ты нужен 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:140
 msgid "Some weeks later, as Kalenz and his companions were working their way southwards from the high peaks of the Heart Mountains into its foothills..."
-msgstr "Прошло несколько недель, Каленз и его спутники шли на юг с высоких пиков Гор Сердца к их подножию..."
+msgstr "Прошло несколько недель, Каленз и его спутники шли на юг с высоких пиков гор Сердца к их подножию..."
 
 #. [unit]: id=Eonihar, type=Elvish Scout
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:155
@@ -2697,7 +2697,7 @@ msgstr "Перед нами стоит сложный выбор. Конечно
 #. [message]: id=Eonihar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:209
 msgid "The orcish forces are encamped south of the Great River, and have surrounded the fortified human settlement at Tath. The humans are sending all their forces there. We need to decide whether we will help them or not."
-msgstr "Войска орков стали лагерем к югу от Великой Реки и осадили укреплённое поселение людей в Тафе. Люди послали туда все свои силы. Нужно решить, поможем мы им или нет."
+msgstr "Войска орков стали лагерем к югу от Великой реки и осадили укреплённое поселение людей в Тафе. Люди послали туда все свои силы. Нужно решить, поможем мы им или нет."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:213
@@ -2998,7 +2998,7 @@ msgstr "Таф падёт! Мы пропали!"
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:1008
 msgid "I die? Great Chief never said anything about fighting elves and dwarves!"
-msgstr "Я умираю? Великий Вождь ничего не говорил о том, чтобы драться с эльфами и гномами!"
+msgstr "Я умираю? Великий вождь ничего не говорил о том, чтобы драться с эльфами и гномами!"
 
 #. [scenario]: id=15_The_Treaty
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:3
@@ -3032,7 +3032,7 @@ msgstr "Что? Нельзя верить этим людям! Где они б�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:30
 msgid "Silence! How dare you talk this way to the King!"
-msgstr "Молчать! Как смеешь ты так разговаривать с Королем!"
+msgstr "Молчать! Как смеешь ты так разговаривать с королем!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:35
@@ -3082,7 +3082,7 @@ msgstr "Я так и знал! Я всегда говорил тебе, что �
 #. [scenario]: id=16_The_Chief_Must_Die
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:5
 msgid "The Chief Must Die"
-msgstr "Смерть Великого Вождя"
+msgstr "Смерть великого вождя"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:38
@@ -3121,7 +3121,7 @@ msgstr "Мои глаза открыты. Они видят опасность �
 #. [side]: type=Orcish Sovereign, id=Great Chief Brurbar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:90
 msgid "Great Chief Brurbar"
-msgstr "Великий Вождь Брурбар"
+msgstr "Великий вождь Брурбар"
 
 #. [side]: type=Orcish Warlord, id=Tamitahan
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:104
@@ -3146,7 +3146,7 @@ msgstr "Озул"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:236
 msgid "Kill the Orcish Great Chief and Kalenz must reach the signpost"
-msgstr "Убить Великого Вождя орков. Каленз должен достичь знака."
+msgstr "Убить великого вождя орков. Каленз должен достичь знака."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:258
@@ -3161,7 +3161,7 @@ msgstr "Абсолютно уверен. Приступим!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:266
 msgid "We need to kill the Great Chief and get out before the effect of the philter ends. Time to drink it down now!"
-msgstr "Нам нужно убить Великого Вождя и выбраться оттуда, прежде, чем завершится действие снадобья. Пора выпить его!"
+msgstr "Нам нужно убить великого вождя и выбраться оттуда, прежде, чем завершится действие снадобья. Пора выпить его!"
 
 #. [event]: (id=Kalenz) (Elvish Lord)}, (id=Landar) ($landar_store.type)}
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:302
@@ -3201,12 +3201,12 @@ msgstr "Готово!"
 #. [message]: id=Ozul
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:389
 msgid "The Great Chief has been murdered! Whoever did it will only get da throne over my dead stinking body!"
-msgstr "Великий Вождь убит! Кто бы это ни сделал, он получит трон только через мой протухший труп!"
+msgstr "Великий вождь убит! Кто бы это ни сделал, он получит трон только через мой протухший труп!"
 
 #. [message]: id=Tamitahan
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:393
 msgid "I am the strongest warlord! I will be Chief!"
-msgstr "Я — сильнейший полководец! Я буду Вождём!"
+msgstr "Я — сильнейший полководец! Я буду вождём!"
 
 #. [message]: id=Gvur
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:397
@@ -3488,7 +3488,7 @@ msgstr "Ортиб"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg:409
 msgid "Before you die, know that you lost in Wesmere, you lost at Tath, you will lose here and that your Great Chief is dead!"
-msgstr "Узнай же перед смертью, что вы разбиты в Весмире, разбиты в Тафе, будете разбиты здесь, а что ваш Великий Вождь мёртв!"
+msgstr "Узнай же перед смертью, что вы разбиты в Весмире, разбиты в Тафе, будете разбиты здесь, а что ваш великий вождь мёртв!"
 
 #. [scenario]: id=18_Hour_of_Glory
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:3
@@ -3498,7 +3498,7 @@ msgstr "Час славы"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:15
 msgid "Kalenz, your mission is complete. The orcish Great Chieftain is dead and you have recaptured your home. Yet I sense there is turmoil in your mind..."
-msgstr "Каленз, твоя миссия завершена. Великий Вождь орков мёртв. Ты вернул свой дом. Но я всё равно чувствую в твоей душе смятение..."
+msgstr "Каленз, твоя миссия завершена. Великий вождь орков мёртв. Ты вернул свой дом. Но я всё равно чувствую в твоей душе смятение..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:20
@@ -3571,7 +3571,7 @@ msgstr ""
 #. [scenario]: id=19_Costly_Revenge
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:10
 msgid "Costly Revenge"
-msgstr "Цена Возмездия"
+msgstr "Цена возмездия"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:38
@@ -3729,7 +3729,7 @@ msgstr "Каленз, совет призвал тебя сюда и требу�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:29
 msgid "With all respect my lords, we were and still are in a war. We could not spare the time to consult with you, lest our opportunities slip from our grasp and make the war longer and more costly. Besides, all our actions have been beneficial to our cause: The Orcs are now in a civil war for succession, the North Elves are free and the Saurians are no longer a threat."
-msgstr "При всем уважении, господа, мы были и до сих пор находимся в состоянии войны. Мы не могли тратить время на советы, чтобы не упустить возможностей и не сделать войну продолжительной и более дорогой. К тому же, все наши действия принесли нам пользу: у Орков теперь гражданская война за наследование, Северные эльфы свободны, и Ящеры больше не представляют угрозы."
+msgstr "При всем уважении, господа, мы были и до сих пор находимся в состоянии войны. Мы не могли тратить время на советы, чтобы не упустить возможностей и не сделать войну продолжительной и более дорогой. К тому же, все наши действия принесли нам пользу: у орков теперь гражданская война за наследование, северные эльфы свободны, и ящеры больше не представляют угрозы."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:34
@@ -3781,7 +3781,7 @@ msgstr "Эльфы-убийцы"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:44
 msgid "After the council’s decision, Kalenz and Cleodil retired in the North."
-msgstr "После решения Совета Каленз и Клеодил вернулись на Север."
+msgstr "После решения совета Каленз и Клеодил вернулись на север."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:48
@@ -3882,7 +3882,7 @@ msgstr "Слишком поздно! Смерть предателям!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:408
 msgid "Listen to me! We have fought and bled side by side. We must trust in each other and face the Orcs together!"
-msgstr "Послушайте меня! Мы дрались и истекали кровью плечом к плечу. Мы должны доверять друг другу и встретить Орков вместе!"
+msgstr "Послушайте меня! Мы дрались и истекали кровью плечом к плечу. Мы должны доверять друг другу и встретить орков вместе!"
 
 #. [message]: id=Oblil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:413
@@ -3902,7 +3902,7 @@ msgstr "Теперь поспешим к северным эльфам!"
 #. [scenario]: id=22_Northern_Battle
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:12
 msgid "Northern Battle"
-msgstr "Северная Битва"
+msgstr "Северная битва"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:37
@@ -4007,12 +4007,12 @@ msgstr "Я глубоко скорблю о том, что дело дошло �
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:196
 msgid "I know. But you are not at fault, for I did not take just one bottle. I wanted to make sure we could kill the orcish Great Chief, so I went back for a second and drank that one, too. Now I have driven our dwarvish allies away and brought death and disaster to our own people. I have even tried to kill my own friend. I am a disgrace to elven-kind."
-msgstr "Знаю. Но ты не виноват, потому что я принял не одну бутылку. Я хотел быть уверен, что мы сможем убить Великого Вождя орков, и потому я вернулся за второй и выпил и её тоже. А теперь я изгнал наших союзников-гномов и принес смерть и страдания собственному народу! Я даже пытался убить собственного друга! Я — позор эльфов!"
+msgstr "Знаю. Но ты не виноват, потому что я принял не одну бутылку. Я хотел быть уверен, что мы сможем убить великого вождя орков, и потому я вернулся за второй и выпил и её тоже. А теперь я изгнал наших союзников-гномов и принес смерть и страдания собственному народу! Я даже пытался убить собственного друга! Я — позор эльфов!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:200
 msgid "It was not all your fault. Maybe the curse of Aquagar struck true, or maybe yours was the blood-price fate required of us for victory. Rest well, my friend. Rest well Landar, Hero of the Elves!"
-msgstr "В этом была не только твоя вина. Может быть, сбылось проклятье Аквагара, или, быть может, ты стал той ценой, которую кровавый рок потребовал с нас за нашу победу... Покойся с миром, друг. Покойся с миром, Ландар, Герой эльфов!"
+msgstr "В этом была не только твоя вина. Может быть, сбылось проклятье Аквагара, или, быть может, ты стал той ценой, которую кровавый рок потребовал с нас за нашу победу... Покойся с миром, друг. Покойся с миром, Ландар, герой эльфов!"
 
 #. [scenario]: id=24_Epilogue
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:3
@@ -4027,7 +4027,7 @@ msgstr "Каленз похоронил Ландара со всеми подо�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:18
 msgid "Landar’s remaining followers’ lives were spared, but they were banished to Gitamoth forest, henceforth known as Silent Forest."
-msgstr "Оставшихся последователям Ландара пощадили, однако изгнали в лес Гитамот, с тех пор известный, как Лес Безмолвия."
+msgstr "Оставшихся последователям Ландара пощадили, однако изгнали в лес Гитамот, с тех пор известный, как лес Безмолвия."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:23
@@ -4053,7 +4053,7 @@ msgstr "Клеодил родила Калензу детей, и они был�
 #. "Sundered" is archaic English roughly meaning "torn apart".
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:41
 msgid "But Kalenz’s story was not yet over. Aquagar’s curse was fulfilled; prolonged in life by Crelanu’s philter, he outlived not only his beloved but their children. Sundered from his kin by their mortality, fleeing the reflections in their eyes of his lost beloved, he left his home and wandered for many a year across the Great Continent. Oft did he arrive unexpected at times and places when his people were in dire straits, and succor them with wisdom or magic or his bright keen blade."
-msgstr "Но история Каленза ещё не кончилась. Проклятье Аквагара сбылось; зелье Крелану продлило его жизнь, заставив пережить не только свою любимую, но и их детей. Смерть разлучала его с близкими, да и сам он избегал отражений своей умершей возлюбленной в их глазах. Наконец, Каленз оставил дом и много лет скитался по Большому Континенту. Нередко он неожиданно появлялся в то время и в том месте, где его народ оказывался в крайней нужде, и поддерживал их мудростью, магией или острым сверкающим клинком."
+msgstr "Но история Каленза ещё не кончилась. Проклятье Аквагара сбылось; зелье Крелану продлило его жизнь, заставив пережить не только свою любимую, но и их детей. Смерть разлучала его с близкими, да и сам он избегал отражений своей умершей возлюбленной в их глазах. Наконец, Каленз оставил дом и много лет скитался по Большому континенту. Нередко он неожиданно появлялся в то время и в том месте, где его народ оказывался в крайней нужде, и поддерживал их мудростью, магией или острым сверкающим клинком."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:44

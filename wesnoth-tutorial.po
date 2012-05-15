@@ -218,7 +218,7 @@ msgid ""
 "<big>You have selected Konrad.</big>\n"
 "The places he can move to are highlighted."
 msgstr ""
-"<big>вы выбрали Конрада.</big>\n"
+"<big>Вы выбрали Конрада.</big>\n"
 "На карте подсвечены места, до которых он может дойти"
 
 #. [message]: speaker=narrator
@@ -227,7 +227,7 @@ msgid ""
 "<big>You have selected Li’sar.</big>\n"
 "The places she can move to are highlighted."
 msgstr ""
-"<big>вы выбрали Лисар.</big>\n"
+"<big>Вы выбрали Лисар.</big>\n"
 "На карте подсвечены места, до которых она может дойти"
 
 # метка
@@ -763,7 +763,7 @@ msgstr "Победа"
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1179
 msgid "After your victory notice, the map will be grayed out to indicate that the scenario is over, but you will still be able to examine the final positions and state of your troops and any surviving enemies. This is called <i>linger mode</i>. When you’re finished, click the <b>End Scenario</b> button to go on the next scenario in the campaign."
-msgstr "После сообщения о победе карта будет затемнена, это обозначает, что сценарий завершён. Вы, однако, сможете изучить конечное расположение и состояние Ваших войск. Это называется <i>режим остановки</i>. Затем нажмите <b>Конец сценария</b>, чтобы перейти к следующему."
+msgstr "После сообщения о победе карта будет затемнена, это обозначает, что сценарий завершён. Вы, однако, сможете изучить конечное расположение и состояние ваших войск. Это называется <i>режим остановки</i>. Затем нажмите <b>Конец сценария</b>, чтобы перейти к следующему."
 #endregion
 
 

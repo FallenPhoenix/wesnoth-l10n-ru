@@ -66,7 +66,7 @@ msgstr "(Средний уровень, 11 сценариев)"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:23
 msgid "In the first years of the Northern Alliance, an expedition from Knalga seeks out their kin at Kal Kartha and to learn the fate of the legendary Hammer of Thursagan. The perils of their journey through the wild Northern Lands, though great, pale beside the evil they will face at its end.\n\n"
-msgstr "В первые годы Северного Альянса экспедиция из Кналга искала своих родственников в Кал Картха и хотела выяснить судьбу легендарного Молота Турсагана. Опасности, подстерегавшие во время их путешествия через дикие Северные Земли были огромными, но незначительными по сравнению с тем злом, с которым они столкнулись в конце.\n\n"
+msgstr "В первые годы Северного Альянса экспедиция из Кналга искала своих родственников в Кал Картха и хотела выяснить судьбу легендарного молота Турсагана. Опасности, подстерегавшие во время их путешествия через дикие северные земли были огромными, но незначительными по сравнению с тем злом, с которым они столкнулись в конце.\n\n"
 
 #. [about]
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:26
@@ -260,7 +260,7 @@ msgstr "Я боюсь, что тяжёлая болезнь поразила К�
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:120
 msgid "And I fear for the Hammer of Thursagan. Our kin at Kal Kartha have been its keepers since a hero of their line recovered it from the Caverns of Flame, centuries ago."
-msgstr "И я боюсь за молот Турсагана. Наши сородичи в Кал Картха хранили его с тех самых пор, как один из героев их племени нашёл его в Огненных Пещерах, много столетий назад."
+msgstr "И я боюсь за молот Турсагана. Наши сородичи в Кал Картха хранили его с тех самых пор, как один из героев их племени нашёл его в Огненных пещерах, много столетий назад."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:124
@@ -295,7 +295,7 @@ msgstr "О чём эт' ты?! Не потеряны?"
 #. [message]: speaker=Angarthing_dummy
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:148
 msgid "Aye. Ye’ll recall that in repairing the western galleries we cleared a small cave-in hard by where Thursagan himself once had a workshop here, before he left to study in solitude in the further North."
-msgstr "Ага. Во время ремонта западных галерей мы очистили небольшой завал, где у самого Турсагана была мастерская, до того как он ушёл на далёкий Север работать в одиночестве."
+msgstr "Ага. Во время ремонта западных галерей мы очистили небольшой завал, где у самого Турсагана была мастерская, до того как он ушёл на далёкий север работать в одиночестве."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:152
@@ -1469,7 +1469,7 @@ msgstr "Это боевые барабаны!"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:491
 msgid "Aye. Karrag, calling his troops to battle. Only the Dark Gods know what hellspawn the lich will summon. AXES UP!"
-msgstr "Ага. Карраг созывает своё войско к битве. Только Тёмные Боги знают, какие исчадия ада призовёт лич. КЛИНКИ К БОЮ!"
+msgstr "Ага. Карраг созывает своё войско к битве. Только тёмные боги знают, какие исчадия ада призовёт лич. КЛИНКИ К БОЮ!"
 
 #. [message]: speaker=Dranath
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/12_The_Underlevels.cfg:519
@@ -1727,7 +1727,7 @@ msgstr "Я шёл по вашим следам несколько недель. 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:153
 msgid "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids you return to Knalga as soon as convenient, for your investiture."
-msgstr "Айглондур, лорд-Протектор дарует тебе звание лорда-компаньона Альянса. Он надеется, что ты вернёшься в Кналга, как только сможешь, чтобы быть введён в должность."
+msgstr "Айглондур, лорд-протектор дарует тебе звание лорда-компаньона Альянса. Он надеется, что ты вернёшься в Кналга, как только сможешь, чтобы быть введён в должность."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/13_Epilogue.cfg:158
@@ -1762,7 +1762,7 @@ msgstr "Летописец"
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:21
 msgid "Dwarvish Annalists are the historians of this ancient and proud race. They are few in number, and their very existence is not generally known to the other peoples of the Great Continent. To the abilities of the Witness they add, through the study of herb and mineral lore, the ability to cure poison."
-msgstr "Гномьи летописцы — историки этого древнего и гордого народа. Их очень мало, а другие народы Большого Континента обычно ничего не знают об их существовании. Помимо способностей Свидетелей они умеют излечивать отравления, так как изучали травы и минералы."
+msgstr "Гномьи летописцы — историки этого древнего и гордого народа. Их очень мало, а другие народы Большого континента обычно ничего не знают об их существовании. Помимо способностей Свидетелей они умеют излечивать отравления, так как изучали травы и минералы."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:32

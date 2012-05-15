@@ -336,7 +336,7 @@ msgstr "Они не пойдут. Ты должен спуститься в пе
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:259
 msgid "I can always take my offer to another tribe more friendly to its potential patrons. You are not the only smiths in the Northlands!"
-msgstr "Я всегда могу пойти со своим предложением к другому племени, более дружелюбному к возможным покупателям. Вы ведь не единственные кузнецы Севера!"
+msgstr "Я всегда могу пойти со своим предложением к другому племени, более дружелюбному к возможным покупателям. Вы ведь не единственные кузнецы севера!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:263
@@ -2632,7 +2632,7 @@ msgstr "Итак, скипетр закончен? Он у тебя? Дай мн
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:136
 msgid "I believe it was completed, but, I do not have it. It is buried deep in the mountains of the Northlands."
-msgstr "Я уверен, что он закончен, но у меня его нет. Он погребён глубоко в горах Севера."
+msgstr "Я уверен, что он закончен, но у меня его нет. Он погребён глубоко в горах севера."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:140
@@ -2850,7 +2850,7 @@ msgstr "Краа..."
 #~ msgstr "Ландар"
 
 #~ msgid "In $turnsleft more turns I will have completed the Sceptre of Fire."
-#~ msgstr "Я закончу Огненный Скипетр через $turnsleft ходов."
+#~ msgstr "Я закончу огненный скипетр через $turnsleft ходов."
 
 #~ msgid ""
 #~ "<255,255,255>Alternative objective:\n"
