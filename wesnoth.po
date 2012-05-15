@@ -2487,32 +2487,32 @@ msgstr "Скрыть план $player"
 #: src/menu_events.cpp:2987
 #: src/menu_events.cpp:3001
 msgid "nick registration"
-msgstr "регистрирую ник"
+msgstr "регистрация"
 
 # /register <пароль>
 #: src/menu_events.cpp:2951
 msgid "registering with password *** and no email address"
-msgstr "регистрируем с паролем *** и без е-мэйла"
+msgstr "Регистрирую ник с паролем ***, без почтового адреса..."
 
 # /register <пароль> <почта>
 #: src/menu_events.cpp:2955
 msgid "registering with password *** and email address $email"
-msgstr "регистрируем с паролем *** на е-мэйл $email"
+msgstr "Регистрирую ник с паролем *** и почтовым адресом $email..."
 
 # /drop
 #: src/menu_events.cpp:2969
 msgid "dropping your username"
-msgstr "удаляю ваш ник"
+msgstr "Удаляю ваш ник..."
 
 # /set
 #: src/menu_events.cpp:2987
 msgid "setting $var to $value"
-msgstr "выставляю для $var значение $value"
+msgstr "Выставляю для $var значение $value"
 
 # /info
 #: src/menu_events.cpp:3001
 msgid "requesting information for user $nick"
-msgstr "запрашиваю информацию о пользователе $nick"
+msgstr "Запрашиваю информацию об игроке $nick..."
 #endregion
 
 #region Списки друзей и игнора
@@ -2539,22 +2539,22 @@ msgstr "списки друзей и игнора"
 # /list
 #: src/menu_events.cpp:2930
 msgid "There are no players on your friends or ignore list."
-msgstr "В ваших списках друзей или игноре никого нет."
+msgstr "В ваших списках нет ни одного игрока."
 
 # /friend
 #: src/menu_events.cpp:2896
 msgid "Added to friends list: $nick"
-msgstr "Добавлен в список друзей: $nick"
+msgstr "Игрок $nick добавлен в список друзей."
 
 # /ignore
 #: src/menu_events.cpp:2876
 msgid "Added to ignore list: $nick"
-msgstr "Добавлен в игнор-лист: $nick"
+msgstr "Игрок $nick добавлен в список игнора."
 
 # /remove
 #: src/menu_events.cpp:2912
 msgid "Removed from list: $nick"
-msgstr "Удалён из списка: $nick"
+msgstr "Игрок $nick удалён из ваших списков."
 
 # Текст ошибки для команд /friend и /ignore
 #: src/menu_events.cpp:2879
@@ -2604,7 +2604,7 @@ msgstr "Режим отладки отключён!"
 # /choose_level - заголовок диалога
 #: src/menu_events.cpp:3384
 msgid "Choose Scenario (Debug!)"
-msgstr "Выбрать сценарий (отладка!)"
+msgstr "Выбор сценария (отладка!)"
 
 # /layers - заголовок диалога
 #: src/menu_events.cpp:3311
@@ -2619,17 +2619,17 @@ msgstr "Неизвестный тип: «$alignment», должен быть: «
 # /create
 #: src/menu_events.cpp:3614
 msgid "Invalid unit type"
-msgstr "Неправильный тип бойца"
+msgstr "Неправильный тип бойца."
 
 # /create (не работает?)
 #: src/menu_events.cpp:3627
 msgid "Invalid location"
-msgstr "Неверное место"
+msgstr "Неверное место."
 
 # /set_var (не работает?)
 #: src/menu_events.cpp:3496
 msgid "Variable not found"
-msgstr "Переменная не найдена"
+msgstr "Переменная не найдена."
 
 # /unsafe_lua - заголовок диалога подтверждения
 #: src/menu_events.cpp:3449
@@ -2701,7 +2701,8 @@ msgstr "Формат:"
 
 #: src/menu_events.cpp:2181
 msgid "aliases:"
-msgstr "алиасы:"
+msgstr "псевдонимы:"
+#* msgstr "алиасы:"
 
 
 # /help ...
@@ -2805,12 +2806,12 @@ msgstr "Добавить игрока в список игнора."
 # /help friend
 #: src/menu_events.cpp:2372
 msgid "Add a nickname to your friends list."
-msgstr "Добавить в друзья."
+msgstr "Добавить игрока в список друзей."
 
 # /help remove
 #: src/menu_events.cpp:2374
 msgid "Remove a nickname from your ignores or friends list."
-msgstr "Удалить игрока из списка игнора или списка друзей."
+msgstr "Удалить игрока из списка друзей или списка игнора."
 
 # /help list (display)
 #: src/menu_events.cpp:2376
@@ -2829,7 +2830,7 @@ msgstr "Зарегистрировать свой ник."
 
 #: src/menu_events.cpp:2381
 msgid "<password> <email (optional)>"
-msgstr "<пароль> <email (необязательно)>"
+msgstr "<пароль> [<почта>]"
 
 # /help drop
 #: src/menu_events.cpp:2383
@@ -2903,11 +2904,12 @@ msgstr "<комната> <тип> [значение]"
 #: src/menu_events.cpp:2540
 msgid "Refresh gui."
 msgstr "Обновить экран."
+#* msgstr "Обновить интерфейс."
 
 # /help droid
 #: src/menu_events.cpp:2542
 msgid "Switch a side to/from AI control."
-msgstr "Отдать контроль над стороной AI или человеку..."
+msgstr "Отдать контроль над стороной ИИ или вернуть человеку."
 
 #: src/menu_events.cpp:2542
 msgid "do not translate the on/off^[<side> [on/off]]"
@@ -2925,7 +2927,7 @@ msgstr "<сторона> <ник>"
 #/ help clear
 #: src/menu_events.cpp:2547
 msgid "Clear chat history."
-msgstr "Очистить историю чата."
+msgstr "Очистить сообщения чата."
 
 #: src/menu_events.cpp:2549
 msgid "Visualize the screen refresh procedure."
@@ -2944,7 +2946,7 @@ msgstr "Отладка слоёв местности под курсором."
 # /help fps
 #: src/menu_events.cpp:2554
 msgid "Show fps."
-msgstr "Показать FPS."
+msgstr "Включить/отключить отображение FPS."
 
 # /help save (w)
 #: src/menu_events.cpp:2556
@@ -2974,7 +2976,7 @@ msgstr "Отключить автосохранение."
 # /help next_level
 #: src/menu_events.cpp:2569
 msgid "Advance to the next scenario, or scenario identified by 'id'"
-msgstr "Перейти к следующему сценарию или сценарию 'id'."
+msgstr "Перейти к следующему эпизоду кампании либо к эпизоду с указанным идентификатором."
 
 #: src/menu_events.cpp:2569
 msgid "<id>"
@@ -2983,7 +2985,7 @@ msgstr "<id>"
 # /help choose_level
 #: src/menu_events.cpp:2572
 msgid "Choose next scenario"
-msgstr "Выберите следующий сценарий"
+msgstr "Открыть диалог выбора эпизода кампании."
 
 # /help turn
 #: src/menu_events.cpp:2575
@@ -3051,16 +3053,20 @@ msgstr "Управление сохранёнными данными."
 # /help alias
 #: src/menu_events.cpp:2598
 msgid "Set or show alias to a command"
-msgstr "Установить/показать алиас команды."
+msgstr "Установить/показать псевдоним команды."
+#* msgstr "Показать/изменить псевдоним команды."
+#* msgstr "Установить/показать алиас команды."
 
 #: src/menu_events.cpp:2598
 msgid "<name>[=<command>]"
 msgstr "<имя>[=<команда>]"
+#* msgstr "<псевдоним>[=<команда>]"
 
 # /help set_var
 #: src/menu_events.cpp:2600
 msgid "Set a scenario variable."
 msgstr "Установить переменную в сценарии."
+#* msgstr "Изменить переменную сценария."
 
 #: src/menu_events.cpp:2600
 msgid "<var>=<value>"
