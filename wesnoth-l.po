@@ -490,7 +490,7 @@ msgstr "теневой взрыв"
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:23
 msgid "In the Era of Turmoil, during the reign of King Garard II, the border towns of Delwyn and Dallben in the province of Annuvin grew increasingly dissatisfied with the King’s rule. Being preoccupied with the great wars, the King was unable to send adequate forces to protect the frontier."
-msgstr "В бурную эпоху царствования Гарарда II в пограничных городах Делвине и Даллбене области Аннувин росло недовольство его правлением. Озабоченный крупными войнами король был неспособен послать адеватные силы для защиты границы."
+msgstr "В бурную эпоху царствования Гарарда II в пограничных городах Делвине и Даллбене области Аннувин росло недовольство его правлением. Озабоченный крупными войнами король был неспособен послать адекватные силы для защиты границы."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:27
@@ -1094,7 +1094,7 @@ msgstr "У нас неустойчивый мир, пока они не разд
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:214
 msgid "What can we do then? We have brought with us many from Annuvin province who are willing to fight, but our families are still at home. They will not last long if the Queen’s patrols return."
-msgstr "Что мы тогда можем сделать? С нами из области Аннувин пришли многие, кто желает сражаться, но наши семьи — всё ещё дома. Они долго не продержатся, если вернутся патрули королевы."
+msgstr "Что мы тогда можем сделать? С нами из Аннувин пришли многие, кто желает сражаться, но дома остались наши семьи. Они долго не продержатся, если вернутся патрули королевы."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:218
