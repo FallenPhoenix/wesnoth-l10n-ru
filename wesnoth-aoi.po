@@ -19,6 +19,10 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 
+# Подсказки в задачах эпизода показывает только на легкой сложности.
+# Очень не нравится обращение к лорду у эльфов "мой господин": они в "Весноте" может и любители себе авторитетов понастроить, но уж точно не по-рабски к ним относятся. Да и обращение "на вы" у эльфов тоже бы убрать чтоль...
+
+
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:11
 msgid "An Orcish Incursion"
@@ -58,7 +62,7 @@ msgstr "Лорд"
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:17
 msgid "(Normal)"
-msgstr "(Нормальный)"
+msgstr "(Нормально)"
 
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:18
@@ -68,7 +72,7 @@ msgstr "Верховный лорд"
 #. [campaign]: id=An_Orcish_Incursion
 #: data/campaigns/An_Orcish_Incursion/_main.cfg:18
 msgid "(Challenging)"
-msgstr "(Сложный)"
+msgstr "(Сложно)"
 #endregion
 
 
@@ -127,7 +131,7 @@ msgstr "Первые встречи с новоприбывшими прошли
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/01_Defend_the_Forest.cfg:73
 msgid "But humans, though crude and brash, at least had in them a creative spark which elves could recognize as akin to their own nature. Orcs seemed completely alien."
-msgstr "Но люди, при всей их грубости и дерзости, хотя бы несли в себе искру созидания, которую эльфы могли признать родственной. Орки же выглядели полностью чуими."
+msgstr "Но люди, при всей их грубости и дерзости, хотя бы несли в себе искру созидания, которую эльфы могли признать родственной. Орки же выглядели полностью чужими."
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/01_Defend_the_Forest.cfg:77
@@ -190,7 +194,7 @@ msgstr "Ломарфель"
 #. [message]: id=Lomarfel
 #: data/campaigns/An_Orcish_Incursion/scenarios/01_Defend_the_Forest.cfg:129
 msgid "My lord! A party of aliens has made camp to the north and lays waste to the forest. Our scouts believe it’s a band of orcs."
-msgstr "Мой господин! Партия чужаков разбила лагерь на севере и разбойничает в лесах. Наши разведчики уверены, что это банда орков."
+msgstr "Мой господин! Группа чужаков разбила лагерь на севере и разбойничает в лесах. Наши разведчики уверены, что это банда орков."
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/01_Defend_the_Forest.cfg:133
@@ -537,7 +541,7 @@ msgstr "Мы нашли кое-какие припасы, пока обыски�
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/03_Wasteland.cfg:287
 msgid "Save it for the march north. There is little to be found in this barren country."
-msgstr "Сохрани их для марша на север. Мы немногое найдём в этих пустынных землях."
+msgstr "Сохрани их для похода на север. Мы немногое найдём в этих пустынных землях."
 #endregion
 
 #region Найденное золото: 100 < X
@@ -590,7 +594,7 @@ msgstr "Долгожданная подмога догнала их нескол
 #. [scenario]: id=04_Valley_of_Trolls
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:9
 msgid "Valley of Trolls"
-msgstr "Долина Троллей"
+msgstr "Долина троллей"
 
 
 #2 ***** Вступление *****
@@ -598,7 +602,7 @@ msgstr "Долина Троллей"
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:124
 msgid "Next morning, the elves set off again, increasingly wearied by the hardships of the campaign and longing for the green comfort of their home forests. This land was barren and rugged; nothing shielded them from biting northern wind as they traveled towards the mountains looming before them."
-msgstr "Следующим утром эльфы снова вышли в путь, всё больше изнемогая от тягот похода, тоскуя по зелёному уюту родных лесов. Пустынна и негостеприимна была эта земля; ничто не укрывало их от пронизывающего северного ветра, пока они шли к горам, что возвышались впереди них."
+msgstr "Следующим утром эльфы снова двинулись в путь, всё больше изнемогая от тягот похода и тоскуя по зелёному уюту родных лесов. Пустынна и негостеприимна была эта земля; ничто не укрывало их от пронизывающего северного ветра, когда они шли к возвышающимся впереди горам."
 
 #. [part]
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:128
@@ -673,12 +677,12 @@ msgstr "Как спалось?... Тяжко, господин. Безрадос
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:212
 msgid "Yes. The earth currents are perturbed here, and the bridges to the dreamland are tainted. I think there is a mage dwelling somewhere nearby. Or perhaps more than one; the traces are mixed, and some of them have an unwholesome flavor."
-msgstr "Верно. Земные потоки в этом месте возмущены, мосты в страну снов подгнили. Думаю, здесь неподалёку живёт волшебник. И, быть может, не один; следы перемешаны, и некоторые из них имеют нездоровый оттенок."
+msgstr "Верно. Земные потоки в этом месте возмущены, мосты в страну снов подгнили. Думаю, здесь неподалёку живёт колдун. И, быть может, не один; следы перемешаны, и некоторые из них имеют нездоровый оттенок."
 
 #. [message]: role=Advisor
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:216
 msgid "It would be dire indeed for us if these orcs have magic to add to their battle-might."
-msgstr "Меня бросает в ужас от отдной только мысли, что орки овладели магией вдобавок к своей боевой мощи."
+msgstr "Меня бросает в ужас от отдной только мысли, что вдобавок к своей боевой мощи орки овладели и магией."
 
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/04_Valley_of_Trolls.cfg:220
@@ -782,10 +786,12 @@ msgstr "Последовала кровавая сеча, но ничего в �
 
 #1 ********** 5. Линаера Быстрая **********
 
+# Прозвище Проворная, думаю, только лучше подходит серебряному магу, т.е. магу с телепортами. Правда, она появляется перед эльфами с тремя магами, у которых особенности "верный" и "быстрый" (у самой Линаэры никаких плюшек нет). Еще как варинат - Шустрая.
 #. [scenario]: id=05_Linaera_the_Quick
 #: data/campaigns/An_Orcish_Incursion/scenarios/05_Linaera_the_Quick.cfg:9
 msgid "Linaera the Quick"
 msgstr "Линаера Быстрая"
+#* msgstr "Линаэра Проворная"
 
 
 #2 ***** Вступление *****
@@ -1011,7 +1017,7 @@ msgstr "Керемаль"
 #. [message]: speaker=Linaera
 #: data/campaigns/An_Orcish_Incursion/scenarios/06_A_Detour_through_the_Swamp.cfg:117
 msgid "The evil spirits who have settled in this wetland have turned it into a vile bog. My apprentices and I have the power to dispel them, but you must protect us from their weapons."
-msgstr "Злые духи, обосновавшиеся в этом болоте, превратили его в мерзкую трясину. Мы с моими учениками можем изгнать их, но вам придётся защитить нас от их оружия."
+msgstr "Злые духи, обосновавшиеся в этом болоте, превратили его в мерзкую трясину. Мы с учениками можем изгнать их, но вам придётся защитить нас от их оружия."
 
 #region Победа
 #. [message]: speaker=Linaera
@@ -1034,7 +1040,7 @@ msgstr "Конечно... Я буду рад вашей помощи."
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/06_A_Detour_through_the_Swamp.cfg:139
 msgid "All is lost! Without Linaera’s help, I cannot hope to defeat these horrifying apparitions!"
-msgstr "Всё пропало! Без Линаеры мне не победить эти ужасающие привидения!"
+msgstr "Всё пропало! Без Линаеры нам не победить этих жутких призраков!"
 
 
 #1 ********** 7. Лицом к лицу **********
@@ -1051,7 +1057,7 @@ msgstr "Лицом к лицу"
 #. [objective]: condition=win
 #: data/campaigns/An_Orcish_Incursion/scenarios/07_Showdown.cfg:117
 msgid "Defeat Rualsha"
-msgstr "Поедите Руалшу"
+msgstr "Победите Руалшу"
 
 #. [objectives]
 #: data/campaigns/An_Orcish_Incursion/scenarios/07_Showdown.cfg:114
