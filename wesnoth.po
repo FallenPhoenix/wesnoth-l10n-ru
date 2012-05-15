@@ -4894,80 +4894,80 @@ msgstr "%d.%m.%Y %I:%M %p"
 #region Единицы измерения
 #: src/serialization/string_utils.cpp:299
 msgid "prefix_milli^m"
-msgstr ""
+msgstr "м"
 
 #: src/serialization/string_utils.cpp:300
 msgid "prefix_micro^µ"
-msgstr ""
+msgstr "мк"
 
 #: src/serialization/string_utils.cpp:301
 msgid "prefix_nano^n"
-msgstr ""
+msgstr "н"
 
 #: src/serialization/string_utils.cpp:302
 msgid "prefix_pico^p"
-msgstr ""
+msgstr "п"
 
 #: src/serialization/string_utils.cpp:303
 msgid "prefix_femto^f"
-msgstr ""
+msgstr "ф"
 
 #: src/serialization/string_utils.cpp:304
 msgid "prefix_atto^a"
-msgstr ""
+msgstr "а"
 
 #: src/serialization/string_utils.cpp:305
 msgid "prefix_zepto^z"
-msgstr ""
+msgstr "з"
 
 #: src/serialization/string_utils.cpp:306
 msgid "prefix_yocto^y"
-msgstr ""
+msgstr "и"
 
 #: src/serialization/string_utils.cpp:318
 msgid "prefix_kibi^K"
-msgstr ""
+msgstr "К"
 
 #: src/serialization/string_utils.cpp:319
 msgid "prefix_kilo^k"
-msgstr ""
+msgstr "К"
 
 #: src/serialization/string_utils.cpp:321
 msgid "prefix_mega^M"
-msgstr ""
+msgstr "М"
 
 #: src/serialization/string_utils.cpp:322
 msgid "prefix_giga^G"
-msgstr ""
+msgstr "Г"
 
 #: src/serialization/string_utils.cpp:323
 msgid "prefix_tera^T"
-msgstr ""
+msgstr "Т"
 
 #: src/serialization/string_utils.cpp:324
 msgid "prefix_peta^P"
-msgstr ""
+msgstr "П"
 
 #: src/serialization/string_utils.cpp:325
 msgid "prefix_exa^E"
-msgstr ""
+msgstr "Э"
 
 #: src/serialization/string_utils.cpp:326
 msgid "prefix_zetta^Z"
-msgstr ""
+msgstr "З"
 
 #: src/serialization/string_utils.cpp:327
 msgid "prefix_yotta^Y"
-msgstr ""
+msgstr "И"
 
 #: src/serialization/string_utils.cpp:341
 msgid "infix_binary^i"
-msgstr ""
+msgstr "и"
 
 # Также используется идентичная строка в wesnoth-lib
 #: src/addon/manager.cpp:423
 msgid "unit_byte^B"
-msgstr "B"
+msgstr "Б"
 #endregion
 
 

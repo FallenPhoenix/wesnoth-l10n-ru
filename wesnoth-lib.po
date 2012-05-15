@@ -3159,7 +3159,7 @@ msgstr "Ошибка"
 #: src/gui/dialogs/network_transmission.cpp:57
 #: src/hotkeys.cpp:1178
 msgid "unit_byte^B"
-msgstr "b"
+msgstr "Б"
 
 #. [label]
 #. [grid]
