@@ -233,7 +233,7 @@ msgstr "желтый, если он уже ходил, но все еще мож
 #. [topic]: id=orbs
 #: data/core/help.cfg:182
 msgid " red if it can no longer move or attack, or the user ended the unit’s turn."
-msgstr " красный, если отряд не может передвигатся или атаковать. Или игрок завершил ход для отряда. красный, если отряд не может передвигатся или атаковать. Или игрок завершил ход для отряда."
+msgstr " красный, если отряд не может передвигатся или атаковать. Или игрок завершил ход для отряда."
 
 #. [topic]: id=orbs
 #: data/core/help.cfg:183
@@ -3313,7 +3313,7 @@ msgstr "Каста"
 #. [topic]: id=caste
 #: data/core/encyclopedia/drakes.cfg:8
 msgid "One of the variant forms of the drake: either be a <ref>dst='unit_Drake Clasher' text='Clasher'</ref> or a <ref>dst='unit_Drake Fighter' text='Drake Fighter'</ref>."
-msgstr "Один из вариантов форм дрейков: может быть как <ref>dst='unit_Drake Clasher' text='Боец дрейков'</ref> или <ref>dst='unit_Drake Fighter' text='Солдат дрейков'</ref>.Один из вариантов форм дрейков: может быть как <ref>dst='unit_Drake Clasher' text='Боец дрейков'</ref> или <ref>dst='unit_Drake Fighter' text='Солдат дрейков'</ref>."
+msgstr "Один из вариантов форм дрейков: может быть как <ref>dst='unit_Drake Clasher' text='Боец дрейков'</ref> или <ref>dst='unit_Drake Fighter' text='Солдат дрейков'</ref>."
 #endregion
 
 #region Гнездо
@@ -3386,7 +3386,7 @@ msgstr "Бездна"
 #. [topic]: id=abyss
 #: data/core/encyclopedia/drakes.cfg:44
 msgid "In the cosmology of the Drakes, a vast and deadly waterfall where the ocean falls off the world-disc."
-msgstr "В учении о Дрейках описывался как огромный и смертельный водопад стекающий с земного диска.В учении о Дрейках описывался как огромный и смертельный водопад стекающий с земного диска."
+msgstr "В учении о Дрейках описывался как огромный и смертельный водопад стекающий с земного диска."
 #endregion
 
 #region Спиральный путь

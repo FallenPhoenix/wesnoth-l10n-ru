@@ -137,7 +137,7 @@ msgstr "При запуске Веснота вы видите фон в вид�
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:90
 msgid "<imageobject> <imagedata fileref=\"images/main-menu-1.9.4.jpg\"/> </imageobject>"
-msgstr "<imageobject> <imagedata fileref=\"images/main-menu-1.9.7.jpg\"/> </imageobject><imageobject> <imagedata fileref=\"images/main-menu-1.9.7.jpg\"/> </imageobject><imageobject> <imagedata fileref=\"images/ru/main-menu-1.9.7.jpg\"/> </imageobject>"
+msgstr "<imageobject> <imagedata fileref=\"images/ru/main-menu-1.9.7.jpg\"/> </imageobject>"
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:93
@@ -385,7 +385,7 @@ msgstr "При нажатии на кнопку \"Сетевая\" вам пре
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:314
 msgid "<imageobject> <imagedata fileref=\"images/multiplayer-1.9.4.jpg\"/> </imageobject>"
-msgstr "<imageobject> <imagedata fileref=\"images/multiplayer-1.9.7.jpg\"/> </imageobject>"
+msgstr "<imageobject> <imagedata fileref=\"images/ru/multiplayer-1.9.7.jpg\"/> </imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:317
@@ -473,7 +473,7 @@ msgstr "Экран игры"
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:379
 msgid "<imageobject> <imagedata fileref=\"images/game-screen-1.9.4.jpg\"/> </imageobject>"
-msgstr "<imageobject> <imagedata fileref=\"images/game-screen-1.9.7.jpg\"/> </imageobject>"
+msgstr "<imageobject> <imagedata fileref=\"images/ru/game-screen-1.9.7.jpg\"/> </imageobject>"
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -490,7 +490,7 @@ msgstr "Вне зависимости от того, играете вы сце�
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:390
 msgid "<imageobject> <imagedata fileref=\"images/top_pane-1.9.4.jpg\"/> </imageobject>"
-msgstr "<imageobject> <imagedata fileref=\"images/top_pane-1.9.7.jpg\"/> </imageobject>"
+msgstr "<imageobject> <imagedata fileref=\"images/ru/top_pane-1.9.7.jpg\"/> </imageobject>"
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
 #: /src/wesnoth/doc/manual/manual.en.xml:393
@@ -578,7 +578,7 @@ msgstr "Тип текущей ячейки"
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:459
 msgid "<imageobject> <imagedata fileref=\"images/right_pane-1.9.4.jpg\"/> </imageobject>"
-msgstr "<imageobject> <imagedata fileref=\"images/right_pane-1.9.7.jpg\"/> </imageobject>"
+msgstr "<imageobject> <imagedata fileref=\"images/ru/right_pane-1.9.7.jpg\"/> </imageobject>"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>
@@ -1562,7 +1562,7 @@ msgstr "Вербовка и Призыв"
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: /src/wesnoth/doc/manual/manual.en.xml:1315
 msgid "<imageobject> <imagedata fileref=\"images/recruit-1.9.4.jpg\"/> </imageobject>"
-msgstr "<imageobject> <imagedata fileref=\"images/recruit-1.9.7.jpg\"/> </imageobject>"
+msgstr "<imageobject> <imagedata fileref=\"images/ru/recruit-1.9.7.jpg\"/> </imageobject>"
 
 # type: Content of: <book><chapter><section><table><tgroup><tbody><row><entry>
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject><textobject><phrase>

@@ -2126,9 +2126,7 @@ msgstr "<i>«Мы сбежали ночью, как преступники, но
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilogue.cfg:44
-msgid ""
-"<i>“If you wish to find us, head southwest. When you reach the land’s end, just keep going. See you in the Three Sisters, old friend.\n"
-" ― Relana”</i>"
+msgid "<i>“If you wish to find us, head southwest. When you reach the land’s end, just keep going. See you in the Three Sisters, old friend. ― Relana”</i>"
 msgstr ""
 "<i>«Если вы хотите найти нас, идите на юго-запад. Доберётесь до берега, а там по воде. Встретимся на Трёх Сёстрах, старина.\n"
 "Релана».</i>"

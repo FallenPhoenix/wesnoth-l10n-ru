@@ -465,7 +465,7 @@ msgstr "B<-s,\\ --server\\ [host]>"
 #. type: Plain text
 #: ../../doc/man/wesnoth.6:191
 msgid "connects to the specified host if any, otherwise connect to the first server in preferences. Example: B<--server server.wesnoth.org>"
-msgstr "поключится к указаному хосту если таковые имеются, иначе поключится к первому, указанному в настройках. Например: B<--server server.wesnoth.org>поключится к указаному хосту если таковые имеются, иначе поключится к первому, указанному в настройках. Например: B<--server server.wesnoth.org>"
+msgstr "поключится к указаному хосту если таковые имеются, иначе поключится к первому, указанному в настройках. Например: B<--server server.wesnoth.org>"
 
 #. type: TP
 #: ../../doc/man/wesnoth.6:191
@@ -567,7 +567,7 @@ msgstr "B<--ai_config>I<число>B<=>I<значение>"
 #. type: Plain text
 #: ../../doc/man/wesnoth.6:222
 msgid "selects a configuration file to load for the AI controller for this side."
-msgstr "выбрать файл конфигурации из которого загрузить AI контроллер для данной стороны.выбрать файл конфигурации из которого загрузить AI контроллер для данной стороны."
+msgstr "выбрать файл конфигурации из которого загрузить AI контроллер для данной стороны."
 
 # type: TP
 #. type: TP
@@ -972,7 +972,7 @@ msgstr "B<allow_remote_shutdown>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:114
 msgid "If set to B<no> (default), shut_down and restart requests are ignored unless they come from the fifo.  Set it to B<yes> to allow remote shutdown via a /query by an administrator."
-msgstr "Если установлено в B<no> (по умолчанию), shut_down и restart запросы будут проигнорированы, только если они не пришли из fifo. Установите в B<yes> чтобы разрешить удалённое выключение через /query администратором.Если установлено в B<no> (по умолчанию), shut_down и restart запросы будут проигнорированы, только если они не пришли из fifo. Установите в B<yes> чтобы разрешить удалённое выключение через /query администратором."
+msgstr "Если установлено в B<no> (по умолчанию), shut_down и restart запросы будут проигнорированы, только если они не пришли из fifo. Установите в B<yes> чтобы разрешить удалённое выключение через /query администратором."
 
 # type: TP
 #. type: TP
@@ -1089,7 +1089,7 @@ msgstr "B<new_room_policy>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:147
 msgid "Determines who can create new rooms on the server. Available values are B<everyone>, B<registered>, B<admin> and B<nobody>, and give the permission respectively to everyone, registered users, admin users or disables new room creation. Default value is B<everyone>."
-msgstr "Определяет, кто может создавать новые комнаты на сервере. Доступные значения B<everyone>, B<registered>, B<admin> и B<nobody>, они дают дают разрешение соответственно всем, зарегистрированным пользователям, администраторам или запрещает создание новых комнат. Стандартное значение B<everyone>.Определяет, кто может создавать новые комнаты на сервере. Доступные значения B<everyone>, B<registered>, B<admin> и B<nobody>, они дают дают разрешение соответственно всем, зарегистрированным пользователям, администраторам или запрещает создание новых комнат. Стандартное значение B<everyone>."
+msgstr "Определяет, кто может создавать новые комнаты на сервере. Доступные значения B<everyone>, B<registered>, B<admin> и B<nobody>, они дают дают разрешение соответственно всем, зарегистрированным пользователям, администраторам или запрещает создание новых комнат. Стандартное значение B<everyone>."
 
 # type: TP
 #. type: TP
@@ -1113,7 +1113,7 @@ msgstr "B<replay_save_path>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:153
 msgid "The directory where the server stores game replays. (Don't forget the trailing /!) Defaults to `' which means the directory wesnothd was started in."
-msgstr "Директория, где сервер хранит повторы игр. (не забудьте завершающую косую черту /!) По умолчанию `'что означает директорию, где wesnothd был запущен.Директория, где сервер хранит повторы игр. (не забудьте завершающую косую черту /!) По умолчанию `'что означает директорию, где wesnothd был запущен."
+msgstr "Директория, где сервер хранит повторы игр. (не забудьте завершающую косую черту /!) По умолчанию `'что означает директорию, где wesnothd был запущен."
 
 # type: TP
 #. type: TP
@@ -1266,7 +1266,7 @@ msgstr "B<time>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:207
 msgid "The time length definition.  The format is: %d[%s[%d%s[...]]] where %s is s (seconds), m (minutes), h (hours), D (days), M (months) or Y (years) and %d is a number.  If no time modifier is given minutes (m) are assumed.  Example: B<time=\"1D12h30m\"> results in a ban time of 1 day, 12 hours and 30 minutes."
-msgstr "Определение длительности времени. Формат: %d[%s[%d%s[...]]] где %s (секунды), m (минуты), h (часы), D (дни), M (месяцы) or Y (годы) и %d это число. Если формат не указан, предполагается что время указано в минутах (m). Пример: B<time=\"1D12h30m\"> приводит к бану на 1 день, 12 часов и 30 минут.Определение длительности времени. Формат: %d[%s[%d%s[...]]] где %s (секунды), m (минуты), h (часы), D (дни), M (месяцы) or Y (годы) и %d это число. Если формат не указан, предполагается что время указано в минутах (m). Пример: B<time=\"1D12h30m\"> приводит к бану на 1 день, 12 часов и 30 минут."
+msgstr "Определение длительности времени. Формат: %d[%s[%d%s[...]]] где %s (секунды), m (минуты), h (часы), D (дни), M (месяцы) or Y (годы) и %d это число. Если формат не указан, предполагается что время указано в минутах (m). Пример: B<time=\"1D12h30m\"> приводит к бану на 1 день, 12 часов и 30 минут."
 
 # type: Plain text
 #. type: Plain text
@@ -1317,7 +1317,7 @@ msgstr "B<db_user>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:231
 msgid "(for user_handler=forum) The name of the user under which to log into the database"
-msgstr "(for user_handler=forum) Имя пользователя с которым войти в базу данных(for user_handler=forum) Имя пользователя с которым войти в базу данных"
+msgstr "(for user_handler=forum) Имя пользователя с которым войти в базу данных"
 
 # type: TP
 #. type: TP
@@ -1343,7 +1343,7 @@ msgstr "B<db_users_table>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:237
 msgid "(for user_handler=forum) The name of the table in which your phpbb forums saves its user data. Most likely this will be E<lt>table-prefixE<gt>_users (e.g. phpbb3_users)."
-msgstr "(for user_handler=forum) Название таблицы где ваш phpbb форум хранит данные о пользователях. Скорее всего это E<lt>префикс-таблицыE<gt>_users (т.е. phpbb3_users).(for user_handler=forum) Название таблицы где ваш phpbb форум хранит данные о пользователях. Скорее всего это E<lt>префикс-таблицыE<gt>_users (т.е. phpbb3_users)."
+msgstr "(for user_handler=forum) Название таблицы где ваш phpbb форум хранит данные о пользователях. Скорее всего это E<lt>префикс-таблицыE<gt>_users (т.е. phpbb3_users)."
 
 # type: TP
 #. type: TP
@@ -1356,7 +1356,7 @@ msgstr "B<db_extra_table>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:241
 msgid "(for user_handler=forum) The name of the table in which wesnothd will save its own data about users. You will have to create this table manually, e.g.: B<CREATE TABLE E<lt>table-nameE<gt>(username VARCHAR(255) PRIMARY KEY, user_lastvisit INT UNSIGNED NOT NULL DEFAULT 0, user_is_moderator TINYINT(4) NOT NULL DEFAULT 0);>"
-msgstr "(for user_handler=forum) Имя таблицы в которой wesnothd будет сохранять собственную информацию о пользователях. Вы должны создать эту таблицу вручную, напримет: B<CREATE TABLE E<lt>имя-таблицыE<gt>(username VARCHAR(255) PRIMARY KEY, user_lastvisit INT UNSIGNED NOT NULL DEFAULT 0, user_is_moderator TINYINT(4) NOT NULL DEFAULT 0);>(for user_handler=forum) Имя таблицы в которой wesnothd будет сохранять собственную информацию о пользователях. Вы должны создать эту таблицу вручную, напримет: B<CREATE TABLE E<lt>имя-таблицыE<gt>(username VARCHAR(255) PRIMARY KEY, user_lastvisit INT UNSIGNED NOT NULL DEFAULT 0, user_is_moderator TINYINT(4) NOT NULL DEFAULT 0);>"
+msgstr "(for user_handler=forum) Имя таблицы в которой wesnothd будет сохранять собственную информацию о пользователях. Вы должны создать эту таблицу вручную, напримет: B<CREATE TABLE E<lt>имя-таблицыE<gt>(username VARCHAR(255) PRIMARY KEY, user_lastvisit INT UNSIGNED NOT NULL DEFAULT 0, user_is_moderator TINYINT(4) NOT NULL DEFAULT 0);>"
 
 # type: TP
 #. type: TP
@@ -1369,7 +1369,7 @@ msgstr "B<user_expiration>"
 #. type: Plain text
 #: ../../doc/man/wesnothd.6:244
 msgid "(for user_handler=sample) The time after which a registered nick expires (in days)."
-msgstr "(for user_handler=sample) Время, после которого зарегистрированный ник истекает (в днях).(for user_handler=sample) Время, после которого зарегистрированный ник истекает (в днях)."
+msgstr "(for user_handler=sample) Время, после которого зарегистрированный ник истекает (в днях)."
 
 # type: Plain text
 #. type: Plain text

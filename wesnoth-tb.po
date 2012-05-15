@@ -269,7 +269,7 @@ msgstr "Я чувствую злобную поступь Мордака в не
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:231
 msgid "All right. I will do this for the village. Can you keep the mage off our backs?"
-msgstr "Всё верно. Я сделаю это ради деревни. Сможете ли вы удержать мага от нашего тыла?Всё верно. Я сделаю это ради деревни. Сможете ли вы удержать мага от нашего тыла?"
+msgstr "Всё верно. Я сделаю это ради деревни. Сможете ли вы удержать мага от нашего тыла?"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:235
@@ -529,12 +529,12 @@ msgstr "Свяжите его — возьмём его с собой. Если 
 #. [message]: role=speaker
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:397
 msgid "Captain, what are we riding into? I thought you wanted nothing to do with Baran any more, not since Toen Caric."
-msgstr "Капитан, куда мы скачем? Я думал, что вам ничего не нужно от Бьярна со времён Тоэн Карик.Капитан, куда мы скачем? Я думал, что вам ничего не нужно от Бьярна со времён Тоэн Карик."
+msgstr "Капитан, куда мы скачем? Я думал, что вам ничего не нужно от Бьярна со времён Тоэн Карик."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:401
 msgid "I’m no longer sure. What’s between us remains, but knowing someone else has lain hands on him changes things. Mount up, and let’s get moving."
-msgstr "Я больше не уверен. Что остаётся между нами, но зная что кто-то еще приложил руку к нему, меняет многое. Взбирайтесь на лошадей и давайте двигаться.Я больше не уверен. Что остаётся между нами, но зная что кто-то еще приложил руку к нему, меняет многое. Взбирайтесь на лошадей и давайте двигаться."
+msgstr "Я больше не уверен. Что остаётся между нами, но зная что кто-то еще приложил руку к нему, меняет многое. Взбирайтесь на лошадей и давайте двигаться."
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:411
@@ -690,7 +690,7 @@ msgstr "Спасти Бьярна"
 #. [message]: speaker=narrator
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:309
 msgid "Arvith and his men halt outside of the castle, gazing for a moment at the hulking mass of stone looming in the fog. There is movement in the mist."
-msgstr "Арне и его люди остановились вне замка, пристально глядя на массивную груду камней скрытую под туманом. В тумане что-то двигалось.Арне и его люди остановились вне замка, пристально глядя на массивную груду камней скрытую под туманом. В тумане что-то двигалось."
+msgstr "Арне и его люди остановились вне замка, пристально глядя на массивную груду камней скрытую под туманом. В тумане что-то двигалось."
 
 #. [message]: speaker=Guard_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:313
@@ -730,7 +730,7 @@ msgstr "Проходи, приятель."
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:369
 msgid "The adept didn’t lead us astray after all. I’ll keep my word, distasteful as it may be; cut him loose, and let’s be rid of him."
-msgstr "В конце концов, он не ввел нас в заблуждение. Я сохраню своё слово, как бы не было неприятно; отпустить его и избавиться от него.В конце концов, он не ввел нас в заблуждение. Я сохраню своё слово, как бы не было неприятно; отпустить его и избавиться от него."
+msgstr "В конце концов, он не ввел нас в заблуждение. Я сохраню своё слово, как бы не было неприятно; отпустить его и избавиться от него."
 
 #. [message]: speaker=Guard_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:380
@@ -906,12 +906,12 @@ msgstr "Ты не веришь в своего брата, Бьярн?"
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:870
 msgid "It’s not that. Perhaps I deserved to rot here. I failed you. I failed you again."
-msgstr "Всё не так. Возможно я заслужил сгнить здесь. Я подвёл тебя. Я подвёл тебя снова.Всё не так. Возможно я заслужил сгнить здесь. Я подвёл тебя. Я подвёл тебя снова."
+msgstr "Всё не так. Возможно я заслужил сгнить здесь. Я подвёл тебя. Я подвёл тебя снова."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:874
 msgid "That is as may be. But you are my brother still. And... I never doubted you would have come for me."
-msgstr "Возможно и так. Но ты по-прежнему мой брат. И... Я никогда не сомневался что ты придешь за мной.Возможно и так. Но ты по-прежнему мой брат. И... Я никогда не сомневался что ты придешь за мной."
+msgstr "Возможно и так. Но ты по-прежнему мой брат. И... Я никогда не сомневался что ты придешь за мной."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:878

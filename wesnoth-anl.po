@@ -132,12 +132,12 @@ msgstr "Вы уничтожили грибной рудник. Доход орк
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:453
 msgid "You destroy the mushroom mine. The southwest orcs now have 10 less income."
-msgstr "Вы·уничтожили·грибной·рудник.·Доход·орков·на·юго-западе·сократился·на·10·золотых."
+msgstr "Вы уничтожили грибной рудник. Доход орков на юго-западе сократился на 10 золотых."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:476
 msgid "You destroy the mushroom mine. The southeast undead now have 10 less income."
-msgstr "Вы·уничтожили·грибной·рудник.·Доход·мертвецов·на·юго-востоке·сократился·на·10·золотых."
+msgstr "Вы уничтожили грибной рудник. Доход мертвецов на юго-востоке сократился на 10 золотых."
 #endregion
 #endregion
 
@@ -390,9 +390,9 @@ msgid ""
 "Our farms produce $player_$side_number|.farming.gold|g\n"
 "Our mines produce $player_$side_number|.mining.gold|g\n"
 msgstr ""
-"На данный момент мы изучаем·$player_$side_number|.research.target_language_name|.·Чему наши ученые должны посвятить свои умы?\n\n"
-"Our·farms·produce·$player_$side_number|.farming.gold|g\n"
-"Our·mines·produce·$player_$side_number|.mining.gold|g\n"
+"На данный момент мы изучаем $player_$side_number|.research.target_language_name|. Чему наши ученые должны посвятить свои умы?\n\n"
+"Our farms produce $player_$side_number|.farming.gold|g\n"
+"Our mines produce $player_$side_number|.mining.gold|g\n"
 
 #. [command]
 #. [research]
@@ -426,7 +426,7 @@ msgid ""
 msgstr ""
 "<span color='green'>Сельское хозяйство</span>\n"
 "Фермеры приносят один золотой\n"
-"Прогресс обучения:·$player_$side_number|.farming.progress|/$player_$side_number|.farming.target"
+"Прогресс обучения: $player_$side_number|.farming.progress|/$player_$side_number|.farming.target"
 
 # горное дело
 #. [option]: speaker=unit
@@ -437,8 +437,8 @@ msgid ""
 "Study Progress: $player_$side_number|.mining.progress|/$player_$side_number|.mining.target"
 msgstr ""
 "<span color='green'>Горное дело</span>\n"
-"Горняки·приносят·один золотой\n"
-"Прогресс обучения:·$player_$side_number|.mining.progress|/$player_$side_number|.mining.target"
+"Горняки приносят один золотой\n"
+"Прогресс обучения: $player_$side_number|.mining.progress|/$player_$side_number|.mining.target"
 
 # военное дело
 #. [option]: speaker=unit
@@ -450,7 +450,7 @@ msgid ""
 msgstr ""
 "<span color='green'>Военное дело</span>\n"
 "Позволяет вам вербовать бойцов нового типа\n"
-"Прогресс обучения:·$player_$side_number|.warfare.progress|/$player_$side_number|.warfare.target"
+"Прогресс обучения: $player_$side_number|.warfare.progress|/$player_$side_number|.warfare.target"
 
 #2 ***** Исследование завершено *****
 
@@ -468,13 +468,13 @@ msgstr "Обучение завершено"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:247
 msgid "$player_$side_number|.name|’s farms now produce $player_$side_number|.farming.gold gold."
-msgstr "Теперь фермы игрока $player_$side_number|.name|производят·золота — $player_$side_number|.farming.gold."
+msgstr "Теперь фермы игрока $player_$side_number|.name|производят золота — $player_$side_number|.farming.gold."
 
 # горное дело
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:279
 msgid "$player_$side_number|.name|’s mines now produce $player_$side_number|.mining.gold gold."
-msgstr "Теперь рудники игрока $player_$side_number|.name|·производят золота·- $player_$side_number|.mining.gold."
+msgstr "Теперь рудники игрока $player_$side_number|.name| производят золота - $player_$side_number|.mining.gold."
 
 # военное дело
 #. [message]: speaker=narrator
@@ -588,7 +588,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:138
 msgid "$sm_player_name|, since the wisdom of my people exceeds yours I have instructed my scholars to aid you in your efforts to learn the science of mining."
-msgstr "$sm_player_name|,·поскольку·мы·обладаем·знаниями,·которых·нет·у·тебя,·я·отдал·своим·ученым·распоряжение·помочь·тебе·в·освоении·горного дела."
+msgstr "$sm_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим ученым распоряжение помочь тебе в освоении горного дела."
 #endregion
 
 #region Военное дело
@@ -618,7 +618,7 @@ msgid ""
 msgstr ""
 "<span color='green'>Проведите переговоры с Гномами</span>\n"
 "Это позволит вам вербовать гномов-бойцов\n"
-"Прогресс:·$player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+"Прогресс: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
 #endregion
 
 #region Переговоры с эльфами
@@ -629,8 +629,8 @@ msgid ""
 "Lets you recruit an Elvish unit\n"
 "Negotiation Progress: $player_$side_number|.leader_option_2.progress|/$player_$side_number|.leader_option_2.target"
 msgstr ""
-"<span color='green'>Проведите·переговоры·с·Эльфами</span>\n"
-"Это·позволит·вам·вербовать·эльфов-бойцов\n"
+"<span color='green'>Проведите переговоры с Эльфами</span>\n"
+"Это позволит вам вербовать эльфов-бойцов\n"
 "Прогресс: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
 #endregion
 
