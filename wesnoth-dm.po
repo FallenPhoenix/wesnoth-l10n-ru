@@ -49,7 +49,7 @@ msgstr "Ученик"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:31
 msgid "(Normal)"
-msgstr "(Нормальный)"
+msgstr "(Нормально)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:32
@@ -59,7 +59,7 @@ msgstr "Маг"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:32
 msgid "(Challenging)"
-msgstr "(Сложный)"
+msgstr "(Сложно)"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:33
@@ -69,7 +69,7 @@ msgstr "Великий маг"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:33
 msgid "(Difficult)"
-msgstr "(Очень сложный)"
+msgstr "(Очень сложно)"
 #endregion
 
 #region Создатели
@@ -486,7 +486,7 @@ msgstr "Четвёртый предсказатель"
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:57
 msgid "This is the true story of Delfador the Great from his humble beginnings; the tale of how he became the most famous and powerful of all the mages of Wesnoth."
-msgstr "Это правдивая история Делфадора Великого; рассказ о том, как он стал самым известным и могущественным из всех магов Веснота."
+msgstr "Это правдивая история Делфадора Великого; рассказ о том, как он стал самым известным и могущественным изо всех магов Веснота."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:60
@@ -538,22 +538,22 @@ msgstr "Войди, о претендующий. Предсказатели жд
 #. [message]: speaker=First Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:124
 msgid "The time of peace is passing. Chaos is rising; evil is rooted in the land’s very heart. Darkness is coming soon. The world will be changed. And you will be among the champions of our brotherhood of mages. I give you the first syllable of power, the beginning of your name: DEL"
-msgstr "Мирные времена проходят. Хаос разрастается, зло пустило корни в самом сердце земли. Скоро наступит тьма. Мир изменится. И ты будешь среди лучших воинов нашего братства магов. Я даю тебе первую часть могущества, первый слог твоего имени: ДЕЛ"
+msgstr "Мирные времена проходят. Хаос разрастается, зло пустило корни в самом сердце земли. Скоро наступит тьма. Мир изменится. И ты будешь среди лучших воинов нашего братства магов. Я даю тебе первую часть могущества, первый слог твоего имени: ДЕЛ."
 
 #. [message]: speaker=Second Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:133
 msgid "You will not be least among those champions. Nay; you will be called <i>“The Great”</i> before your days are through. I give you the second syllable of power, the second part of your name: FA"
-msgstr "Ты не будешь худшим среди этих воинов. Нет; тебя будут звать <i>«великим»</i> до того, как твои дни закончатся. Я даю тебе вторую часть могущества, второй слог твоего имени: ФА"
+msgstr "Ты не будешь худшим среди этих воинов. Нет; тебя будут звать <i>«великим»</i> до того, как твои дни закончатся. Я даю тебе вторую часть могущества, второй слог твоего имени: ФА."
 
 #. [message]: speaker=Third Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:142
 msgid "Yes. Peace is broken, but hope is not extinguished. There is always hope. And you will be the father of it. I call the power of the Bright Gods into the second part of your name. FA"
-msgstr "Да. Мир разрушен, но надежда не погасла. Всегда есть надежда. И ты дашь ей увидеть свет. Я призываю силу светлых богов во второй слог твоего имени. ФА"
+msgstr "Да. Мир разрушен, но надежда не погасла. Всегда есть надежда. И ты дашь ей увидеть свет. Я призываю силу светлых богов во второй слог твоего имени. ФА."
 
 #. [message]: speaker=Fourth Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:151
 msgid "After the battle, peace. After the darkness, dawn. From death springs new life. I give you the last part of your name, the final syllable of power. DOR"
-msgstr "После битвы — мир. После темноты — рассвет. Из смерти зарождается новая жизнь. Я даю тебе последний слог твоего имени, последнюю часть могущества. ДОР"
+msgstr "После битвы — мир. После тьмы — рассвет. Из смерти зарождается новая жизнь. Я даю тебе последний слог твоего имени, последнюю часть могущества. ДОР."
 
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:160
@@ -600,17 +600,17 @@ msgstr "Теперь иди вперёд!"
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:201
 msgid "Your name journey begins. Methor will lead you from this place."
-msgstr "Твоё путешествие за именем начинается. Метор будет выведет тебя из этого места."
+msgstr "Твоё путешествие за именем начинается. Метор выведет тебя из этого места."
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:217
 msgid "But I will not see you to its end, for that is yours alone."
-msgstr "Но я не увижу тебя в конце, ты должен завершить его один."
+msgstr "Но я не буду сопровождать до конца, ты должен завершить его один."
 
 #. [message]: speaker=Methor
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:228
 msgid "Dangers and trials await us. When you have truly claimed the name you have been given, I will depart."
-msgstr "Нас ожидают опасности и испытания. Когда ты действительно подтвердишь имя, данное тебе, я покину тебя."
+msgstr "Нас ожидают опасные испытания. Когда ты действительно подтвердишь данное тебе имя, я тебя покину."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:232
@@ -634,13 +634,13 @@ msgstr "Грогор-Тук"
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:54
 msgid "Delfador’s wandering time with Methor took them to many strange places, both within and beyond the lands of men. They studied and practiced, applying magecraft to aid those they traveled among and to deepen their understanding of the hidden currents and powers of the world."
-msgstr "Во время своего путешествия Делфадор с Метором посетили множество странных мест в земле людей и за её пределами. Делфадор обучался и тренировался, применяя магическое ремесло в помощь гостеприимным хозяевам, и чтобы углубить своё знания о скрытых потоках и силах мира."
+msgstr "Во время своего путешествия Делфадор с Метором посетили множество странных мест в земле людей и за её пределами. Делфадор обучался и тренировался, применяя магическое ремесло в помощь гостеприимным хозяевам, и чтобы углубить свои знания о скрытых потоках и силах мира."
 #* msgstr "Во время путешествия Делфадор и Метор посетили множество странных мест в земле людей и за её пределами. Делфадор обучался и тренировался, применяя магическое ремесло в помощь гостеприимным хозяевам, и чтобы углубить свои знания о скрытых потоках и силах мира."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:57
 msgid "But the elder mage’s health was taxed by the rigors of the journey. A year after the two left Alduin, Methor settled in a tranquil valley at the edge of the Dulatus Hills, not far southeast of the capitol at Weldyn. He opened a small school of his own, and with Delfador assisting him he began training a handful of youths who might in time be worthy to enter the great Academy on Alduin."
-msgstr "Но здоровье старшего мага было потрёпано тяготами путешествия. Через год после ухода из Алдуина, Метор решил осесть в тихой долине на границе Низких гор, на юго-востоке от столицы в Велдине. Он открыл собственную небольшую школу и, вместе с помогавшим ему Делфадором, начал тренировать горстку молодых учеников, которые могли через некоторое время стать достойными Академии на Алдуине."
+msgstr "Но здоровье старшего мага было потрёпано тяготами путешествия. Через год после ухода из Алдуина Метор решил осесть в тихой долине на границе Низких гор, на юго-востоке от столицы в Велдине. Он открыл собственную небольшую школу и, вместе с помогавшим ему Делфадором, начал тренировать горстку молодых учеников, которые могли через некоторое время стать достойными Академии на Алдуине."
 #endregion
 
 #region Задачи сценария
