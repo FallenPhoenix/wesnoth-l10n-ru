@@ -1325,7 +1325,7 @@ msgstr "4и - Перекресток Исара"
 #. [multiplayer]: id=multiplayer_Isars_Cross
 #: data/multiplayer/scenarios/4p_Isars_Cross.cfg:9
 msgid "A very small 2 vs. 2 map. Close quarters fighting means the successful rotation of units and planning of moves is important. Teams set for players 1&4 vs. 2&3 (northeast vs. southwest). Designed for 75 starting gold, 20 villages."
-msgstr "Очень маленькая карта 2 на 2. Близкорасположенные боевые позиции означают быструю смену отрядов, потому важно тщательное планирование ходов. Игроки расположены так: 1 и 4 против 2 и 3 (северо-восток против юго-запада). Разработана для 75 начального золота, 20 деревень."
+msgstr "Очень маленькая карта 2 на 2. Близко расположенные боевые позиции означают быструю смену бойцов, потому важно тщательное планирование ходов. Игроки расположены так: 1 и 4 против 2 и 3 (северо-восток против юго-запада). Разработана для 75 начального золота, 20 деревень."
 
 
 #2 ***** Царь горы *****

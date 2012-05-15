@@ -568,7 +568,7 @@ msgstr "Надев этот амулет, вы будете наносить п�
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:329
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:536
 msgid "holy amulet^Take it"
-msgstr "Святой Амулет^Взять его"
+msgstr "Взять"
 
 #. [scenario]: id=05_Northern_Outpost
 #. [scenario]: id=02_The_Escape_Tunnel
@@ -579,7 +579,7 @@ msgstr "Святой Амулет^Взять его"
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:330
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:537
 msgid "holy amulet^Leave it"
-msgstr "Святой Амулет^Оставить его"
+msgstr "Оставить"
 
 #. [scenario]: id=05_Northern_Outpost
 #. [scenario]: id=02_The_Escape_Tunnel
@@ -1596,7 +1596,7 @@ msgstr "Мерзкие орки! Возможно, стоило объедини
 #. [message]: speaker=Pelathsil
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:297
 msgid "It seems yon humans are mightier than I kenned..."
-msgstr "Кажется, эти люди более могущественны, чем я думал. Ух."
+msgstr "Кажется, эти люди более могущественны, чем я думал..."
 
 #. [message]: speaker=Pelathsil
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:310
@@ -1782,7 +1782,7 @@ msgstr "Хм..."
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:308
 msgid "whisper^I dunno. He escaped, I think."
-msgstr "(Шёпотом) Не знаю. Думаю, что они сбежали."
+msgstr "Не знаю. Думаю, что они сбежали."
 
 #. [message]: speaker=King Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:312
@@ -1872,7 +1872,7 @@ msgstr "Инженер"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:198
 msgid "All is lost! We have to get out of the Northlands as quickly as possible! Run for your — what the...?! Who are you?"
-msgstr "Всё потеряно! Мы должны покинуть северные земли как можно быстрее! Спасайте свою... Что за?! Кто ты такой?"
+msgstr "Всё потеряно! Мы должны покинуть северные земли как можно быстрее! Спасайте свою — что за...?! Кто ты такой?"
 
 #. [message]: speaker=Engineer
 #. This is thickly accented English
@@ -1888,7 +1888,7 @@ msgstr "Зачем нам это делать?!"
 #. [message]: speaker=Engineer
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:211
 msgid "Well, I see those orcs are chasin’ you, and if I blow up the bridge, they can’t get across. It’ll help you to escape."
-msgstr "Я гляжу, эти орки гоняются за вами, и если я взорву мост, они не смогут перебраться. Это и поможет вам сбежать. "
+msgstr "Я гляжу, эти орки гоняются за вами, и если я взорву мост, они не смогут перебраться. Это и поможет вам сбежать."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:215
@@ -1898,7 +1898,7 @@ msgstr "Понятно... Думаю, неплохо бы нанять его. �
 #. [message]: speaker=Engineer
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:219
 msgid "I ain’t charging gold — I wants protecshun! Everywhere I go, I see orcs, undead. ’T’ain’t safe ’round ’ere!"
-msgstr "Я не продаюсь! Но мне нужна защита. Куды бы я шёл, всюду натыкаюсь то на орков, то на нежить. Здесь кругом небезопасно!"
+msgstr "Я не продаюсь — мне зашшыта нужна. Куды ни пойдёшь, всюду орки да нежить. Куда ни ткнись — везде пропадёшь!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:223
@@ -1973,7 +1973,7 @@ msgstr "Мы не можем идти на север, прямо в объят�
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:369
 msgid "We could go south, and return to Wesnoth... but I do not know what that would accomplish."
-msgstr "Мы можем пойти на юг и вернуться в Веснот... Но я не знаю, чем это может закончиться."
+msgstr "Мы можем пойти на юг и вернуться в Веснот... но я не знаю, чем это может закончиться."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:373
@@ -1988,7 +1988,7 @@ msgstr "Ты что, не слушал, что сказал Дацин? Или �
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:381
 msgid "There is still some hope left. If we return to Wesnoth, we may be able to aid the king in defeating these invaders. We saw them attack us. And, I have... advice. To give the king. I may know the undead’s weakness."
-msgstr "Не всё так уж безнадёжно. Если мы вернёмся в Веснот, то сможем помочь королю победить захватчиков. Мы сообщим ему, что нас атаковали. И у меня есть... совет для короля. Возможно, я знаю слабость в войске мертвецов."
+msgstr "Не всё так уж безнадёжно. Если мы вернёмся в Веснот, то сможем помочь королю победить захватчиков. Мы сообщим ему, что нас атаковали. И у меня есть... совет. Для короля. Возможно, я знаю слабость в войске мертвецов."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:385
@@ -2025,12 +2025,12 @@ msgstr "Хракрас"
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:390
 msgid "Now, we have reached the Horse Plains, the fair homeland of my people. They may be able to help us in—"
-msgstr "Ну вот, мы достигли Конских Равнин, прекрасной родины моего народа. Они помогут нам в..."
+msgstr "Ну вот, мы достигли Конских Равнин, прекрасной родины моего народа. Они помогут нам в—"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:394
 msgid "What?! Swamps?! Those undead have destroyed the grasslands of my House, and they shall pay for it!"
-msgstr "Что?! Болота? Эти мертвецы уничтожили мои родные луга, они заплатят за это!"
+msgstr "Что?! Болота?! Эти мертвецы уничтожили мои родные луга, они заплатят за это!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:398
@@ -2040,12 +2040,12 @@ msgstr "Должно быть, лич затопил долину. Мертве�
 #. [message]: speaker=Engineer
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:402
 msgid "I s’ppose we’ll hav’ to wade across it anyway... ugh."
-msgstr "Думаю, нам по-любому придётся перебраться через него... Ух."
+msgstr "Похож, нам по-любому придётся через него топать... ух."
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:410
 msgid "Findshhhh... slayhhhh... killhhhh..."
-msgstr "Найтиии... Сссокрушшшить... Убииить...."
+msgstr "Иссскать... крушшшить... душшшшить..."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/13_The_Drowned_Plains.cfg:414
@@ -2316,7 +2316,7 @@ msgstr "Он говорит: <i>«Хорошо; вы убили нескольк
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:286
 msgid "What is the point of this message? Does it consist of anything more than insults?"
-msgstr "И каков смысл этого сообщения? Это просто оскорбление или что-то большее? "
+msgstr "И каков смысл этого сообщения? Это просто оскорбление или что-то большее?"
 
 #. [message]: speaker=Messenger of Doom
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:290
@@ -2346,7 +2346,7 @@ msgstr "Думаю, ты должен согласиться. По крайне�
 #. [message]: speaker=Messenger of Doom
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:310
 msgid "I will simplify your choice. Accept, coward, or face the onslaught of my lord’s hordes at dawn tomorrow!"
-msgstr "Я упрощу твой выбор. Соглашайся, трус, или будешь сметён бешеной атакой армии моего лорда завтра на рассвете."
+msgstr "Я упрощу твой выбор. Соглашайся, трус, или будешь сметён бешеной атакой армии моего лорда завтра на рассвете!"
 
 #. [option]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Weldyn_under_Attack.cfg:316
@@ -2395,7 +2395,7 @@ msgstr ""
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:142
 msgid "Wait — what just happened? He called more warriors out of the ground! That’s not allowed!"
-msgstr "Что? Это что ещё за шуточки? Он призвал ещё воинов из-под земли! Это нечестно!"
+msgstr "Эй — что ещё за шуточки? Он призвал ещё воинов из-под земли! Это нечестно!"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:146
@@ -2574,7 +2574,7 @@ msgstr "Да будет так. Но Мы помним, что вы трое с�
 #. [message]: speaker=Konrad II
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:140
 msgid "Dacyn. You will remain by Our side, here; as you counseled these two in war, you shall counsel Us in peace and the rebuilding of the Kingdom."
-msgstr "Дацин. Ты останешься с Нами, здесь; ты помогал этим двоим в войне, теперь ты будешь помогать Нам в мире, помогать восстанавливать Королевство. "
+msgstr "Дацин. Ты останешься с Нами, здесь; ты помогал этим двоим в войне, теперь ты будешь помогать Нам в мире, помогать восстанавливать Королевство."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:147

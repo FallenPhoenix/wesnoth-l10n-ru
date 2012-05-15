@@ -46,7 +46,7 @@ msgstr "После долгой войны немногие оставшиеся
 #. [objectives]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:32
 msgid "Right-click on your leader during your turn for help"
-msgstr "Помощь можно получить, если на своём ходу кликнуть правой кнопкой мыши на своём лидере."
+msgstr "Помощь можно получить, если на своём ходу кликнуть правой кнопкой мыши на своём лидере"
 
 #. [objective]: condition=win
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:34
@@ -144,7 +144,7 @@ msgstr "Вы уничтожили грибной рудник. Доход мер
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_general_macros.cfg:34
 msgid "The chest contains $oc_treasure gold."
-msgstr "В сундуке золото — $oc_treasure"
+msgstr "В сундуке золото — $oc_treasure|."
 
 #region Смерть лидеров
 # 1й игрок
@@ -284,7 +284,7 @@ msgstr "Обрушить пещеру"
 #. [option]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:547
 msgid "Clear the Ground"
-msgstr "Clear the Ground"
+msgstr "Очистите землю"
 
 #region Цены
 # луг, ферма, уничтожение брода, очистка земли
@@ -391,8 +391,8 @@ msgid ""
 "Our mines produce $player_$side_number|.mining.gold|g\n"
 msgstr ""
 "На данный момент мы изучаем $player_$side_number|.research.target_language_name|. Чему наши ученые должны посвятить свои умы?\n\n"
-"Our farms produce $player_$side_number|.farming.gold|g\n"
-"Our mines produce $player_$side_number|.mining.gold|g\n"
+"Фермы приносят нам $player_$side_number|.farming.gold| золотых\n"
+"Шахты приносят нам $player_$side_number|.mining.gold| золотых\n"
 
 #. [command]
 #. [research]
@@ -583,7 +583,7 @@ msgid ""
 "Share knowledge of mining"
 msgstr ""
 "<span color='green'>$player_name</span>\n"
-"Поделиться знаниями в области горного дела."
+"Поделиться знаниями в области горного дела"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:138
@@ -599,7 +599,7 @@ msgid ""
 "Share knowledge of warfare"
 msgstr ""
 "<span color='green'>$player_name</span>\n"
-"Поделиться знаниями в области ведения военных действий."
+"Поделиться знаниями в области ведения военных действий"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:183
@@ -631,7 +631,7 @@ msgid ""
 msgstr ""
 "<span color='green'>Проведите переговоры с Эльфами</span>\n"
 "Это позволит вам вербовать эльфов-бойцов\n"
-"Прогресс: $player_$side_number|.leader_option_1.progress|/$player_$side_number|.leader_option_1.target"
+"Прогресс: $player_$side_number|.leader_option_2.progress|/$player_$side_number|.leader_option_2.target"
 #endregion
 
 #region Переговоры завершены
@@ -701,7 +701,7 @@ msgstr "Маги"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:29
 msgid "Mages are your wise men. They can study at universities, pursuing advances in mining, farming and recruitment."
-msgstr "Mages are your wise men. They can study at universities, pursuing advances in mining, farming and recruitment."
+msgstr "Маги — это ваши мудрецы. Они могут заниматься наукой в университетах, изыскивая улучшения в горном деле, сельском хозяйстве и вербовке."
 #endregion
 
 #region Фермы

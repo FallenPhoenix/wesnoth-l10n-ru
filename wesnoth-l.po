@@ -361,7 +361,7 @@ msgstr "Крестьянин-охотник"
 #: data/campaigns/Liberty/units/Villagers.cfg:228
 #| msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes. They can bullseye wamprats and track anything that moves in their territory."
 msgid "Huntsmen have spent their lives in the backwoods and swamps of their wilderness homes. They can bullseye ferocious swamp rats and track anything that moves in their territory."
-msgstr "Охотники провели свои жизни, живя на болотах и задворках своих глухих домов. Они могут отслеживать всё, что двигается на их территории."
+msgstr "Охотники провели свои жизни, живя на болотах и задворках своих глухих домов. Они могут легко подстрелить жестоких болотных тварей и отследить всё, что движется по их территории."
 #endregion
 
 
@@ -676,7 +676,7 @@ msgstr "И, Харпер... не дай им убить тебя. Я отвеч�
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:261
 msgid "... I know... All right now, let’s stop these goblins!"
-msgstr "...Я знаю... Ладно, остановим-ка этих гоблинов!"
+msgstr "... Я знаю... Ладно, остановим-ка этих гоблинов!"
 #endregion
 
 #region Приближение гоблинов к деревне
@@ -950,7 +950,7 @@ msgstr "Я согласна. Но Балдрас, что ж ты ему скаж
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:210
 msgid "We need evidence. Hard evidence... but wait— Are those orcish war drums I hear?"
-msgstr "Нужны доказательства. Серьёзные доказательства... Стой, это что, орочьи боевые барабаны?"
+msgstr "Нужны доказательства. Серьёзные доказательства... Постой-ка, это что, орочьи боевые барабаны?"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:214
@@ -1267,7 +1267,7 @@ msgstr "Смотри, стражи стоят на стационарных по
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:570
 msgid "Harper, you younger and faster folks need to be our eyes now. Scout ahead and try to find a way for us to get past the guards, but make sure to not stay where they can see you or we’re all in big trouble..."
-msgstr "Харпер, ты моложе и быстрее меня. Тебе нужно быть нашими глазами. Иди вперёд, и попробуй разведать путь мимо стражей, но только не останавливайся там, где они бы могли тебя видеть, а то у нас будут большие проблемы."
+msgstr "Харпер, ты моложе и быстрее меня. Тебе нужно быть нашими глазами. Иди вперёд, и попробуй разведать путь мимо стражей, но только не останавливайся там, где они бы могли тебя видеть, а то у нас будут большие неприятности."
 #endregion
 
 #region Спалились патрулю
@@ -2061,7 +2061,7 @@ msgstr "Это не маленькая победа. Вы недооценива
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1066
 msgid "You... underestimate the... cruelty and ambition of your Queen... Uungh..."
-msgstr "Вы ... недооцениваете ... жестокость и амбиции вашей королевы ... уххх..."
+msgstr "Вы ... недооцениваете ... жестокость и амбиции вашей королевы ... Уххх..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:1073

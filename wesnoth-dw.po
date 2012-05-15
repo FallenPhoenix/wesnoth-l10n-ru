@@ -225,7 +225,7 @@ msgstr "Он возрождает мертвецов в каждой дерев�
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:619
 msgid "This will be a dark day, but we <i>will</i> prevail."
-msgstr "День будет темный, но мы победим."
+msgstr "День будет темный, но мы <i>обязательно</i> победим."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:641
@@ -245,7 +245,7 @@ msgstr "Отступление"
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:35
 msgid "Kai Krellis was concerned that the undead might return, so he determined to learn as much as possible about them. His only clue was the name the necromancer had spoken: <i>“Lord Ravanal”</i>. He sent his swiftest scouts north and south along the coast to learn what they might about this Ravanal. The news they brought him was not good."
-msgstr "Кай Креллис был озабочен тем, что мертвецы могут вернуться, поэтому он решил узнать о них как можно больше. Единственный ключ, что был у него - имя, которое произнёс некромант: «Лорд Раванал». Он послал самых быстрых своих разведчиков на север и на юг вдоль побережья, чтобы они узнали об этом Раванале всё что смогут. Вскоре они принесли дурные вести..."
+msgstr "Кай Креллис был озабочен тем, что мертвецы могут вернуться, поэтому он решил узнать о них как можно больше. Единственный ключ, что был у него - имя, которое произнёс некромант: <i>«Лорд Раванал»</i>. Он послал самых быстрых своих разведчиков на север и на юг вдоль побережья, чтобы они узнали об этом Раванале всё что смогут. Вскоре они принесли дурные вести."
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:39
@@ -489,7 +489,7 @@ msgstr "Она такая милая."
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:591
 msgid "Very well then. I suppose we have our own bat."
-msgstr "Хорошо; я думаю, у нас теперь есть своя собственная летучая мышь."
+msgstr "Хорошо. Я думаю, у нас теперь есть своя собственная летучая мышь."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:597
@@ -619,7 +619,7 @@ msgstr "Врант"
 #. [message]: speaker=Gashnok
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:205
 msgid "Smells like lots of death in the south. There must be a good feast near that merman town."
-msgstr "Пахне так, будто на юге много смертей. Должно быть рядом с городом Водяного сейчас хорошая пирушка."
+msgstr "Пахнет так, будто на юге много смертей. Должно быть рядом с городом Водяного сейчас хорошая пирушка."
 
 #. [message]: speaker=Vrunt
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:210
@@ -659,7 +659,7 @@ msgstr "Я знаю, что это. Это штормовой трезубец. 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:294
 msgid "The trident is 14-2, magical, ranged, with <i>fire</i> damage."
-msgstr "Этот трезубец имеет дальнюю магическую огненную атаку 14-2."
+msgstr "Этот трезубец имеет дальнюю магическую <i>огненную</i> атаку 14-2."
 
 #. [option]: speaker=$unit.id
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:301
@@ -812,7 +812,7 @@ msgstr "Думаю, это сработает, но многие погибну�
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:453
 msgid "You can choose when the slaves come out of their villages and attack their captors. When you are ready, right click anywhere and select the slave revolt."
-msgstr "Вы можете выбрать момент, когда рабы должны выйти из своих укрытий и напасть на своих захватчиков. Когда вы будете готовы, кликните правой кнопкой мыши в любом месте и выберите \"начать бунт\"."
+msgstr "Вы можете выбрать момент, когда рабы должны выйти из своих укрытий и напасть на своих захватчиков. Когда вы будете готовы, кликните правой кнопкой мыши в любом месте и выберите «начать бунт»."
 
 #. [set_menu_item]: id=peasant_revolt_menu_option
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:468
@@ -827,7 +827,7 @@ msgstr "Услышьте меня! Рабы, водяные клянутся в�
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:521
 msgid "Cheers erupted from several villages, and former slaves rushed out with whatever meager weapons they could find, or fists and rocks if no weapons were to hand. Screams and curses came from the saurian castles."
-msgstr "Из убежищ раздались громкие крики одобрения, и бывшие рабы поспешили в битву с тем немногочисленным оружием, что они смогли раздобыть. У многих в руках были только камни, а у некоторых не было и камней - они шли в бой с голыми руками. Вскоре из замков ящеров послышались крики и ругань..."
+msgstr "Из убежищ раздались громкие крики одобрения, и бывшие рабы поспешили в битву с тем немногочисленным оружием, что они смогли раздобыть. У многих в руках были только камни, а у некоторых не было и камней - они шли в бой с голыми руками. Вскоре из замков ящеров послышались крики и ругань."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:559
@@ -1010,7 +1010,7 @@ msgstr "Что происходит? Водяные, что вы делаете 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:375
 msgid "He’s one to complain about <i>that</i>..."
-msgstr "Он жалуется на это..."
+msgstr "Он жалуется на <i>это</i>..."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:380
@@ -1577,7 +1577,7 @@ msgstr "Вы, должно быть, Каладон. Мы рады видеть 
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:545
 msgid "I am Caladon. Am I glad to see YOU?"
-msgstr "Я - Каладон. Рад ли я видеть вас?"
+msgstr "Я - Каладон. Рад ли я видеть ВАС?"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:549
@@ -1717,7 +1717,7 @@ msgstr "Голос лича ответил ему, будто ветер заш�
 #. [message]: speaker=Mal-Govon
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:360
 msgid "What I remember, you old fool, is you leaving behind the smoldering bodies of the orcs you had hired to steal my sword. Now, you bring mermen. When they lay expiring like gasping fish on the shore, will you not flee again? Do not speak to <i>me</i> of fear."
-msgstr "Всё, что я помню про тебя, старый дурак, так это твои сверкающие пятки в поле, заваленном тлеющими телами орков, которых ты нанял, чтобы украсть мой меч. Теперь ты привел водяных. Когда они будут валяться, как задыхающиеся рыбы на берегу, ты снова сбежишь? Не говори мне о страхе."
+msgstr "Всё, что я помню про тебя, старый дурак, так это твои сверкающие пятки в поле, заваленном тлеющими телами орков, которых ты нанял, чтобы украсть мой меч. Теперь ты привел водяных. Когда они будут валяться, как задыхающиеся рыбы на берегу, ты снова сбежишь? Не говори <i>мне</i> о страхе."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:364
@@ -1777,7 +1777,7 @@ msgstr "Друг Сиддри!"
 #. [message]: speaker=Howyrth
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:488
 msgid "You know each other?!"
-msgstr "Вы знаете друг друга?"
+msgstr "Вы знаете друг друга?!"
 
 #. [message]: speaker=Siddry
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:492

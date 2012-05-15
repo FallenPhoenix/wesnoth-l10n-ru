@@ -890,7 +890,7 @@ msgstr "Отличная идея, Баглур! Ему, впрочем, пот�
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:218
 msgid "You mean the insane dwarf who lives in the far north?!"
-msgstr "Ты говоришь о сумасшедшем гноме, что живёт на дальнем севере?"
+msgstr "Ты говоришь о сумасшедшем гноме, что живёт на дальнем севере?!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:222
@@ -1364,7 +1364,7 @@ msgstr "Так вот зачем мы здесь — нам нужно толь�
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:311
 msgid "Yes, although we will have to hire the miners — they don’t work for free. But beware, there are trolls and such down here..."
-msgstr "Да, но надо будет нанять шахтёров — они не работают бесплатно. И остерегайся троллей и им подобных здешних обитателей."
+msgstr "Да, но надо будет нанять шахтёров — они не работают бесплатно. И остерегайся троллей и им подобных здешних обитателей..."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:328
@@ -1483,7 +1483,7 @@ msgstr "Теганли"
 #. [message]: speaker=Theganli
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:197
 msgid "I’m coming... coming... stop pounding on the door..."
-msgstr "Иду... да иду я! ...перестань в дверь колотить..."
+msgstr "Иду... да иду я... перестань в дверь колотить..."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:201
@@ -1636,7 +1636,7 @@ msgstr "И вот мы здесь, на холмах клана Шорбир. З
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:211
 msgid "If I understand it correctly, we’re here to bargain with the Shorbears, and arrange for us to use their tools to cut the ruby."
-msgstr "Если я правильно понял, мы здесь чтобы заключить сделку с шорбирцами и занять у них инструменты для  огранки рубина."
+msgstr "Если я правильно понял, мы здесь чтобы заключить сделку с шорбирцами и занять у них инструменты для огранки рубина."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:215
@@ -1651,7 +1651,7 @@ msgstr "Переговоры буду вести я. Я помню, что бы�
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:223
 msgid "Och, it’s some o’ them cave-dwarves. What business do you have here?"
-msgstr "Ой, а эт' кто, пещерные гномы? Зачем пожаловали?"
+msgstr "Ой, а эт’ кто, пещерные гномы? Зачем пожаловали?"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:227
@@ -2189,7 +2189,7 @@ msgstr "Ролин"
 #. [message]: speaker=Rolin   # wmllint: ignore
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:223
 msgid "We will certainly help any warrior of Wesnoth who needs our help!"
-msgstr "Мы поможем любому воину Веснота, который нуждается в нашей помощи."
+msgstr "Мы поможем любому воину Веснота, который нуждается в нашей помощи!"
 
 #. [unit]: type=Lieutenant, id=Hadlin   # wmllint: ignore
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:275
@@ -2491,7 +2491,7 @@ msgstr "Должно быть, это что-то волшебное. В ата�
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:440
 msgid "Move onto the glyph in the center of the volcano"
-msgstr "Встаньте на знак в центре вулкана."
+msgstr "Встаньте на знак в центре вулкана"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:498
@@ -2506,7 +2506,7 @@ msgstr "Глядите, стены рушатся! Теперь орки вый�
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:523
 msgid "Well, we’ve succeeded in stopping the elves from getting the Sceptre, I would say. But what do we do now?!"
-msgstr "Мы не дали эльфам получить скипетр. Но что дальше?"
+msgstr "Мы не дали эльфам получить скипетр. Но что дальше?!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:529
@@ -2782,12 +2782,12 @@ msgstr "Гааааа..."
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:35
 msgid "Maghah..."
-msgstr "Маахаааа...."
+msgstr "Маахаааа..."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:48
 msgid "Ahhgg..."
-msgstr "Ааахх.."
+msgstr "Ааахх..."
 
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:71

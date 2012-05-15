@@ -171,7 +171,7 @@ msgstr "Орки"
 #. [side]: type=Orcish Warrior, id=Kreg'a'shar Trr
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:88
 msgid "Kreg’a’shar Trr"
-msgstr "Крег'а'шар Трр"
+msgstr "Крег’а’шар Трр"
 
 #. [side]: type=Sergeant, id=Drogan
 #. [side]: type=Lieutenant, id=Drogan
@@ -288,7 +288,7 @@ msgstr "То есть ты лучше дашь оркам захватить г�
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:324
 msgid "Aye, better that than to even dabble in dark magic. People would have rebuilt the town, just as they always have in the past. Would that the mages had taught you more sense."
-msgstr "Уж лучше быть убитым, чем погрязнуть в тёмной магии. Люди отстроят город заново, как это было всегда. Хоть бы маги научили тебя уму-разуму..."
+msgstr "Уж лучше быть убитым, чем погрязнуть в тёмной магии. Люди отстроят город заново, как это было всегда. Хоть бы маги научили тебя уму-разуму."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:328
@@ -318,7 +318,7 @@ msgstr "Может быть, может быть, но если короли и 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:350
 msgid "Perhaps I cannot kill them all... but I see the back-trail of this band we defeated, and there will be more orcs at the other end of it. I shall pursue them."
-msgstr "Может, я и не могу убить их всех... Но я вижу следы, оставшиеся от их банды, и там, откуда они пришли, наверняка ещё больше орков. Я иду в погоню."
+msgstr "Может, я и не могу убить их всех... но я вижу следы, оставшиеся от их банды, и там, откуда они пришли, наверняка ещё больше орков. Я иду в погоню."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:354
@@ -752,7 +752,7 @@ msgstr "Один? Моё обучение закончилось?"
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:325
 msgid "... Almost. The growth of your power has been truly impressive to watch. There is, however, a small favor I will ask of you. That will constitute the last part of your training. Now there are merely some... tasks... to which I must attend. They need not concern you. I will meet up with you to the west in a few weeks. In the meantime, do not let the last chieftain escape justice."
-msgstr "...Почти. Было приятно наблюдать за впечатляющими темпами роста твоей силы. Тем не менее, есть кое-что, о чём я хочу тебя попросить. Это будет последним этапом в твоём обучении. Сейчас есть ряд... дел, которым я должен уделить внимание. В них не требуется твоего участия. Я встречу тебя на западе через несколько недель. У тебя есть достаточно времени, чтобы не дать последнему вождю избежать правосудия."
+msgstr "... Почти. Было приятно наблюдать за впечатляющими темпами роста твоей силы. Тем не менее, есть кое-что, о чём я хочу тебя попросить. Это будет последним этапом в твоём обучении. Сейчас есть ряд... дел, которым я должен уделить внимание. В них не требуется твоего участия. Я встречу тебя на западе через несколько недель. У тебя есть достаточно времени, чтобы не дать последнему вождю избежать правосудия."
 
 #. [scenario]: id=06_Return_to_Parthyn, id=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:6
@@ -917,7 +917,7 @@ msgstr "<i>«У меня есть последнее задание для те�
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:116
 msgid "Malin replies, <i>“They are no longer countrymen of mine, since they have rejected me twice now.”</i>"
-msgstr "Малин ответил: <i>«Они мне больше не земляки. Они уже дважды отвергли меня».</i>"
+msgstr "Малин ответил: <i>«Они мне больше не земляки, ведь они уже дважды отвергли меня».</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:121
@@ -991,7 +991,7 @@ msgstr "Украденная книга находится в поместье �
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:314
 msgid "Note: Only the units you recruit now will be available to you once inside."
-msgstr "Примечание: только те отряды, которые вы наймёте сейчас, будут доступны после входа внутрь."
+msgstr "Примечание: внутри с вами будут только те бойцы, которых вы сейчас наймёте."
 
 #. [message]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:341
@@ -1006,7 +1006,7 @@ msgstr "К оружию, ребята!"
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:386
 msgid "Ooouuuh! It burns... burrrrnnns..."
-msgstr "О-о-о-о-у-у-ух! Горит... Я горю-ю-ю-ю-ю!!!..."
+msgstr "О-о-о-о-у-у-ух! Горит... горю-ю-ю-ю-ю..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/07_A_Small_Favor.cfg:390
@@ -1322,7 +1322,7 @@ msgstr "Принесите книгу в замок Малина"
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Alone_at_Last.cfg:591
 msgid "Pick up the book by moving a unit onto it. Bats and ghosts cannot carry the book."
-msgstr "Подберите книгу, передвинув на неё отряд. Летучие мыши и призраки не могут нести книгу."
+msgstr "Подберите книгу, передвинув на неё бойца. Летучие мыши и призраки не могут нести книгу."
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Alone_at_Last.cfg:636
@@ -1389,7 +1389,7 @@ msgstr "Есть и другой путь, хозяин. Вспомните о �
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:271
 msgid "Yes... yes. The orcs are too strong for me now, but once I have undergone the transformation they’ll begin to fall before me. And I will continue to hound them until the last one falls!"
-msgstr "Да... Да. Орки сейчас слишком сильны для меня, но после трансформации... После трансформации я стану сильнее! Я буду травить их до тех пор, пока не умрёт последний орк!"
+msgstr "Да... да. Орки сейчас слишком сильны для меня, но после трансформации... После трансформации я стану сильнее! Я буду травить их до тех пор, пока не умрёт последний орк!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:275
@@ -1424,7 +1424,7 @@ msgstr "Он почувствовал темноту..."
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:374
 msgid "and peace..."
-msgstr "...и спокойствие..."
+msgstr "и покой..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:379
@@ -1434,7 +1434,7 @@ msgstr "...на мгновение."
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:385
 msgid "Then they are replaced by a pulling, a pain too strong to resist, and then..."
-msgstr "Затем их сменила боль, боль столь сильная, что сопротивляться ей было бессмысленно... А затем..."
+msgstr "Затем их сменила боль, боль столь сильная, что сопротивляться ей было бессмысленно, а затем..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:390
@@ -1456,7 +1456,7 @@ msgstr "<big>АААааайййххх!!</big>"
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:422
 msgid "The cold, it burns!"
-msgstr "Холод... он обжигает меня!!!"
+msgstr "Холод, меня обжигает холод!"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:426
@@ -1503,12 +1503,12 @@ msgstr "Очистите свой новый дом от троллей"
 #. [message]: speaker=Dumdumbadoom
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:659
 msgid "Who has awoken me from my slumber? Undead? I shall not suffer the existence of such foul creatures."
-msgstr "Кто меня разбудил ото сна? Мертвецы? Я не позволю этим отвратительным созданиям мучать себя!!!"
+msgstr "Кто меня разбудил ото сна? Мертвецы? Я не позволю этим отвратительным созданиям мучить себя."
 
 #. [message]
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:677
 msgid "<big>AAAaaaggghhhh!! ...</big>"
-msgstr "<big>АААааааййййхххххх!!</big>"
+msgstr "<big>АААааааййййхххххх!! ...</big>"
 
 #. [scenario]: id=12_Endless_Night
 #: data/campaigns/Descent_Into_Darkness/scenarios/12_Endless_Night.cfg:6
@@ -1680,9 +1680,7 @@ msgstr "Тёмный маг"
 #. [unit_type]: id=Dark Mage, race=human
 #: data/campaigns/Descent_Into_Darkness/units/dark-mage.cfg:18
 msgid "Although Malin’s sword has grown rusty from lack of proper care, his increasing skill with magic more than compensates."
-msgstr ""
-"Хотя меч Малина уже покрылся ржавчиной от недостатка внимания, его возросшие навыки в магии компенсируют это с лихвой.\n\n"
-"Примечание:"
+msgstr "Хотя меч Малина уже покрылся ржавчиной от недостатка внимания, его возросшие навыки в магии компенсируют это с лихвой."
 
 #. [unit_type]: id=Frontier Baroness, race=human
 #: data/campaigns/Descent_Into_Darkness/units/frontier-baroness.cfg:6

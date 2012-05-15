@@ -1217,7 +1217,7 @@ msgstr "Этот чёртов лес когда-нибудь кончится? �
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:216
 msgid "This isn’t so bad. Haldric’s kind are such a suspicious lot when it comes to these sorts of things."
-msgstr "Всё не так уж и плохо. Люди типа Хальдрика всегда настороже, когда дело доходит до таких вещей. "
+msgstr "Всё не так уж и плохо. Люди типа Хальдрика всегда настороже, когда дело доходит до таких вещей."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:220
@@ -1257,7 +1257,7 @@ msgstr "Поосторожнее с деревьями."
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:248
 msgid "What? What are you looking at me for?"
-msgstr "Что? Чего вы на меня уставились!"
+msgstr "Что? Чего вы на меня уставились?"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:263
@@ -2048,7 +2048,7 @@ msgstr "Убейте лича и заберите его книгу"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:182
 msgid "Haldric enters Southbay’s sewer"
-msgstr "Хальдрик должен войти в канализацию Южной Бухты."
+msgstr "Хальдрик должен войти в канализацию Южной Бухты"
 
 #. [message]: speaker=Tan-Pulk
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:212
@@ -2108,7 +2108,7 @@ msgstr "Здесь какой-то странный монолит."
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:320
 msgid "Haldric, this looks like a job for you, probably something to do with the lich. Maybe you should get yourself over here."
-msgstr "Халдрик, эта работа, похоже, для тебя. Возможно, тебе придётся что-то сделать с личем. Наверное, ты должен сюда подойти."
+msgstr "Хальдрик, эта работа, похоже, для тебя. Возможно, тебе придётся что-то сделать с личем. Наверное, ты должен сюда подойти."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:339
@@ -2493,7 +2493,7 @@ msgstr "Очень любезно с вашей стороны. Но зачем 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:177
 msgid "This is no time for bravado. You must head east because my people came from the west, which is teeming with every form of enemy and monster imaginable. There is literally no room there. If you thought we were bad, you should see what else comes behind us. You’d be slaves, or you’d be dead."
-msgstr "Не время для бахвальства. Нужно идти на восток, потому что мой народ пришёл с запада, где водятся все мыслимые твари и бродят все мыслимые враги. Вам там не место. Думаете, мы плохие? Вы бы посмотрели, кто *сейчас* идёт оттуда. Вас обратят в рабство или просто убьют."
+msgstr "Не время для бахвальства. Нужно идти на восток, потому что мой народ пришёл с запада, где водятся все мыслимые твари и бродят все мыслимые враги. Вам там не место. Думаете, мы плохие? Вы бы посмотрели, кто сейчас идёт оттуда. Вас обратят в рабство или просто убьют."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:181
@@ -3236,7 +3236,7 @@ msgstr "Джессен, распорядись, чтобы треть флота
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:322
 msgid "May the currents carry you swiftly, my friend. "
-msgstr "Счастливого плаванья, друг мой"
+msgstr "Счастливого плаванья, друг мой."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:326
@@ -3461,7 +3461,7 @@ msgstr "Хорошо, человек, но это лишь начало. Вам 
 #. [message]: speaker=Lord Logalmier
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:462
 msgid "You are victorious again. You may yet earn your place in this land."
-msgstr "Ты опять вернулся с победой.  Но тебе всё ещё надо заслужить место в этих землях."
+msgstr "Ты опять вернулся с победой. Но тебе всё ещё надо заслужить место в этих землях."
 
 #. [message]: speaker=Lord Logalmier
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:475
@@ -4135,7 +4135,7 @@ msgstr "Генерал Кафка"
 #. [message]: speaker=General Kafka
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:588
 msgid "Never trust the living to do the job of the undead. Prepare to meet the inevitable!"
-msgstr "Никогда не доверяй живым делать работу мертвецов. Приготовьтесь встретить неотвратимое."
+msgstr "Никогда не доверяй живым делать работу мертвецов. Приготовьтесь встретить неотвратимое!"
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:593
@@ -4256,7 +4256,7 @@ msgstr "Хватит об этом. Проклинаю тебя тьмой, юн
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:350
 msgid "I see masts on the horizon. Jevyan’s fleet is here! It’s all over."
-msgstr "Я вижу мачты на горизонте. Флот Жевьяна здесь! Всё кончено!"
+msgstr "Я вижу мачты на горизонте. Флот Жевьяна здесь! Всё кончено."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:367
@@ -4569,12 +4569,12 @@ msgstr "Не стоит отдавать такие игрушки эльфам!
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:345
 msgid "Ha. Let all of the minions of Darkness be cast down!"
-msgstr "Ха. Да будут все солдаты тьмы повержены."
+msgstr "Ха. Да будут все солдаты тьмы повержены!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:349
 msgid "It matters little, because here you fall!"
-msgstr "Неважно, ибо здесь ты падёшь."
+msgstr "Неважно, ибо здесь ты падёшь!"
 
 #. [message]: speaker=Sir Ruddry
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:354
@@ -5198,7 +5198,7 @@ msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but not for itself)."
 msgstr ""
 "Отвлекает:\n"
-"Этот боец нейтрализует вражеские зоны контроля вокруг себя для своих союзников (но не для себя самого)"
+"Этот боец нейтрализует вражеские зоны контроля вокруг себя для своих союзников (но не для себя самого)."
 
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-abilities.cfg:23
 msgid "This unit is capable of distracting opponents, allowing allied units to trespass their Zones of Control and move unhindered around them."

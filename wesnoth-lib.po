@@ -288,7 +288,7 @@ msgstr "Причина:"
 #. [label]
 #: data/gui/default/window/mp_cmd_wrapper.cfg:323
 msgid "Time:"
-msgstr "Время"
+msgstr "Время:"
 
 #. [button]: id=status
 #: data/gui/default/window/mp_cmd_wrapper.cfg:374
@@ -648,7 +648,7 @@ msgstr "Режим планирования"
 
 #: src/hotkeys.cpp:114
 msgid "Execute Planned Action"
-msgstr "Выполнить запланированное действие"
+msgstr "Выполнить действие"
 
 #: src/hotkeys.cpp:115
 msgid "Execute All Actions"
@@ -656,7 +656,7 @@ msgstr "Выполнить все действия"
 
 #: src/hotkeys.cpp:116
 msgid "Delete Planned Action"
-msgstr "Удалить запланированное действие"
+msgstr "Удалить действие"
 
 #: src/hotkeys.cpp:117
 msgid "Move Action Up Queue"
@@ -1245,7 +1245,7 @@ msgstr "Сохранять повторы"
 # подсказка
 #: src/game_preferences_display.cpp:369
 msgid "Save Replay on SP/MP Victory or MP Defeat"
-msgstr "Сохранять повторы"
+msgstr "Сохранять повторы побед (одиночная игра и мультиплеер) и поражений (только мультиплеер)."
 
 #: src/game_preferences_display.cpp:179
 msgid "Delete auto-saves on SP/MP victory or MP defeat"
@@ -1254,7 +1254,7 @@ msgstr "Автоматически удалять автосохранения"
 # подсказка
 #: src/game_preferences_display.cpp:372
 msgid "Delete Auto-Saves on SP/MP Victory or MP Defeat"
-msgstr "Автоматически удалять автосохранения"
+msgstr "Автоматически удалять автосохранения побед (одиночная игра и мультиплеер) и поражений (только мультиплеер)."
 
 #: src/game_preferences_display.cpp:765
 #: src/game_preferences_display.cpp:767
@@ -1381,7 +1381,7 @@ msgstr "Показывать анимацию неподвижных бойцо�
 
 #: src/game_preferences_display.cpp:345
 msgid "Continuously animate standing units in the battlefield"
-msgstr "Непрерывно анимировать стоящие отряды на поле боя."
+msgstr "Непрерывно анимировать стоящих бойцов на поле боя."
 
 #: src/game_preferences_display.cpp:215
 msgid "Show unit idle animations"
@@ -1647,7 +1647,7 @@ msgstr "друг"
 
 #: src/game_preferences_display.cpp:1125
 msgid "ignored"
-msgstr "игнор"
+msgstr "в игноре"
 
 #: src/game_preferences_display.cpp:1129
 msgid "(empty list)"
@@ -2481,7 +2481,7 @@ msgstr "Непроходимая местность"
 #: data/core/terrain.cfg:2046
 #: data/core/terrain.cfg:2056
 msgid "Void"
-msgstr "пусто"
+msgstr "Пустота"
 
 #. [terrain_type]: id=desert_village
 #. [terrain_type]: id=camp_village
@@ -3134,6 +3134,7 @@ msgstr "Удалить"
 #: data/gui/default/window/title_screen.cfg:162
 msgid "Previous"
 msgstr "Предыдущий"
+#* msgstr "Назад"
 
 #. [button]: id=next_tod
 #. [button]: id=next_page
@@ -3144,6 +3145,7 @@ msgstr "Предыдущий"
 #: data/gui/default/window/title_screen.cfg:177
 msgid "Next"
 msgstr "Следующий"
+#* msgstr "Вперёд"
 
 # Используется в заголовках сообщений об ошибках
 #: src/gui/dialogs/message.cpp:190
@@ -3923,7 +3925,7 @@ msgstr "Раса"
 #. [label]
 #: data/gui/default/window/unit_create.cfg:67
 msgid "Gender:"
-msgstr "Пол"
+msgstr "Пол:"
 
 #. [toggle_button]: id=male_toggle
 #: data/gui/default/window/unit_create.cfg:77
@@ -3962,7 +3964,7 @@ msgstr "Ошибка создания каталога."
 
 #: src/game_preferences.cpp:315
 msgid "No server has been defined."
-msgstr "Сервер не определён"
+msgstr "Сервер не определён."
 
 #: src/game_preferences.cpp:837
 msgid "%H:%M"

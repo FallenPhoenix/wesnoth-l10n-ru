@@ -153,9 +153,8 @@ msgstr "Он стремглав вылетел из лесу, плащ его р
 #. [part]
 #. tyrant -> Queen Asheviere from Heir to the Throne.
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:45
-#, fuzzy
 msgid "Word quickly spread among the humans that this hero was none other than Prince Konrad of Wesnoth, faring to the ruins of Knalga to retrieve the Sceptre of Fire and use it to save his homeland from the rule of a tyrant, and they stood, rooted to their places in awe."
-msgstr "Меж людей быстро разошёлся слух, что героем тем был никто иной, как принц Конрад Веснотский, рвавшийся к развалинам Кналга, чтобы добыть огненный скипетр и спасти родной край от тирании; и они замерли как вкопанные, не силах пошевелиться от восхищения. "
+msgstr "Меж людей быстро разошёлся слух, что героем тем был никто иной, как принц Конрад Веснотский, рвавшийся к развалинам Кналга, чтобы добыть огненный скипетр и спасти родной край от тирана; и они замерли как вкопанные, не силах пошевелиться от восхищения. "
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:48
@@ -718,7 +717,7 @@ msgstr "Ну-ну, посмотрим, что там за ней."
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:452
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:506
 msgid "All right. (<i>Grunt... strain...</i>) It’s not moving. It seems to be stuck."
-msgstr "Так. (<i>Кряхтит... наваливается...</i>) Нет, не сдвинуть, её, похоже, заело."
+msgstr "Так. (<i>Кряхтит... наваливается...</i>) Не, не сдвинуть. Её, похоже, заело."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:456
@@ -730,7 +729,7 @@ msgstr "Ну так выбей её."
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:460
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:514
 msgid "... Right."
-msgstr "...Хорошо."
+msgstr "... Хорошо."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:464
@@ -743,7 +742,7 @@ msgstr "(<i>Удар</i>)"
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:538
 msgid "Wow, this place is interesting."
-msgstr "Ух ты, ну и местечко!"
+msgstr "Ух ты, интересное место!"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_Infested_Caves.cfg:542
@@ -934,7 +933,7 @@ msgstr "Благодарю тебя, человек. Я тоже рад виде
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:30
 msgid "Yes, that touches on the main reason for our visit. We have broken free, but to stay free we need better weapons and armor. Clubs and pitchforks will not carry us through the long run."
-msgstr "... и это подводит нас к цели нашего прихода. Мы стали свободны, но чтобы сохранить свободу, нам нужно оружие и броня. На одних дубинках и вилах далеко не уедешь."
+msgstr "... И это подводит нас к цели нашего прихода. Мы стали свободны, но чтобы сохранить свободу, нам нужно оружие и броня. На одних дубинках и вилах далеко не уедешь."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:35
@@ -959,7 +958,7 @@ msgstr "Охохо, орков здесь хватает, но ты их вря�
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:55
 msgid "In more recent years, however, I ha’ noticed that there have been fewer orcs and more skeletons around. The orcs seem to fear them and shy away from them whenever possible, but their troll allies are another matter. Yon trolls actually seem to take great pleasure out of crushing the skeletons to the dust and sucking any marrow that remains in their bones..."
-msgstr "Впрочем, последние годы орков тут поубавилось, всё больше скелеты. Орки их, кажись, побаиваются и держатся от них подальше; а вот их друзья-тролли — другое дело. Этим троллям, похоже, нравится разбивать скелеты в пыль и обсасывать их мозговые косточки."
+msgstr "Впрочем, последние годы орков тут поубавилось, всё больше скелеты. Орки их, кажись, побаиваются и держатся от них подальше; а вот их друзья-тролли — другое дело. Этим троллям, похоже, нравится разбивать скелеты в пыль и обсасывать их мозговые косточки..."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:60
@@ -1239,7 +1238,7 @@ msgstr "Оглядись вокруг, Таллин, узри всю мощь, �
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:455
 msgid "Tallin! Get hold of yourself!"
-msgstr ""
+msgstr "Таллин! Держись же!"
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:459
@@ -1364,7 +1363,7 @@ msgstr "Геттель"
 #. [side]: type=Death Knight, id=Tervor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:103
 msgid "Tervor"
-msgstr ""
+msgstr "Тервор"
 
 #. [side]: type=Death Knight, id=Author
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:127
@@ -1429,7 +1428,7 @@ msgstr "Впрочем, это не важно — мы настигнем ег�
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:439
 msgid "(<i>Faint cackle of laughter in the distance</i>)"
-msgstr "(<i>Издалека донёсся еле слышимый ехидный смешок<i>)"
+msgstr "(<i>Издалека донёсся еле слышимый ехидный смешок</i>)"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:443
@@ -1444,7 +1443,7 @@ msgstr "Будем осторожны. Никто пусть не выходит
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:452
 msgid "Find Malifor and destroy him"
-msgstr "Найдите Малифора и уничтожьте его."
+msgstr "Найдите Малифора и уничтожьте его"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:479
@@ -1806,7 +1805,7 @@ msgstr "Глядите! Он сейчас полетит! Эй, что это з
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1000
 msgid "And look at this, there is some sort of opening in the back of his cell..."
-msgstr "О, только посмотрите — тут в стене его камеры какое-то отверстие...."
+msgstr "О, только посмотрите — тут в стене его камеры какое-то отверстие..."
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1004
@@ -1816,7 +1815,7 @@ msgstr "Это туннель, для побега. Мне в эту дырку 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1008
 msgid "Hmmm, it is pretty small, let’s see if we can make it bigger."
-msgstr "Хммм, дыра маловата. Попробую расширить..."
+msgstr "Хммм, дыра маловата, попробую расширить."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1018
@@ -1929,7 +1928,7 @@ msgstr "Сокровищница"
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1260
 msgid "The Treasury! Cool, let’s go loot some booty!"
-msgstr "Сокровищница! Отлично, здесь будет чем поживиться."
+msgstr "Сокровищница! Отлично, здесь будет чем поживиться!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1354
@@ -2031,7 +2030,6 @@ msgstr "Это великий Жезл правосудия, мальчик мо
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1634
-#, fuzzy
 msgid "Well, if you don’t mind me saying — that certainly isn’t the state of affairs now. Knalga lies in ruins, orcs ravage the surface, and these dark and evil creatures haunt the underground passages. In the meantime, Wesnoth is said to be ruled by the wicked and cruel queen Asheviere, while the rightful heir must have long since perished in his vain quest for the Sceptre of Fire."
 msgstr "Ну, позволь заметить — сейчас всё явно переменилось. Кналга лежит в руинах, на поверхности бесчинствуют орки, а подземные проходы стали притоном этих тёмных и злобных тварей. Тем временем, Веснотом, по слухам, правит злобная и жестокая королева Ашевир, а законный наследник наверняка давно сгинул в тщетных поисках огненного скипетра."
 
@@ -2057,9 +2055,8 @@ msgstr "Должен ли этот воин взять Жезл Правосуд
 
 #. [option]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1678
-#, fuzzy
 msgid "rod of justice^Take it"
-msgstr "жезл правосудия"
+msgstr "Берём!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1682
@@ -2118,9 +2115,8 @@ msgstr "жезл правосудия"
 
 #. [option]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1802
-#, fuzzy
 msgid "rod of justice^Leave it"
-msgstr "жезл правосудия"
+msgstr "Не берём!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1828
@@ -2308,17 +2304,13 @@ msgstr "Прошу прощения. Кстати, а какой сейчас г
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2175
-#, fuzzy
-#| msgid "Uh... 534YW..."
 msgid "Uh... 534..."
-msgstr "Э... 534 год Веснота..."
+msgstr "Э... 534..."
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2179
-#, fuzzy
-#| msgid "Huh?! Can’t be, the last year I remember it was 14,318AD!"
 msgid "Huh?! Can’t be, the last year I remember it was 14,318!"
-msgstr "Ого!? Не может быть — последний год, который я помню — 14318 год после Заката!"
+msgstr "Ого!? Не может быть — последний год, который я помню — 14318!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2183
@@ -2532,7 +2524,7 @@ msgstr "Ничего. Эта дверь не поддаётся."
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2558
 msgid "Why don’t you try ‘knocking’?"
-msgstr "Почему бы тебе не «постучаться»."
+msgstr "Почему бы тебе не «постучаться»?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2566
@@ -2751,7 +2743,7 @@ msgstr "Да, я думаю, есть — но сделать это могу л
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:3022
 msgid "Yeah, I can’t wait to get my hands on that bastard!"
-msgstr "Йее, жду-не дождусь, когда смогу его отдубасить."
+msgstr "Йее, жду-не дождусь, когда смогу его отдубасить!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:3026
@@ -3350,7 +3342,7 @@ msgstr ""
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/06b_Slave_of_the_Undead.cfg:343
 msgid "What have I done...?"
-msgstr "Что я сделал?.."
+msgstr "Что я наделал...?"
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/06b_Slave_of_the_Undead.cfg:369
@@ -3421,7 +3413,7 @@ msgstr "Оркам нельзя верить; даже если мы заклю�
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:57
 #| msgid "Then what shall we do? Can we assassinate this Rakshas fellow and throw them into disarray once more."
 msgid "Then what shall we do? Can we assassinate this Rakshas fellow and throw them into disarray once more?"
-msgstr "Так что же нам делать? Может, убить этого Ракшаса и снова ввергнуть их в беспорядок."
+msgstr "Так что же нам делать? Может, убить этого Ракшаса и снова ввергнуть их в беспорядок?"
 
 #. [part]
 #. "coil" meant, in Middle and Early Modern English, a difficulty
@@ -3468,13 +3460,11 @@ msgstr "К тому же, Конрада преследовала эта при�
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:95
-#, fuzzy
 msgid "The last time any dwarf set eyes on Konrad was when he set out to the eastern tunnels in search of the Sceptre of Fire, so he could claim his place as ruler."
 msgstr "Последний раз, когда гномы видели Конрада, он отправился в восточные туннели на поиски огненного скипетра, чтобы заявить о своих правах на трон."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:99
-#, fuzzy
 msgid "Geez, what a fool’s quest. Everyone in these Northlands knows that the Sceptre is long gone."
 msgstr "Нда, дурацкая затея. Все в северных землях знают, что скипетр давно утерян."
 
@@ -3633,7 +3623,7 @@ msgstr "Прибыв к горному перевалу, Таллин и его 
 #. [message]: id=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:387
 msgid "HAH! I finally have you, you wretched dwarf!"
-msgstr "Ха! Ну вот ты и попался, проклятый гном!"
+msgstr "ХА! Ну вот ты и попался, проклятый гном!"
 
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:391
@@ -3653,7 +3643,7 @@ msgstr "Проклятый маг! Я ухожу к своим собратья�
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:403
 msgid "Hold it! What’s going on here?"
-msgstr "Немедленно прекратите! Что здесь происходит!"
+msgstr "Немедленно прекратите! Что здесь происходит?"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:407
@@ -3854,7 +3844,7 @@ msgstr "Ро-Арфьян, теперь вы будете говорить?"
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:716
 msgid "Fine, you trespassers. What do you want?"
-msgstr "Что ж, пришельцы. Что вы хотите."
+msgstr "Что ж, пришельцы. Что вы хотите?"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:720
@@ -4193,7 +4183,7 @@ msgstr "Той же ночью были посланы грифоны и отб�
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:38
 msgid "The leaders met in council, considering what to do..."
-msgstr "Предводители держали совет, обдумывая, как им поступить."
+msgstr "Предводители держали совет, обдумывая, как им поступить..."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:41
@@ -4233,7 +4223,7 @@ msgstr "Но ты попал прямо в точку, Сталраг. Выку�
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:55
 msgid "I think we have a chance to make some new allies here..."
-msgstr "Мы можем приобрести союзников...."
+msgstr "Мы можем приобрести союзников..."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:58
@@ -4514,7 +4504,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08b_Ray_of_Hope.cfg:99
-#, fuzzy
 msgid "Well, that certainly isn’t the state of affairs now. Knalga lies in ruins, orcs ravish the surface, and dark and evil creatures haunt the underground passages. In the meantime, Wesnoth is said to be ruled by the wicked and cruel queen Asheviere, while the rightful heir must have long since perished in his vain quest for the Sceptre of Fire."
 msgstr "Ну, позволь заметить — сейчас всё явно переменилось. Кналга лежит в руинах, на поверхности бесчинствуют орки, а подземные проходы стали притоном этих тёмных и злобных тварей. Тем временем, Веснотом, по слухам, правит злобная и жестокая королева Ашевир, а законный наследник наверняка давно сгинул в тщетных поисках огненного скипетра."
 
@@ -5012,7 +5001,7 @@ msgstr "Отсюда недалеко большое эльфийское вой
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:247
 msgid "Pff, foolish human. What in the world gave you that idea?"
-msgstr "Пфф, глупый человек. Не знаю, с чего ты это взял."
+msgstr "Пфф, глупый человек. С чего ты это взял?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:251
@@ -6147,7 +6136,7 @@ msgstr "Пошевеливайтесь, глупые орки. Мне бойцо
 #. [message]: speaker=Rash
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:442
 msgid "Suit yourself, you dumb troll!"
-msgstr "Как хочешь, тупоголовый тролль."
+msgstr "Как хочешь, тупоголовый тролль!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:446
@@ -6207,7 +6196,7 @@ msgstr "Эрисса приблизилась к павшему герою; по
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:40
 msgid "I am sorry, princess... We held him for... as long as we could... but his bodyguards... were... just too many and powerful... And then... the orcish... reinforcements arrived..."
-msgstr "Увы, принцессса... Мы удерживали его... сколько смогли... но его охрана... была... слишком сильна и многочисленна... А потом... пришло подкрепление... орков...."
+msgstr "Увы, принцессса... Мы удерживали его... сколько смогли... но его охрана... была... слишком сильна и многочисленна... А потом... пришло подкрепление... орков..."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:44
@@ -6222,7 +6211,7 @@ msgstr "Хидель, прости. Я послала тебя на смерть
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:51
 msgid "... Don’t tax yourself... princess... I have died... a warrior’s death... You should be proud..."
-msgstr "... Не вините себя... принцесса.... Я умер... смертью воина.... вам стоит гордиться...."
+msgstr "... Не вините себя... принцесса.... Я умер... смертью воина.... вам стоит гордиться..."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:55
@@ -6605,7 +6594,7 @@ msgstr "Ага, и это кстати не просто орки, это всё
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:802
 msgid "Yeah. Obviously this is going to take some time. If necessary we can sit tight in our fortifications and besiege them until they starve!"
-msgstr "Точно. Придётся повозиться. Если надо, мы может засесть в своих укреплениях, и осадить их, пока на них не нападёт голод."
+msgstr "Точно. Придётся повозиться. Если надо, мы может засесть в своих укреплениях, и осадить их, пока на них не нападёт голод!"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:814
@@ -6721,7 +6710,7 @@ msgstr "Ага. Нам мало не дать оркам хозяйничать 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:112
 msgid "A worthy and difficult task. Does anybody have any ideas?"
-msgstr "Достойная и тяжкая задача."
+msgstr "Достойная и тяжкая задача. Есть предложения?"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:116
@@ -6862,7 +6851,7 @@ msgstr "Эления?"
 #. [message]: id=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:246
 msgid "Tallin, as you know, I have been separated from my race and kinsmen — well, except Eryssa — for many years now. I wish to go back to the elvish forests and live among my kinsmen again. Perhaps I will return someday."
-msgstr "Таллин, как вы знаете, я была в разлуке со своей расой и роднёй — ну, кроме Эриссы — уже много лет.  Теперь я хочу вернуться в эльфийские леса и снова жить среди своих родичей. Быть может, однажды я вернусь."
+msgstr "Таллин, как вы знаете, я была в разлуке со своей расой и роднёй — ну, кроме Эриссы — уже много лет. Теперь я хочу вернуться в эльфийские леса и снова жить среди своих родичей. Быть может, однажды я вернусь."
 
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:255
@@ -6957,7 +6946,7 @@ msgstr "Благодарю тебя, Таллин. Наши старые кос�
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:356
 msgid "Stalrag, for years now we have fought each other, but recent events have made us allies. I go now to eternal sleep; may we part as friends."
-msgstr "Сталраг, мы  воюем с тобой уже многие годы, но последние события сделали нас союзниками. Я ухожу в вечный сон; давай расстанемся друзьями."
+msgstr "Сталраг, мы воюем с тобой уже многие годы, но последние события сделали нас союзниками. Я ухожу в вечный сон; давай расстанемся друзьями."
 
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:360
@@ -6982,7 +6971,7 @@ msgstr "Таллин, ты уверен? Эльфы живут долго, ку�
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:383
 msgid "(<i>Eyes on Eryssa</i>) I know, Hamel. Then may the coming seventy years be the most happiest and fulfilling years in our lives. Should we deny ourselves happiness out of the fear of loss?"
-msgstr "(<i>Глядя на Эриссу<i>) Знаю, Хамель. Так пусть же следующие семьдесят лет будут самыми счастливыми и успешными в наших жизнях. Стоит ли отказывать себе в счастье из страха потери?"
+msgstr "(<i>Глядя на Эриссу</i>) Знаю, Хамель. Так пусть же следующие семьдесят лет будут самыми счастливыми и успешными в наших жизнях. Стоит ли отказывать себе в счастье из страха потери?"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:387
@@ -7033,7 +7022,7 @@ msgstr "Тем временем, пещеры Кналга починили, п�
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:438
 msgid "Thus, from a small, enslaved community, the people of Dwarven Doors — by their fortitude, valor, and wisdom — brought the Northlands out of the darkness and restored them to their former glory."
-msgstr "Вот так вот, люди Гномьих Врат, начав с малого, порабощённого поселения — своей стойкостью, отвагой и мудростью — вывели Север из тьмы и вернули ему прежнюю славу. "
+msgstr "Вот так вот, люди Гномьих Врат, начав с малого, порабощённого поселения — своей стойкостью, отвагой и мудростью — вывели Север из тьмы и вернули ему прежнюю славу."
 
 #. [unit_type]: id=Cave Serpent
 #: data/campaigns/Northern_Rebirth/units/Cave_Serpent.cfg:7
@@ -7091,7 +7080,7 @@ msgstr "Нет, Сталраг! Что будет с Голенорубами б
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:142
 msgid "Shinsplitters... join Tallin... He is your new... leader... trust... and... serve... him... as... you... have... served... me."
-msgstr "Голенорубы... идите с Таллином... Он ваш новый... вождь... верьте... и... служите... ему... как... служили... мне..."
+msgstr "Голенорубы... идите с Таллином... Он ваш новый... вождь... верьте... и... служите... ему... как... служили... мне."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:146
@@ -7184,7 +7173,7 @@ msgstr "Провалили? Никогда! Не знаю такого слов�
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:295
 msgid "Alas! I am dying! Morvin darling, I wish you were beside me so that I may die in your arms! So that I may feel the kiss of your lips on mine one last time!"
-msgstr "Увы! Я умираю! Морвин, любимый, будь рядом со мной в этот миг! Позволь мне умереть у тебя на руках! Пусть наши губы сомкнутся в поцелуе в последний раз! "
+msgstr "Увы! Я умираю! Морвин, любимый, будь рядом со мной в этот миг! Позволь мне умереть у тебя на руках! Пусть наши губы сомкнутся в поцелуе в последний раз!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:304
@@ -7401,7 +7390,7 @@ msgstr "(<i>Хихикает</i>) Прости!"
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:803
 msgid "Alas! My wanderings have come to an end."
-msgstr " Увы! Мои странствия завершены."
+msgstr "Увы! Мои странствия завершены."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:807
@@ -7416,7 +7405,7 @@ msgstr "Прощай, Эления. Пусть твой последний пу�
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:828
 msgid "What... how can this happen?"
-msgstr " Что... это как понимать?"
+msgstr "Что... это как понимать?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:832
