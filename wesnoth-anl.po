@@ -77,7 +77,7 @@ msgstr "Команда 2"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:585
 msgid "One of your peasants has happened upon some spiders’ nests in the north and south."
-msgstr "Один из ваших крестьян обнаружил паучьи гнезда на севере и юге."
+msgstr "Один из ваших крестьян обнаружил паучьи гнёзда на севере и юге."
 
 #. [message]: type=Peasant
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:591
@@ -87,7 +87,7 @@ msgstr "Могу поклясться, я видел, как кто-то зап�
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:613
 msgid "Move any unit next to these captives and they will join your side. The spiders guarding each captive are currently wounded, the sooner you get there the better chance you have of killing them."
-msgstr "Подведите любого бойца к пленникам и они перейдут на вашу сторону. Охраняющие их пауки ранены, поэтому чем раньше вы туда доберетеся, тем больше у вас шансов их убить."
+msgstr "Подведите любого бойца к пленникам и они перейдут на вашу сторону. Охраняющие их пауки ранены, поэтому чем раньше вы туда доберётеся, тем больше у вас шансов их убить."
 
 #region Освобождение существ
 #. [message]: speaker=unit
@@ -111,7 +111,7 @@ msgstr "Ваши люди сообщают о странных звуках, и�
 #. [message]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:631
 msgid "It would seem the enemy has built some underground mushroom mines nearby — it must be where the mainstay of their resources are produced. If we could destroy them our chances wouldn’t nearly be so slim."
-msgstr "Похоже, что врагу удалось выстроить неподалеку подземные грибные рудники. Должно быть именно там и добывается большинство их ресурсов. Если бы мы смогли их уничтожить, наши шансы не были бы такими ничтожными."
+msgstr "Похоже, что врагу удалось выстроить неподалёку подземные грибные рудники. Должно быть именно там и добывается большинство их ресурсов. Если бы мы смогли их уничтожить, наши шансы не были бы такими ничтожными."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:653
@@ -151,13 +151,13 @@ msgstr "В сундуке золото — $oc_treasure|."
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:698
 msgid "I have fallen, but all is not lost!"
-msgstr "Я побежден, но еще не все потеряно!"
+msgstr "Я побеждён, но ещё не всё потеряно!"
 
 # 2й игрок
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:711
 msgid "I am done for, but we have yet to lose this battle!"
-msgstr "Я все сделал, но нам все еще необходимо не проиграть битву!"
+msgstr "Я всё сделал, но нам всё ещё необходимо не проиграть битву!"
 
 # 3й игрок
 #. [message]: speaker=unit
@@ -169,7 +169,7 @@ msgstr "Друзья, отомстите за меня!"
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:737
 msgid "Do not fear, there is hope for us still!"
-msgstr "Не бойся! Нам еще есть, на что надеяться!"
+msgstr "Не бойся! Нам ещё есть, на что надеяться!"
 #endregion
 
 # Ход 23
@@ -182,7 +182,7 @@ msgstr "Битва близка к завершению. Победа почти
 #. [message]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:678
 msgid "We have survived the onslaught! The tide of the battle has turned, victory cannot elude us now!"
-msgstr "Мы отразили атаку! Началась совсем другая битва — теперь победа от нас не уйдет!"
+msgstr "Мы отразили атаку! Началась совсем другая битва — теперь победа от нас не уйдёт!"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:682
@@ -390,7 +390,7 @@ msgid ""
 "Our farms produce $player_$side_number|.farming.gold|g\n"
 "Our mines produce $player_$side_number|.mining.gold|g\n"
 msgstr ""
-"На данный момент мы изучаем $player_$side_number|.research.target_language_name|. Чему наши ученые должны посвятить свои умы?\n\n"
+"На данный момент мы изучаем $player_$side_number|.research.target_language_name|. Чему наши учёные должны посвятить свои умы?\n\n"
 "Фермы приносят нам $player_$side_number|.farming.gold| золотых\n"
 "Шахты приносят нам $player_$side_number|.mining.gold| золотых\n"
 
@@ -572,7 +572,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:100
 msgid "$sf_player_name|, since our wisdom exceeds yours I have instructed my scholars to further your understanding of agriculture."
-msgstr "$sf_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим ученым распоряжение помочь тебе в освоении сельского хозяйства."
+msgstr "$sf_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим учёным распоряжение помочь тебе в освоении сельского хозяйства."
 #endregion
 
 #region Горное дело
@@ -588,7 +588,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:138
 msgid "$sm_player_name|, since the wisdom of my people exceeds yours I have instructed my scholars to aid you in your efforts to learn the science of mining."
-msgstr "$sm_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим ученым распоряжение помочь тебе в освоении горного дела."
+msgstr "$sm_player_name|, поскольку мы обладаем знаниями, которых нет у тебя, я отдал своим учёным распоряжение помочь тебе в освоении горного дела."
 #endregion
 
 #region Военное дело
@@ -715,7 +715,7 @@ msgstr "Фермы"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:39
 msgid "Farms can only be planted on grassland. Move a peasant onto a farm and he will begin to automatically harvest the cash crop."
-msgstr "Фермы можно строить на лугах. Поместите крестьянина в ферму и он сам начнет собирать урожай."
+msgstr "Фермы можно строить на лугах. Поместите крестьянина в ферму и он сам начнёт собирать урожай."
 #endregion
 
 #region Деревни
@@ -743,7 +743,7 @@ msgstr "Рудники"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_help.cfg:59
 msgid "Mines can be built on hills or mountains. A peasant on a mine will automatically dig for gold at the start of your turn."
-msgstr "Рудники можно строить на холмах и горах. Крестьянин, помещенный в рудник, будет добывать золото в начале вашего хода."
+msgstr "Рудники можно строить на холмах и горах. Крестьянин, помещённый в рудник, будет добывать золото в начале вашего хода."
 #endregion
 
 #region Университеты

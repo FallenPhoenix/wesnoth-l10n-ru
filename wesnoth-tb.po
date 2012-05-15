@@ -254,7 +254,7 @@ msgstr "Это всё, Арвит? Я понимаю, но..."
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:219
 msgid "You called, and I came; be content with that. What ails Maghre?"
-msgstr "Ты позвал меня, я пришел; довольствуйтся этим. Что беспокоит Магрэ?"
+msgstr "Ты позвал меня, я пришёл; довольствуйтся этим. Что беспокоит Магрэ?"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:223
@@ -536,7 +536,7 @@ msgstr "Капитан, куда мы скачем? Я думал, что вам
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:401
 msgid "I’m no longer sure. What’s between us remains, but knowing someone else has lain hands on him changes things. Mount up, and let’s get moving."
-msgstr "Я больше не уверен. Что остаётся между нами, но зная что кто-то еще приложил руку к нему, меняет многое. Взбирайтесь на лошадей и давайте двигаться."
+msgstr "Я больше не уверен. Что остаётся между нами, но зная что кто-то ещё приложил руку к нему, меняет многое. Взбирайтесь на лошадей и давайте двигаться."
 
 #. [event]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:411
@@ -740,7 +740,7 @@ msgstr "Проходи, приятель."
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:369
 msgid "The adept didn’t lead us astray after all. I’ll keep my word, distasteful as it may be; cut him loose, and let’s be rid of him."
-msgstr "В конце концов, он не ввел нас в заблуждение. Я сохраню своё слово, как бы не было неприятно; отпустить его и избавиться от него."
+msgstr "В конце концов, он не ввёл нас в заблуждение. Я сохраню своё слово, как бы не было неприятно; отпустить его и избавиться от него."
 
 #. [message]: speaker=Guard_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:380
@@ -921,7 +921,7 @@ msgstr "Всё не так. Возможно я заслужил сгнить з
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:874
 msgid "That is as may be. But you are my brother still. And... I never doubted you would have come for me."
-msgstr "Возможно и так. Но ты по-прежнему мой брат. И... Я никогда не сомневался что ты придешь за мной."
+msgstr "Возможно и так. Но ты по-прежнему мой брат. И... Я никогда не сомневался что ты придёшь за мной."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:878

@@ -2081,7 +2081,7 @@ msgstr "Ты что-нибудь о нём знаешь, Камерин?"
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1703
 msgid "I don’t think there is a person alive who knows anything more solid than rumors and legends. There are very few people who even knows it exists!"
-msgstr "Вряд ли кто-либо из тех, кто знает о нём что-нибудь кроме легенд и сплетен, сейчас жив. На самом деле, даже о том, что он существует, знают лишь единицы!"
+msgstr "Вряд ли кто-либо из тех, кто знает о нём что-нибудь кроме легенд и сплетён, сейчас жив. На самом деле, даже о том, что он существует, знают лишь единицы!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:1707
@@ -2350,7 +2350,7 @@ msgstr "Что с тобой случилось? Почему ты призра�
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2213
 msgid "I grew old and died as all men do and entered the land of the dead. I don’t know how long I dwelt there, I was wrenched from my peace and forced into this ectoplasmic body by a terrible power."
-msgstr "Я постарел и умер, как это бывает с людьми, и вошёл в страну мертвых. Не знаю, сколько я там пробыл, но потом ужасная сила вырвала меня из вечного покоя и заключила в эту призрачную оболочку."
+msgstr "Я постарел и умер, как это бывает с людьми, и вошёл в страну мёртвых. Не знаю, сколько я там пробыл, но потом ужасная сила вырвала меня из вечного покоя и заключила в эту призрачную оболочку."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_The_Pursuit.cfg:2217
@@ -5810,7 +5810,7 @@ msgstr "Ты б лучше убирался, эльф, пока живой."
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1001
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1305
 msgid "This insult will forever be remembered by the Northern Elves! The day will soon come when your race shall regret your folly!"
-msgstr "Это оскорбление Северные эльфы запомнят навсегда! Когда-нибудь придёт день, и вы пожалеете о своем безрассудстве!"
+msgstr "Это оскорбление Северные эльфы запомнят навсегда! Когда-нибудь придёт день, и вы пожалеете о своём безрассудстве!"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1015
@@ -6721,7 +6721,7 @@ msgstr "У меня предложение."
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:120
 msgid "The orcs are too hardy and fast-breeding to be exterminated, even if we could bring ourselves to stomach an attempt at slaughtering them all. Therefore, we must find a way to make them part of our solution."
-msgstr "Орки слишком упорны и слишком быстро плодятся — нам их не уничтожить, даже если мы разобьёмся в лепешку, пытаясь их перебить. Так что нам придётся сделать их частью нашего решения."
+msgstr "Орки слишком упорны и слишком быстро плодятся — нам их не уничтожить, даже если мы разобьёмся в лепёшку, пытаясь их перебить. Так что нам придётся сделать их частью нашего решения."
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:124

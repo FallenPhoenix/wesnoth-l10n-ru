@@ -289,7 +289,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:55
 msgid "The great elven heroes Kalenz and Landar were born in a quiet green wood in Lintanir on the fringes of the Great Northern Forest."
-msgstr "Великий эльфийский герой Каленз родился в тихой зеленой роще Линтанира на окраине Великого Северного леса."
+msgstr "Великий эльфийский герой Каленз родился в тихой зелёной роще Линтанира на окраине Великого Северного леса."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:58
@@ -1128,7 +1128,7 @@ msgstr "Ларил"
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:422
 msgid "We are free! My lord Kalenz, from this day forward I and my men are your sworn followers. And there is that which you should know about the treasure the orcs seek..."
-msgstr "Мы свободны! Мой господин Каленз, мы клянемся с этого дня следовать за вами. И ещё: вы должны кое-что узнать о сокровище, что ищут орки..."
+msgstr "Мы свободны! Мой господин Каленз, мы клянёмся с этого дня следовать за вами. И ещё: вы должны кое-что узнать о сокровище, что ищут орки..."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:426
@@ -1409,7 +1409,7 @@ msgstr "Я не чувствую в его речах фальши, мой го�
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/06_Acquaintance_in_Need.cfg:338
 msgid "I, too, believe him. Dwarves may be... rough... by our standards, but they are not liars. I think he knows that if he does not honor his contract, next time we will not be there to come to his aid."
-msgstr "Я тоже верю ему. Гномы немного... грубы... по нашим меркам, но они не лжецы. К тому же, он знает, что если не выполнит своих обязательств, в следующий раз помощи от нас он не дождется."
+msgstr "Я тоже верю ему. Гномы немного... грубы... по нашим меркам, но они не лжецы. К тому же, он знает, что если не выполнит своих обязательств, в следующий раз помощи от нас он не дождётся."
 
 #. [scenario]: id=07_Elves_Last_Stand
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:35
@@ -1649,7 +1649,7 @@ msgstr "Ааррх! Лучше б я сидел в горах и не ходил
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:801
 msgid "Orcs, death is all you will find in this forest!"
-msgstr "Орки, в этих лесах вы найдете лишь смерть!"
+msgstr "Орки, в этих лесах вы найдёте лишь смерть!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:812
@@ -1729,7 +1729,7 @@ msgstr "Вы ж не думали, что мы дадим вам развлек�
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand_utils.cfg:107
 msgid "It’s not much of an army he is bringing with him, though."
-msgstr "Невеликую же армию он привел за собой, однако."
+msgstr "Невеликую же армию он привёл за собой, однако."
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand_utils.cfg:111
@@ -1926,12 +1926,12 @@ msgstr "И где нам искать этого мага, даже если о�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:106
 msgid "It willna’ be easy. He lives in the mountains of Thoria and he never helps anyone for free. Thoria is very dangerous, especially for elves. Even dwarves and trolls dinna’ go there lightly."
-msgstr "Эт' будет нелегко. Он живет в горах Тории и никогда не помогает никому затак. Тория очень опасна, особенно для эльфов. Да и гномы с троллями туда без нужды не суются."
+msgstr "Эт' будет нелегко. Он живёт в горах Тории и никогда не помогает никому затак. Тория очень опасна, особенно для эльфов. Да и гномы с троллями туда без нужды не суются."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:111
 msgid "I think the Orcs will be in no position to attack us for some time. Maybe we should go see this mage. Olurf, can you take us there?"
-msgstr "Думаю, некоторое время орки будут без удобной позиции чтобы атаковать нас. Может нам стоит повидаться с этим магом. Олурф, ты отведешь нас туда?"
+msgstr "Думаю, некоторое время орки будут без удобной позиции чтобы атаковать нас. Может нам стоит повидаться с этим магом. Олурф, ты отведёшь нас туда?"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/08_Council_of_Hard_Choices.cfg:116
@@ -2032,7 +2032,7 @@ msgstr "$left_behind_{NAME}|, $l3_store_{NAME}[$i].name"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:377
 msgid "Kalenz crosses the river"
-msgstr "Каленз пересек реку"
+msgstr "Каленз пересёк реку"
 
 #. [message]: id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:408
@@ -2077,7 +2077,7 @@ msgstr "Мы сможем убежать от них по лесам и гора
 #. [message]: id=Cleodil
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:440
 msgid "Indeed, this river is, I believe, Arkan-Thoria. There are fell legends about it. May be they are but children’s tales... Still, be very careful when you cross it."
-msgstr "Действительно, насколько я знаю, эта река называется Аркан-Тория. О ней ходят смехотворные легенды. Может быть, это лишь детские сказки... Но всё же, будьте осторожны, переходя ее."
+msgstr "Действительно, насколько я знаю, эта река называется Аркан-Тория. О ней ходят смехотворные легенды. Может быть, это лишь детские сказки... Но всё же, будьте осторожны, переходя её."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:444
@@ -2397,7 +2397,7 @@ msgstr "Откровения"
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:24
 msgid "So you are the ones who defeated Aquagar and his drakes. Olurf, I know you; you were here before when we were both much younger. But Elves never come to Thoria. Yet these are no ordinary times for this land. I know all; I have foreseen this would happen."
-msgstr "Так это вы победили Аквагара и его дрейков. Олурф, я знаю тебя, ты был здесь раньше, когда мы оба были много моложе. Но эльфы никогда не приходили в Торию. Впрочем, для этой земли настали необычные времена. Я знаю всё; я предвидел, что это произойдет."
+msgstr "Так это вы победили Аквагара и его дрейков. Олурф, я знаю тебя, ты был здесь раньше, когда мы оба были много моложе. Но эльфы никогда не приходили в Торию. Впрочем, для этой земли настали необычные времена. Я знаю всё; я предвидел, что это произойдёт."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:29
@@ -2407,7 +2407,7 @@ msgstr "Это Каленз, предводитель эльфов. Я прив�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:34
 msgid "Elves, you have fought valiantly and have won a great victory at the forest of Wesmere. Yet the forces ranged against you are not yet defeated. Indeed, they grow stronger every day. You contend against destiny. But for the moment you have diverted the orcs’ attention."
-msgstr "Эльфы, вы героически сражались и одержали великую победу в лесу Весмира. Но враг, что выступил против вас, всё ещё не побеждён, нет. Напротив, с каждым днем он становится сильнее. Вы вступили в схватку с самой судьбой. Но сейчас вам удалось отвлечь их внимание."
+msgstr "Эльфы, вы героически сражались и одержали великую победу в лесу Весмира. Но враг, что выступил против вас, всё ещё не побеждён, нет. Напротив, с каждым днём он становится сильнее. Вы вступили в схватку с самой судьбой. Но сейчас вам удалось отвлечь их внимание."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:39
@@ -2527,7 +2527,7 @@ msgstr "Но ты что-то хочешь взамен..."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:154
 msgid "It is as you say. These drakes were after my book. This book has all the magic and spells I know in it. They are very powerful, but the one enemy they cannot defeat is old age. The knowledge tempts me to prolong my life by evil and dark means... But this is the work of my life and I can no more destroy it than I could slay my own child. Aquagar is slain, but more will come. One of my allies has betrayed me, and now too many know of this book."
-msgstr "Все так, как ты говоришь. Эти дрейки приходили за моей книгой. В этой книге — вся известная мне магия и заклинания. Они очень могущественны, но есть один враг, против которого они бессильны — старость. Мои знания искушают меня продлить мою жизнь темными средствами... Но эта книга — работа всей моей жизни, уничтожить её для меня всё равно что убить собственное дитя. Аквагар мёртв, но за ним придут другие. Один из моих соратников предал меня, теперь слишком многие знают об этой книге."
+msgstr "Все так, как ты говоришь. Эти дрейки приходили за моей книгой. В этой книге — вся известная мне магия и заклинания. Они очень могущественны, но есть один враг, против которого они бессильны — старость. Мои знания искушают меня продлить мою жизнь тёмными средствами... Но эта книга — работа всей моей жизни, уничтожить её для меня всё равно что убить собственное дитя. Аквагар мёртв, но за ним придут другие. Один из моих соратников предал меня, теперь слишком многие знают об этой книге."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:159
@@ -2617,7 +2617,7 @@ msgstr "Не думаю, что это самый мудрый выбор."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:244
 msgid "Landar may be impetuous, but he is a great fighter and my trusted friend. We should be about our task now, I think. Crelanu, your book will be safe with us. Cleodil will guard it until we find a worthy keeper."
-msgstr "Ландар вспыльчив, но он великий воин и мой доверенный друг. Думаю, пора выступать. Крелану, твоя книга будет у нас в безопасности. Клеодил сохранит её, пока мы не найдем достойного владельца."
+msgstr "Ландар вспыльчив, но он великий воин и мой доверенный друг. Думаю, пора выступать. Крелану, твоя книга будет у нас в безопасности. Клеодил сохранит её, пока мы не найдём достойного владельца."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/12_Revelations.cfg:249
@@ -2662,7 +2662,7 @@ msgstr "Эонихар"
 #. [message]: id=Eonihar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:165
 msgid "At last I have found, you alive and well! We need you back at once! The orcs have attacked the humans."
-msgstr "Наконец-то я нашел вас, живыми и невредимыми! Вы нужны нам немедленно! Орки напали на людей!"
+msgstr "Наконец-то я нашёл вас, живыми и невредимыми! Вы нужны нам немедленно! Орки напали на людей!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:169
@@ -2672,7 +2672,7 @@ msgstr "Значит, нам они пока не грозят, так ведь?
 #. [message]: id=Eonihar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:173
 msgid "What’s more, King Haldric is dead. His successor wants to renew the treaty of alliance and has asked for our help."
-msgstr "Кроме того, король Хальдрик мертв. Его наследник хочет возобновить союзнический договор и просит нашей помощи."
+msgstr "Кроме того, король Хальдрик мёртв. Его наследник хочет возобновить союзнический договор и просит нашей помощи."
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:193
@@ -3032,12 +3032,12 @@ msgstr "Что? Нельзя верить этим людям! Где они б�
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:30
 msgid "Silence! How dare you talk this way to the King!"
-msgstr "Молчать! Как смеешь ты так разговаривать с королем!"
+msgstr "Молчать! Как смеешь ты так разговаривать с королём!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:35
 msgid "Calm down, Aldar! The elf is right to reproach us. My father did not help when the orcs attacked you. But my father is dead. There are a lot of things my father did that I can not understand; he grew suspicious and strange in his last days. But <i>I</i> am the King of Wesnoth now, not my father! And it is my intention to renew our alliance by signing a new treaty here, with you."
-msgstr "Спокойствие, Алдар. Этот эльф прав в своих упреках. Мой отец не помог, когда орки напали на вас. Но мой отец мёртв. Есть многое, что он делал, и что я не могу понять; он стал подозрительным и странным в свои последние дни. Но <i>Я</i> теперь король Веснота, а не мой отец! И я намерен возобновить наш союз, подписав новый договор здесь, с вами."
+msgstr "Спокойствие, Алдар. Этот эльф прав в своих упрёках. Мой отец не помог, когда орки напали на вас. Но мой отец мёртв. Есть многое, что он делал, и что я не могу понять; он стал подозрительным и странным в свои последние дни. Но <i>Я</i> теперь король Веснота, а не мой отец! И я намерен возобновить наш союз, подписав новый договор здесь, с вами."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:40
@@ -3101,7 +3101,7 @@ msgstr "Когда битва за Таф завершилась, Каленз �
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:52
 msgid "I have taught you all that I dare. My lord... Kalenz... I pray you come back safely. My heart aches when I think of you going into such danger as this. It is peril not merely to your body, but to the essence of yourself."
-msgstr "Я обучила тебя всему, чему посмела. Мой лорд... Каленз... Я молюсь, чтобы ты вернулся невредимым. Мое сердце болит, когда я думаю об опасности, которой ты себя подвергаешь. Ты рискуешь не только своим телом, но и самой своей сутью."
+msgstr "Я обучила тебя всему, чему посмела. Мой лорд... Каленз... Я молюсь, чтобы ты вернулся невредимым. Моё сердце болит, когда я думаю об опасности, которой ты себя подвергаешь. Ты рискуешь не только своим телом, но и самой своей сутью."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:57
@@ -3111,7 +3111,7 @@ msgstr "Клеодил..."
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:62
 msgid "I do not think I could bear your death. Still less could I bear the corruption of your soul; the grief would ruin me."
-msgstr "Не думаю, что смогла бы вынести твою гибель. Но ещё меньше я вынесу гибель твоей души; горе убьет меня."
+msgstr "Не думаю, что смогла бы вынести твою гибель. Но ещё меньше я вынесу гибель твоей души; горе убьёт меня."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:67
@@ -3216,7 +3216,7 @@ msgstr "Никто не украдёт мой трон!"
 #. [message]: id=Khrubar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:401
 msgid "This is my time and I will kill anyone who disputes it!"
-msgstr "Теперь моё время и никто не встанет на моем пути!"
+msgstr "Теперь моё время и никто не встанет на моём пути!"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:405
@@ -3458,7 +3458,7 @@ msgstr "Северные эльфы теперь свободны!"
 #. [message]: id=Uradredia
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg:326
 msgid "Our thanks to you, Kalenz, son of Kliada. Our troops are at your command."
-msgstr "Прими нашу благодарность, Каленз, сын Клиады. Наши войска в твоем распоряжении."
+msgstr "Прими нашу благодарность, Каленз, сын Клиады. Наши войска в твоём распоряжении."
 
 #. [message]: id=Kior-Pur
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg:339
@@ -3518,7 +3518,7 @@ msgstr "Другого выбора не было. Даже если мы умр
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:35
 msgid "You will not die. You must fight it. I have faith in you Kalenz... beloved... You will overcome and master it. It will be hard and painful, but you will beat the potion. It is Landar who truly concerns me..."
-msgstr "Ты не умрешь. Ты должен бороться. Я верю в тебя, Каленз... Любимый... Ты преодолеешь и справишься с этим. Борьба будет сложной и болезненной, но ты победишь зелье. Ландар — вот кто меня действительно беспокоит..."
+msgstr "Ты не умрёшь. Ты должен бороться. Я верю в тебя, Каленз... Любимый... Ты преодолеешь и справишься с этим. Борьба будет сложной и болезненной, но ты победишь зелье. Ландар — вот кто меня действительно беспокоит..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:40
@@ -3766,7 +3766,7 @@ msgstr "Каленз, Совет постановил сложить с тебя
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:54
 msgid "I lay down my burden humbly and gladly. But we need to have a strong army, as the orcs will return!"
-msgstr "Я слагаю свое бремя смиренно и охотно. Но нам нужно иметь сильную армию, ибо орки вернутся."
+msgstr "Я слагаю своё бремя смиренно и охотно. Но нам нужно иметь сильную армию, ибо орки вернутся."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:60
@@ -3932,7 +3932,7 @@ msgstr "Ландар, послушай! До этого не должно был
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:310
 msgid "Here is Kalenz. There can be no talk with traitors! Leave none of them alive!"
-msgstr "Каленз здесь! Нам не о чем говорить с изменниками! Пусть никто из них не уйдет живым!"
+msgstr "Каленз здесь! Нам не о чем говорить с изменниками! Пусть никто из них не уйдёт живым!"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:326
@@ -4007,7 +4007,7 @@ msgstr "Я глубоко скорблю о том, что дело дошло �
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:196
 msgid "I know. But you are not at fault, for I did not take just one bottle. I wanted to make sure we could kill the orcish Great Chief, so I went back for a second and drank that one, too. Now I have driven our dwarvish allies away and brought death and disaster to our own people. I have even tried to kill my own friend. I am a disgrace to elven-kind."
-msgstr "Знаю. Но ты не виноват, потому что я принял не одну бутылку. Я хотел быть уверен, что мы сможем убить великого вождя орков, и потому я вернулся за второй и выпил и её тоже. А теперь я изгнал наших союзников-гномов и принес смерть и страдания собственному народу! Я даже пытался убить собственного друга! Я — позор эльфов!"
+msgstr "Знаю. Но ты не виноват, потому что я принял не одну бутылку. Я хотел быть уверен, что мы сможем убить великого вождя орков, и потому я вернулся за второй и выпил и её тоже. А теперь я изгнал наших союзников-гномов и принёс смерть и страдания собственному народу! Я даже пытался убить собственного друга! Я — позор эльфов!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:200
@@ -4042,7 +4042,7 @@ msgstr "Каленз реорганизовал эльфов с тем, чтоб
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:32
 msgid "When Kalenz felt his work to have been done as well as it might be, he retired with Cleodil to their home in the Forest of Lintanir."
-msgstr "Когда Каленз почувствовал, что его труд завершен, он вернулся вместе с Клеодил в их дом в роще Линтанирского леса."
+msgstr "Когда Каленз почувствовал, что его труд завершён, он вернулся вместе с Клеодил в их дом в роще Линтанирского леса."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/24_Epilogue.cfg:37

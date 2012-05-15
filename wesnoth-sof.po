@@ -731,7 +731,7 @@ msgstr "Отлично, теперь отправимся в город и до�
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:610
 msgid "My glyph is on."
-msgstr "Мой знак включен."
+msgstr "Мой знак включён."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:697

@@ -511,7 +511,7 @@ msgstr "Мы почти миновали горы и скоро будем в з
 #. [message]: speaker=Kwili
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:133
 msgid "Halt! Who goes there?"
-msgstr "Стой! Кто идет?"
+msgstr "Стой! Кто идёт?"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:138
@@ -2832,7 +2832,7 @@ msgstr "Чёрный глаз! Мы не подчинимся такой выс�
 #. [message]: speaker=Meato
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:218
 msgid "Turn around and go back to where you came from or you’ll find your head on a pike! Right?"
-msgstr "Развернись и иди туда, откуда пришёл! Или ты найдёшь свою голову на копье! Правильно?"
+msgstr "Развернись и иди туда, откуда пришёл! Или ты найдёшь свою голову на копьё! Правильно?"
 
 #. [message]: speaker=Ragvan
 #. [message]: speaker=Kergai

@@ -746,7 +746,7 @@ msgstr "Хотите продолжить практиковаться?"
 #. [option]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1134
 msgid "Yes, I’m still figuring it out."
-msgstr "Да, мне не помешало бы еще поучиться."
+msgstr "Да, мне не помешало бы ещё поучиться."
 
 #. [option]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:1137
@@ -1000,7 +1000,7 @@ msgstr "Голир"
 #. [then]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:797
 msgid "No! I said recruit an Elvish <i>Fighter</i>! Now try again..."
-msgstr "Нет! Я же сказал — нанять <i>воина</i>! Давай еще раз..."
+msgstr "Нет! Я же сказал — нанять <i>воина</i>! Давай ещё раз..."
 
 #. [else]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:877
@@ -1215,7 +1215,7 @@ msgstr "Отправьте воина к отдалённой деревне н�
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1041
 msgid "Send the other Fighter and the Shaman south so they can attack next turn, then return to the keep to recruit more units!"
-msgstr "Отправь другого воина и шаманку на юг, и они смогут атаковать на следующем ходу. Затем вернись в укрытие и завербуй еще солдат!"
+msgstr "Отправь другого воина и шаманку на юг, и они смогут атаковать на следующем ходу. Затем вернись в укрытие и завербуй ещё солдат!"
 
 # инструкция
 #. [event]
@@ -1235,7 +1235,7 @@ msgstr "Отправьте воина и шаманку на юг, затем в
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1053
 msgid "Recruit another Archer and a Fighter"
-msgstr "Завербуйте еще одного лучника и воина"
+msgstr "Завербуйте ещё одного лучника и воина"
 
 # [Завербовали]
 
@@ -1340,7 +1340,7 @@ msgstr "Продвигайте других бойцов, занимайте д�
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1209
 msgid "Don’t forget about your Fighter in the east; you can move him south to that last village near the channel."
-msgstr "Не забывай о своем воине на востоке. Можно переместить его на юг, к деревне у реки."
+msgstr "Не забывай о своём воине на востоке. Можно переместить его на юг, к деревне у реки."
 
 # Галдрад
 #. [then]

@@ -54,7 +54,7 @@ msgstr "Гражданский"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:23
 msgid "(Easy)"
-msgstr "(Легкий)"
+msgstr "(Лёгкий)"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:23
@@ -293,7 +293,7 @@ msgstr "Возвращайтесь в лагерь, где начали игру
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:325
 msgid "While you’re in your camp, you can recruit more troops. Build up a small force to use against the bandits that Urza Mathin recruits."
-msgstr "Когда прибудете в лагерь, вы сможете завербовать ещё бойцов. Создайте небольшую армию, чтобы использовать ее против бандитов Урзы Матина."
+msgstr "Когда прибудете в лагерь, вы сможете завербовать ещё бойцов. Создайте небольшую армию, чтобы использовать её против бандитов Урзы Матина."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:331
@@ -843,7 +843,7 @@ msgstr "Подожди. Этот человек носит цвета Весно
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:340
 msgid "My lady, we have come to the elves to seek guidance. Bandits and criminals in our land have summoned the dead to help them plunder our farms and villages. They are coming across the river from the great forest to the south of our lands, where no man has yet traveled."
-msgstr "Моя госпожа, мы пришли к эльфам искать помощи и совета. Бандиты и другие преступники в нашей стране призвали мертвых, чтобы с их помощью грабить наши фермы и деревни. Они приходят из-за реки — из большого леса на юге нашей земли, где не бывал ещё ни один человек."
+msgstr "Моя госпожа, мы пришли к эльфам искать помощи и совета. Бандиты и другие преступники в нашей стране призвали мёртвых, чтобы с их помощью грабить наши фермы и деревни. Они приходят из-за реки — из большого леса на юге нашей земли, где не бывал ещё ни один человек."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:345
@@ -858,7 +858,7 @@ msgstr "Я поведу своих людей к югу от реки, найд�
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:355
 msgid "Indeed you are brave to face such foes. But I fear that alone you will fail and fall. One elf now lives who remembers the secrets of the undead that we learned when Haldric I came to our land. His name is Mebrin, and he lives, secluded in the hills, near here. I will take you to him."
-msgstr "Ты по-настоящему смел, если решился выступить против такого врага. Но боюсь, что один ты не справишься и пропадёшь. Жив один эльф, что помнит тайны мертвецов, которые мы узнали, ещё когда в нашу землю пришёл Хальдрик I. Его зовут Мебрин, он живёт уединенно в холмах, недалеко отсюда. Я отведу тебя к нему."
+msgstr "Ты по-настоящему смел, если решился выступить против такого врага. Но боюсь, что один ты не справишься и пропадёшь. Жив один эльф, что помнит тайны мертвецов, которые мы узнали, ещё когда в нашу землю пришёл Хальдрик I. Его зовут Мебрин, он живёт уединённо в холмах, недалеко отсюда. Я отведу тебя к нему."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:361
@@ -1738,7 +1738,7 @@ msgstr "Мы почти пришли!"
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:769
 msgid "Come on! Hurry!"
-msgstr "Идем! Быстрее!"
+msgstr "Идём! Быстрее!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:788
@@ -2625,7 +2625,7 @@ msgstr "Сыновья рыцарей и лордов, едва им испол�
 #. [attack]: type=pierce
 #: data/campaigns/The_South_Guard/units/Junior_Commander.cfg:31
 msgid "spear"
-msgstr "копье"
+msgstr "копьё"
 
 #. [unit_type]: id=Mounted General, race=human
 #: data/campaigns/The_South_Guard/units/Mounted_General.cfg:4
@@ -2670,7 +2670,7 @@ msgstr "Скелеты — это кости падших воинов, подн
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:137
 msgid "Walking corpses are the bodies of slain warriors, filled with some black magic. They are slow and weak — any of your units is more than a match for them. They are only dangerous in packs..."
-msgstr "Ходячие трупы — это тела убитых воинов, наполненные некой черной магией. Они медлительны и слабы, и не идут ни в какое сравнение ни с кем из ваших воинов. Опасны они лишь в группе..."
+msgstr "Ходячие трупы — это тела убитых воинов, наполненные некой чёрной магией. Они медлительны и слабы, и не идут ни в какое сравнение ни с кем из ваших воинов. Опасны они лишь в группе..."
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:20
