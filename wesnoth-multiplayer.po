@@ -858,17 +858,19 @@ msgid "Warfare transforms the simple farms and villages of a peaceful region int
 msgstr "Война превратила простые фермы и посёлки мирной провинции в причудливо разделённое на части поле боя."
 
 
-#2 ***** Остров рогатой акулы *****
+#2 ***** Остров Рогатой Акулы *****
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:24
 msgid "2p — Hornshark Island"
-msgstr "2и - Остров рогатой акулы"
+msgstr "2и - Остров Рогатой Акулы"
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:26
 msgid "Players must forge strange alliances with the local inhabitants, in order to survive on this most unusual of islands. Designed by Doc Paterson."
-msgstr "Чтобы выжить на самом необычном из островов, игроки вступают в странные альянсы с местными жителями. Дизайн Дока Патерсона."
+msgstr ""
+"Чтобы выжить на самом необычном из островов, игроки вступают в странные альянсы с местными жителями.\n"
+"<i>Дизайн Дока Патерсона.</i>"
 
 #3 ** Бойцы **
 
@@ -881,7 +883,7 @@ msgstr "Чтобы выжить на самом необычном из остр
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:351
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:487
 msgid "Big Baby Bo"
-msgstr "Большой Малыш Бо"
+msgstr "Малыш Бо"
 
 #. [unit]: type=Young Ogre, id=Baby Baby Dro
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:561
@@ -891,7 +893,7 @@ msgstr "Большой Малыш Бо"
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:811
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:947
 msgid "Big Baby Dro"
-msgstr "Большой Малыш Дро"
+msgstr "Малыш Дро"
 
 #. [unit]: type=Drake Fighter, id=Rawffus the Dim
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:115
@@ -919,7 +921,7 @@ msgstr "Механический лук"
 #. [unit]: type=Orcish Leader, id=Neki the Brutal
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:322
 msgid "Neki the Brutal"
-msgstr ""
+msgstr "Брутальный Неки"
 
 #. [unit]: type=Elvish Fighter, id=Drowsk Calbeht
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:365
@@ -934,7 +936,7 @@ msgstr ""
 #. [unit]: id=Sorrek, Chosen of Death, type=Skeleton
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:469
 msgid "Sorrek, Chosen of Death"
-msgstr "Соррек, Избранный Смертью"
+msgstr "Соррек, Избранник Смерти"
 
 #. [unit]: type=Drake Fighter, id=Gawffus the Dim
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:575
@@ -954,7 +956,7 @@ msgstr "Улисс Мантайджуури"
 #. [unit]: type=Orcish Leader, id=Neki the Brute
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:782
 msgid "Neki the Brute"
-msgstr ""
+msgstr "Брутальный Неки"
 
 #. [unit]: type=Elvish Fighter, id=Claiomh Dubh
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:825
@@ -969,7 +971,7 @@ msgstr ""
 #. [unit]: id=Rukhos, Chosen of Death, type=Skeleton
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:929
 msgid "Rukhos, Chosen of Death"
-msgstr "Рухос, Избранный Смертью"
+msgstr "Рухос, Избранник Смерти"
 
 
 #2 ***** Пустошь воющих призраков *****
