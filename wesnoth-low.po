@@ -4060,26 +4060,6 @@ msgstr "Но история Каленза ещё не кончилась. Пр�
 msgid "To learn of Kalenz’s last and perhaps greatest deeds, and those in which he was most alone, seek ye the tale of Delfador the Great and the fall of the usurping Queen Asheviere."
 msgstr "Чтобы услышать о последних, возможно, самых выдающихся подвигах Каленза, узнайте историю Делфадора Великого и падения узурпаторки, королевы Ашевир."
 
-#. [unit_type]: id=Elvish Horse Archer
-#: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:13
-msgid "This is a stub!"
-msgstr "Это заглушка!"
-
-#. [unit_type]: id=Elvish Horse Archer
-#: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:18
-msgid "Elvish Horse Archer"
-msgstr "Всадник-лучник"
-
-#. [attack]: type=blade
-#: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:22
-msgid "sword"
-msgstr "меч"
-
-#. [attack]: type=pierce
-#: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:31
-msgid "bow"
-msgstr "лук"
-
 #. [leadership]: id=elates_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:10
 msgid "elates Kalenz"
@@ -4212,6 +4192,28 @@ msgstr "Вы получаете $amount_gold золотых монет"
 
 
 #1 ---------- Старые убранные строки ----------
+
+#2 ----- Были в 1.10.0 -----
+
+#~ #. [unit_type]: id=Elvish Horse Archer
+#~ #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:13
+#~ msgid "This is a stub!"
+#~ msgstr "Это заглушка!"
+
+#~ #. [unit_type]: id=Elvish Horse Archer
+#~ #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:18
+#~ msgid "Elvish Horse Archer"
+#~ msgstr "Всадник-лучник"
+
+#~ #. [attack]: type=blade
+#~ #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:22
+#~ msgid "sword"
+#~ msgstr "меч"
+
+#~ #. [attack]: type=pierce
+#~ #: data/campaigns/Legend_of_Wesmere/units/Horse_Archer.cfg:31
+#~ msgid "bow"
+#~ msgstr "лук"
 
 #2 ----- Были в 1.9.13 -----
 

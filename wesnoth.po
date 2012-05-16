@@ -4743,6 +4743,11 @@ msgid "Turkish Translation"
 msgstr "Турецкий перевод"
 
 #. [about]
+#: data/core/about.cfg:2756
+msgid "Ukrainian Translation"
+msgstr ""
+
+#. [about]
 #: data/core/about.cfg:2765
 msgid "Valencian (southern Catalan) Translation"
 msgstr "Валенсийский (южнокаталанский) перевод"
