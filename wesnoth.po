@@ -4745,7 +4745,7 @@ msgstr "Турецкий перевод"
 #. [about]
 #: data/core/about.cfg:2756
 msgid "Ukrainian Translation"
-msgstr ""
+msgstr "Украинский перевод"
 
 #. [about]
 #: data/core/about.cfg:2765
