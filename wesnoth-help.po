@@ -2894,6 +2894,16 @@ msgstr "Непробиваемые каменные стены и крутые �
 msgid "Commands"
 msgstr "Команды"
 
+#. [topic]: id=general_commands
+#. [topic]: id=mp_commands
+#. [topic]: id=debug_commands
+#: data/core/help.cfg:794
+#: data/core/help.cfg:834
+#: data/core/help.cfg:866
+#| msgid "Commands can either be issued via the command line by prefixing them with ':' (as shown here) or via the chat by prefixing them with '/' (press 'm' first to open the chat line).\n\n"
+msgid "These commands can either be issued via the command line by prefixing them with ':' (as shown here) or via the chat by prefixing them with '/' (press 'm' first to open the chat line).\n\n"
+msgstr ""
+
 #region Основные
 #. [topic]: id=general_commands
 #: data/core/help.cfg:790

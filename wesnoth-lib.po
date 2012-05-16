@@ -646,31 +646,38 @@ msgid "Skip Animation"
 msgstr "Пропустить анимацию"
 
 #: src/hotkeys.cpp:113
-msgid "Toggle Planning Mode"
+#| msgid "Toggle Planning Mode"
+msgid "whiteboard^Planning Mode"
 msgstr "Режим планирования"
 
 #: src/hotkeys.cpp:114
-msgid "Execute Planned Action"
+#| msgid "Execute Planned Action"
+msgid "whiteboard^Execute Action"
 msgstr "Выполнить действие"
 
 #: src/hotkeys.cpp:115
-msgid "Execute All Actions"
+#| msgid "Execute All Actions"
+msgid "whiteboard^Execute All Actions"
 msgstr "Выполнить все действия"
 
 #: src/hotkeys.cpp:116
-msgid "Delete Planned Action"
+#| msgid "Delete Planned Action"
+msgid "whiteboard^Delete Action"
 msgstr "Удалить действие"
 
 #: src/hotkeys.cpp:117
-msgid "Move Action Up Queue"
+#| msgid "Move Action Up Queue"
+msgid "whiteboard^Move Action Up"
 msgstr "Сдвинуть действие вперёд"
 
 #: src/hotkeys.cpp:118
-msgid "Move Action Down Queue"
+#| msgid "Move Action Down Queue"
+msgid "whiteboard^Move Action Down"
 msgstr "Сдвинуть действие назад"
 
 #: src/hotkeys.cpp:119
-msgid "Suppose Dead"
+#| msgid "Suppose Dead"
+msgid "whiteboard^Suppose Dead"
 msgstr "Планирую убить"
 
 #: src/hotkeys.cpp:203

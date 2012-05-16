@@ -5327,7 +5327,8 @@ msgid "prompt^Command:"
 msgstr "Команда:"
 
 #: src/mouse_events.cpp:703
-msgid "You cannot move your leader away from the keep with some planned recruits left."
+#| msgid "You cannot move your leader away from the keep with some planned recruits left."
+msgid "You cannot move your leader away from the keep with some planned recruits or recalls left."
 msgstr "Вы не можете убрать лидера из цитадели до тех пор, пока у вас остаются запланированные бойцы для вербовки."
 
 #: src/multiplayer.cpp:149

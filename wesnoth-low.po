@@ -2086,6 +2086,11 @@ msgstr "Ты всё сказала за меня, Клеодил. Держись
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:452
+msgid " Kalenz is able to recruit dwarves from now on."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:452
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:454
 msgid "Before Kalenz left the Ka’lian he had ordered $left_behind_kalenz to stay and guard it."
 msgstr "Прежде, чем покинуть Ка-лиан, Каленз распорядился, чтобы $left_behind_kalenz остались охранять его."
