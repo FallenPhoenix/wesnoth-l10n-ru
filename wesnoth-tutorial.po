@@ -1318,7 +1318,7 @@ msgstr "Никому больше не добраться до этого орк
 #. The unit with unit type $unit.language_name is female.
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1155
 msgid "female^No other units can reach that orc. I hope my $unit.language_name survives its counter-attack! I’d better grab more villages and move everyone closer for next turn."
-msgstr ""
+msgstr "Никому больше не добраться до этого орка. Надеюсь, $unit.language_name переживёт его контратаку! Займу-ка я побольше деревень и подтяну своих солдат поближе."
 
 # Галдрад
 #. [else]

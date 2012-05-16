@@ -2087,7 +2087,7 @@ msgstr "Ты всё сказала за меня, Клеодил. Держись
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:452
 msgid " Kalenz is able to recruit dwarves from now on."
-msgstr ""
+msgstr "Теперь Каленз может вербовать гномов."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:452
