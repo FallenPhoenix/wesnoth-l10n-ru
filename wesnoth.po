@@ -25,7 +25,6 @@ msgstr ""
 
 
 # Заголовок окна игры.
-# Кириллические символы в винде отображаются вопросами.
 #: src/game_controller.cpp:1077
 #: src/game_controller_abstract.cpp:99
 msgid "The Battle for Wesnoth"
