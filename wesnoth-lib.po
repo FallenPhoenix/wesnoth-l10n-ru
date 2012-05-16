@@ -418,11 +418,13 @@ msgstr "Полноэкранный режим"
 #: src/hotkeys.cpp:67
 #: src/hotkeys.cpp:1179
 msgid "Screenshot"
-msgstr "Снимок экрана"
+msgstr "Screenshot"
+#* msgstr "Снимок экрана"
 
 #: src/hotkeys.cpp:68
 msgid "Map Screenshot"
-msgstr "Снимок всей карты"
+msgstr "Screenshot (вся карта)"
+#* msgstr "Снимок всей карты"
 
 #: src/hotkeys.cpp:80
 msgid "Toggle Ellipses"
@@ -964,7 +966,8 @@ msgstr "Снимок готов"
 # В версии 1.10.2 тупит идексатор файлов: при использовании русских имен постоянно переписывается нулевой снимок.
 #: src/hotkeys.cpp:1179
 msgid "Map-Screenshot"
-msgstr "Снимок карты"
+msgstr "Map-Screenshot"
+#* msgstr "Снимок карты"
 #endregion
 
 #region Инспектор состояния игры
