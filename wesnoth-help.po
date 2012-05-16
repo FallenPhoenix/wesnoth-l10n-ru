@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-21 01:34+0100\n"
+"POT-Creation-Date: 2012-04-07 12:14+0200\n"
 "PO-Revision-Date: 2012-05-16 22:12+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -2901,12 +2901,12 @@ msgid "General commands"
 msgstr "Основные команды"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:795
+#: data/core/help.cfg:797
 msgid "\nClear chat messages.\n\n"
 msgstr "\nОчистить чат.\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:799
+#: data/core/help.cfg:801
 msgid ""
 "\nSwitch debug mode on (does not work in multiplayer). See <ref>dst='debug_commands' text='debug mode commands'</ref>.\n"
 "Debug mode is turned off by quitting the game or :nodebug.\n\n"
@@ -2915,80 +2915,80 @@ msgstr ""
 "Этот режим отключается при выходе из игры или по команде :nodebug.\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:802
+#: data/core/help.cfg:804
 msgid "\nSet or toggle player on side between human and AI player. The player/client who controls that side needs to issue this command. If no second parameter is supplied, toggle bewteen human and AI. If it is ‘on’, set an AI controller. If it is ‘off’ set a human controller. Defaults to the currently active side if no parameter is supplied.\n\n"
 msgstr "\nЗадать или переключить тип игрока между человеком и компьютером. Эту команду должен выдать игрок/клиент, контролирующий эту сторону. Если второй параметр  'on', переключить на компьютер. Если 'off' — переключить на человека. Если параметр не указан — переключить с одного на другое (по умолчанию — активная в данный момент сторона).\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:805
+#: data/core/help.cfg:807
 msgid "\nToggle the display of the current frames per second.\n\n"
 msgstr "\nПереключить отображение текущего fps (frames per second).\n\n"
 
 # ?
 #. [topic]: id=general_commands
-#: data/core/help.cfg:808
+#: data/core/help.cfg:810
 msgid "\nSwitch a log domain to a different log level.\n\n"
 msgstr "\nПереключить журналирование на другой уровень.\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:811
+#: data/core/help.cfg:813
 msgid "\nRedraws the screen and reloads any image files that have been changed.\n\n"
 msgstr "\nПерерисовывает экран и перезагружает все изменившиеся картинки.\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:814
+#: data/core/help.cfg:816
 msgid "\nBring up theme selection menu.\n\n"
 msgstr "\nВывести меню выбора темы.\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:817
+#: data/core/help.cfg:819
 msgid "\nQuit the scenario (without prompting).\n\n"
 msgstr "\nВыйти из сценария (без подтверждения).\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:820
+#: data/core/help.cfg:822
 msgid "\nSave the game (without prompting).\n\n"
 msgstr "\nСохранить игру (без подтверждения).\n\n"
 
 #. [topic]: id=general_commands
-#: data/core/help.cfg:821
+#: data/core/help.cfg:823
 msgid "\nSave the game and quit the scenario (without prompting)."
 msgstr "\nСохранить игру и выйти из сценария (без подтверждения)."
 #endregion
 
 #region Сетевые
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:829
+#: data/core/help.cfg:831
 msgid "Multiplayer commands"
 msgstr "Команды сетевой игры"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:835
+#: data/core/help.cfg:837
 msgid "\nBan a user in a multiplayer game by the IP address used by that username and kick him. Can be used on users not in the game but on the server. (Of course they won’t be kicked then.)\n\n"
 msgstr "\nВыгнать и забанить игрока по IP-адресу в сетевой игре. Применимо и к игрокам, которые находятся на сервере, но не играют. (конечно, тогда их не выбросит).\n\n"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:838
+#: data/core/help.cfg:840
 msgid "\nChange the controller for side (write here the number of the side) to username (write here the nickname of the player or observer). You can check what side belongs to which player in the <bold>text='Scenario Settings'</bold> dialog (Press the <bold>text='More'</bold> button in the <bold>text='Status Table'</bold> (alt+s by default) to get there.). The host can change control of any side.\n\n"
 msgstr "\nСменить управляющего игрока (впишите здесь номер фракции) на пользователя (впишите здесь ник игрока или наблюдателя). Вы можете узнать, какой фракции какой игрок принадлежит, в диалоге  <bold>text='Настройки сценария'</bold> (чтобы попасть туда, нажмите кнопку <bold>text='More'</bold> в «Панели состояния» (по умолчанию Alt+S). Хост может менять игроков любой стороны.\n\n"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:841
+#: data/core/help.cfg:843
 msgid "\nKick a user in multiplayer. They will be able to rejoin the game. If you just want to change control of their side(s) use the :control command instead.\n\n"
 msgstr "\nВыгнать игрока из игры. Он сможет вернуться назад. Если вы просто хотите сменить управляющего фракцией (фракциями), лучше используйте команду :control\n\n"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:844
+#: data/core/help.cfg:846
 msgid "\nSend a private message to a user. When in a game, it is not possible to send private messages to players who are currently controlling a side in the same game.\n\n"
 msgstr "\nОтправить приватное сообщение. Вы не можете отправлять приватные сообщения игрокам, играющим ту же партию, что и вы.\n\n"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:847
+#: data/core/help.cfg:849
 msgid "\nMute a specific observer. If no username is supplied the muted usernames are displayed.\n\n"
 msgstr "\nОтключить сообщения определённого наблюдателя. Если не указано имя, то отключаемые имена будут выведены.\n\n"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:850
+#: data/core/help.cfg:852
 msgid "\nToggle muting/silencing of all observers on/off.\n\n"
 msgstr "\nВключить/выключить сообщения всех наблюдателей.\n\n"
 
@@ -2998,64 +2998,64 @@ msgid "\nUnban a user in a# <unit> multiplayer game by the IP address used by th
 msgstr "\nРазбанить игрока в многопользовательской игре по его IP-адресу. Можно применить и к игрокам, которые находятся на сервере, но не играют.\n\n"
 
 #. [topic]: id=mp_commands
-#: data/core/help.cfg:854
+#: data/core/help.cfg:856
 msgid "\nUnmute a specific observer. If no username is supplied the list of muted observers is cleared."
 msgstr "\nРазрешить сообщения определённого наблюдателя. Если не указано имя, то разрешит сообщения от всех."
 #endregion
 
 #region Отладочные
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:861
+#: data/core/help.cfg:863
 msgid "Debug mode commands"
 msgstr "Команды режима отладки"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:865
+#: data/core/help.cfg:869
 msgid "\nBrings up a menu for choosing a scenario to immediately advance to in a campaign.\n\n"
 msgstr "\nВызывает меню перехода на любой следующий сценарий кампании.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:868
+#: data/core/help.cfg:872
 msgid "\nCreate a unit of the specified type on the selected hex.\n\n"
 msgstr "\nСоздать бойца заданного типа на выбранном поле.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:871
+#: data/core/help.cfg:875
 msgid "\nToggle fog/shroud for the current side.\n\n"
 msgstr "\nПереключить туман/пелену для текущей стороны.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:874
+#: data/core/help.cfg:878
 msgid "\nAdds the specified amount to the current side’s gold.\n\n"
 msgstr "\nДобавляет текущей стороне заданной количество золота.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:877
+#: data/core/help.cfg:881
 msgid "\nImmediately advances to the next scenario in a campaign.\n\n"
 msgstr "\nНемедленно переводит вас на следующий эпизод кампании.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:880
+#: data/core/help.cfg:884
 msgid "\nManually set a gamestate variable to value.\n\n"
 msgstr "\nВручную установить переменную на значение.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:883
+#: data/core/help.cfg:887
 msgid "\nShow a gamestate variable.\n\n"
 msgstr "\nПоказать значение переменной.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:886
+#: data/core/help.cfg:890
 msgid "\nManually fire the specified event.\n\n"
 msgstr "\nВручную запустить срабатывание заданного события.\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:889
+#: data/core/help.cfg:893
 msgid "\nModifies the specified property of the selected unit. Example: :unit hitpoints=100\n\n"
 msgstr "\nИзменяет указанное свойство выбранного бойца. Например: :unit hitpoints=100\n\n"
 
 #. [topic]: id=debug_commands
-#: data/core/help.cfg:890
+#: data/core/help.cfg:894
 msgid "\nMakes the selected unit level up N times. Example: :unit advances=2"
 msgstr "\nПоднимает выбранного бойца на N уровней. Например: :unit advances=2"
 #endregion
