@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comp\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-21 01:34+0100\n"
+"POT-Creation-Date: 2012-02-18 13:15+0100\n"
 "PO-Revision-Date: 2012-05-16 22:09+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -53,7 +53,7 @@ msgstr "Деревня"
 #. [event]
 #. [then]
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:616
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1040
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1042
 msgid "Keep"
 msgstr "Лагерь"
 
@@ -1145,7 +1145,7 @@ msgstr "Деревня позволяет содержать одного бой
 #. [then]
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:952
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1082
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1084
 msgid "End your turn"
 msgstr "Закончите свой ход"
 
@@ -1165,40 +1165,40 @@ msgstr "У пехоты орков нет дальнего оружия, поэ�
 # инструкция
 #. [event]
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:982
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1109
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1111
 msgid "Attack the orc with an Archer"
 msgstr "Нападите на орка лучником"
 
 # инструкция
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1007
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1008
 msgid "Attack the orc with the other Archer"
 msgstr "Атакуйте орка другим лучником"
 
 #region Реплики Галдрада при атаке
 # Нападаю из леса
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:992
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:993
 msgid "Excellent. Elves are well-protected in the forest. There’s only a 30% chance of hitting an Elvish Archer in that tile."
 msgstr "Отлично. Эльфы хорошо защищены в лесу. Вероятность попасть в эльфийского лучника в лесу — всего 30 %."
 
 # Нападаю с воды
 # За этим сообщением следует подсказка об отмене
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1001
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1002
 msgid "It’s very dangerous to stand in water when there are enemies about! Your unit will have an 80% chance of being hit when the enemy counter-attacks! Cancel!"
 msgstr "Очень опасно заходить в воду, когда рядом враг! Когда противник будет отвечать, вероятность, что он попадёт в твоего бойца, будет 80%! Отставить!"
 #endregion
 
 # метка
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1019
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1020
 msgid "Fighter to HERE"
 msgstr "Воина СЮДА"
 
 # Галдрад (говорит всегда после атаки двумя бойцами, но до орка могут дотянуться и 3, если у шаманки бонус "быстрая" либо воин с таким бонусом стоит ближе к орку)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1020
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1021
 msgid "Your other units cannot reach the orc this turn. Send a Fighter to the village in the far east of the map. It will take two turns to reach it."
 msgstr "Больше никому на этом ходу до орка не добраться. Пошли воина в отдалённую деревню на востоке. Ему потребуется два хода, чтобы до неё добраться."
 
@@ -1206,7 +1206,7 @@ msgstr "Больше никому на этом ходу до орка не до
 
 # инструкция
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1023
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1025
 msgid "Tell a Fighter to move to the far east village"
 msgstr "Отправьте воина к отдалённой деревне на востоке"
 
@@ -1214,19 +1214,19 @@ msgstr "Отправьте воина к отдалённой деревне н�
 
 # Галдрад
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1041
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1043
 msgid "Send the other Fighter and the Shaman south so they can attack next turn, then return to the keep to recruit more units!"
 msgstr "Отправь другого воина и шаманку на юг, и они смогут атаковать на следующем ходу. Затем вернись в укрытие и завербуй ещё солдат!"
 
 # инструкция
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1042
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1044
 msgid "Move your Fighter and Shaman south, then return Konrad to the keep"
 msgstr "Отправьте воина и шаманку на юг, затем верните Конрада в укрытие"
 
 # инструкция
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1043
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1045
 msgid "Move your Fighter and Shaman south, then return Li’sar to the keep"
 msgstr "Отправьте воина и шаманку на юг, затем верните Лисар в укрытие"
 
@@ -1234,7 +1234,7 @@ msgstr "Отправьте воина и шаманку на юг, затем в
 
 # инструкция
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1053
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1055
 msgid "Recruit another Archer and a Fighter"
 msgstr "Завербуйте ещё одного лучника и воина"
 
@@ -1242,25 +1242,25 @@ msgstr "Завербуйте ещё одного лучника и воина"
 
 # Игрок
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1068
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1070
 msgid "I have no more money to recruit!"
 msgstr "У меня больше нет денег вербовать бойцов!"
 
 # Галдрад
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1069
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1071
 msgid "That is often a problem, which is why owning villages is important."
 msgstr "Это известная проблема. Вот почему очень важно удерживать деревни."
 
 # инструкция
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1070
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1072
 msgid "Move Konrad to another (unowned) village"
 msgstr "Переведите Конрада к другой (незанятой) деревне"
 
 # инструкция
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1071
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1073
 msgid "Move Li’sar to another (unowned) village"
 msgstr "Переведите Лисар к другой (незанятой) деревне"
 
@@ -1273,30 +1273,30 @@ msgstr "Переведите Лисар к другой (незанятой) д�
 
 # Галдрад
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1096
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1098
 msgid "That Grunt is blocking the bridge! We must occupy that island before the Wolf Riders reach it."
 msgstr "Этот пехотинец загородил собой мост! Нам нужно занять остров прежде, чем до него доберутся волчьи наездники."
 
 # Игрок
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1097
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1099
 msgid "Can’t our units just move around him?"
 msgstr "Может, просто обойти его?"
 
 # метки (зона контроля)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1100
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1101
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1102
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1103
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1104
 #: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1105
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1106
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1107
 msgid "ZoC"
 msgstr "ЗК"
 
 # Галдрад
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1108
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1110
 msgid ""
 "No. Once you move close to an enemy unit, you are in its <i>Zone of Control</i> and cannot move further that turn.\n"
 "To move your troops onto that island without wading slowly through the water, you’ll have to kill the Grunt."
@@ -1314,13 +1314,13 @@ msgstr "Никому больше не добраться до этого орк
 
 # Галдрад
 #. [else]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1139
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1141
 msgid "Yes. If your Shaman stands just behind that unit on the bridge, she will heal it at the beginning of the next turn."
 msgstr "Да. Если твоя шаманка будет стоять на мосту, прямо позади этого бойца, в начале следующего хода она его подлечит."
 
 # инструкция
 #. [else]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1140
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1142
 msgid "Move your Shaman onto the bridge to stand behind your other unit"
 msgstr "Подведите шаманку на мост, на поле позади другого воина"
 
@@ -1329,8 +1329,8 @@ msgstr "Подведите шаманку на мост, на поле поза�
 # инструкция
 #. [then]
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1135
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1146
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1137
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1148
 msgid "Advance other units and capture villages, then <b>End Turn</b>"
 msgstr "Продвигайте других бойцов, занимайте деревни, а затем нажмите <b>Конец хода</b>"
 
@@ -1339,13 +1339,13 @@ msgstr "Продвигайте других бойцов, занимайте д�
 
 # Галдрад
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1209
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1211
 msgid "Don’t forget about your Fighter in the east; you can move him south to that last village near the channel."
 msgstr "Не забывай о своём воине на востоке. Можно переместить его на юг, к деревне у реки."
 
 # Галдрад
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1214
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1216
 msgid "We need to occupy that village, otherwise they will take it next turn! Move a unit into the village to stop the orcs capturing it. Whichever unit you choose will benefit from the village’s healing, too."
 msgstr "Нужно занять эту деревню, или на следующем ходу они её захватят! Отведи туда своего бойца, чтобы не пустить туда орков. Этот боец, кстати, сможет заодно подлечиться."
 
@@ -1394,7 +1394,7 @@ msgstr "Ведите других солдат на остров, занимай
 
 # Галдрад
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1226
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1228
 msgid "Careful! It is now nighttime. Orcs are <i>chaotic</i>, which means their attacks are now 25% stronger. By day, their attacks are 25% weaker, which is a noticeable difference. You are <i>lawful</i>: stronger by day and weaker at night. Your elvish warriors are <i>neutral</i>: unaffected by the time of day."
 msgstr "Осторожно! Наступила ночь. Орки — <i>хаотичные</i>, ночью их атака на 25% сильнее, а днём — на 25% слабее. Ты из <i>порядочных</i>, поэтому ты сильнее днём. Эльфы — <i>нейтральные</i>: смена дня и ночи их не затрагивает."
 
@@ -1405,7 +1405,7 @@ msgstr "Осторожно! Наступила ночь. Орки — <i>хао�
 
 # Галдрад
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1235
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1238
 msgid "Remember to retreat your wounded units to villages. Healers can only heal 4 hitpoints at a time, while villages can heal 8 (the maximum healing for any unit)."
 msgstr "Не забудь отводить раненых в деревни. Лекари могут восстанавливать только 4 очка здоровья, а деревни — 8 (максимум для любого бойца)."
 
@@ -1414,12 +1414,12 @@ msgstr "Не забудь отводить раненых в деревни. Л�
 
 # метка (в лесу у брода)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1242
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1245
 msgid "Defend here"
 msgstr "Обороняйтесь здесь"
 
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1243
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1246
 msgid "Beware of those orcs crossing the river! If they get into the forest they’ll be hard to dislodge!"
 msgstr "Берегись орков, пересекающих реку! Если они доберутся до леса, будет нелегко вытеснить их обратно!"
 
@@ -1450,7 +1450,7 @@ msgstr "Теперь все деревни вокруг замка — твои,
 
 # Враги захватили деревню на острове
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1305
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1311
 msgid "That unit has captured our village! You’d better get him out; it heals him each turn and provides good defense."
 msgstr "Он захватил нашу деревню! Выбей его оттуда, иначе он будет хорошо защищён и будет лечиться каждый ход."
 
@@ -1471,32 +1471,32 @@ msgstr "Да, завербуй ещё бойцов, думаю, они тебе 
 # Атака бойцом из воды
 # За сообщением следует подсказка по отмене действий
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1199
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1201
 msgid "It’s very dangerous to stand in water when there are enemies about! Your unit will have an 80% chance of being hit! Cancel, and wait for them to attack you!"
 msgstr "Очень опасно стоять в воде, когда рядом враг! Если на твоего бойца нападут, то шанс попасть в него будет 80%! Отмени, и подожди пока они нападут сами!"
 
 # Игрок ступил на вражескую территорию
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1477
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1484
 msgid "Beware of the orc leader: he can do 36 hitpoints of damage at night! Attack with many units at once during the day."
 msgstr "Осторожнее с их вожаком — ночью он может нанести до 36 очков урона! Нападай на него днём и несколькими бойцами сразу."
 
 # Вражеский лидер забежал в деревню
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1294
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1300
 msgid "Their leader has moved into that village! He’s not as stupid as I thought. The village heals him each turn and provides good defense."
 msgstr "Их лидер укрылся в той деревне! Он не так глуп, как я думал. Он будет хорошо защищён и будет лечиться каждый ход."
 
 # У вражеского лидера осталось менее 21 hp
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1353
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1369
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1359
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1375
 msgid "You are close to killing their leader! The unit who finishes him will gain 16 experience points because he is second level. Choose your attacking unit carefully!"
 msgstr "Мы почти победили их лидера! Тот, кто его добьёт, получит 16 очков опыта, так как противник — второго уровня. Выбирай тщательнее, кому ты доверишь прикончить его!"
 
 # Шаманка, при первой своей атаке
 #. [message]: speaker=unit
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1317
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1323
 msgid "Using me to attack is risky! I can slow the opponent with my ranged attack, but I hope you have a plan if I miss!"
 msgstr "Очень рисковано отправлять меня в атаку! Я могу замедлить врага дальней атакой, но, надеюсь, у вас есть план на случай, если я промахнусь!"
 
@@ -1521,23 +1521,28 @@ msgstr "Надеюсь, после этого я смогу отступить!"
 #endregion
 
 #region Смерть бойца
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1438
+#. [then]
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1444
 msgid "We will miss $deadguy.name|, but at least he was not one of our experienced troops!"
 msgstr "Нам будет не хватать $deadguy.name|, но, во всяком случае, он был не самым опытным бойцом!"
 
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1441
+#. [else]
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1447
 msgid "We will miss $deadguy.name|, but at least she was not one of our experienced troops!"
 msgstr "Нам будет не хватать $deadguy.name|, но, во всяком случае, она была не самым опытным бойцом!"
 
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1418
+#. [then]
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1424
 msgid "We will miss $deadguy.name| because he had $deadguy.experience experience points. He would have advanced to second level soon."
 msgstr "Нам будет не хватать $deadguy.name|: у него было $deadguy.experience очков опыта, он мог очень скоро достигнуть второго уровня."
 
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1421
+#. [else]
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1427
 msgid "We will miss $deadguy.name| because she had $deadguy.experience experience points. She would have advanced to second level soon."
 msgstr "Нам будет не хватать $deadguy.name|: у неё было $deadguy.experience очков опыта, она могла очень скоро достигнуть второго уровня."
 
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1462
+#. [else]
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1469
 msgid "Second level units are powerful, but not invulnerable! Goodbye, $deadguy.name|."
 msgstr "Бойцы второго уровня сильны, но не бессмертны! Прощай, $deadguy.name|."
 #endregion
@@ -1553,7 +1558,7 @@ msgstr "Этому бойцу достаточно один раз убить п
 
 # Стрелок (м)
 #. [message]: speaker=unit
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1498
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1505
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I always have a 60% chance of hitting with my <i>Marksman</i> ability, and I deal 9 damage each for 4 attacks. Use me to dislodge hard-to-hit units."
@@ -1563,7 +1568,7 @@ msgstr ""
 
 # Стрелок (ж)
 #. [message]: speaker=unit
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1507
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1514
 msgid ""
 "female^Advancing a level has fully healed me!\n"
 "I always have a 60% chance of hitting with my <i>Marksman</i> ability, and I deal 9 damage each for 4 attacks. Use me to dislodge hard-to-hit units."
@@ -1573,7 +1578,7 @@ msgstr ""
 
 # Егерь
 #. [message]: speaker=unit
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1523
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1530
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I am good with both bow and sword, and I have a special ability: <i>Ambush</i>. I can hide in forests where enemies can only see me if they are right next to me."
@@ -1583,7 +1588,7 @@ msgstr ""
 
 # Капитан
 #. [message]: speaker=unit
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1537
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1544
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I am good with both bow and sword, and I have a special ability: <i>Leadership</i>. First level units around me do 25% more damage, so position me carefully."
@@ -1593,7 +1598,7 @@ msgstr ""
 
 # Герой
 #. [message]: speaker=unit
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1552
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1559
 msgid ""
 "Advancing a level has fully healed me!\n"
 "I am particularly good with the sword, dealing 8 damage in 4 attacks."
@@ -1603,17 +1608,17 @@ msgstr ""
 #endregion
 
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1186
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1188
 msgid "Be careful: if you stand on the bridge you are exposed to attack from multiple directions!"
 msgstr "Будь осторожней: когда стоишь на мосту, на тебя могут напасть с нескольких сторон!"
 
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1280
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1286
 msgid "Stay near the keep! You need to be on a keep to recruit more units, and I doubt the orc leader will let you use his!"
 msgstr "Оставайся рядом с лагерем! Вербовать бойцов можно только из лагеря, а я очень сомневаюсь, что вожак орков пустит тебя в свой!"
 
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1456
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1462
 msgid "Losing a healer hurts all the troops! Keep them out of the enemy’s reach!"
 msgstr "Потеря лекаря скажется на всех солдатах! Держи их подальше от противника!"
 
@@ -1642,84 +1647,84 @@ msgstr "<big>Свойства бойца</big>"
 
 #! Не переводит
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:984
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:985
 msgid "\nTo review the capabilities of any unit—including an enemy—hover the mouse over it, and you will see a unit summary on the right of the screen"
 msgstr "\nЧтобы посмотреть, на что способен любой боец — включая врагов — наведите на него мышь, и увидите его свойства в правой части экрана."
 #endregion
 
 #region Длинные ходы (ход 2)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1021
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1022
 msgid "<big>Long-distance Movement</big>"
 msgstr "<big>Длинные ходы</big>"
 
 #! Не переводит
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1022
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1024
 msgid "\nYou can order a unit to move for multiple turns by selecting the unit and clicking on the destination. A number will indicate how many turns it will take to get there."
 msgstr "\nВы можете отдать бойцу приказ двигаться в течение нескольких ходов. Для этого выберите бойца и кликните на месте назначения. Число покажет, сколько ходов ему потребуется, чтобы туда добраться."
 #endregion
 
 #region Время суток (ход 5)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1227
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1229
 msgid "<big>Time of Day</big>"
 msgstr "<big>Время суток</big>"
 
 #! Не переводит
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1228
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1231
 msgid "\nAfter this dialog, hold the mouse over the landscape image below the minimap on the right. This brings up a description of the time of day, showing who has the advantage."
 msgstr "\nПосле этого диалога наведите указатель мыши на изображение ландшафта над миникартой справа. Вы увидите описание времени суток и узнаете, у кого сейчас преимущество."
 #endregion
 
 #region Отслеживаем ходы противника
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1457
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1463
 msgid "<big>Tracking Enemy Movement</big>"
 msgstr "<big>Отслеживаем ходы противника</big>"
 
 #. [then]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1458
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1465
 msgid "\nYou can see where an enemy can reach by moving the mouse over them. You can see all possible enemy moves at once with the <b>Show Enemy Moves</b> command from the <b>Actions</b> menu."
 msgstr "\nЕсли навести указатель мыши на противника, то можно увидеть, насколько далеко он может двигаться. Также можно увидеть все возможные ходы противника с помощью команды <b>Показывать ходы противника</b> из меню <b>Действия</b>."
 #endregion
 
 #region Ищем неиспользованных бойцов (ход 9)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1249
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1252
 msgid "<big>Tracking Unused Units</big>"
 msgstr "<big>Ищем неиспользованных бойцов</big>"
 
 #! Не переводит
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1250
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1254
 msgid "\nYou can ensure you use all your troops by pressing <b>n</b> to step from one unit to the next. If you press <b>space</b>, you can mark the currently selected unit as having finished its turn, which stops you moving it by accident later on. When <b>n</b> no longer selects a new unit, it’s safe to end your turn."
 msgstr "\nЧтобы убедиться, что вы использовали всех своих бойцов, нажмите на клавишу <b>n</b>. Она автоматически выбирает следующего бойца. Нажмите <b>пробел</b>, чтобы обозначить, что боец на этом ходу больше никуда не пойдёт. Когда нажатие на <b>n</b> больше не находит следующего свободного бойца, можно закончить ход."
 #endregion
 
 #region Условия победы (ход 10)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1255
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1259
 msgid "<big>Victory Conditions</big>"
 msgstr "<big>Условия победы</big>"
 
 #! Не переводит
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1256
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1261
 msgid "\nIn this scenario, you only need to defeat the orc leader to win. (Victory conditions for a scenario are given under <b>Scenario Objectives</b> in the <b>Main Menu</b>)."
 msgstr "\nВ этом сценарии для победы достаточно убить лидера орков. (Условия победы в сценарии можно увидеть, выбрав пункт <b>Задачи сценария</b> в <b>главном меню</b>)."
 #endregion
 
 #region Вербуйте бойцов с умом (ход 12)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1261
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1266
 msgid "<big>Recruit the Right Unit Types</big>"
 msgstr "<big>Вербуйте бойцов с умом</big>"
 
 #! Не переводит
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1262
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1268
 msgid "\nRemember to recruit troops useful for the situation. Archers are particularly effective against Grunts, Wolf Riders and the orcish leader."
 msgstr "\nНе забывай при необходимости вербовать бойцов. Лучники обычно хороши против пехоты орков, волчьих всадников, и их лидера."
 #endregion
@@ -1729,12 +1734,12 @@ msgstr "\nНе забывай при необходимости вербоват
 
 # Победа (сообщение от лица Галдрада)
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1743
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1750
 msgid "You have beaten the orcs! You may want to try some novice-level campaigns next, such as: <i>The South Guard</i>, <i>An Orcish Incursion</i>, <i>A Tale of Two Brothers</i>, or <i>Heir to the Throne</i>. <i>The South Guard</i> was specifically designed as a beginner’s campaign. Konrad, Li’sar and Delfador are characters from <i>Heir to the Throne</i>."
 msgstr "Вы победили! Теперь можете попробовать кампании для новичков — например, <i>Южная стража</i>, <i>Набег орков</i>, <i>Сказание о двух братьях</i> или <i>Наследник престола</i>. Кампания <i>Южная стража</i> сделана специально для новичков. Конрад, Лисар и Делфадор — персонажи кампании <i>Наследник престола</i>."
 
 # Поражение: кончились ходы
 #. [event]
-#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1720
+#: data/campaigns/tutorial/scenarios/2_Tutorial.cfg:1727
 msgid "You took too long! We’ll never be rid of these orcs!"
 msgstr "Ты слишком затянул! Мы никогда не избавимся от этих орков!"

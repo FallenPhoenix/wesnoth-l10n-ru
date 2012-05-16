@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-11-23 15:01+0100\n"
+"POT-Creation-Date: 2012-02-18 13:15+0100\n"
 "PO-Revision-Date: 2012-05-16 22:09+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -3556,7 +3556,7 @@ msgstr "Стражи убиты. Теперь мы должны найти кн�
 msgid "New Objective: Find the secret door. Explore the manor."
 msgstr "Новая цель: Найти потайную дверь. Исследовать поместье."
 
-#. [message]: id=unit
+#. [message]: id=$unit.id
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:212
 msgid "This looks like a secret door. Let’s see where it leads..."
 msgstr "Хм, выглядит как потайной ход. Посмотрим, куда он ведёт..."

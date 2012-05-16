@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-22 15:00+0100\n"
+"POT-Creation-Date: 2012-02-18 13:15+0100\n"
 "PO-Revision-Date: 2012-05-16 22:09+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -20,98 +20,98 @@ msgstr ""
 
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:86
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:50
 msgid "LoW"
 msgstr "ЛВ"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:87
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:51
 msgid "Legend of Wesmere"
 msgstr "Легенда Весмира"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:90
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:54
 msgid "(Intermediate level, 18 scenarios.)"
 msgstr "(Средний уровень, 18 сценариев)"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:90
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:54
 msgid "The tale of Kalenz, the High Lord who rallied his people after the second orcish invasion of the Great Continent and became the most renowned hero in the recorded history of the Elves.\n\n"
 msgstr "Повесть о Калензе, верховном лорде, который объединил свой народ после второго вторжения орков на Большой континент и стал самым почитаемым героем в обозримой истории эльфов.\n\n"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:91
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:55
 msgid "(Easy)"
 msgstr "(Лёгкий)"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:91
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:55
 msgid "Soldier"
 msgstr "Солдат"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:92
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:56
 msgid "(Normal)"
 msgstr "(Нормальный)"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:92
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:56
 msgid "Lord"
 msgstr "Лорд"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:93
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:57
 msgid "(Hard)"
 msgstr "(Сложный)"
 
 #. [campaign]: id=LOW
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:93
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:57
 msgid "High Lord"
 msgstr "Верховный лорд"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:96
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:60
 msgid "Creator and Lead Designer"
 msgstr "Создатель и ведущий разработчик"
 
 #. [entry]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:98
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:111
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:62
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:75
 msgid "Spiros, George and Alexander Alexiou (Santi/fnaek)"
 msgstr "Spiros, George and Alexander Alexiou (Santi/fnaek)"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:105
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:69
 msgid "Campaign Maintenance"
 msgstr "Поддержка кампании"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:115
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:79
 msgid "Prose-doctoring and adaptation for mainline"
 msgstr "Редактура и адаптация к основной ветви"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:125
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:89
 msgid "WML Assistance"
 msgstr "Помощь по WML"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:140
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:104
 msgid "Artificial Intelligence"
 msgstr "Искусственный интеллект"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:147
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:111
 msgid "Graphics"
 msgstr "Графика"
 
 #. [about]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:163
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:127
 msgid "Additional thanks to"
 msgstr "Авторы также благодарят"
 
 #. [entry]
-#: data/campaigns/Legend_of_Wesmere/_main.cfg:222
+#: data/campaigns/Legend_of_Wesmere/_main.cfg:186
 msgid ""
 "And the rest of the Wesnoth community for feedback,\n"
 "criticism, help with WML code and graphics."
