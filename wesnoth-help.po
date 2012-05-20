@@ -3003,7 +3003,7 @@ msgstr "\nВключить/выключить сообщения всех наб
 
 #. [topic]: id=mp_commands
 #: data/core/help.cfg:853
-msgid "\nUnban a user in a# <unit> multiplayer game by the IP address used by that username. Can be used on users not in the game but on the server.\n\n"
+msgid "\nUnban a user in a multiplayer game by the IP address used by that username. Can be used on users not in the game but on the server.\n\n"
 msgstr "\nРазбанить игрока в многопользовательской игре по его IP-адресу. Можно применить и к игрокам, которые находятся на сервере, но не играют.\n\n"
 
 #. [topic]: id=mp_commands
