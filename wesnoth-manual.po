@@ -1550,7 +1550,7 @@ msgstr "Подвинуть действие вверх по очереди"
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
-#: /src/wesnoth/doc/manual/manual.en.xml:1307
+#: /src/wesnoth-1.10/doc/manual/manual.en.xml:1307
 msgid "Each side is given some amount of gold to begin with, and receives 2 gold pieces per turn, plus 2 more gold pieces for every village that side controls. In a campaign, starting gold is a minimum amount defined by the scenario, which is typically lower as the difficulty level increases. In addition you often get a percentage of gold to carry over from the last scenario played. The exact percentage depends on the scenario and is usually displayed as part of the scenario objectives."
 msgstr "Каждая сторона получается определённое количество стартового золота, а также получает 2 золотых монеты за ход, плюс ещё 2 монеты за каждую контролируемую деревню. В кампаниях минимальное начальное количество золота определяется сценарием (обычно чем выше уровень, тем меньше золота). Кроме того, вы часто получаете какой-то процент от золота, оставшегося с прошлого сценария. Точный процент зависит от сценария; обычно его можно узнать, посмотрев задачи сценария."
 
