@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ru\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-03 10:40+0100\n"
+"POT-Creation-Date: 2012-05-11 22:06+0200\n"
 "PO-Revision-Date: 2012-05-16 22:36+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -278,7 +278,7 @@ msgstr "Вы правда хотите сбросить все изменени�
 #endregion
 
 #region Настройки редактора
-#: src/gui/dialogs/editor_settings.cpp:148
+#: src/gui/dialogs/editor_settings.cpp:166
 msgid "Custom setting"
 msgstr "Настройка произвольных параметров"
 
