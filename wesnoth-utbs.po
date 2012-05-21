@@ -10150,11 +10150,6 @@ msgid "Aaargh! Curse you!"
 msgstr "Ааагх! Будь ты проклят!"
 
 #. [message]: speaker=$ally_name
-#: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:143
-msgid "By Moradin, I have fallen!"
-msgstr "Клянусь Морадином, я пал!"
-
-#. [message]: speaker=$ally_name
 #: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:144
 msgid "No, $unit.name can’t die now!"
 msgstr "Нет, $unit.name не может умереть сейчас!"
@@ -10582,6 +10577,13 @@ msgstr "Длинная ночь (4)"
 
 
 #1 ---------- Старые убранные строки ----------
+
+#2 ----- Были в 1.10.2 -----
+
+#~ msgid "By Moradin, I have fallen!"
+#~ msgstr "Клянусь Морадином, я пал!"
+
+#2 ----- -----
 
 #~ msgid "Death of Kaleh, Nym or Zhul"
 #~ msgstr "Гибель Кале, Ним или Жул"
