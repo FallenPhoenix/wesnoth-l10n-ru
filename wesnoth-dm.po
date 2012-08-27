@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-18 13:15+0100\n"
+"POT-Creation-Date: 2012-08-12 10:25+0200\n"
 "PO-Revision-Date: 2012-05-16 22:36+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -216,9 +216,9 @@ msgstr "Метор"
 #2 ***** Стороны *****
 
 #. [side]: type=Journeyman Mage
-#. [side]: type=King of Wesnoth, id=Garard
-#. [side]
 #. [side]: type=King of Wesnoth, id=Garard II
+#. [side]
+#. [side]: type=King of Wesnoth, id=Garard
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:30
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:27
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:38
@@ -232,10 +232,10 @@ msgstr "Метор"
 msgid "Player"
 msgstr "Игрок"
 
+#. [side]: type=Orcish Warlord, id=Tish Golub
+#. [side]: type=Orcish Warrior, id=Urthaka-Tan
 #. [side]: type=Rogue, id=Garrath
 #. [side]: type=Bandit, id=Harold
-#. [side]: type=Orcish Warrior, id=Urthaka-Tan
-#. [side]: type=Orcish Warlord, id=Tish Golub
 #. [side]: type=Ancient Wose, id=Ur-Thorodor
 #. [side]: type=Orcish Warrior, id=Tan-Garthak
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:47
@@ -799,9 +799,9 @@ msgstr "Пожалуй, будет лучше, если кое-кто из на�
 
 #1 ********** 3. Леоллин **********
 
-#. [unit]: type=Arch Mage, id=Leollyn
 #. [side]: type=Arch Mage, id=Leollyn
 #. [scenario]: id=04_Leollyn
+#. [unit]: type=Arch Mage, id=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:3
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:72
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:56
@@ -1402,8 +1402,8 @@ msgstr "Роддри"
 msgid "Have you encountered the skeletons? Their castle lies north of here. It is difficult to attack, but there is a secret entrance in the valley beyond Sythan’s village."
 msgstr "Встречались ли вы со скелетами? Их замок находится к северу отсюда. На них трудно напасть, но есть секретный вход в долине за деревней Ситана."
 
-#. [scenario]: id=09_Houses_of_the_Dead
 #. [unit]: id=Nameless, type=Spectre
+#. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:349
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:171
 msgid "Nameless"

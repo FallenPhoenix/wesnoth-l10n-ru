@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-04-07 12:14+0200\n"
+"POT-Creation-Date: 2012-08-12 10:25+0200\n"
 "PO-Revision-Date: 2012-05-21 05:25+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -33,33 +33,33 @@ msgstr ""
 # - времена суток и т.п. (игра -> время суток)
 
 
-#: src/help.cpp:3160
+#: src/help.cpp:3161
 msgid "The Battle for Wesnoth Help"
 msgstr "Игровой справочник"
 #* msgstr "Помощь по игре «Битва за Веснот»"
 
-#: src/help.cpp:2701
+#: src/help.cpp:2702
 msgid " < Back"
 msgstr " < Назад"
 
-#: src/help.cpp:2702
+#: src/help.cpp:2703
 msgid "Forward >"
 msgstr "Вперёд >"
 
-#: src/help.cpp:3157
+#: src/help.cpp:3158
 msgid "Close"
 msgstr "Закрыть"
 
 #region Ошибки
-#: src/help.cpp:3216
+#: src/help.cpp:3217
 msgid "Parse error when parsing help text: "
 msgstr "Синтаксическая ошибка при загрузке помощи: "
 
-#: src/help.cpp:2810
+#: src/help.cpp:2811
 msgid "Reference to unknown topic: "
 msgstr "Ссылка на неизвестную тему: "
 
-#: src/help.cpp:3066
+#: src/help.cpp:3067
 msgid "corrupted original file"
 msgstr "оригинальный файл повреждён"
 #endregion
@@ -694,7 +694,7 @@ msgstr "Вы изучили основы игры «Битва за Веснот
 msgid "Units"
 msgstr "Бойцы"
 
-#: src/help.cpp:1788
+#: src/help.cpp:1789
 msgid "<header>text='Units of this race'</header>"
 msgstr "<header>text='Бойцы этой расы'</header>"
 
@@ -711,43 +711,43 @@ msgstr "\n\nЭтот боец вам пока неизвестен. Вы дол�
 #endregion
 
 #region Шаблон страницы бойца
-#: src/help.cpp:1344
+#: src/help.cpp:1345
 msgid "level"
 msgstr "уровень"
 
-#: src/help.cpp:1376
+#: src/help.cpp:1377
 msgid "Advances from: "
 msgstr "Получается из: "
 
-#: src/help.cpp:1378
+#: src/help.cpp:1379
 msgid "Advances to: "
 msgstr "Продвигается в: "
 
-#: src/help.cpp:1407
+#: src/help.cpp:1408
 msgid "Race: "
 msgstr "Раса: "
 
-#: src/help.cpp:1414
+#: src/help.cpp:1415
 msgid "Abilities: "
 msgstr "Способности: "
 
-#: src/help.cpp:1447
+#: src/help.cpp:1448
 msgid "HP: "
 msgstr "ЗД: "
 
-#: src/help.cpp:1448
+#: src/help.cpp:1449
 msgid "Moves: "
 msgstr "Ходов: "
 
-#: src/help.cpp:1449
+#: src/help.cpp:1450
 msgid "Cost: "
 msgstr "Цена: "
 
-#: src/help.cpp:1450
+#: src/help.cpp:1451
 msgid "Alignment: "
 msgstr "Тип: "
 
-#: src/help.cpp:1456
+#: src/help.cpp:1457
 msgid "Required XP: "
 msgstr "Необходимый ОП: "
 
@@ -756,55 +756,55 @@ msgid "\n\nSpecial Notes:"
 msgstr "\n\nОсобое:"
 #* msgstr "\n\nОсобенности:"
 
-#: src/help.cpp:1465
+#: src/help.cpp:1466
 msgid "unit help^Attacks"
 msgstr "Атаки"
 
-#: src/help.cpp:1472
+#: src/help.cpp:1473
 msgid "unit help^Name"
 msgstr "Имя"
 
-#: src/help.cpp:1473
+#: src/help.cpp:1474
 msgid "Type"
 msgstr "Тип"
 
-#: src/help.cpp:1474
+#: src/help.cpp:1475
 msgid "Strikes"
 msgstr "Удары"
 
-#: src/help.cpp:1475
+#: src/help.cpp:1476
 msgid "Range"
 msgstr "Досягаемость"
 
-#: src/help.cpp:1476
+#: src/help.cpp:1477
 msgid "Special"
 msgstr "Особое"
 
-#: src/help.cpp:1526
+#: src/help.cpp:1527
 msgid "Resistances"
 msgstr "Сопротивляемости"
 
-#: src/help.cpp:1530
+#: src/help.cpp:1531
 msgid "Attack Type"
 msgstr "Тип атаки"
 
-#: src/help.cpp:1531
+#: src/help.cpp:1532
 msgid "Resistance"
 msgstr "Сопротивление"
 
-#: src/help.cpp:1570
+#: src/help.cpp:1571
 msgid "Terrain Modifiers"
 msgstr "Модификаторы местности"
 
-#: src/help.cpp:1574
+#: src/help.cpp:1575
 msgid "Terrain"
 msgstr "Местность"
 
-#: src/help.cpp:1575
+#: src/help.cpp:1576
 msgid "Defense"
 msgstr "Защита"
 
-#: src/help.cpp:1576
+#: src/help.cpp:1577
 msgid "Movement Cost"
 msgstr "Цена хода"
 
@@ -1416,7 +1416,7 @@ msgstr "Способности бойцов"
 msgid "Certain units have abilities that either directly affect other units, or have an impact on how the unit interacts with other units. These abilities will be listed under this topic as you encounter them.\n\n"
 msgstr "Определённые способности бойцов напрямую воздействуют на других бойцов, или меняют их взаимодействие с третьими. Эти способности будут появляться здесь по мере того, как вы будете их встречать.\n\n"
 
-#: src/help.cpp:1227
+#: src/help.cpp:1228
 msgid "<header>text='Units having this ability'</header>"
 msgstr "<header>text='Бойцы с такой способностью'</header>"
 
@@ -2262,7 +2262,7 @@ msgstr "Особенности атаки"
 msgid "Some weapons have special features that increase the effectiveness of attacking with them.\n\n"
 msgstr "Некоторые типы оружия имеют специальные свойства, увеличивающие эффективность их атак.\n\n"
 
-#: src/help.cpp:1151
+#: src/help.cpp:1152
 msgid "<header>text='Units having this special attack'</header>"
 msgstr "<header>text='Бойцы с такой особенностью оружия'</header>"
 
@@ -2483,28 +2483,28 @@ msgstr ""
 
 #. [section]: id=factions_section
 #: data/core/help.cfg:56
-#: src/help.cpp:1298
-#: src/help.cpp:1300
+#: src/help.cpp:1299
+#: src/help.cpp:1301
 msgid "Factions"
 msgstr "Фракции"
 
-#: src/help.cpp:1301
+#: src/help.cpp:1302
 msgid "Factions are only used in multiplayer"
 msgstr "Фракции есть только в мультиплеере."
 
-#: src/help.cpp:1283
+#: src/help.cpp:1284
 msgid "Era:"
 msgstr "Эра:"
 
-#: src/help.cpp:1291
+#: src/help.cpp:1292
 msgid "Factions:"
 msgstr "Фракции:"
 
-#: src/help.cpp:1260
+#: src/help.cpp:1261
 msgid "Leaders:"
 msgstr "Лидеры:"
 
-#: src/help.cpp:1269
+#: src/help.cpp:1270
 msgid "Recruits:"
 msgstr "Новобранцы:"
 
@@ -3794,17 +3794,17 @@ msgstr "Лицензия"
 msgid "Max HP bonus +3, Max XP +20%"
 msgstr "Макс. бонус ЗД +3, макс. ОП +20%"
 
-#: src/help.cpp:51
+#: src/help.cpp:52
 msgid "Help"
 msgstr "Помощь"
 
-#: src/help.cpp:1405
-#: src/help.cpp:1721
-#: src/help.cpp:1782
+#: src/help.cpp:1406
+#: src/help.cpp:1722
+#: src/help.cpp:1783
 msgid "race^Miscellaneous"
 msgstr "Разные"
 
-#: src/help.cpp:1431
+#: src/help.cpp:1432
 msgid "Ability Upgrades: "
 msgstr "Улучшенные способности: "
 

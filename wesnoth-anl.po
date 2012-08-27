@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth.po\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-10-07 22:09+0200\n"
+"POT-Creation-Date: 2012-08-12 10:25+0200\n"
 "PO-Revision-Date: 2012-05-16 22:36+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -396,8 +396,8 @@ msgstr ""
 "Фермы приносят нам $player_$side_number|.farming.gold| золотых\n"
 "Шахты приносят нам $player_$side_number|.mining.gold| золотых\n"
 
-#. [command]
 #. [research]
+#. [command]
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:169
 #: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:102
 msgid "agriculture"

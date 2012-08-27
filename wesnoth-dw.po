@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-21 01:34+0100\n"
+"POT-Creation-Date: 2012-08-12 10:25+0200\n"
 "PO-Revision-Date: 2012-05-16 22:36+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -289,6 +289,8 @@ msgid "Mal-Ravanal’s Forces"
 msgstr "Силы Мал Раванала"
 
 #. [side]: type=Lich, id=Mal-Kevek
+#. [side]: type=Dark Sorcerer, id=Mal-Kevek
+#: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:89
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:122
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:134
 msgid "Mal-Kevek"
@@ -1536,8 +1538,8 @@ msgstr "Здесь отличное место для большой колон�
 msgid "This is a good place for a large colony, so I imagine we will see more soon."
 msgstr "Здесь отличное место для большой колонии, так что мне кажется, мы их ещё встретим."
 
-#. [unit]: type=Silver Mage, id=Caladon
 #. [side]: id=Caladon
+#. [unit]: type=Silver Mage, id=Caladon
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:489
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:152
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:154

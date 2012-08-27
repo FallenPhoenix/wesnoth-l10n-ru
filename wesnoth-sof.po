@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-12-15 10:39+0100\n"
+"POT-Creation-Date: 2012-08-12 10:25+0200\n"
 "PO-Revision-Date: 2012-05-16 22:36+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -157,13 +157,13 @@ msgstr "Хальдрик II"
 msgid "Glildur"
 msgstr "Глилдур"
 
-#. [side]: type=Elvish Captain, id=Glildur
+#. [side]
+#. [side]: type=Elvish Captain, id=Glindur
 #. [side]: type=Elvish Marshal, id=Crintil
+#. [side]: type=Elvish Captain, id=Glildur
 #. [side]: type=Elvish Marshal, id=Gaenlar
 #. [side]: type=Elvish Marshal, id=Glinan
 #. [side]: type=Elvish Captain, id=Kalnar
-#. [side]: type=Elvish Captain, id=Glindur
-#. [side]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:75
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:42
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:41
@@ -388,9 +388,9 @@ msgstr "Попробую взяться за твой заказ. Но мне н
 msgid "Very well. I have the silver here, ready to ship, and I will send someone over with the stone itself. He will stay with you as you make the sceptre, and make sure you are going to get it done on time. I expect it done before my reign as king is ended."
 msgstr "Вот и прекрасно. Серебро у меня с собой, и оно готово к отправке. Я пошлю ещё кого-нибудь с камнем. Он останется с вами, пока вы будете делать скипетр, и проследит, чтобы вы выполнили работу в срок. Я жду, что скипетр будет готов прежде, чем истечёт срок моего правления."
 
-#. [unit]: type=Dragoon, id=Alanin
 #. [side]: id=Alanin, type=Dragoon
 #. [side]: type=Haldric II, id=Haldric II
+#. [unit]: type=Dragoon, id=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:307
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:30
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:19
@@ -538,8 +538,8 @@ msgstr "Закрыть ворота!"
 msgid "Glindur"
 msgstr "Глиндур"
 
-#. [side]
 #. [side]: type=Troll Warrior, type=Troll
+#. [side]
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:53
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:876
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:935
@@ -1882,8 +1882,8 @@ msgstr "Верно. Все в пещеры и убейте врагов, кот�
 msgid "We have driven all of the dwarves and elves out of these caves! Now, seal the gates!"
 msgstr "Мы очистили пещеру от гномов и эльфов! А теперь закрыть ворота!"
 
-#. [message]: speaker=Durstorn
 #. [message]: speaker=Baglur
+#. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:795
 #: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:61
 msgid "Gaanngh..."
@@ -2360,8 +2360,8 @@ msgstr "Враг вошёл в кузницу"
 msgid "You fool, you let the enemy get at me when I was unarmed!"
 msgstr "Тупица, ты дал врагу добраться до меня, а я безоружен!"
 
-#. [message]: speaker=narrator
 #. [message]: speaker=Thursagan
+#. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:418
 #: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:84
 msgid "Ayahahh..."
