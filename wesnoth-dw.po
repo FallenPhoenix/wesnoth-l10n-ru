@@ -129,6 +129,14 @@ msgstr "Кай Креллис был слишком юн, чтобы управ�
 msgid "Undead Forces"
 msgstr "Силы мертвецов"
 
+#. [side]: type=Lich, id=Mal-Kevek
+#. [side]: type=Dark Sorcerer, id=Mal-Kevek
+#: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:89
+#: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:122
+#: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:134
+msgid "Mal-Kevek"
+msgstr "Мал Кевек"
+
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:202
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:72
@@ -287,14 +295,6 @@ msgstr "Победите всех лидеров противника"
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:200
 msgid "Mal-Ravanal’s Forces"
 msgstr "Силы Мал Раванала"
-
-#. [side]: type=Lich, id=Mal-Kevek
-#. [side]: type=Dark Sorcerer, id=Mal-Kevek
-#: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:89
-#: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:122
-#: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:134
-msgid "Mal-Kevek"
-msgstr "Мал Кевек"
 
 #. [side]: type=Necromancer, id=Mel Daveth
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:146
