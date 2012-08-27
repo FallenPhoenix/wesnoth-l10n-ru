@@ -2361,10 +2361,8 @@ msgstr "Эльфы убили Панока-гоблина! Другие гобл
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:878
-#, fuzzy
-#| msgid "Should I take this sword?"
 msgid "Should I take this ring?"
-msgstr "Взять ли мне меч?"
+msgstr "Взять ли мне кольцо?"
 
 #. [option]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:880
@@ -2385,10 +2383,8 @@ msgstr "Это кольцо увеличит вашу максимальную �
 
 #. [option]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:913
-#, fuzzy
-#| msgid "No, I think someone else should wield it."
 msgid "No, I think someone else should wear it."
-msgstr "Нет, думаю, кто-то другой должен взять его."
+msgstr "Нет, думаю, кто-то другой должен его одеть."
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:947
