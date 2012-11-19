@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comp\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-03-25 14:42+0200\n"
+"POT-Creation-Date: 2012-10-27 16:01+0200\n"
 "PO-Revision-Date: 2012-05-16 22:36+0400\n"
 "Last-Translator: F. Phoenix <fallenphoenix@@nm.ru>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -113,9 +113,9 @@ msgstr "кистень"
 # В сценарии довольно фигово проработан вариант, что игрок может что-то делать и не по инструкции - начинает "спотыкаться".
 
 #. [tutorial]: id=tutorial
-#. Hello translators! Tutorial is meant to be a bit funny at the start,
+#. Hello, translators! The tutorial is meant to be a bit funny at the start,
 #. welcoming new players. Please keep the friendly fun feeling!
-#. Any questions email rusty@rustcorp.com.au!"
+#. If you have any questions, ask in the forums or in the #wesnoth-dev channel on the Freenode IRC network.
 #: data/campaigns/tutorial/scenarios/1_Tutorial.cfg:49
 msgid "Wesnoth Tutorial Part I"
 msgstr "Введение в Веснот, часть I"
