@@ -4712,6 +4712,11 @@ msgid "Russian Translation"
 msgstr "Русский перевод"
 
 #. [about]
+#: data/core/about.cfg:2574
+msgid "Scottish Gaelic Translation"
+msgstr ""
+
+#. [about]
 #: data/core/about.cfg:2583
 msgid "Serbian Translation"
 msgstr "Сербский перевод"

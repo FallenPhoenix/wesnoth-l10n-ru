@@ -6643,7 +6643,7 @@ msgstr "Человеческие стоянки вон там, на северо
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:503
-msgid "My master wanted to make sure that if one of us was captured, we couldn’t betray his location. So she didn’t tell us where she was, but she taught us a simple spell to divine her hiding place. But it requires three merfolk to cast. So in order to find her, we must rescue at least two of my people. Though I hope we can save all of them."
+msgid "My master wanted to make sure that if one of us was captured, we couldn’t betray her location. So she didn’t tell us where she was, but she taught us a simple spell to divine her hiding place. But it requires three merfolk to cast. So in order to find her, we must rescue at least two of my people. Though I hope we can save all of them."
 msgstr "Правительница не хотела, чтобы кто-то из нас, если его поймают, выдал её убежище. Поэтому она не сказала нам, где она; вместо этого она научила нас простому заклинанию, чтобы найти её убежище. Но для него нужны три водяных. Так что, чтобы найти её, мы должны спасти хотя бы двоих моих собратьев. Хотя я надеюсь, что мы спасём всех."
 
 #. [message]: speaker=Zhul

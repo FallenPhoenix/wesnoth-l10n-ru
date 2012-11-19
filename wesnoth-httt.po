@@ -354,7 +354,7 @@ msgstr "Мы сразимся с ними, но ты должен бежать, 
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:281
-msgid "We will go north. Perhaps we can reach the Isle of Alduin. If we can make it there, surely we will be safe. Konrad, we must recruit some elves to help us, and then you must make it to the sign post in the north-west. I will protect you!"
+msgid "We will go north. Perhaps we can reach the Isle of Alduin. If we can make it there, surely we will be safe. Konrad, we must recruit some elves to help us, and then you must make it to the sign post in the northwest. I will protect you!"
 msgstr "Идём на север. Возможно, мы сумеем попасть на остров Алдуин. Если так, то мы будем в безопасности. Конрад, завербуй нескольких эльфов, а потом пробивайся к указателю на северо-западе. Я прикрою тебя!"
 
 #. [message]: speaker=Konrad
