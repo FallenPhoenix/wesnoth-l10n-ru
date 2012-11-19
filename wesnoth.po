@@ -4714,7 +4714,7 @@ msgstr "Русский перевод"
 #. [about]
 #: data/core/about.cfg:2574
 msgid "Scottish Gaelic Translation"
-msgstr ""
+msgstr "Гаэльский перевод"
 
 #. [about]
 #: data/core/about.cfg:2583
